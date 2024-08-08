@@ -1,0 +1,17 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0007275	multicellular organism development	BP
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0007275	multicellular organism development	BP
+Gene_001728	ribosome biogenesis bms1 homolog	1	1	0	0	0	0	0	0	0	370.5235	290.1477	277.7039	320.552	334.7161	336.4555	GO:0007275	multicellular organism development	BP
+Gene_003059	atp-dependent rna helicase	1	1	0	0	0	0	0	-1	-1	108.18066	90.52732	88.28593	125.24675	141.1894	133.8628	GO:0007275	multicellular organism development	BP
+Gene_003288	intraflagellar transport 25 homolog isoform x1	-1	-1	0	1	0	0	0	1	1	3.10723	6.909961	9.190913	3.844595	1.139525	1.413442	GO:0007275	multicellular organism development	BP
+Gene_005005	dpcd isoform x2	-1	-1	0	1	0	0	-1	1	0	2.040919	8.397226	8.831143	7.525014	2.554649	3.080846	GO:0007275	multicellular organism development	BP
+Gene_005155	sperm flagellar 2	-1	-1	0	0	0	0	0	1	1	2.332463	5.674551	5.503059	3.404594	1.321613	1.661158	GO:0007275	multicellular organism development	BP
+Gene_005373	ankyrin repeat and sterile alpha motif domain-containing 1b-like	0	-1	0	0	0	0	0	0	0	4.317303	5.855986	7.060339	5.517904	4.313101	4.621269	GO:0007275	multicellular organism development	BP
+Gene_007073	endoplasmic reticulum metallopeptidase 1	0	-1	0	0	0	0	0	1	1	8.642304	10.945612	12.589868	7.074623	4.667837	6.12006	GO:0007275	multicellular organism development	BP
+Gene_008041	receptor of activated c kinase 1	1	1	0	0	0	0	1	0	0	1179.4315	886.3082	829.5828	779.1944	897.8791	1111.8112	GO:0007275	multicellular organism development	BP
+Gene_009145	ribosome maturation sbds	1	1	0	0	0	0	0	0	0	100.68287	82.02277	74.78908	81.56813	81.25906	75.29547	GO:0007275	multicellular organism development	BP
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0007275	multicellular organism development	BP
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0007275	multicellular organism development	BP
+Gene_009907	e3 ubiquitin-ligase nrdp1	-1	-1	0	0	0	0	-1	1	0	0.05251314	0.97400498	0.54395098	0.70598325	0.29391885	0.18110342	GO:0007275	multicellular organism development	BP
+Gene_009913	[micromonas commoda]	1	1	0	0	0	0	0	-1	-1	64.09639	52.68227	50.91727	55.73846	65.63136	67.3498	GO:0007275	multicellular organism development	BP
+Gene_012204	b9 domain-containing protein 1	-1	-1	0	0	0	0	0	1	0	5.855852	10.097507	9.383632	7.555599	5.177705	5.697486	GO:0007275	multicellular organism development	BP

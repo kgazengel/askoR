@@ -1,0 +1,15 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000161	gamma-aminobutyric acid type b receptor subunit 2	-1	-1	0	1	0	0	-1	1	0	3.446306	9.399598	7.630373	10.092769	4.192519	3.50342	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_002745	family transcriptional regulator	-1	-1	0	1	0	0	0	1	0	0.2518331	1.116708	0.8157194	0.6921818	0.1971574	0.1811034	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_004217	hypothetical protein pbra 004648	-1	-1	0	1	0	0	0	1	1	10.646883	28.788738	29.681319	13.794394	5.366801	9.067679	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_007218	hypothetical protein pbra 007797	0	-1	0	1	0	0	0	1	1	13.221608	27.357536	39.165165	23.496894	8.517736	11.784248	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_008119	g-coupled receptor family 3 5	-1	0	0	1	0	0	0	1	0	0.52849978	1.58197272	1.13760836	0.65776138	0.07550339	0.30183903	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_008992	hypothetical protein pbra 009346	-1	-1	0	1	0	0	0	1	1	4.312584	10.376625	10.703791	5.924717	1.918106	2.283573	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_009957	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_010032	gamma-aminobutyric acid type b receptor subunit 2	-1	0	0	1	0	0	-1	1	0	6.166413	19.51231	13.474054	14.803508	5.42362	5.793239	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_010033	hypothetical protein pbra 005858	-1	0	0	1	0	0	-1	1	0	2.923047	10.778477	6.640253	7.768334	2.67259	2.477168	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_010321	maltose maltodextrin abc substrate binding periplasmic	-1	-1	0	1	0	0	0	1	0	4.510514	10.621433	9.672421	8.613125	2.469056	5.383155	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_010810	7 transmembrane sweet-taste receptor of 3 gcpr-domain-containing	-1	-1	0	1	0	0	-1	1	1	12.54514	37.74985	31.78705	37.91196	13.31143	11.78632	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_011439	extracellular solute-binding family 1	-1	-1	0	1	0	0	-1	1	1	0.8374376	3.4244195	2.6614835	3.3911945	0.8317944	0.7306592	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_011906	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP
+Gene_012328	g-protein-coupled receptor  family 3 protein 5	-1	-1	0	1	0	0	-1	1	1	4.080542	9.944198	8.979046	8.924841	3.076246	3.836487	GO:0007216	G protein-coupled glutamate receptor signaling pathway	BP

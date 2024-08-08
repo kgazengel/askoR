@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001910	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_003495	dimethyladenosine transferase	0	0	0	0	0	0	0	-1	-1	122.86011	106.68277	98.51098	124.1654	148.11814	132.99262	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_004051	wd domain containing	1	1	0	0	0	0	0	-1	-1	166.2589	129.5527	117.9402	157.1698	161.5631	170.7622	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_004508	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_005259	wd40-repeat-containing domain	1	1	0	0	0	0	0	-1	-1	221.1583	184.6502	164.0341	224.0686	244.3337	244.7961	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_007109	pre-rrna-processing esf2-like	1	0	0	0	0	0	0	-1	0	125.07258	97.30442	98.65725	107.89145	133.71666	116.05632	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP
+Gene_009473	hypothetical protein pbra 005952	1	1	0	0	0	0	0	-1	-1	166.2055	129.9931	120.5305	140.3094	160.1589	156.6673	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP

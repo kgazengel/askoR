@@ -1,0 +1,21 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000847	hypothetical protein pbra 005764	-1	0	0	0	0	0	0	1	0	0.1617449	1.0498033	0.6209558	0.3983376	0.1566356	0.1207356	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_002385	hypothetical protein pbra 003313	0	0	0	0	0	0	0	1	0	67.68203	78.08156	78.83428	76.89807	64.55763	66.71076	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_002413	hypothetical protein pbra 003289	0	0	0	0	0	0	0	-1	0	86.53289	81.95282	86.04009	90.86135	100.19153	87.99771	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_002414	hypothetical protein pbra 003288	0	-1	0	0	0	0	0	1	1	29.24816	43.2228	47.88178	26.89807	21.59653	23.28538	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_003628	hypothetical protein pbra 004350	0	0	0	0	0	0	0	-1	0	50.28005	43.09895	41.53199	47.30204	55.31835	51.67287	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_004629	hypothetical protein pbra 001195; partial	-1	-1	0	1	0	0	0	1	1	19.31631	47.56382	54.92184	41.32866	14.51165	19.29484	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_004662	hypothetical protein pbra 001220	-1	-1	0	0	0	0	0	1	0	0.4284529	1.6856642	1.4334149	0.6381252	0.1335603	0.4350657	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_006295	hypothetical protein emihudraft 108598	-1	-1	0	0	0	0	0	1	1	3.190528	9.394146	8.871068	6.714446	2.612528	2.439694	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_006919	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	1.3339908	3.2967364	2.4581549	1.2331818	0.7662915	0.4954335	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_006922	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	2.967996	12.183015	7.854038	3.626956	2.709987	1.794385	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_008073	hypothetical protein pbra 001848	0	0	0	0	0	0	0	-1	0	70.5756	59.87454	58.32353	63.16576	72.62396	73.01606	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_008074	hypothetical protein pbra 001849	0	0	0	0	0	0	0	-1	-1	94.375	87.83909	90.34887	105.89129	119.39363	114.50549	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_008184	c6 transcription	0	0	0	0	0	0	0	1	0	2.437813	6.983874	4.367468	4.68677	2.279139	2.604149	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_008293	hypothetical protein pbra 002023	0	0	0	0	0	0	0	-1	0	9.631653	7.784023	9.536012	8.911533	10.536419	10.549822	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_010056	hypothetical protein pbra 005874	-1	0	0	0	0	0	0	1	0	10.172787	45.249772	27.979703	21.531239	12.800522	9.186327	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_010834	hypothetical protein pbra 008339	-1	-1	0	1	0	0	0	1	1	3.965559	11.726986	7.809636	5.800415	2.009936	1.860998	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_011123	ert1 picpg ame: full=transcription activator of gluconeogenesis ert1	-1	-1	0	0	0	0	0	1	1	11.07631	32.51259	27.98185	24.73361	12.58099	10.44989	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_011150	hypothetical protein guithdraft 110831	0	0	0	0	0	0	0	1	0	0.8829011	1.3427515	1.3820783	0.8375289	0.5105171	0.5558013	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_011279	transcription factor	0	0	0	0	0	0	0	1	0	1.0119871	1.7877463	1.5670609	0.9870899	0.6552464	0.7431503	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF
+Gene_011380	c6 transcription factor	-1	0	0	0	0	0	0	1	1	5.928293	21.573358	14.107637	14.327529	6.49222	4.796126	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	MF

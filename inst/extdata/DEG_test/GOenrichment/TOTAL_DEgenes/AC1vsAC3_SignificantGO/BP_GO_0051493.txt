@@ -1,0 +1,7 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000711	f-actin-capping subunit alpha-2-like	0	-1	0	0	0	0	0	1	1	101.86657	111.70066	132.10213	104.36524	86.72488	97.71284	GO:0051493	regulation of cytoskeleton organization	BP
+Gene_001258	meckelin isoform 4	-1	-1	0	1	0	0	0	1	1	21.15768	33.8024	41.73127	29.01059	20.34183	22.36528	GO:0051493	regulation of cytoskeleton organization	BP
+Gene_001259	hypothetical protein pbra 002779	0	-1	0	0	0	0	0	0	1	6.837118	10.566164	13.868058	9.476921	7.518016	6.136709	GO:0051493	regulation of cytoskeleton organization	BP
+Gene_009539	alpha-tubulin n-acetyltransferase 1 isoform x6	-1	-1	0	1	0	0	0	1	1	2.973812	7.620084	8.616817	5.356966	1.311702	2.229451	GO:0051493	regulation of cytoskeleton organization	BP
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0051493	regulation of cytoskeleton organization	BP
+Gene_010017	n-alpha-acetyltransferase catalytic subunit	0	1	0	0	0	0	0	0	0	66.55919	53.66464	50.08892	50.86046	60.5383	49.35392	GO:0051493	regulation of cytoskeleton organization	BP

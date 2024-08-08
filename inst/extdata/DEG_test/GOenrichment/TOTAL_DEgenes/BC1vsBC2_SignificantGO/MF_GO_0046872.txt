@@ -1,0 +1,90 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000135	phospholipid transporter	-1	-1	0	1	0	0	0	1	1	29.22189	51.79994	57.32736	41.47086	22.15862	23.31036	GO:0046872	metal ion binding	MF
+Gene_000136	phospholipid-transporting atpase ib-like isoform x2 [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	16.24209	28.26335	33.46063	21.65433	12.51139	14.35092	GO:0046872	metal ion binding	MF
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0046872	metal ion binding	MF
+Gene_000452	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0046872	metal ion binding	MF
+Gene_000528	5-nucleotidase	-1	-1	0	1	0	0	0	1	1	14.92164	45.286737	49.73984	28.94179	9.535998	15.51456	GO:0046872	metal ion binding	MF
+Gene_000621	at-rich interactive domain-containing 3c	-1	-1	0	1	0	0	-1	1	1	24.61881	56.31865	54.70179	53.27559	21.26901	27.66517	GO:0046872	metal ion binding	MF
+Gene_000819	cytochrome p450	-1	-1	0	1	0	0	-1	1	0	3.161814	10.438394	9.147313	6.872535	2.637038	4.941844	GO:0046872	metal ion binding	MF
+Gene_000843	e3 ubiquitin-ligase sis3	0	0	0	1	0	0	0	1	1	9.104449	14.240562	13.823656	10.669455	5.311266	5.533031	GO:0046872	metal ion binding	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0046872	metal ion binding	MF
+Gene_001125	hypothetical protein pbra 002666	-1	-1	0	1	0	0	0	1	1	9.461245	17.886693	18.806802	14.12274	8.28517	8.886576	GO:0046872	metal ion binding	MF
+Gene_001126	serine threonine kinase	-1	-1	0	1	0	0	-1	1	1	14.3454	33.4469	33.95059	25.22197	13.11995	13.75556	GO:0046872	metal ion binding	MF
+Gene_001222	brefeldin a-inhibited guanine nucleotide-exchange	-1	-1	0	1	0	0	-1	1	1	4.771499	12.107944	10.162272	8.367949	3.041176	5.027194	GO:0046872	metal ion binding	MF
+Gene_001223	brefeldin a-inhibited guanine nucleotide-exchange 2	-1	-1	0	1	0	0	-1	1	1	30.41852	67.50239	64.78093	53.11653	23.11612	30.36508	GO:0046872	metal ion binding	MF
+Gene_001318	epidermal growth factor receptor substrate 15-like	-1	-1	0	1	0	0	-1	1	1	32.04411	66.93192	59.56591	56.59176	27.21854	28.58734	GO:0046872	metal ion binding	MF
+Gene_001519	ef-hand domain-containing	-1	-1	0	1	0	0	0	1	1	9.496886	28.053091	25.705783	18.212698	6.3842	7.219172	GO:0046872	metal ion binding	MF
+Gene_001714	dioxygenase	-1	-1	0	1	0	0	0	1	1	4.733798	13.038986	14.813775	8.339027	2.741334	2.96011	GO:0046872	metal ion binding	MF
+Gene_001901	ring finger 10 isoform x2	1	0	0	-1	0	0	0	-1	-1	103.38292	87.3708	91.30268	115.49325	141.08265	135.36782	GO:0046872	metal ion binding	MF
+Gene_002022	metalloprotease family	-1	-1	0	1	0	0	0	1	1	2.728833	5.583187	6.635777	4.881139	2.023659	2.664517	GO:0046872	metal ion binding	MF
+Gene_002067	calcineurin subunit b type 2	-1	-1	0	1	0	0	0	1	1	1.473485	4.6501641	4.5088778	2.9745204	0.5515104	0.8638859	GO:0046872	metal ion binding	MF
+Gene_002167	lysosomal alpha-mannosidase	-1	-1	0	1	0	0	0	1	1	5.290165	13.912098	14.317486	9.572253	2.575818	4.411025	GO:0046872	metal ion binding	MF
+Gene_002168	lysosomal alpha-mannosidase	-1	-1	0	1	0	0	0	1	1	4.167785	11.285911	14.304859	7.884802	2.429792	2.652025	GO:0046872	metal ion binding	MF
+Gene_002246	zinc finger 740	-1	-1	0	1	0	0	0	1	1	2.548593	5.810243	5.340485	4.91871	1.579991	2.429291	GO:0046872	metal ion binding	MF
+Gene_002345	cytosolic carboxypeptidase 4	-1	-1	0	1	0	0	-1	1	0	15.39711	48.55255	40.40628	38.42752	16.84255	19.29484	GO:0046872	metal ion binding	MF
+Gene_002489	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0046872	metal ion binding	MF
+Gene_002818	poly [adp-ribose] polymerase 2	-1	-1	0	1	0	0	0	1	1	167.5678	317.6498	394.1135	316.4352	126.3919	154.3484	GO:0046872	metal ion binding	MF
+Gene_002908	arf gtpase activating	-1	-1	0	1	0	0	-1	1	1	98.53007	144.20152	148.29152	132.42516	98.24085	96.07454	GO:0046872	metal ion binding	MF
+Gene_002943	hypothetical protein pbra 002237	0	0	0	1	0	0	0	1	1	0.8051665	1.4824234	1.5495434	1.1461095	0.263309	0.3080846	GO:0046872	metal ion binding	MF
+Gene_002982	hypothetical protein pbra 002205	0	0	0	-1	0	0	0	0	0	8.057022	8.428713	6.725409	7.03641	11.471595	5.847361	GO:0046872	metal ion binding	MF
+Gene_003039	ribulose-phosphate 3-cytoplasmic isoform-like	0	0	0	-1	0	0	0	-1	0	87.30183	76.37242	81.29937	84.77965	104.54452	92.21307	GO:0046872	metal ion binding	MF
+Gene_003207	ef hand family	-1	-1	0	1	0	0	0	1	1	12.86675	34.14109	30.25666	23.22313	10.83849	10.427	GO:0046872	metal ion binding	MF
+Gene_003281	box c d snorna 1	0	0	0	-1	0	0	0	-1	0	154.1813	133.8625	132.5376	137.0053	167.8539	158.8655	GO:0046872	metal ion binding	MF
+Gene_003330	hypothetical protein pbra 004134	-1	-1	0	1	0	0	0	1	1	3.924624	9.771593	8.191427	5.596155	2.522653	3.461789	GO:0046872	metal ion binding	MF
+Gene_003490	hypothetical protein pbra 004246	-1	-1	0	1	0	0	0	1	1	34.3589	64.93213	57.29805	48.36021	27.70548	31.2477	GO:0046872	metal ion binding	MF
+Gene_004057	phosphoenolpyruvate phosphomutase	-1	0	0	1	0	0	-1	1	0	15.4447	34.37865	24.45492	34.44527	14.6578	17.01126	GO:0046872	metal ion binding	MF
+Gene_004126	p-type atpase	-1	-1	0	1	0	0	0	1	1	43.09042	113.42764	123.46356	76.37287	26.56698	42.97781	GO:0046872	metal ion binding	MF
+Gene_004189	phospholipid-transporting atpase 3 isoform x1	-1	-1	0	1	0	0	0	1	1	41.03667	88.27212	102.41368	70.90607	37.16891	36.8411	GO:0046872	metal ion binding	MF
+Gene_004264	zinc c3hc4 type (ring finger) domain containing	-1	-1	0	1	0	0	0	1	1	2.7119589	7.0991144	8.5956254	4.1723904	0.8243484	1.6861406	GO:0046872	metal ion binding	MF
+Gene_004295	mps1 binder	-1	-1	0	1	0	0	0	1	1	10.910266	36.704916	38.607011	21.863974	6.216178	11.732196	GO:0046872	metal ion binding	MF
+Gene_004310	ef-hand calcium-binding domain-containing 11-like	-1	-1	0	1	0	0	0	1	1	0.456843	2.1091579	2.0837135	1.0622351	0.3057365	0.4225746	GO:0046872	metal ion binding	MF
+Gene_004321	ccch-type zn-finger	-1	-1	0	1	0	0	-1	1	0	0.4834873	1.5910429	1.7023371	1.1414259	0.377517	0.9846215	GO:0046872	metal ion binding	MF
+Gene_004561	gastrula zinc finger-like	0	1	0	-1	0	0	0	-1	0	45.27131	36.98199	34.05321	38.86571	52.90933	46.28765	GO:0046872	metal ion binding	MF
+Gene_004629	hypothetical protein pbra 001195; partial	-1	-1	0	1	0	0	0	1	1	19.31631	47.56382	54.92184	41.32866	14.51165	19.29484	GO:0046872	metal ion binding	MF
+Gene_004685	calcium atpase transmembrane domain m-containing	-1	-1	0	1	0	0	0	1	1	6.233604	14.695056	16.290349	7.577795	3.333189	5.4914	GO:0046872	metal ion binding	MF
+Gene_004766	probable proline dehydrogenase 2	-1	-1	0	1	0	0	0	1	1	34.20298	64.60684	77.26848	45.47679	23.50117	30.4546	GO:0046872	metal ion binding	MF
+Gene_004794	zinc c2h2 type family	-1	-1	0	1	0	0	0	1	1	1.4386293	4.6643716	4.9513716	3.3915592	0.8456065	1.178216	GO:0046872	metal ion binding	MF
+Gene_004933	zinc finger 271 (zinc finger 7) (hzf7) (zinc finger znfphex133) (epstein-barr virus-induced zinc finger ) (znf-eb) (ct-zfp48) (zinc finger	-1	-1	0	1	0	0	0	1	1	81.23273	146.7275	163.90618	102.63939	52.56938	69.69794	GO:0046872	metal ion binding	MF
+Gene_004951	zinc finger 177 isoform x2	-1	-1	0	1	0	0	0	1	1	5.025403	12.70809	13.800005	8.749336	3.478007	5.26242	GO:0046872	metal ion binding	MF
+Gene_004997	e3 ubiquitin-ligase	-1	-1	0	1	0	0	-1	1	1	50.80679	75.06472	89.42442	75.31412	55.3868	60.27844	GO:0046872	metal ion binding	MF
+Gene_005056	probable phospholipid-transporting atpase ia isoform x1	-1	-1	0	1	0	0	0	1	1	8.489354	16.527777	19.630672	9.691109	4.241007	6.253287	GO:0046872	metal ion binding	MF
+Gene_005057	probable phospholipid-transporting atpase	-1	-1	0	1	0	0	0	1	1	20.41939	38.22152	48.99905	23.12764	11.42976	17.60663	GO:0046872	metal ion binding	MF
+Gene_005113	alpha-amylase amy3	-1	-1	0	1	0	0	0	1	1	88.955	267.31055	254.38275	178.76983	54.61683	83.37124	GO:0046872	metal ion binding	MF
+Gene_005352	mitogen-activated kinase kinase kinase npk1-like isoform x4	-1	-1	0	1	0	0	0	1	1	9.88723	19.881408	20.047912	15.524826	6.501313	9.785847	GO:0046872	metal ion binding	MF
+Gene_005442	tubulin polyglutamylase complex subunit 1-like	-1	-1	0	1	0	0	0	1	1	3.794827	10.94632	11.235115	7.856763	2.187044	3.534648	GO:0046872	metal ion binding	MF
+Gene_005454	multicopper oxidase mco	-1	-1	0	1	0	0	0	1	1	2.909656	7.407678	7.64626	4.473133	1.505047	3.486771	GO:0046872	metal ion binding	MF
+Gene_005586	wd repeat-containing 17	-1	-1	0	1	0	0	0	1	0	8.175251	15.737462	15.674284	11.155852	5.976553	8.886576	GO:0046872	metal ion binding	MF
+Gene_005638	zinc c2h2 type	-1	-1	0	1	0	0	-1	1	1	31.06239	53.84836	52.73209	44.18172	28.33596	31.91799	GO:0046872	metal ion binding	MF
+Gene_005723	hypothetical protein pbra 000720; partial	-1	-1	0	1	0	0	0	1	1	34.35646	54.38149	71.37266	46.19749	22.10547	24.83413	GO:0046872	metal ion binding	MF
+Gene_005784	adp-ribosylation factor gtpase-activating agd7	0	-1	0	1	0	0	0	1	1	35.06131	45.3183	59.61722	41.00798	27.65064	27.30297	GO:0046872	metal ion binding	MF
+Gene_005920	gastrula zinc finger-like	-1	-1	0	1	0	0	0	1	1	43.44947	80.36649	86.52184	64.09752	33.84479	42.9237	GO:0046872	metal ion binding	MF
+Gene_005929	carbonate dehydratase	-1	-1	0	1	0	0	0	1	1	0.7838893	2.374174	2.8305788	1.7614444	0.5803031	0.8638859	GO:0046872	metal ion binding	MF
+Gene_006167	cytochrome p450 71d11	-1	-1	0	1	0	0	0	1	0	5.742229	17.555433	13.916134	10.314655	3.463852	6.881947	GO:0046872	metal ion binding	MF
+Gene_006892	tandem-95 repeat	-1	-1	0	1	0	0	0	1	0	2.9837095	8.5951612	9.1423957	4.9440124	0.9579087	3.2557036	GO:0046872	metal ion binding	MF
+Gene_007191	malic enzyme	-1	-1	0	1	0	0	0	1	1	7.605676	18.800826	17.514412	11.48605	5.064684	4.015634	GO:0046872	metal ion binding	MF
+Gene_007278	ef containing	-1	-1	0	1	0	0	0	1	1	3.398209	10.494906	9.731468	6.381313	2.3204	4.351842	GO:0046872	metal ion binding	MF
+Gene_007421	physa phypo ame: full=physarolisin ame: full=physaropepsin contains: ame: full=physarolisin heavy chain contains: ame: full=physarolisin light chain flags: precursor	-1	-1	0	1	0	0	0	1	1	61.09631	122.86577	171.22375	98.66882	38.86156	46.71649	GO:0046872	metal ion binding	MF
+Gene_007852	zinc finger 596-like	-1	-1	0	1	0	0	0	1	1	106.18906	212.04282	277.87007	175.52814	73.67761	98.4331	GO:0046872	metal ion binding	MF
+Gene_007874	calcineurin subunit b	-1	-1	0	1	0	0	0	1	1	125.8943	183.8884	209.3162	151.1094	104.1234	113.5937	GO:0046872	metal ion binding	MF
+Gene_008050	hypothetical protein pbra 001831	-1	-1	0	1	0	0	-1	1	1	25.88717	84.2578	70.51257	58.62048	25.26172	28.96412	GO:0046872	metal ion binding	MF
+Gene_008141	s-adenosylmethionine synthetase	0	-1	0	1	0	0	0	1	1	340.0936	413.1303	497.6191	342.2597	248.693	292.4141	GO:0046872	metal ion binding	MF
+Gene_008420	zinc finger 271-like	-1	-1	0	1	0	0	0	1	1	12.748	26.71006	26.39316	20.02926	10.32714	10.223	GO:0046872	metal ion binding	MF
+Gene_008423	zinc finger 271-like isoform x1	1	1	0	-1	0	0	0	-1	-1	132.7852	111.5052	107.7772	109.0597	135.8779	141.4379	GO:0046872	metal ion binding	MF
+Gene_008720	dbl homology domain-containing	-1	-1	0	1	0	0	0	1	1	2.35736	7.436657	6.110974	4.251068	1.495224	2.035856	GO:0046872	metal ion binding	MF
+Gene_008762	zinc finger dzip1l-like	-1	-1	0	1	0	0	0	1	1	13.736067	25.427486	27.76952	16.425492	9.632405	12.43996	GO:0046872	metal ion binding	MF
+Gene_009425	phosphatase 2c-related	-1	-1	0	1	0	0	0	1	1	1.3868284	4.3400023	4.6302843	2.2419982	0.4760956	0.8638859	GO:0046872	metal ion binding	MF
+Gene_009426	ubx domain-containing 1-like isoform x2	-1	-1	0	1	0	0	0	1	1	1.2624605	3.661422	3.4637474	1.7326904	0.4256619	0.9242537	GO:0046872	metal ion binding	MF
+Gene_009614	ef-hand pair	-1	-1	0	1	0	0	0	1	1	6.911953	18.766589	17.375432	13.03226	4.451634	5.335279	GO:0046872	metal ion binding	MF
+Gene_009622	phosphoenolpyruvate carboxykinase	-1	-1	0	1	0	0	-1	1	1	22.84511	62.04663	65.47447	47.49018	17.14912	27.56733	GO:0046872	metal ion binding	MF
+Gene_009655	hypothetical protein pbra 006095	0	0	0	1	0	0	0	1	0	0.4622102	1.0549329	1.1103099	0.6219363	0.0387046	0.3080846	GO:0046872	metal ion binding	MF
+Gene_009762	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0046872	metal ion binding	MF
+Gene_010387	morn repeat-containing	-1	-1	0	1	0	0	-1	1	1	83.34903	189.78096	190.62266	158.51981	75.19434	88.6389	GO:0046872	metal ion binding	MF
+Gene_010689	af084419 1calmodulin mutant syncam64a	-1	-1	0	1	0	0	-1	1	0	1.450011	3.742146	4.158157	3.182534	1.365149	2.060839	GO:0046872	metal ion binding	MF
+Gene_010834	hypothetical protein pbra 008339	-1	-1	0	1	0	0	0	1	1	3.965559	11.726986	7.809636	5.800415	2.009936	1.860998	GO:0046872	metal ion binding	MF
+Gene_011067	zinc finger mynd domain-containing 10	-1	-1	0	1	0	0	0	1	1	7.984791	21.911096	22.018757	13.90967	4.797332	6.276181	GO:0046872	metal ion binding	MF
+Gene_011533	centrin 2	-1	-1	0	1	0	0	0	1	1	16.365375	45.334056	46.076439	27.335362	8.551852	12.700168	GO:0046872	metal ion binding	MF
+Gene_011706	c2h2-type zinc finger-containing protein	0	1	0	-1	0	0	1	0	0	67.07053	56.8493	54.4242	45.31607	58.44043	64.07954	GO:0046872	metal ion binding	MF
+Gene_011711	probable phospholipid-transporting atpase 7 isoform x1	-1	-1	0	1	0	0	0	1	1	3.745997	14.1124	11.74522	7.23172	2.751069	4.671233	GO:0046872	metal ion binding	MF
+Gene_011712	transmembrane protein	-1	-1	0	1	0	0	0	1	1	5.591478	15.988357	14.175275	8.006291	3.146298	5.456014	GO:0046872	metal ion binding	MF
+Gene_012375	calcium-dependent protein 5	-1	-1	0	1	0	0	0	1	1	3.85303	9.705379	9.773573	5.869509	2.109074	3.61791	GO:0046872	metal ion binding	MF
+Gene_012635	peptidase m14	-1	-1	0	1	0	0	0	1	1	1.1988902	3.6939212	2.9491392	2.3989275	0.3289005	0.8097636	GO:0046872	metal ion binding	MF

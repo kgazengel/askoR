@@ -1,0 +1,25 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000513	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000649	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000759	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_001294	serine-trna ligase	1	1	0	0	0	0	0	-1	-1	533.8233	409.2717	405.6851	454.6443	528.438	538.7901	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_001772	n2;n2-dimethylguanosine trna methyltransferase	1	1	0	0	0	0	0	-1	-1	106.45326	87.66109	83.82837	104.02211	114.25444	125.40089	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_002734	trna-dihydrouridine(20) synthase [nad(p)+]-like	1	1	0	0	0	0	0	-1	-1	84.60322	69.87414	66.67464	79.42111	92.54741	85.03137	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_003824	zinc c2h2 type family (macronuclear)	-1	-1	0	1	0	0	0	1	1	3.522715	10.172846	11.353883	6.96685	2.184578	3.322317	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_004996	trna (guanine(37)-n1)-methyltransferase	0	1	0	0	0	0	1	0	0	100.33581	84.18007	77.20938	76.53344	90.31594	76.70267	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_005317	trna (adenine(58)-n(1))-methyltransferase catalytic subunit trmt61a-like	1	1	0	0	0	0	0	-1	-1	209.1064	166.1371	153.9037	182.4184	200.6272	191.5162	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_005821	lysine-trna ligase isoform x2	1	1	0	0	0	0	0	0	-1	279.5477	211.2864	203.1541	235.1486	246.3479	261.8928	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_005931	prolyl-trna synthetase ( )	1	1	0	0	0	0	0	-1	-1	640.4133	492.8115	505.935	612.0846	699.2832	749.6471	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_006316	glycyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	141.8776	112.7339	111.4243	118.9396	138.5452	144.3002	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_007738	probable trna(his) guanylyltransferase	1	1	0	0	0	0	0	-1	0	99.82515	80.47603	77.68647	85.62294	99.27612	90.44783	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_007785	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_008593	trna (guanine-n(7)-)-methyltransferase	0	1	0	0	0	0	0	-1	0	171.7386	140.6659	131.894	166.1512	185.5186	152.4186	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_009870	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_010399	initiator trna phosphoribosyl transferase	1	1	0	0	0	0	0	-1	0	113.68045	92.70718	91.3838	100.00173	109.90414	97.06332	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_011438	arginine-trna ligase	1	1	0	0	0	0	0	-1	-1	327.8552	263.2239	251.2182	299.1615	354.6968	373.101	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_011656	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_011742	glycyl-trna synthetase	1	1	0	0	0	0	0	0	-1	413.9107	343.0444	330.7584	356.084	384.2083	438.7918	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_011818	trna-dihydrouridine synthase	1	1	0	0	0	0	0	-1	-1	67.8456	52.54997	50.13821	66.97693	74.89818	82.67078	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_011946	queuine trna-ribosyltransferase	1	1	0	0	0	0	0	0	-1	79.8687	66.21623	61.16627	72.52891	73.95502	79.88553	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_012205	tryptophan-trna ligase	1	1	0	0	0	0	0	-1	-1	182.8972	146.378	142.16	171.9264	196.0012	196.0793	GO:0140101	catalytic activity, acting on a tRNA	MF

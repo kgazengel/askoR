@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002357	phenylalanine-trna ligase beta subunit	1	0	0	0	0	0	0	-1	-1	266.3495	210.5162	221.5473	254.5193	266.1183	300.3326	GO:0000162	tryptophan biosynthetic process	BP
+Gene_002384	tyrosine-trna ligase	1	0	0	0	0	0	0	-1	0	64.17287	51.79736	51.08595	60.41504	71.32124	61.58779	GO:0000162	tryptophan biosynthetic process	BP
+Gene_003773	tyrosyl-trna synthetase	1	0	0	0	0	0	0	-1	-1	375.6924	300.7143	306.424	333.957	380.273	402.9832	GO:0000162	tryptophan biosynthetic process	BP
+Gene_004459	cupin fold family	-1	-1	0	1	0	0	0	1	1	1.180845	2.8274498	3.1121281	1.8720739	0.4449256	0.5620469	GO:0000162	tryptophan biosynthetic process	BP
+Gene_004665	aspartate aminotransferase chloroplastic	1	0	0	0	0	0	0	-1	-1	296.5896	250.4308	263.3307	287.6339	303.3745	321.0846	GO:0000162	tryptophan biosynthetic process	BP
+Gene_004859	chorismate mutase	-1	0	0	0	0	0	0	1	0	7.437274	15.958785	12.111511	10.816217	7.908709	6.694598	GO:0000162	tryptophan biosynthetic process	BP
+Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0000162	tryptophan biosynthetic process	BP
+Gene_007785	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0000162	tryptophan biosynthetic process	BP

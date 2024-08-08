@@ -1,0 +1,389 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0044249	cellular biosynthetic process	BP
+Gene_000023	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0044249	cellular biosynthetic process	BP
+Gene_000063	glutamate-cysteine ligase catalytic subunit	0	0	0	0	0	0	0	1	1	119.6024	163.3073	164.0315	132.77	113.0143	104.1222	GO:0044249	cellular biosynthetic process	BP
+Gene_000084	delta-6 elongase	1	1	0	0	0	0	1	-1	0	1268.0681	896.4152	953.3108	970.6551	1106.7559	1200.3708	GO:0044249	cellular biosynthetic process	BP
+Gene_000106	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0044249	cellular biosynthetic process	BP
+Gene_000146	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0044249	cellular biosynthetic process	BP
+Gene_000165	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0044249	cellular biosynthetic process	BP
+Gene_000179	adenylate guanylate cyclase	-1	-1	0	1	0	0	-1	1	1	2.869299	9.657512	8.545919	6.490976	2.159597	3.118319	GO:0044249	cellular biosynthetic process	BP
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0044249	cellular biosynthetic process	BP
+Gene_000324	glycylpeptide n-tetradecanoyltransferase	1	1	0	0	0	0	0	-1	-1	211.9863	177.3582	172.6689	214.7104	227.9951	226.7649	GO:0044249	cellular biosynthetic process	BP
+Gene_000402	cyclin-t1-5-like	0	0	0	0	0	0	0	-1	0	44.37106	41.50686	42.11591	47.15328	51.59029	43.46284	GO:0044249	cellular biosynthetic process	BP
+Gene_000420	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0044249	cellular biosynthetic process	BP
+Gene_000426	4-phosphopantetheinyl transferase	0	0	0	0	0	0	0	-1	0	23.68084	21.21316	24.42676	26.41983	28.05009	26.09977	GO:0044249	cellular biosynthetic process	BP
+Gene_000428	ubiquinone biosynthesis coq9	0	0	0	0	0	0	0	1	0	56.02514	55.2161	55.71621	46.02419	43.02136	54.54765	GO:0044249	cellular biosynthetic process	BP
+Gene_000448	30s ribosomal s6	0	0	0	0	0	0	0	-1	0	174.4931	147.9911	148.8517	160.6318	192.5396	163.824	GO:0044249	cellular biosynthetic process	BP
+Gene_000471	50s ribosomal l27-like	0	1	0	0	0	0	0	-1	-1	96.65326	82.66457	77.33358	89.84525	99.63138	98.36647	GO:0044249	cellular biosynthetic process	BP
+Gene_000531	ribonucleoside-diphosphate reductase small chain	0	0	0	0	0	0	1	1	1	217.172	195.7217	234.0744	143.7752	134.5333	162.8436	GO:0044249	cellular biosynthetic process	BP
+Gene_000568	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0044249	cellular biosynthetic process	BP
+Gene_000579	[micromonas commoda]	0	0	0	0	0	0	0	-1	-1	185.7671	161.8614	157.4236	222.4347	222.2995	230.8678	GO:0044249	cellular biosynthetic process	BP
+Gene_000600	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0044249	cellular biosynthetic process	BP
+Gene_000629	ccnc dicdi ame: full=cyclin-c	0	0	0	0	0	0	0	-1	-1	114.6966	96.98875	91.3732	114.34903	137.02047	122.06812	GO:0044249	cellular biosynthetic process	BP
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0044249	cellular biosynthetic process	BP
+Gene_000649	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0044249	cellular biosynthetic process	BP
+Gene_000652	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0044249	cellular biosynthetic process	BP
+Gene_000667	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0044249	cellular biosynthetic process	BP
+Gene_000699	reveille 6-like isoform x2	-1	-1	0	1	0	0	0	1	1	9.966605	28.543861	23.180404	20.91684	6.198998	8.844945	GO:0044249	cellular biosynthetic process	BP
+Gene_000719	3-phosphoshikimate 1-carboxyvinyltransferase	0	0	0	0	0	0	0	-1	0	283.0898	277.9638	281.8086	294.0452	323.0963	318.6991	GO:0044249	cellular biosynthetic process	BP
+Gene_000728	methionine synthase	0	0	0	0	0	0	0	-1	0	134.3211	121.0091	125.7816	126.9706	143.2537	148.1513	GO:0044249	cellular biosynthetic process	BP
+Gene_000752	hypothetical protein pbra 001803	1	1	0	0	0	0	0	-1	-1	71.89579	57.97996	51.83157	74.93767	88.40037	94.82347	GO:0044249	cellular biosynthetic process	BP
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0044249	cellular biosynthetic process	BP
+Gene_000758	dna ligase 1-like isoform x2	0	0	0	0	0	0	0	-1	0	338.8028	297.2515	317.5809	328.8895	366.9113	342.2706	GO:0044249	cellular biosynthetic process	BP
+Gene_000782	e2f-associated phospho	0	0	0	0	0	0	0	-1	0	81.83394	71.38154	70.19464	84.54275	94.31384	75.64312	GO:0044249	cellular biosynthetic process	BP
+Gene_000847	hypothetical protein pbra 005764	-1	0	0	0	0	0	0	1	0	0.1617449	1.0498033	0.6209558	0.3983376	0.1566356	0.1207356	GO:0044249	cellular biosynthetic process	BP
+Gene_000892	rna polymerase iii transcription repressor maf1	0	0	0	0	0	0	0	-1	0	275.6437	271.5837	278.6848	322.8453	338.4573	306.7753	GO:0044249	cellular biosynthetic process	BP
+Gene_000933	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0044249	cellular biosynthetic process	BP
+Gene_000956	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0044249	cellular biosynthetic process	BP
+Gene_000977	bromodomain domain containing	-1	0	0	0	0	0	0	1	0	3.84391	11.540526	7.169533	7.928006	4.271068	4.361061	GO:0044249	cellular biosynthetic process	BP
+Gene_001071	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	0	1	1	4.074015	13.814866	14.729836	8.628308	2.641498	3.944732	GO:0044249	cellular biosynthetic process	BP
+Gene_001072	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	-1	1	1	2.670501	9.145025	11.156066	7.130975	1.783897	3.522157	GO:0044249	cellular biosynthetic process	BP
+Gene_001104	dna-directed rna polymerases and iii subunit rpabc4	0	0	0	0	0	0	0	-1	-1	116.89738	99.78038	100.39888	119.41685	126.63876	132.36193	GO:0044249	cellular biosynthetic process	BP
+Gene_001112	nuclear transcription factor y	-1	-1	0	0	0	0	-1	1	1	14.89848	34.47941	31.51893	25.94624	15.6407	10.79961	GO:0044249	cellular biosynthetic process	BP
+Gene_001218	transcription initiation factor tfiid subunit 6	0	0	0	0	0	0	0	-1	-1	112.3657	99.85747	102.92083	121.81289	138.10905	134.01684	GO:0044249	cellular biosynthetic process	BP
+Gene_001236	transcription factor dp-1	0	0	0	0	0	0	0	-1	-1	85.69608	75.84852	75.06533	91.73675	100.85869	94.85261	GO:0044249	cellular biosynthetic process	BP
+Gene_001260	glutamyl-trna synthetase	0	0	0	0	0	0	0	-1	-1	566.4172	480.0115	497.5015	595.8558	656.4157	666.766	GO:0044249	cellular biosynthetic process	BP
+Gene_001271	phosphoserine phosphatase	0	-1	0	0	0	0	0	1	1	59.50464	65.11674	84.26602	63.0813	50.31437	48.08619	GO:0044249	cellular biosynthetic process	BP
+Gene_001282	histone deacetylase 5-like isoform x1	1	0	0	0	0	0	0	-1	-1	156.1084	129.283	131.7313	159.3881	182.7106	179.6841	GO:0044249	cellular biosynthetic process	BP
+Gene_001294	serine-trna ligase	1	1	0	0	0	0	0	-1	-1	533.8233	409.2717	405.6851	454.6443	528.438	538.7901	GO:0044249	cellular biosynthetic process	BP
+Gene_001368	transcription factor dpb isoform x1	-1	-1	0	1	0	0	0	1	1	4.961049	15.737354	16.934982	9.931989	3.426316	3.721997	GO:0044249	cellular biosynthetic process	BP
+Gene_001417	ws dgat mgat	1	0	0	0	0	0	0	-1	-1	145.9816	116.7657	117.415	164.3484	194.9209	193.6479	GO:0044249	cellular biosynthetic process	BP
+Gene_001432	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0044249	cellular biosynthetic process	BP
+Gene_001512	poly(a)-specific ribonuclease	0	0	0	0	0	0	0	-1	-1	146.663	140.6672	142.7093	163.013	171.2736	186.6494	GO:0044249	cellular biosynthetic process	BP
+Gene_001536	glycosyltransferase family 71	0	-1	0	0	0	0	0	1	1	19.8409	28.94377	37.60418	22.27634	16.00858	18.44971	GO:0044249	cellular biosynthetic process	BP
+Gene_001568	shuttle craft	0	-1	0	0	0	0	0	1	1	23.77753	32.91414	39.09507	27.3408	19.68019	22.46937	GO:0044249	cellular biosynthetic process	BP
+Gene_001575	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0044249	cellular biosynthetic process	BP
+Gene_001634	thymidylate synthase	1	0	0	0	0	0	0	-1	-1	138.7756	112.5356	120.0033	137.236	146.1223	155.5557	GO:0044249	cellular biosynthetic process	BP
+Gene_001644	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0044249	cellular biosynthetic process	BP
+Gene_001650	cell division cycle-associated 7	-1	0	0	0	0	0	0	1	1	145.1445	181.892	157.8699	152.5931	132.7514	127.6345	GO:0044249	cellular biosynthetic process	BP
+Gene_001669	dolichyl-diphosphooligosaccharide-glycosyltransferase 48 kda subunit	1	0	0	0	0	0	0	-1	-1	278.2002	226.5313	246.3497	245.7154	272.4337	316.8693	GO:0044249	cellular biosynthetic process	BP
+Gene_001678	hypothetical protein pbra 002984	1	0	0	0	0	0	0	-1	0	295.6701	233.5505	235.822	245.4815	299.8304	270.9167	GO:0044249	cellular biosynthetic process	BP
+Gene_001687	phosphatidylinositol 4-kinase alpha-like	-1	-1	0	1	0	0	0	1	1	3.768597	9.596969	7.547235	4.42557	2.019199	2.229451	GO:0044249	cellular biosynthetic process	BP
+Gene_001721	probable cell division control nda4	0	0	0	0	0	0	0	-1	0	461.7326	408.2226	426.6747	463.5843	490.7864	489.3966	GO:0044249	cellular biosynthetic process	BP
+Gene_001724	cystathionine beta-synthase	0	-1	0	0	0	0	0	1	1	128.1557	141.3145	160.7966	120.5263	111.9863	107.5216	GO:0044249	cellular biosynthetic process	BP
+Gene_001731	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0044249	cellular biosynthetic process	BP
+Gene_001740	snrna-activating complex subunit isoform x1	0	0	0	0	0	0	0	-1	0	170.1513	159.1399	144.888	179.4583	208.2763	167.9582	GO:0044249	cellular biosynthetic process	BP
+Gene_001750	phosphatidylinositol 4-kinase alpha	-1	-1	0	0	0	0	0	1	1	4.162258	9.759075	8.434267	5.003037	2.997628	3.15995	GO:0044249	cellular biosynthetic process	BP
+Gene_001763	probable s-acyltransferase 16	0	0	0	0	0	0	0	-1	0	87.27792	80.05077	81.35601	82.12331	97.20183	90.27297	GO:0044249	cellular biosynthetic process	BP
+Gene_001776	pantothenate kinase 3	0	0	0	-1	0	0	0	-1	0	115.0648	103.4463	102.125	101.1001	121.5538	116.0272	GO:0044249	cellular biosynthetic process	BP
+Gene_001779	trehalose-6-phosphate phosphatase	-1	0	0	0	0	0	0	1	1	206.6253	271.1905	267.5509	215.979	193.1575	164.7774	GO:0044249	cellular biosynthetic process	BP
+Gene_001811	60s ribosomal l30	1	0	0	0	0	0	0	-1	0	697.3216	529.4646	553.133	573.3418	662.8779	638.2411	GO:0044249	cellular biosynthetic process	BP
+Gene_001845	transcriptional adapter 2b isoform x1	0	0	0	0	0	0	0	-1	0	175.3517	161.0355	166.4088	170.3526	198.1584	172.6856	GO:0044249	cellular biosynthetic process	BP
+Gene_001854	sh2 domain-containing	1	0	0	0	0	0	0	-1	-1	448.5867	370.232	388.3378	438.1734	487.8611	497.1779	GO:0044249	cellular biosynthetic process	BP
+Gene_001926	aspartate carbamoyltransferase	0	0	0	0	0	0	0	-1	0	41.08851	36.1587	34.94961	44.21985	45.54285	45.58197	GO:0044249	cellular biosynthetic process	BP
+Gene_002009	histone deacetylase 1 2	0	0	0	0	0	0	0	-1	0	177.5155	154.9951	163.1158	179.7468	190.0792	180.4939	GO:0044249	cellular biosynthetic process	BP
+Gene_002055	farnesyl pyrophosphate synthase	0	0	0	0	0	0	0	1	1	68.07541	74.85628	84.40008	67.48849	55.08573	60.52199	GO:0044249	cellular biosynthetic process	BP
+Gene_002088	elongation factor tu	1	0	0	0	0	0	0	-1	-1	523.7827	405.0166	430.5992	485.0432	555.42	567.3816	GO:0044249	cellular biosynthetic process	BP
+Gene_002126	enolase	0	0	0	0	0	0	0	-1	-1	731.6063	631.7499	642.2227	687.4594	781.633	885.3918	GO:0044249	cellular biosynthetic process	BP
+Gene_002198	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	1	44.05302	52.82204	60.31195	36.18611	30.54178	36.9556	GO:0044249	cellular biosynthetic process	BP
+Gene_002203	alkyldihydroxyacetonephosphate peroxisomal	0	0	0	0	0	0	0	-1	0	91.77514	84.94446	84.00724	92.7592	99.9077	95.933	GO:0044249	cellular biosynthetic process	BP
+Gene_002231	eukaryotic translation initiation factor 2 gamma	0	0	0	0	0	0	0	-1	-1	350.6763	301.2976	293.2374	339.0927	381.4158	402.3462	GO:0044249	cellular biosynthetic process	BP
+Gene_002245	atp-dependent rna helicase	0	0	0	0	0	0	0	-1	0	447.0886	418.658	420.7661	457.3951	493.8368	471.7942	GO:0044249	cellular biosynthetic process	BP
+Gene_002267	dna repair rev1	0	0	0	0	0	0	0	-1	0	108.59151	95.22076	99.35643	110.75592	123.90365	114.59709	GO:0044249	cellular biosynthetic process	BP
+Gene_002279	amp deaminase	0	0	0	0	0	0	0	-1	0	318.5142	272.8212	278.3588	322.5573	376.1561	343.7246	GO:0044249	cellular biosynthetic process	BP
+Gene_002357	phenylalanine-trna ligase beta subunit	1	0	0	0	0	0	0	-1	-1	266.3495	210.5162	221.5473	254.5193	266.1183	300.3326	GO:0044249	cellular biosynthetic process	BP
+Gene_002369	dna-directed rna polymerase ii subunit rpb2	0	0	0	0	0	0	0	-1	-1	343.9081	300.8984	314.0964	385.3707	422.1312	433.8727	GO:0044249	cellular biosynthetic process	BP
+Gene_002383	tyrosine-trna ligase	0	0	0	0	0	0	0	-1	0	119.1196	101.4001	100.0544	125.7505	139.2985	122.9799	GO:0044249	cellular biosynthetic process	BP
+Gene_002384	tyrosine-trna ligase	1	0	0	0	0	0	0	-1	0	64.17287	51.79736	51.08595	60.41504	71.32124	61.58779	GO:0044249	cellular biosynthetic process	BP
+Gene_002385	hypothetical protein pbra 003313	0	0	0	0	0	0	0	1	0	67.68203	78.08156	78.83428	76.89807	64.55763	66.71076	GO:0044249	cellular biosynthetic process	BP
+Gene_002413	hypothetical protein pbra 003289	0	0	0	0	0	0	0	-1	0	86.53289	81.95282	86.04009	90.86135	100.19153	87.99771	GO:0044249	cellular biosynthetic process	BP
+Gene_002414	hypothetical protein pbra 003288	0	-1	0	0	0	0	0	1	1	29.24816	43.2228	47.88178	26.89807	21.59653	23.28538	GO:0044249	cellular biosynthetic process	BP
+Gene_002478	diphosphomevalonate decarboxylase	0	0	0	0	0	0	0	1	0	44.92831	49.17834	54.0554	38.03443	32.75226	45.90879	GO:0044249	cellular biosynthetic process	BP
+Gene_002489	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0044249	cellular biosynthetic process	BP
+Gene_002581	transcription elongation factor s-ii	0	0	0	0	0	0	0	-1	-1	88.9875	79.46977	73.1666	83.20734	99.87264	91.75094	GO:0044249	cellular biosynthetic process	BP
+Gene_002598	diphthamide biosynthesis 1	0	1	0	0	0	0	0	-1	-1	62.68551	53.82108	50.88182	57.31366	68.47958	71.13843	GO:0044249	cellular biosynthetic process	BP
+Gene_002613	kynureninase isoform x1	0	-1	0	0	0	0	0	1	1	11.14563	21.556208	24.463457	13.896851	7.013406	6.199165	GO:0044249	cellular biosynthetic process	BP
+Gene_002654	glycosyl transferase family 1	-1	0	0	0	0	0	-1	1	0	16.0681	53.60965	32.45073	47.85279	26.85145	22.0676	GO:0044249	cellular biosynthetic process	BP
+Gene_002804	transcription initiation factor iia subunit 2-like	0	0	0	0	0	0	0	-1	0	49.18007	45.09531	41.91706	48.4599	56.74698	48.98546	GO:0044249	cellular biosynthetic process	BP
+Gene_002893	lov domain-containing	0	0	0	0	0	0	0	-1	-1	163.2155	153.0227	146.7072	169.3689	176.1009	183.9162	GO:0044249	cellular biosynthetic process	BP
+Gene_002948	dna-directed rna polymerase ii subunit 4-like	0	0	0	0	0	0	0	-1	0	107.83813	92.96722	95.9872	103.73317	120.17588	92.36297	GO:0044249	cellular biosynthetic process	BP
+Gene_002972	pyridoxal kinase isoform x2	0	0	0	0	0	0	0	-1	0	93.00233	90.29337	92.54504	100.05992	108.08856	96.53042	GO:0044249	cellular biosynthetic process	BP
+Gene_002999	hypothetical protein pbra 002189	1	0	0	0	0	0	0	-1	0	51.4452	41.7196	42.80876	53.86317	64.64814	52.55965	GO:0044249	cellular biosynthetic process	BP
+Gene_003023	50s ribosomal l3	0	0	0	0	0	0	0	-1	0	230.1292	218.7066	223.7963	239.7857	257.7771	237.296	GO:0044249	cellular biosynthetic process	BP
+Gene_003099	hypothetical protein pbra 003560	0	0	0	0	0	0	0	-1	0	534.0859	499.6549	497.6324	570.4449	581.8812	576.4848	GO:0044249	cellular biosynthetic process	BP
+Gene_003165	zf-dhhc-domain-containing [auricularia subglabra tfb-10046 ss5]	0	0	0	0	0	0	0	1	0	24.19248	28.01229	29.26972	21.63737	19.43722	21.8532	GO:0044249	cellular biosynthetic process	BP
+Gene_003168	elongation of fatty acids	1	0	0	0	0	0	0	-1	-1	125.5868	107.4244	106.336	116.5683	123.921	130.4114	GO:0044249	cellular biosynthetic process	BP
+Gene_003195	cyclin-l1 isoform x1	1	0	0	0	0	0	0	-1	0	74.70905	61.58753	63.30096	68.53439	74.22594	72.09805	GO:0044249	cellular biosynthetic process	BP
+Gene_003238	mannose-6-phosphate isomerase	1	0	0	0	0	0	0	-1	-1	145.7329	123.351	124.9937	142.0029	158.3727	166.7842	GO:0044249	cellular biosynthetic process	BP
+Gene_003298	dna-directed rna polymerases and iii subunit	0	0	0	0	0	0	0	-1	0	64.99222	55.82285	54.48778	67.77924	71.22171	57.73676	GO:0044249	cellular biosynthetic process	BP
+Gene_003332	dna-directed rna polymerase and iii subunit rpabc5	0	0	0	0	0	0	0	-1	0	74.10611	68.56534	62.80022	80.5234	86.51273	64.17322	GO:0044249	cellular biosynthetic process	BP
+Gene_003356	eukaryotic translation initiation factor 2 subunit alpha	1	1	0	0	0	0	0	-1	-1	233.8599	189.4091	178.2635	215.0823	231.2569	238.0641	GO:0044249	cellular biosynthetic process	BP
+Gene_003359	50s ribosomal chloroplastic	0	0	0	0	0	0	0	-1	0	41.15636	34.13078	37.28719	39.02146	43.92883	36.37689	GO:0044249	cellular biosynthetic process	BP
+Gene_003362	cysteinyl-trna synthetase	1	0	0	0	0	0	0	-1	-1	307.405	255.2744	257.4809	334.8239	377.5204	392.8455	GO:0044249	cellular biosynthetic process	BP
+Gene_003379	methionine-trna mitochondrial-like isoform x1	1	0	0	0	0	0	0	-1	0	129.0932	101.0104	109.383	115.7648	122.7101	132.0934	GO:0044249	cellular biosynthetic process	BP
+Gene_003413	molybdenum cofactor biosynthesis 1 isoform x3	0	0	0	0	0	0	0	-1	-1	92.85519	82.90363	82.35588	101.37529	105.10855	104.576	GO:0044249	cellular biosynthetic process	BP
+Gene_003439	alpha-2-glucosyltransferase alg10	0	0	0	0	0	0	0	-1	0	101.9808	100.4452	105.7819	118.2836	118.5039	115.0634	GO:0044249	cellular biosynthetic process	BP
+Gene_003448	alpha;alpha-trehalose-phosphate synthase [udp-forming] 1	0	0	0	0	0	0	0	1	0	0.28695	0.41900791	0.34103665	0.05750797	0.05615109	0.18110342	GO:0044249	cellular biosynthetic process	BP
+Gene_003478	solute carrier family 25 member 40 isoform x2	0	0	0	0	0	0	0	-1	-1	31.97147	29.08769	27.37709	33.53384	39.75199	45.69646	GO:0044249	cellular biosynthetic process	BP
+Gene_003540	transcription factor tfiih complex subunit tfb2	0	0	0	0	0	0	0	-1	0	185.4546	169.9437	169.3498	182.9785	219.8874	194.1766	GO:0044249	cellular biosynthetic process	BP
+Gene_003575	mitochondrial precursor	0	0	0	0	0	0	0	-1	0	200.0269	175.4435	192.6735	197.4814	213.7846	220.5616	GO:0044249	cellular biosynthetic process	BP
+Gene_003625	30s ribosomal s16	0	0	0	0	0	0	0	-1	0	106.92501	88.62206	89.27807	92.47339	106.68845	97.29023	GO:0044249	cellular biosynthetic process	BP
+Gene_003628	hypothetical protein pbra 004350	0	0	0	0	0	0	0	-1	0	50.28005	43.09895	41.53199	47.30204	55.31835	51.67287	GO:0044249	cellular biosynthetic process	BP
+Gene_003636	saicar synthase	-1	-1	0	0	0	0	0	1	0	69.82043	89.23222	91.46412	80.92535	65.52437	73.46363	GO:0044249	cellular biosynthetic process	BP
+Gene_003649	transcription elongation factor spt5 isoform x2	0	0	0	0	0	0	0	-1	-1	138.6952	129.9784	124.7296	164.9756	174.9949	182.6443	GO:0044249	cellular biosynthetic process	BP
+Gene_003650	transcription elongation factor spt5-like	0	0	0	0	0	0	0	-1	-1	130.96	122.4427	114.8096	151.5119	173.4492	167.8217	GO:0044249	cellular biosynthetic process	BP
+Gene_003651	hypothetical protein pbra 004367	0	0	0	0	0	0	0	-1	-1	45.47622	44.60775	40.34754	55.38269	61.51626	59.44369	GO:0044249	cellular biosynthetic process	BP
+Gene_003665	hypothetical protein pbra 004375	0	0	0	-1	0	0	0	-1	-1	23.6619	19.13232	17.98291	23.70882	32.73674	29.012	GO:0044249	cellular biosynthetic process	BP
+Gene_003690	dna-directed rna polymerase i subunit rpa43	0	0	0	0	0	0	0	-1	0	119.20959	99.25305	93.12568	100.90465	121.46423	106.03107	GO:0044249	cellular biosynthetic process	BP
+Gene_003771	phosphoserine transaminase	0	-1	0	0	0	0	0	1	1	55.40347	66.28545	73.52968	58.88059	47.19487	49.0958	GO:0044249	cellular biosynthetic process	BP
+Gene_003773	tyrosyl-trna synthetase	1	0	0	0	0	0	0	-1	-1	375.6924	300.7143	306.424	333.957	380.273	402.9832	GO:0044249	cellular biosynthetic process	BP
+Gene_003779	phospholipid-transporting atpase	0	0	0	0	0	0	0	1	0	22.35587	26.32144	25.48731	17.12683	15.77641	14.26349	GO:0044249	cellular biosynthetic process	BP
+Gene_003820	dna primase large subunit	0	0	0	0	0	0	0	-1	0	283.8304	271.062	279.08	328.9689	340.9067	317.4875	GO:0044249	cellular biosynthetic process	BP
+Gene_003939	regulator of g-signaling 20-like isoform x4	0	0	0	0	0	0	0	1	0	0.7477372	0.8942833	1.478645	0.5044082	0.1740821	0.6765369	GO:0044249	cellular biosynthetic process	BP
+Gene_004057	phosphoenolpyruvate phosphomutase	-1	0	0	1	0	0	-1	1	0	15.4447	34.37865	24.45492	34.44527	14.6578	17.01126	GO:0044249	cellular biosynthetic process	BP
+Gene_004058	signal recognition particle 9 kda	0	0	0	0	0	0	0	-1	0	110.35802	91.46044	92.98714	108.50061	124.30003	98.62876	GO:0044249	cellular biosynthetic process	BP
+Gene_004196	transcription factor hy5	0	0	0	0	0	0	0	1	1	3.992651	4.947262	5.818815	3.100102	2.476728	2.550026	GO:0044249	cellular biosynthetic process	BP
+Gene_004215	peptide chain release factor 1	0	0	0	0	0	0	0	-1	0	118.5865	102.1588	102.3981	116.2957	125.6784	120.3758	GO:0044249	cellular biosynthetic process	BP
+Gene_004227	beta and beta-prime subunits of dna dependent rna-polymerase	1	1	0	0	0	0	0	-1	-1	269.7007	206.6472	195.5057	247.665	272.9022	287.9821	GO:0044249	cellular biosynthetic process	BP
+Gene_004272	eukaryotic peptide chain release factor gtp-binding subunit erf3a-like isoform x1	1	0	0	0	0	0	0	-1	-1	550.9606	477.6519	480.91	512.2554	577.8999	597.78	GO:0044249	cellular biosynthetic process	BP
+Gene_004300	eukaryotic translation initiation factor 2a	1	1	0	0	0	0	0	-1	-1	186.9718	148.4802	148.3782	172.6576	191.0412	200.9982	GO:0044249	cellular biosynthetic process	BP
+Gene_004367	39s ribosomal mitochondrial	0	0	0	0	0	0	0	-1	0	98.94537	85.14733	86.61579	86.76052	99.79748	90.33336	GO:0044249	cellular biosynthetic process	BP
+Gene_004372	fatty acid elongase	0	0	0	0	0	0	1	1	0	120.14845	97.99323	104.0144	80.2312	77.43804	91.21598	GO:0044249	cellular biosynthetic process	BP
+Gene_004387	40s ribosomal s4	1	0	0	0	0	0	0	-1	-1	1253.7372	941.2434	964.4036	1020.0461	1204.4856	1326.2256	GO:0044249	cellular biosynthetic process	BP
+Gene_004390	glutamine synthetase	0	0	0	0	0	0	0	-1	0	308.6112	269.6842	281.1356	329.2463	386.4209	346.1539	GO:0044249	cellular biosynthetic process	BP
+Gene_004419	alpha 1;3 fucosyltransferase	0	0	0	0	0	0	0	-1	0	33.8207	34.64974	40.0827	42.15734	45.45533	41.56438	GO:0044249	cellular biosynthetic process	BP
+Gene_004459	cupin fold family	-1	-1	0	1	0	0	0	1	1	1.180845	2.8274498	3.1121281	1.8720739	0.4449256	0.5620469	GO:0044249	cellular biosynthetic process	BP
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0044249	cellular biosynthetic process	BP
+Gene_004470	transcription initiation factor tfiid subunit 14b-like isoform x1	0	0	0	0	0	0	0	-1	-1	104.28921	88.78163	83.23308	106.75735	126.946	112.13868	GO:0044249	cellular biosynthetic process	BP
+Gene_004479	asparagine-trna cytoplasmic	1	0	0	0	0	0	0	-1	-1	473.832	353.6498	370.8573	485.0185	559.2368	597.8113	GO:0044249	cellular biosynthetic process	BP
+Gene_004538	50s ribosomal l21	1	0	0	0	0	0	0	-1	0	77.31094	64.69869	63.67496	69.45105	85.09037	69.21706	GO:0044249	cellular biosynthetic process	BP
+Gene_004546	rna polymerase iii transcription factor iiib	0	0	0	0	0	0	0	-1	0	258.382	242.1722	237.043	260.4769	293.956	267.4279	GO:0044249	cellular biosynthetic process	BP
+Gene_004571	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0044249	cellular biosynthetic process	BP
+Gene_004624	hsf-type dna-binding domain containing	-1	-1	0	1	0	0	0	1	1	8.960759	25.125694	25.01763	16.51753	5.441272	8.295389	GO:0044249	cellular biosynthetic process	BP
+Gene_004629	hypothetical protein pbra 001195; partial	-1	-1	0	1	0	0	0	1	1	19.31631	47.56382	54.92184	41.32866	14.51165	19.29484	GO:0044249	cellular biosynthetic process	BP
+Gene_004662	hypothetical protein pbra 001220	-1	-1	0	0	0	0	0	1	0	0.4284529	1.6856642	1.4334149	0.6381252	0.1335603	0.4350657	GO:0044249	cellular biosynthetic process	BP
+Gene_004665	aspartate aminotransferase chloroplastic	1	0	0	0	0	0	0	-1	-1	296.5896	250.4308	263.3307	287.6339	303.3745	321.0846	GO:0044249	cellular biosynthetic process	BP
+Gene_004678	alpha 1;3 fucosyltransferase	0	0	0	0	0	0	0	1	0	1.0244672	2.0874162	1.9036213	1.1140766	0.9147437	0.9304992	GO:0044249	cellular biosynthetic process	BP
+Gene_004684	hypothetical protein pbra 001243	0	-1	0	0	0	0	0	1	1	3.16537	5.095095	7.702073	3.255843	1.777885	2.489659	GO:0044249	cellular biosynthetic process	BP
+Gene_004696	eukaryotic translation initiation factor 5a-1-like	1	0	0	0	0	0	0	-1	-1	1192.277	912.3071	936.3317	1043.741	1190.7493	1239.1896	GO:0044249	cellular biosynthetic process	BP
+Gene_004764	partner of isoform b	0	0	0	0	0	0	0	-1	0	228.5211	218.5627	214.907	238.6667	254.3373	229.3899	GO:0044249	cellular biosynthetic process	BP
+Gene_004766	probable proline dehydrogenase 2	-1	-1	0	1	0	0	0	1	1	34.20298	64.60684	77.26848	45.47679	23.50117	30.4546	GO:0044249	cellular biosynthetic process	BP
+Gene_004797	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0044249	cellular biosynthetic process	BP
+Gene_004801	transcription initiation factor tfiid subunit 10-like	0	0	0	0	0	0	0	-1	0	140.6221	134.3403	126.1126	147.2614	165.5062	127.9696	GO:0044249	cellular biosynthetic process	BP
+Gene_004813	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0044249	cellular biosynthetic process	BP
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0044249	cellular biosynthetic process	BP
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0044249	cellular biosynthetic process	BP
+Gene_004846	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	0	0	0	0	0	0	0	1	1	0.2266749	0.50379508	0.66649047	0.23899905	0.09485569	0	GO:0044249	cellular biosynthetic process	BP
+Gene_004851	dna polymerase beta-like	0	0	0	0	0	0	0	-1	0	52.23748	44.79374	42.75927	53.76917	64.9371	57.34747	GO:0044249	cellular biosynthetic process	BP
+Gene_004858	ornithine decarboxylase	0	0	0	0	0	0	0	1	1	49.28016	51.30541	51.44124	38.71479	40.66605	35.25697	GO:0044249	cellular biosynthetic process	BP
+Gene_004859	chorismate mutase	-1	0	0	0	0	0	0	1	0	7.437274	15.958785	12.111511	10.816217	7.908709	6.694598	GO:0044249	cellular biosynthetic process	BP
+Gene_004914	1-pyrroline-5-carboxylate dehydrogenase	-1	-1	0	0	0	0	0	1	1	182.9921	224.1142	249.97	205.1894	167.929	178.9826	GO:0044249	cellular biosynthetic process	BP
+Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0044249	cellular biosynthetic process	BP
+Gene_004931	60s ribosomal l28	1	0	0	0	0	0	0	-1	0	722.7167	570.8907	563.2471	626.2768	728.1734	706.4591	GO:0044249	cellular biosynthetic process	BP
+Gene_004962	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	-1	0	122.0537	106.6194	115.5848	122.1355	126.5585	136.775	GO:0044249	cellular biosynthetic process	BP
+Gene_004976	1-phosphatidylinositol-3-phosphate 5-kinase fab1a isoform x1	0	0	0	0	0	0	0	1	1	178.8277	194.9476	212.49	164.2194	142.4862	141.2152	GO:0044249	cellular biosynthetic process	BP
+Gene_004984	alanine-trna ligase	1	0	0	0	0	0	0	-1	-1	406.0457	339.3033	341.2607	401.511	440.4367	449.7488	GO:0044249	cellular biosynthetic process	BP
+Gene_004993	dna polymerase delta small subunit	1	0	0	0	0	0	0	-1	-1	151.9049	125.5688	129.6713	143.5124	151.2567	176.0038	GO:0044249	cellular biosynthetic process	BP
+Gene_005032	gluconolactonase	0	0	0	0	0	0	1	1	0	130.3528	122.0671	129.0308	101.9426	103.1006	110.7356	GO:0044249	cellular biosynthetic process	BP
+Gene_005037	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:0044249	cellular biosynthetic process	BP
+Gene_005038	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:0044249	cellular biosynthetic process	BP
+Gene_005083	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	0	1	1	5.242119	15.631916	13.96421	8.940509	4.076583	2.754024	GO:0044249	cellular biosynthetic process	BP
+Gene_005121	phosphatidylserine decarboxylase subunit beta	-1	-1	0	1	0	0	-1	1	1	4.39899	12.237919	11.162974	8.876964	2.711804	5.014703	GO:0044249	cellular biosynthetic process	BP
+Gene_005163	cdp-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase	0	0	0	0	0	0	0	-1	0	59.60778	48.85281	55.79857	59.25859	59.94728	59.82463	GO:0044249	cellular biosynthetic process	BP
+Gene_005219	tyrosine biosynthesis bifunctional enzyme	0	0	0	0	0	0	0	1	0	18.58509	24.5139	22.39317	20.77323	17.50211	14.30512	GO:0044249	cellular biosynthetic process	BP
+Gene_005222	branched-chain amino acid aminotransferase	0	0	0	0	0	0	0	1	0	12.914852	13.249181	16.817998	9.284981	7.431291	10.870397	GO:0044249	cellular biosynthetic process	BP
+Gene_005223	branched-chain amino acid aminotransferase ii	0	0	0	0	0	0	0	1	0	7.153556	7.825206	9.853424	5.560675	3.863147	6.513495	GO:0044249	cellular biosynthetic process	BP
+Gene_005225	transcription factor 25-like	0	0	0	0	0	0	0	-1	0	211.7396	187.0242	191.6965	207.1009	225.7421	209.916	GO:0044249	cellular biosynthetic process	BP
+Gene_005288	transcription initiation factor beta subunit	0	0	0	0	0	0	0	-1	0	30.91938	30.57374	28.55101	34.96865	40.16186	33.7665	GO:0044249	cellular biosynthetic process	BP
+Gene_005476	cholinephosphotransferase 1-like	0	0	0	0	0	0	0	-1	0	55.30326	52.34434	58.62912	61.52083	64.16522	57.49943	GO:0044249	cellular biosynthetic process	BP
+Gene_005477	choline ethanolaminephosphotransferase 1-like	0	0	0	0	0	0	0	-1	0	45.81883	41.4364	50.31955	52.49284	54.27855	49.91179	GO:0044249	cellular biosynthetic process	BP
+Gene_005513	enoyl-hydratase	1	0	0	0	0	0	0	-1	0	34.99106	28.63978	30.36618	30.53939	37.38292	36.62045	GO:0044249	cellular biosynthetic process	BP
+Gene_005517	pas domain s-box	-1	0	0	0	0	0	0	1	0	4.97696	10.758471	9.1913	5.85426	3.815445	3.925995	GO:0044249	cellular biosynthetic process	BP
+Gene_005547	rna polymerase-associated ctr9 homolog	0	0	0	0	0	0	0	-1	0	524.0732	474.6751	474.5205	526.1708	585.7911	550.0498	GO:0044249	cellular biosynthetic process	BP
+Gene_005555	alkaloid synthase surface mucin hemomucin	-1	-1	0	1	0	0	0	1	1	7.48598	19.883725	24.853011	13.964354	3.927304	6.983946	GO:0044249	cellular biosynthetic process	BP
+Gene_005559	dna-directed rna polymerase iii subunit rpc4-like isoform x1	0	0	0	0	0	0	0	-1	-1	62.36862	57.54987	58.77009	66.82981	70.25893	73.69886	GO:0044249	cellular biosynthetic process	BP
+Gene_005578	glutamate-trna ligase	1	0	0	0	0	0	0	-1	-1	105.69497	84.50922	90.46621	104.709	118.3958	127.29101	GO:0044249	cellular biosynthetic process	BP
+Gene_005591	gdp-l-fucose synthase 2	0	0	0	0	0	0	0	1	0	14.25853	16.34101	17.3864	11.78294	11.35206	11.62395	GO:0044249	cellular biosynthetic process	BP
+Gene_005615	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	-1	1	0	22.96513	41.43728	41.12095	36.3205	26.80193	28.51657	GO:0044249	cellular biosynthetic process	BP
+Gene_005720	eukaryotic translation initiation factor 4e-1	1	0	0	0	0	0	0	-1	-1	151.5689	123.2027	123.5045	137.3419	149.379	157.8185	GO:0044249	cellular biosynthetic process	BP
+Gene_005729	hypothetical protein pbra 000716; partial	-1	0	0	0	0	0	0	1	0	0.2933523	0.8063196	0.600178	0.2811067	0.2552143	0.3143301	GO:0044249	cellular biosynthetic process	BP
+Gene_005754	cdp-diacylglycerol-glycerol-3-phosphate 3-mitochondrial	0	0	0	0	0	0	0	-1	0	130.6699	113.2079	115.0018	131.9038	148.8563	140.3888	GO:0044249	cellular biosynthetic process	BP
+Gene_005756	tho complex subunit 5b-like isoform x4	0	0	0	0	0	0	0	-1	0	222.4007	208.7947	211.6006	249.9275	267.7396	257.6899	GO:0044249	cellular biosynthetic process	BP
+Gene_005792	mediator of rna polymerase ii transcription subunit 12-like	0	0	0	0	0	0	0	-1	0	251.8365	220.0935	236.7868	246.3235	277.8153	276.9161	GO:0044249	cellular biosynthetic process	BP
+Gene_005823	50s ribosomal l13	1	1	0	0	0	0	0	-1	-1	128.8731	103.6831	103.9578	131.4341	141.0924	138.9774	GO:0044249	cellular biosynthetic process	BP
+Gene_005847	threonine-trna cytoplasmic isoform x1	1	0	0	0	0	0	0	-1	-1	652.9964	507.9539	532.813	597.4069	662.4911	719.5214	GO:0044249	cellular biosynthetic process	BP
+Gene_005860	dolichyl pyrophosphate man9 c2 alpha-1;3-glucosyltransferase-like	1	0	0	0	0	0	0	-1	-1	101.27651	86.60265	90.37734	102.91975	120.79607	115.40894	GO:0044249	cellular biosynthetic process	BP
+Gene_005931	prolyl-trna synthetase ( )	1	1	0	0	0	0	0	-1	-1	640.4133	492.8115	505.935	612.0846	699.2832	749.6471	GO:0044249	cellular biosynthetic process	BP
+Gene_005983	30s ribosomal s9	0	0	0	0	0	0	0	-1	0	429.5537	371.9893	376.9711	397.6419	464.9897	442.0204	GO:0044249	cellular biosynthetic process	BP
+Gene_005995	transcriptional adapter ada2b-like isoform x1	0	0	0	0	0	0	0	-1	0	136.1116	131.4831	135.5871	140.5704	159.2984	133.3819	GO:0044249	cellular biosynthetic process	BP
+Gene_006039	leucine-trna cytoplasmic isoform x2	1	0	0	0	0	0	0	-1	-1	483.7841	395.8129	404.4109	479.9591	559.1742	567.086	GO:0044249	cellular biosynthetic process	BP
+Gene_006040	leucine-trna cytoplasmic-like	0	0	0	0	0	0	0	-1	0	17.0821	14.35694	15.71543	16.80275	20.93164	15.06909	GO:0044249	cellular biosynthetic process	BP
+Gene_006043	5-demethoxyubiquinone mitochondrial	0	0	0	0	0	0	0	1	1	34.85735	51.76146	60.15082	32.01851	21.52656	31.44755	GO:0044249	cellular biosynthetic process	BP
+Gene_006080	valyl-trna synthetase	0	0	0	0	0	0	0	-1	0	534.4807	462.8078	503.9944	551.9798	577.731	600.0615	GO:0044249	cellular biosynthetic process	BP
+Gene_006081	valyl-trna synthetase	0	0	0	0	0	0	0	-1	0	146.4715	126.9094	144.9447	156.7661	159.029	169.0157	GO:0044249	cellular biosynthetic process	BP
+Gene_006084	s-adenosylmethionine decarboxylase proenzyme-like	1	0	0	0	0	0	0	-1	-1	62.00296	45.39272	50.53835	56.41992	69.23003	75.02695	GO:0044249	cellular biosynthetic process	BP
+Gene_006122	udp-glucose:glyco glucosyltransferase	0	0	0	0	0	0	0	-1	-1	206.3519	180.1533	185.9786	211.8981	241.2885	224.7707	GO:0044249	cellular biosynthetic process	BP
+Gene_006156	nad-dependent epimerase dehydratase family	0	0	0	0	0	0	0	1	0	80.46965	94.08497	98.49551	85.71525	69.33669	79.37761	GO:0044249	cellular biosynthetic process	BP
+Gene_006160	hypothetical protein pbra 007315	-1	-1	0	1	0	0	0	1	1	2.426493	8.068273	6.894504	3.777801	1.659954	1.607036	GO:0044249	cellular biosynthetic process	BP
+Gene_006246	hypothetical protein pbra 004911	-1	-1	0	0	0	0	0	1	0	103.6586	128.219	140.6473	119.7836	104.8785	114.8989	GO:0044249	cellular biosynthetic process	BP
+Gene_006292	cyclin-h isoform x1	1	0	0	0	0	0	0	-1	0	69.95889	55.94955	60.56695	59.45888	71.33524	67.69329	GO:0044249	cellular biosynthetic process	BP
+Gene_006295	hypothetical protein emihudraft 108598	-1	-1	0	0	0	0	0	1	1	3.190528	9.394146	8.871068	6.714446	2.612528	2.439694	GO:0044249	cellular biosynthetic process	BP
+Gene_006307	40s ribosomal s18	1	0	0	0	0	0	0	-1	-1	1350.335	1008.468	1024.815	1142.608	1309.961	1410.149	GO:0044249	cellular biosynthetic process	BP
+Gene_006316	glycyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	141.8776	112.7339	111.4243	118.9396	138.5452	144.3002	GO:0044249	cellular biosynthetic process	BP
+Gene_006323	delta l-pyrroline-5-carboxylate synthetase	0	1	0	0	0	0	0	-1	0	95.42909	85.04328	78.81999	92.43295	101.34768	90.48323	GO:0044249	cellular biosynthetic process	BP
+Gene_006331	autophagy-related 18a	0	0	0	0	0	0	0	-1	0	98.62619	93.24685	95.48766	111.5882	107.69042	113.17742	GO:0044249	cellular biosynthetic process	BP
+Gene_006409	phosphatidylserine synthase 1-like	0	0	0	0	0	0	0	-1	0	152.1207	136.0984	129.9585	137.6204	159.632	147.1937	GO:0044249	cellular biosynthetic process	BP
+Gene_006411	elongation factor 2	1	1	0	0	0	0	0	-1	-1	3145.814	2423.944	2433.899	2736.199	3229.08	3500.354	GO:0044249	cellular biosynthetic process	BP
+Gene_006530	mitochondrial carrier	0	0	0	0	0	0	0	1	1	117.33778	117.53885	128.76388	98.79891	88.23469	84.40689	GO:0044249	cellular biosynthetic process	BP
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0044249	cellular biosynthetic process	BP
+Gene_006563	dna polymerase epsilon catalytic subunit a [wallemia mellicola cbs ]	0	0	0	0	0	0	0	-1	0	437.7034	394.7959	439.4554	445.3714	503.7481	471.2967	GO:0044249	cellular biosynthetic process	BP
+Gene_006564	phosphoethanolamine-cytidyltransferase	-1	0	0	0	0	0	0	1	1	11.012476	25.195358	20.100411	13.807697	7.418446	6.209568	GO:0044249	cellular biosynthetic process	BP
+Gene_006598	glutamine-fructose-6-phosphate transaminase	-1	0	0	0	0	0	0	1	0	99.57143	150.09838	120.84414	132.05578	106.54003	113.13995	GO:0044249	cellular biosynthetic process	BP
+Gene_006637	adenylosuccinate lyase	1	1	0	0	0	0	0	-1	-1	126.1515	101.751	98.7969	105.9955	125.7071	129.8848	GO:0044249	cellular biosynthetic process	BP
+Gene_006651	dna polymerase i	-1	-1	0	1	0	0	0	1	1	70.98151	108.1141	128.48363	96.01215	58.44089	58.76715	GO:0044249	cellular biosynthetic process	BP
+Gene_006656	tryptophan-trna cytoplasmic	0	0	0	0	0	0	0	-1	-1	205.595	176.7505	174.7248	198.2962	205.7645	229.2837	GO:0044249	cellular biosynthetic process	BP
+Gene_006695	histidine phosphatase family	0	0	0	0	0	0	1	1	0	3.72834	3.275059	3.772595	1.736185	1.813209	1.87349	GO:0044249	cellular biosynthetic process	BP
+Gene_006732	mads-box soc1-like isoform x1	0	1	0	0	0	0	0	-1	-1	110.85489	92.75945	87.78882	111.32573	124.22456	116.20416	GO:0044249	cellular biosynthetic process	BP
+Gene_006777	acetyl-carboxylase	0	0	0	0	0	0	0	-1	0	296.6256	251.484	287.6254	302.0155	333.6995	348.9892	GO:0044249	cellular biosynthetic process	BP
+Gene_006779	acetyl-carboxylase	0	0	0	0	0	0	0	-1	0	348.6568	304.0416	321.8105	352.2929	386.5652	383.3968	GO:0044249	cellular biosynthetic process	BP
+Gene_006787	cyclic nucleotide-binding	-1	-1	0	0	0	0	0	1	1	51.03941	69.98336	82.50547	65.07916	51.56587	49.458	GO:0044249	cellular biosynthetic process	BP
+Gene_006860	stearoyl-desaturase (delta-9 desaturase)	0	0	0	0	0	0	0	-1	-1	463.2954	365.2873	357.8817	451.892	546.1599	579.8634	GO:0044249	cellular biosynthetic process	BP
+Gene_006904	3-hydroxyacyl-dehydrogenase	-1	0	0	0	0	0	0	1	0	1.7113534	4.8334821	4.3564716	1.9432544	0.5978382	1.6611584	GO:0044249	cellular biosynthetic process	BP
+Gene_006908	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0044249	cellular biosynthetic process	BP
+Gene_006910	hypothetical protein pbra 009319	0	0	0	0	0	0	0	-1	0	42.79185	38.92867	39.85409	49.03856	52.65893	48.85848	GO:0044249	cellular biosynthetic process	BP
+Gene_006919	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	1.3339908	3.2967364	2.4581549	1.2331818	0.7662915	0.4954335	GO:0044249	cellular biosynthetic process	BP
+Gene_006922	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	2.967996	12.183015	7.854038	3.626956	2.709987	1.794385	GO:0044249	cellular biosynthetic process	BP
+Gene_006928	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0044249	cellular biosynthetic process	BP
+Gene_006937	glycosyltransferase family 10	0	0	0	0	0	0	0	-1	0	3.224286	2.625295	2.501755	3.067729	5.656658	3.528402	GO:0044249	cellular biosynthetic process	BP
+Gene_006968	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0044249	cellular biosynthetic process	BP
+Gene_006983	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0044249	cellular biosynthetic process	BP
+Gene_007012	eukaryotic translation initiation factor 3	0	1	0	0	0	0	0	-1	-1	402.5301	336.5196	310.517	378.5476	418.173	434.9927	GO:0044249	cellular biosynthetic process	BP
+Gene_007016	ubiquitin-conjugating enzyme e2 d	0	0	0	0	0	0	0	-1	-1	313.8837	302.1358	313.7797	373.0291	385.5256	397.1837	GO:0044249	cellular biosynthetic process	BP
+Gene_007017	hira	0	0	0	0	0	0	0	-1	-1	212.7562	189.0355	194.3062	209.8699	243.3761	244.6879	GO:0044249	cellular biosynthetic process	BP
+Gene_007026	probable rna-binding eif1ad	0	0	0	0	0	0	0	-1	0	24.36332	19.76722	21.33135	23.18149	27.27993	24.38449	GO:0044249	cellular biosynthetic process	BP
+Gene_007055	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0044249	cellular biosynthetic process	BP
+Gene_007056	eukaryotic translation initiation factor 3 subunit b-like	0	0	0	0	0	0	0	-1	0	24.86984	20.41755	21.62592	24.81432	28.19578	28.25013	GO:0044249	cellular biosynthetic process	BP
+Gene_007075	leucine-trna ligase	0	0	0	0	0	0	0	-1	0	230.0764	198.9008	205.1286	218.1515	238.4961	244.5485	GO:0044249	cellular biosynthetic process	BP
+Gene_007116	srf-type transcription factor	1	1	0	0	0	0	0	-1	-1	74.78815	59.18087	56.35305	66.37199	81.14271	79.43173	GO:0044249	cellular biosynthetic process	BP
+Gene_007141	coiled-coil and c2 domain-containing 2a isoform x3	0	0	0	0	0	0	0	1	0	5.998906	8.593664	8.296532	6.037863	4.464019	5.395646	GO:0044249	cellular biosynthetic process	BP
+Gene_007159	peptidylprolyl isomerase	0	0	0	0	0	0	0	1	1	72.92764	78.62618	85.34091	59.77291	61.15238	58.67349	GO:0044249	cellular biosynthetic process	BP
+Gene_007160	inositol-3-phosphate synthase 1-a-like	1	0	0	0	0	0	0	-1	-1	160.9577	126.8394	135.1943	159.6631	166.8915	179.0618	GO:0044249	cellular biosynthetic process	BP
+Gene_007169	actin arp5	0	0	0	0	0	0	0	-1	0	138.3249	141.5751	141.8729	158.6506	173.5874	151.1426	GO:0044249	cellular biosynthetic process	BP
+Gene_007320	ubiquinone menaquinone biosynthesis methyltransferase ubie	1	0	0	0	0	0	0	-1	-1	99.05459	83.19456	82.24666	116.69437	134.17282	124.03533	GO:0044249	cellular biosynthetic process	BP
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0044249	cellular biosynthetic process	BP
+Gene_007337	atypical group	0	0	0	0	0	0	0	-1	0	446.6208	397.029	436.7643	433.9432	492.5864	478.7761	GO:0044249	cellular biosynthetic process	BP
+Gene_007367	general transcription factor iih	0	1	0	0	0	0	0	-1	-1	176.1936	150.5639	139.0866	166.1844	181.8328	185.9104	GO:0044249	cellular biosynthetic process	BP
+Gene_007405	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:0044249	cellular biosynthetic process	BP
+Gene_007470	poly(a)-specific ribonuclease parn-like domain-containing 1	1	1	0	0	0	0	1	-1	-1	261.3242	206.4651	209.6455	209.7671	242.688	264.4054	GO:0044249	cellular biosynthetic process	BP
+Gene_007524	dna-directed rna polymerase i complex largesubunit nuc1	1	1	0	0	0	0	0	-1	-1	217.1682	173.8538	158.3606	192.416	216.7122	225.2141	GO:0044249	cellular biosynthetic process	BP
+Gene_007525	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0044249	cellular biosynthetic process	BP
+Gene_007542	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0044249	cellular biosynthetic process	BP
+Gene_007757	mediator of rna polymerase ii transcription subunit 14	0	0	0	0	0	0	0	-1	-1	275.4878	248.4994	256.151	298.5213	344.0989	328.5057	GO:0044249	cellular biosynthetic process	BP
+Gene_007778	telomerase reverse transcriptase	0	0	0	0	0	0	0	-1	-1	192.431	162.0326	169.3417	190.7145	235.1124	220.5615	GO:0044249	cellular biosynthetic process	BP
+Gene_007779	telomerase reverse transcriptase-like	0	0	0	0	0	0	0	-1	-1	42.85265	39.49381	34.67784	42.0658	52.42308	50.96511	GO:0044249	cellular biosynthetic process	BP
+Gene_007810	4-hydroxybenzoate mitochondrial isoform x1	0	0	0	0	0	0	0	-1	0	87.44904	78.81632	80.03295	84.03012	94.46483	86.66132	GO:0044249	cellular biosynthetic process	BP
+Gene_007814	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 1a-like	1	0	0	0	0	0	0	-1	-1	679.3603	543.1603	573.9172	606.7912	705.511	767.7845	GO:0044249	cellular biosynthetic process	BP
+Gene_007960	hd domain-containing	-1	-1	0	1	0	0	0	1	1	5.586625	14.15925	15.252594	10.777098	4.090217	6.344882	GO:0044249	cellular biosynthetic process	BP
+Gene_008065	dehydrodolichyl diphosphate synthase complex subunit dhdds	0	-1	0	0	0	0	0	1	0	45.83838	53.98968	66.60009	52.33174	41.77815	52.49515	GO:0044249	cellular biosynthetic process	BP
+Gene_008073	hypothetical protein pbra 001848	0	0	0	0	0	0	0	-1	0	70.5756	59.87454	58.32353	63.16576	72.62396	73.01606	GO:0044249	cellular biosynthetic process	BP
+Gene_008074	hypothetical protein pbra 001849	0	0	0	0	0	0	0	-1	-1	94.375	87.83909	90.34887	105.89129	119.39363	114.50549	GO:0044249	cellular biosynthetic process	BP
+Gene_008102	mediator complex subunit 27	0	0	0	0	0	0	0	-1	0	90.54862	82.16122	87.22574	90.67622	100.3915	99.12416	GO:0044249	cellular biosynthetic process	BP
+Gene_008110	heat stress transcription factor a-4a	0	0	0	0	0	0	0	-1	0	366.3014	316.7001	304.8391	343.8018	403.5661	373.0655	GO:0044249	cellular biosynthetic process	BP
+Gene_008118	hypothetical protein pbra 001894	0	0	0	0	0	0	0	1	1	1.0084307	2.0625793	1.9292896	0.5619162	0.2496741	0.301839	GO:0044249	cellular biosynthetic process	BP
+Gene_008141	s-adenosylmethionine synthetase	0	-1	0	1	0	0	0	1	1	340.0936	413.1303	497.6191	342.2597	248.693	292.4141	GO:0044249	cellular biosynthetic process	BP
+Gene_008184	c6 transcription	0	0	0	0	0	0	0	1	0	2.437813	6.983874	4.367468	4.68677	2.279139	2.604149	GO:0044249	cellular biosynthetic process	BP
+Gene_008198	aspartyl glutamyl-trna(asn gln) amidotransferase subunit b	0	0	0	0	0	0	0	-1	0	122.9365	105.5161	108.498	118.805	127.6189	132.7616	GO:0044249	cellular biosynthetic process	BP
+Gene_008293	hypothetical protein pbra 002023	0	0	0	0	0	0	0	-1	0	9.631653	7.784023	9.536012	8.911533	10.536419	10.549822	GO:0044249	cellular biosynthetic process	BP
+Gene_008327	dna-directed rna polymerase ii kda polypeptide	0	0	0	0	0	0	0	-1	0	44.92536	37.51653	38.39015	40.20816	46.91563	36.61005	GO:0044249	cellular biosynthetic process	BP
+Gene_008346	bifunctional aspartate kinase homoserine dehydrogenase	-1	-1	0	0	0	0	0	1	0	117.1156	135.763	144.6451	131.5649	111.44	122.1806	GO:0044249	cellular biosynthetic process	BP
+Gene_008389	glycine hydroxymethyltransferase	0	0	0	0	0	0	0	-1	0	228.7562	206.7248	223.6628	236.9004	248.2964	236.6715	GO:0044249	cellular biosynthetic process	BP
+Gene_008432	adenylyl cyclase class-3 4 guanylyl cyclase	0	0	0	0	0	0	0	-1	0	62.45895	55.87829	57.18021	69.78077	75.15456	72.27915	GO:0044249	cellular biosynthetic process	BP
+Gene_008433	adenylate guanylate cyclase domain	0	0	0	0	0	0	0	-1	0	33.39877	31.06039	29.71547	36.27253	40.69257	35.46929	GO:0044249	cellular biosynthetic process	BP
+Gene_008459	membrane gtpase	0	0	0	0	0	0	0	-1	0	271.2839	243.3727	267.1865	295.8743	319.5076	308.6446	GO:0044249	cellular biosynthetic process	BP
+Gene_008582	alpha 1;3 fucosyltransferase	-1	-1	0	0	0	0	0	1	1	6.281261	13.917527	13.053167	7.432231	3.369871	3.709506	GO:0044249	cellular biosynthetic process	BP
+Gene_008609	eukaryotic translation initiation factor 1a	0	0	0	0	0	0	0	-1	0	107.31784	104.47152	96.23253	131.58197	130.19387	105.38994	GO:0044249	cellular biosynthetic process	BP
+Gene_008687	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0044249	cellular biosynthetic process	BP
+Gene_008712	transcription and mrna export factor	0	0	0	0	0	0	0	-1	0	35.26391	32.44958	33.33776	39.15133	40.68772	33.4709	GO:0044249	cellular biosynthetic process	BP
+Gene_008726	dna polymerase delta subunit 4	0	0	0	0	0	0	0	1	1	14.02178	17.32618	17.90629	12.72267	10.56954	10.96199	GO:0044249	cellular biosynthetic process	BP
+Gene_008764	dead-domain-containing [cutaneotrichosporon oleaginosum]	1	0	0	0	0	0	0	-1	-1	1480.922	1220.242	1212.977	1470.77	1570.161	1704.618	GO:0044249	cellular biosynthetic process	BP
+Gene_008776	elongation factor ts	1	1	0	0	0	0	0	-1	0	225.5681	173.0729	176.0718	188.5239	215.5862	215.7634	GO:0044249	cellular biosynthetic process	BP
+Gene_008801	h aca ribonucleo complex subunit 3	0	0	0	0	0	0	0	-1	0	30.49843	23.01511	23.33071	31.42257	33.56238	24.60828	GO:0044249	cellular biosynthetic process	BP
+Gene_008834	glutamine synthetase	-1	-1	0	1	0	0	0	1	1	392.2103	604.5827	669.4432	488.9117	301.0374	328.9158	GO:0044249	cellular biosynthetic process	BP
+Gene_008835	eukaryotic translation initiation factor 5	1	0	0	0	0	0	0	-1	-1	893.1296	728.7281	762.0006	982.1806	936.7964	1024.3962	GO:0044249	cellular biosynthetic process	BP
+Gene_008842	general transcription factor iih subunit 3 isoform 1	0	0	0	0	0	0	0	1	0	0.4068512	0.8582857	0.6018082	0.3988072	0.1953402	0.301839	GO:0044249	cellular biosynthetic process	BP
+Gene_008894	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0044249	cellular biosynthetic process	BP
+Gene_008956	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	0	230.8349	257.5443	270.6161	220.191	201.1301	219.2897	GO:0044249	cellular biosynthetic process	BP
+Gene_009212	proline-trna ligase	0	0	0	0	0	0	0	-1	-1	66.89033	60.483	58.46083	70.11844	86.00763	77.52701	GO:0044249	cellular biosynthetic process	BP
+Gene_009244	bifunctional th2 mitochondrial-like	0	0	0	0	0	0	1	1	1	12.445782	13.604534	13.896572	7.750102	5.78749	4.964739	GO:0044249	cellular biosynthetic process	BP
+Gene_009289	dna polymerase beta	0	0	0	0	0	0	0	-1	0	193.1182	160.5402	167.0603	183.7725	211.7469	213.7608	GO:0044249	cellular biosynthetic process	BP
+Gene_009376	dna polymerase	0	0	0	0	0	0	0	-1	0	365.7402	299.5355	320.266	333.0067	378.5278	379.0295	GO:0044249	cellular biosynthetic process	BP
+Gene_009377	hypothetical protein pbra 006300	0	0	0	0	0	0	0	-1	0	55.55781	48.93409	48.64854	50.25666	59.88222	60.09109	GO:0044249	cellular biosynthetic process	BP
+Gene_009423	pterin-4-alpha-carbinolamine dehydratase	1	0	0	0	0	0	0	-1	0	68.51671	53.25077	55.58668	56.80992	67.37645	58.33209	GO:0044249	cellular biosynthetic process	BP
+Gene_009466	rna-directed dna polymerase (reverse transcriptase) domain containing	0	0	0	0	0	0	0	1	1	1.2786318	1.9652408	2.8607233	1.078424	0.6708757	0.9846215	GO:0044249	cellular biosynthetic process	BP
+Gene_009482	gdp-l-fucose synthetase	0	-1	0	0	0	0	0	1	1	187.5291	214.9001	249.1159	170.2561	144.8793	159.8481	GO:0044249	cellular biosynthetic process	BP
+Gene_009544	ubiquitin-conjugating enzyme e2-ubiquitin ligase	0	0	0	0	0	0	-1	-1	0	89.06435	86.90125	92.39227	109.94856	110.99741	103.80581	GO:0044249	cellular biosynthetic process	BP
+Gene_009563	dihydroorotase	0	0	0	0	0	0	0	-1	-1	69.29582	61.79768	60.19698	71.20531	76.81795	76.07194	GO:0044249	cellular biosynthetic process	BP
+Gene_009600	1-phosphatidylinositol-4-phosphate 5-kinase	-1	-1	0	0	0	0	-1	1	1	8.140904	17.556606	18.195213	15.769231	9.601167	8.511878	GO:0044249	cellular biosynthetic process	BP
+Gene_009690	5-aminolevulinate synthase	0	0	0	0	0	0	0	-1	-1	412.4352	403.9691	414.2619	454.5974	464.5621	515.1343	GO:0044249	cellular biosynthetic process	BP
+Gene_009746	dna polymerase epsilon subunit b	0	0	0	0	0	0	0	-1	0	1.86294	1.950157	1.575212	2.259251	3.149803	2.277328	GO:0044249	cellular biosynthetic process	BP
+Gene_009793	atp synthase subunit	0	0	0	0	0	0	0	1	1	214.9337	229.2808	253.7172	206.3651	194.9057	196.8599	GO:0044249	cellular biosynthetic process	BP
+Gene_009874	pas domain s-box	0	0	0	0	0	0	0	-1	-1	11.941352	9.262715	9.748707	16.450285	21.604226	20.97682	GO:0044249	cellular biosynthetic process	BP
+Gene_009876	pas domain s-box	0	0	0	0	0	0	-1	-1	-1	1.456089	1.311321	1.543023	2.895631	2.711067	3.909346	GO:0044249	cellular biosynthetic process	BP
+Gene_009905	diphthamide biosynthesis	0	0	0	0	0	0	0	-1	0	38.46361	33.14361	33.56142	41.03143	45.24736	41.90368	GO:0044249	cellular biosynthetic process	BP
+Gene_009934	gpi ethanolamine phosphate transferase 3 isoform x2	0	0	0	0	0	0	0	1	1	126.0064	137.2416	154.6017	129.0373	111.3405	118.1005	GO:0044249	cellular biosynthetic process	BP
+Gene_010056	hypothetical protein pbra 005874	-1	0	0	0	0	0	0	1	0	10.172787	45.249772	27.979703	21.531239	12.800522	9.186327	GO:0044249	cellular biosynthetic process	BP
+Gene_010105	rf-1 domain-domain-containing	0	0	0	0	0	0	0	1	0	7.771497	9.242038	8.143324	4.74155	5.141644	7.745833	GO:0044249	cellular biosynthetic process	BP
+Gene_010119	asparaginyl-trna synthetase	1	0	0	0	0	0	0	-1	0	120.12686	97.52626	100.38277	105.17983	122.49663	115.25072	GO:0044249	cellular biosynthetic process	BP
+Gene_010175	glycosyltransferase family 71	0	0	0	0	0	0	0	1	0	1.508477	2.6262684	2.7943011	1.5058127	0.8737505	0.978376	GO:0044249	cellular biosynthetic process	BP
+Gene_010277	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:0044249	cellular biosynthetic process	BP
+Gene_010311	arginine n-methyltransferase	1	1	0	0	0	0	0	-1	-1	228.7065	178.1137	172.926	237.679	263.3558	256.6179	GO:0044249	cellular biosynthetic process	BP
+Gene_010392	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0044249	cellular biosynthetic process	BP
+Gene_010482	50s ribosomal l24	0	0	0	0	0	0	0	-1	0	165.1907	141.6759	143.7255	168.054	189.5663	169.6631	GO:0044249	cellular biosynthetic process	BP
+Gene_010491	family gt8 and family gt64	0	0	0	0	0	0	0	1	1	10.107052	11.85552	10.224605	6.77575	7.420046	5.485154	GO:0044249	cellular biosynthetic process	BP
+Gene_010531	transmembrane 258	0	0	0	0	0	0	0	-1	0	24.03073	22.42026	23.91337	27.65133	29.66248	24.07433	GO:0044249	cellular biosynthetic process	BP
+Gene_010532	chromatin associated kti12	1	1	0	0	0	0	0	-1	-1	72.26277	56.62481	58.18052	75.25818	83.55084	76.92334	GO:0044249	cellular biosynthetic process	BP
+Gene_010592	elongation factor g-mitochondrial	0	0	0	0	0	0	0	-1	0	231.9692	209.7579	234.2667	225.5956	247.8455	232.248	GO:0044249	cellular biosynthetic process	BP
+Gene_010610	translational activator gcn1	0	0	0	0	0	0	0	-1	-1	441.4352	406.409	429.1272	526.5647	579.4709	569.5653	GO:0044249	cellular biosynthetic process	BP
+Gene_010612	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0044249	cellular biosynthetic process	BP
+Gene_010642	transcription factor iie	0	0	0	0	0	0	0	-1	-1	394.2427	352.0622	344.7425	407.0307	462.9769	426.6307	GO:0044249	cellular biosynthetic process	BP
+Gene_010645	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0044249	cellular biosynthetic process	BP
+Gene_010707	histone-like transcription factor	-1	0	0	0	0	0	0	1	0	20.64892	30.49527	28.00051	22.40742	18.72175	19.64248	GO:0044249	cellular biosynthetic process	BP
+Gene_010729	single-stranded dna-bindig mitochondrial-like	1	1	0	0	0	0	0	-1	-1	183.5106	144.6439	137.4491	186.8912	217.7998	212.822	GO:0044249	cellular biosynthetic process	BP
+Gene_010834	hypothetical protein pbra 008339	-1	-1	0	1	0	0	0	1	1	3.965559	11.726986	7.809636	5.800415	2.009936	1.860998	GO:0044249	cellular biosynthetic process	BP
+Gene_010892	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:0044249	cellular biosynthetic process	BP
+Gene_010909	cold-shock	1	1	0	0	0	0	0	-1	-1	322.3521	241.5556	242.2503	370.8198	448.3097	446.2231	GO:0044249	cellular biosynthetic process	BP
+Gene_010935	trifunctional enzyme alpha mitochondrial precursor	0	0	0	0	0	0	0	-1	0	384.4596	344.2614	369.3986	382.0479	426.5839	426.0041	GO:0044249	cellular biosynthetic process	BP
+Gene_011036	dna primase small subunit	0	0	0	0	0	0	0	-1	0	153.4559	135.2733	140.6562	152.6883	164.5115	167.7396	GO:0044249	cellular biosynthetic process	BP
+Gene_011081	adenosine deaminase	0	-1	0	0	0	0	0	1	1	14.462776	20.913102	27.143674	12.847823	7.666952	8.488983	GO:0044249	cellular biosynthetic process	BP
+Gene_011088	tata-box-binding isoform x1	0	0	0	0	0	0	0	-1	0	157.8738	136.4096	138.0779	158.1987	185.0325	148.5468	GO:0044249	cellular biosynthetic process	BP
+Gene_011092	cytosolic fe-s cluster assembly factor narfl isoform x2	0	0	0	0	0	0	0	-1	0	48.17667	39.12063	39.5017	45.07253	49.58129	50.74862	GO:0044249	cellular biosynthetic process	BP
+Gene_011123	ert1 picpg ame: full=transcription activator of gluconeogenesis ert1	-1	-1	0	0	0	0	0	1	1	11.07631	32.51259	27.98185	24.73361	12.58099	10.44989	GO:0044249	cellular biosynthetic process	BP
+Gene_011137	hypothetical protein pbra 000602	0	0	0	0	0	0	0	-1	-1	100.79989	90.72572	95.50926	104.76102	121.6355	124.45373	GO:0044249	cellular biosynthetic process	BP
+Gene_011146	protoporphyrinogen oxidase	1	0	0	0	0	0	0	-1	-1	340.5368	278.4989	292.2507	304.1902	342.6616	356.1792	GO:0044249	cellular biosynthetic process	BP
+Gene_011150	hypothetical protein guithdraft 110831	0	0	0	0	0	0	0	1	0	0.8829011	1.3427515	1.3820783	0.8375289	0.5105171	0.5558013	GO:0044249	cellular biosynthetic process	BP
+Gene_011201	phosphatidylserine decarboxylase subunit beta	0	0	0	0	0	0	0	-1	0	1.1117095	0.6003054	0.8752067	1.9487484	1.7819508	1.4071961	GO:0044249	cellular biosynthetic process	BP
+Gene_011279	transcription factor	0	0	0	0	0	0	0	1	0	1.0119871	1.7877463	1.5670609	0.9870899	0.6552464	0.7431503	GO:0044249	cellular biosynthetic process	BP
+Gene_011306	spermidine synthase 2	1	1	0	0	0	0	0	-1	-1	115.4126	90.95166	86.40185	114.11195	134.69406	145.17453	GO:0044249	cellular biosynthetic process	BP
+Gene_011345	hsf-type dna-binding	-1	-1	0	1	0	0	0	1	1	1.611044	3.554756	4.471798	3.415883	1.368933	1.298952	GO:0044249	cellular biosynthetic process	BP
+Gene_011380	c6 transcription factor	-1	0	0	0	0	0	0	1	1	5.928293	21.573358	14.107637	14.327529	6.49222	4.796126	GO:0044249	cellular biosynthetic process	BP
+Gene_011438	arginine-trna ligase	1	1	0	0	0	0	0	-1	-1	327.8552	263.2239	251.2182	299.1615	354.6968	373.101	GO:0044249	cellular biosynthetic process	BP
+Gene_011531	asparagine synthase (glutamine-hydrolysing)	0	-1	0	1	0	0	0	1	1	387.8902	434.0037	491.9456	348.0262	282.2816	316.0366	GO:0044249	cellular biosynthetic process	BP
+Gene_011645	d-3-phosphoglycerate dehydrogenase	-1	-1	0	0	0	0	0	1	1	132.9882	173.3641	198.8229	147.6166	116.8456	135.0827	GO:0044249	cellular biosynthetic process	BP
+Gene_011656	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0044249	cellular biosynthetic process	BP
+Gene_011694	glucose-induced degradation complex subunit fyv10	0	0	0	0	0	0	0	-1	0	113.9004	109.6289	109.2143	122.6632	128.8992	133.2883	GO:0044249	cellular biosynthetic process	BP
+Gene_011697	aspartate-trna ligase	1	0	0	0	0	0	0	-1	-1	136.2052	106.0651	114.2361	128.0225	137.3221	150.4307	GO:0044249	cellular biosynthetic process	BP
+Gene_011709	nucleoside diphosphate kinase family protein (macronuclear)	0	0	0	1	0	0	0	1	0	0.17661981	0.50880435	0.6323669	0.61784701	0.09294988	0.12073561	GO:0044249	cellular biosynthetic process	BP
+Gene_011757	ornithine carbamoyltransferase	-1	0	0	0	0	0	-1	1	0	10.89386	31.21372	17.50905	32.78543	15.6741	13.27886	GO:0044249	cellular biosynthetic process	BP
+Gene_011772	dna-directed rna polymerase ii subunit 1	0	0	0	0	0	0	0	-1	-1	454.5259	421.2851	394.8477	562.596	654.8167	627.4208	GO:0044249	cellular biosynthetic process	BP
+Gene_011773	glutamine-trna ligase	0	0	0	0	0	0	0	-1	-1	164.0526	132.1397	130.2966	157.7838	168.5078	188.9996	GO:0044249	cellular biosynthetic process	BP
+Gene_011786	40s ribosomal protein s11	1	0	0	0	0	0	0	-1	0	857.7058	656.0985	678.6174	702.9493	819.4689	855.0557	GO:0044249	cellular biosynthetic process	BP
+Gene_011874	mediator of rna polymerase ii transcription subunit 10	0	-1	0	1	0	0	0	1	1	32.22119	40.93381	46.48216	39.19281	28.85796	26.95534	GO:0044249	cellular biosynthetic process	BP
+Gene_012070	wax ester/triacylglycerol synthase family o-acyltransferase	1	1	0	0	0	0	0	-1	-1	3.748319	1.947568	1.855131	4.258183	5.250654	5.243683	GO:0044249	cellular biosynthetic process	BP
+Gene_012205	tryptophan-trna ligase	1	1	0	0	0	0	0	-1	-1	182.8972	146.378	142.16	171.9264	196.0012	196.0793	GO:0044249	cellular biosynthetic process	BP
+Gene_012213	50s ribosomal protein l16	0	0	0	0	0	0	0	1	0	1.2062545	2.220118	1.4814911	0.7045786	0.3755225	0.4413113	GO:0044249	cellular biosynthetic process	BP
+Gene_012215	50s ribosomal protein l14	0	0	0	0	0	0	0	1	0	0.992321	2.1488305	1.5234609	0.7832998	0.4853588	0.5016791	GO:0044249	cellular biosynthetic process	BP
+Gene_012218	nadh dehydrogenase subunit 1 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.7870686	3.7087258	3.1233321	1.0324982	0.3188113	2.7623576	GO:0044249	cellular biosynthetic process	BP
+Gene_012219	nadh dehydrogenase subunit 4l (mitochondrion)	0	0	0	0	0	0	0	1	0	0.50165744	1.08933837	0.79168124	0.22108652	0.07359759	0.94923586	GO:0044249	cellular biosynthetic process	BP
+Gene_012220	group ii intron reverse transcriptase/maturase (mitochondrion)	0	0	0	0	0	0	0	1	0	0.8159624	2.3234955	1.6122911	1.1112195	0.3057365	2.6666041	GO:0044249	cellular biosynthetic process	BP
+Gene_012223	nadh dehydrogenase subunit 9 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.8976609	4.0625085	2.8737646	1.0656387	0.4703782	0.9492359	GO:0044249	cellular biosynthetic process	BP
+Gene_012225	atp synthase subunit alpha; mitochondrial	0	0	0	0	0	0	0	1	0	5.521466	8.288417	10.499661	3.271596	1.455291	2.708235	GO:0044249	cellular biosynthetic process	BP
+Gene_012261	30s ribosomal protein s4	0	0	0	0	0	0	0	1	0	0.555269	0.7524646	0.700005	0.5798069	0.1160252	0.3809434	GO:0044249	cellular biosynthetic process	BP
+Gene_012265	50s ribosomal protein l6	-1	-1	0	0	0	0	0	1	0	0.5757723	1.5452283	1.5638006	0.5795098	0.5184346	0.8160092	GO:0044249	cellular biosynthetic process	BP
+Gene_012269	30s ribosomal protein s13	0	0	0	0	0	0	0	1	0	0.7648722	1.0797058	0.9395845	0.6414042	0.2901072	0.5016791	GO:0044249	cellular biosynthetic process	BP
+Gene_012336	nicotinate phosphoribosyltransferase isoform x2	0	-1	0	0	0	0	0	1	1	53.20313	63.95999	70.55971	53.23738	47.29432	45.04073	GO:0044249	cellular biosynthetic process	BP
+Gene_012347	glycosyltransferase family 71 protein	0	0	0	0	0	0	0	1	0	8.084189	11.886807	14.454339	6.510703	4.508788	7.54808	GO:0044249	cellular biosynthetic process	BP
+Gene_012418	threonine ammonia-lyase; biosynthetic	-1	-1	0	1	0	0	0	1	1	1.9693275	5.9109207	5.5323752	2.805664	0.8785051	1.3114427	GO:0044249	cellular biosynthetic process	BP
+Gene_012477	pek/gcn2 protein kinase	0	0	0	0	0	0	0	-1	0	223.4047	199.7588	206.2262	231.084	249.9137	241.6529	GO:0044249	cellular biosynthetic process	BP
+Gene_012522	glutamate synthase [nadh]; amyloplastic isoform x1	0	0	0	0	0	0	-1	-1	0	333.0574	358.9436	346.289	445.3691	433.329	375.8945	GO:0044249	cellular biosynthetic process	BP
+Gene_012614	putative rpc11-dna-directed rna polymerase iii subunit c11	1	1	0	0	0	0	0	-1	0	64.77952	52.26174	48.03007	61.8921	77.11088	59.28339	GO:0044249	cellular biosynthetic process	BP
+Gene_012799	histidine-trna ligase	0	0	0	0	0	0	0	-1	0	46.70649	39.68192	39.53805	51.37977	53.44265	50.94795	GO:0044249	cellular biosynthetic process	BP

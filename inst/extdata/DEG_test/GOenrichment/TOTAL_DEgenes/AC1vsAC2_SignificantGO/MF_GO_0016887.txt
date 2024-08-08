@@ -1,0 +1,35 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000257	atp-binding cassette (abc) superfamily	-1	-1	0	0	0	0	0	0	1	48.84399	73.09943	74.60824	61.11385	57.08318	50.12203	GO:0016887	ATP hydrolysis activity	MF
+Gene_000498	dynein heavy chain axonemal-like isoform x4	-1	-1	0	0	0	0	-1	1	1	145.1224	220.7308	225.7166	186.2228	156.5274	147.1354	GO:0016887	ATP hydrolysis activity	MF
+Gene_000810	p-loop containing nucleoside triphosphate hydrolase	1	0	0	0	0	0	1	0	0	741.0018	615.8963	617.6885	615.1305	542.7683	640.377	GO:0016887	ATP hydrolysis activity	MF
+Gene_001882	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0016887	ATP hydrolysis activity	MF
+Gene_001910	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0016887	ATP hydrolysis activity	MF
+Gene_002304	multidrug resistance	-1	-1	0	0	0	0	0	1	1	91.89878	210.6905	212.48674	155.59427	100.27146	83.55129	GO:0016887	ATP hydrolysis activity	MF
+Gene_002305	abc transporter c family member 2	1	1	0	0	0	0	0	-1	-1	164.2066	132.9492	131.6824	152.7858	177.4672	180.2795	GO:0016887	ATP hydrolysis activity	MF
+Gene_002887	heat shock ssa2 ( )	-1	0	0	0	0	0	-1	0	0	48.9351	114.96961	49.82127	115.40731	104.98019	55.14089	GO:0016887	ATP hydrolysis activity	MF
+Gene_003331	abc transporter g family member 11-like	-1	-1	0	0	0	0	0	1	1	4.167011	9.941939	11.147915	5.321606	3.065077	2.905988	GO:0016887	ATP hydrolysis activity	MF
+Gene_004335	atp-dependent protease atpase subunit	1	0	0	0	0	0	1	0	0	173.7353	140.1616	151.4891	139.8893	158.2928	151.5673	GO:0016887	ATP hydrolysis activity	MF
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0016887	ATP hydrolysis activity	MF
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0016887	ATP hydrolysis activity	MF
+Gene_004857	abc transporter e family member 2	1	1	0	0	0	0	0	-1	-1	389.226	302.9321	302.5792	374.4369	468.2251	472.6643	GO:0016887	ATP hydrolysis activity	MF
+Gene_005160	gtp-binding	1	0	0	0	0	0	0	-1	-1	91.60036	71.17719	72.94575	89.88298	102.35447	98.03756	GO:0016887	ATP hydrolysis activity	MF
+Gene_005162	gtp-binding variant 2	1	1	0	0	0	0	0	-1	-1	90.12675	68.19331	69.5957	79.26314	98.13439	96.48463	GO:0016887	ATP hydrolysis activity	MF
+Gene_005403	atp-binding cassette sub-family a member 3	-1	-1	0	1	0	0	0	1	1	0.33306084	0.86005435	0.97666386	0.74151117	0.08113218	0.06036781	GO:0016887	ATP hydrolysis activity	MF
+Gene_006335	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:0016887	ATP hydrolysis activity	MF
+Gene_006571	family atpase	-1	-1	0	0	0	0	0	1	1	21.51758	34.44169	32.42426	24.81661	20.62334	21.23494	GO:0016887	ATP hydrolysis activity	MF
+Gene_006766	p-loop containing nucleoside triphosphate hydrolase	-1	0	0	0	0	0	0	1	0	24.00946	47.15159	36.27018	36.63918	20.03018	20.03383	GO:0016887	ATP hydrolysis activity	MF
+Gene_006897	multidrug resistance 1	-1	-1	0	0	0	0	0	1	1	10.511857	35.323359	27.56086	19.501702	9.301079	10.66847	GO:0016887	ATP hydrolysis activity	MF
+Gene_006916	atp-dependent permease	-1	0	0	0	0	0	0	0	0	3.055527	12.118693	6.606033	9.04937	5.262879	3.497175	GO:0016887	ATP hydrolysis activity	MF
+Gene_006917	p-loop containing nucleoside triphosphate hydrolase	-1	0	0	0	0	0	0	0	0	4.291182	12.531988	6.256031	11.314287	6.044034	3.986363	GO:0016887	ATP hydrolysis activity	MF
+Gene_007878	atp-binding cassette (abc) superfamily	1	1	0	0	0	0	0	0	0	17.15772	12.09054	11.38747	11.57886	15.31155	14.17814	GO:0016887	ATP hydrolysis activity	MF
+Gene_008064	p-loop containing nucleoside triphosphate hydrolase	-1	-1	0	1	0	0	-1	1	1	13.95789	25.21071	23.651	23.37564	12.51771	13.0249	GO:0016887	ATP hydrolysis activity	MF
+Gene_008434	p-loop containing nucleoside triphosphate hydrolase	1	1	0	-1	0	0	0	-1	0	100.83121	82.77548	80.42126	86.77983	104.22014	93.62236	GO:0016887	ATP hydrolysis activity	MF
+Gene_009088	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:0016887	ATP hydrolysis activity	MF
+Gene_009779	pep carboxykinase	-1	-1	0	0	0	0	-1	1	0	1.389025	4.224403	3.438493	3.692819	1.774634	1.781894	GO:0016887	ATP hydrolysis activity	MF
+Gene_010812	snf1-related kinase catalytic subunit alpha kin10	-1	-1	0	1	0	0	-1	1	0	1.485128	5.000756	4.222024	5.71957	2.11098	2.525044	GO:0016887	ATP hydrolysis activity	MF
+Gene_010813	abc transporter g family	-1	0	0	1	0	0	-1	1	0	2.220061	7.158159	5.214989	7.650351	2.63531	3.322317	GO:0016887	ATP hydrolysis activity	MF
+Gene_010814	abc transporter	-1	0	0	1	0	0	-1	1	0	1.741553	6.038072	3.874467	6.223384	2.494126	3.715751	GO:0016887	ATP hydrolysis activity	MF
+Gene_011400	lon protease homolog mitochondrial-like	-1	-1	0	0	0	0	0	1	0	7.30328	15.01375	12.959834	9.305585	6.419101	8.326616	GO:0016887	ATP hydrolysis activity	MF
+Gene_011954	dyneins heavy chain	-1	-1	0	1	0	0	0	1	1	14.12792	46.135837	39.750258	26.571694	8.565015	12.798009	GO:0016887	ATP hydrolysis activity	MF
+Gene_012069	abcf/ef-3b transporter-like protein	1	1	0	0	0	0	0	-1	-1	589.7162	482.6212	468.5087	577.1641	625.3838	657.0363	GO:0016887	ATP hydrolysis activity	MF
+Gene_012083	p-loop containing nucleoside triphosphate hydrolase protein	-1	0	0	0	0	0	-1	0	0	0.5200272	2.8050504	0.9750337	3.0225323	1.0990036	1.2323383	GO:0016887	ATP hydrolysis activity	MF

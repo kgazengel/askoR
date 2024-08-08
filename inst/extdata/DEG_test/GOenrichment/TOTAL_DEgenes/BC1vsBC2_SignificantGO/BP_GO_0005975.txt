@@ -1,0 +1,31 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000283	isocitrate lyase	-1	-1	0	1	0	0	0	1	1	166.78565	329.07784	376.95041	201.16779	85.37314	107.99617	GO:0005975	carbohydrate metabolic process	BP
+Gene_000361	glucose sorbosone dehydrogenase	-1	-1	0	1	0	0	-1	1	1	5.984226	18.342782	17.974367	12.495775	4.059656	8.047672	GO:0005975	carbohydrate metabolic process	BP
+Gene_000600	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0005975	carbohydrate metabolic process	BP
+Gene_000671	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0005975	carbohydrate metabolic process	BP
+Gene_000885	glycoside hydrolase	-1	-1	0	1	0	0	0	1	1	4.828865	13.959603	14.974305	8.072106	2.213459	3.957223	GO:0005975	carbohydrate metabolic process	BP
+Gene_001005	hypothetical protein pbra 002551	-1	-1	0	1	0	0	0	1	1	79.12848	231.13929	206.90605	155.2295	46.97663	83.24116	GO:0005975	carbohydrate metabolic process	BP
+Gene_001890	glycoside hydrolase family 16	-1	-1	0	1	0	0	0	1	1	26.22463	68.04875	73.63412	49.88799	15.77422	22.90443	GO:0005975	carbohydrate metabolic process	BP
+Gene_001891	beta-1;3-glucan-binding-like	-1	-1	0	1	0	0	0	1	1	14.044558	38.591885	33.054606	22.352831	7.974711	12.077754	GO:0005975	carbohydrate metabolic process	BP
+Gene_002167	lysosomal alpha-mannosidase	-1	-1	0	1	0	0	0	1	1	5.290165	13.912098	14.317486	9.572253	2.575818	4.411025	GO:0005975	carbohydrate metabolic process	BP
+Gene_002168	lysosomal alpha-mannosidase	-1	-1	0	1	0	0	0	1	1	4.167785	11.285911	14.304859	7.884802	2.429792	2.652025	GO:0005975	carbohydrate metabolic process	BP
+Gene_002954	hypothetical protein pbra 002230	-1	-1	0	1	0	0	0	1	1	112.22132	321.36558	322.17652	225.21746	76.52894	98.09165	GO:0005975	carbohydrate metabolic process	BP
+Gene_003039	ribulose-phosphate 3-cytoplasmic isoform-like	0	0	0	-1	0	0	0	-1	0	87.30183	76.37242	81.29937	84.77965	104.54452	92.21307	GO:0005975	carbohydrate metabolic process	BP
+Gene_004148	hypothetical protein pbra 002542	-1	-1	0	1	0	0	-1	1	1	9.350602	26.810018	24.360396	20.475047	8.182655	8.42237	GO:0005975	carbohydrate metabolic process	BP
+Gene_005113	alpha-amylase amy3	-1	-1	0	1	0	0	0	1	1	88.955	267.31055	254.38275	178.76983	54.61683	83.37124	GO:0005975	carbohydrate metabolic process	BP
+Gene_005473	sterol 3-beta-glucosyltransferase	-1	-1	0	1	0	0	-1	1	1	60.04585	108.66278	118.47896	90.4087	46.79523	64.37308	GO:0005975	carbohydrate metabolic process	BP
+Gene_006892	tandem-95 repeat	-1	-1	0	1	0	0	0	1	0	2.9837095	8.5951612	9.1423957	4.9440124	0.9579087	3.2557036	GO:0005975	carbohydrate metabolic process	BP
+Gene_006908	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0005975	carbohydrate metabolic process	BP
+Gene_006968	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0005975	carbohydrate metabolic process	BP
+Gene_007259	malate synthase a	-1	-1	0	1	0	0	0	1	1	131.0366	164.1754	166.2605	153.9167	119.8765	123.9895	GO:0005975	carbohydrate metabolic process	BP
+Gene_007739	o-glycosyl hydrolase	-1	-1	0	1	0	0	0	1	1	0.6185879	1.5956662	1.744307	1.2803398	0.3481641	0.4954335	GO:0005975	carbohydrate metabolic process	BP
+Gene_008745	glycoside hydrolase family 3	-1	-1	0	1	0	0	0	1	1	70.43019	96.71739	95.26565	75.00393	56.62879	61.69811	GO:0005975	carbohydrate metabolic process	BP
+Gene_008944	beta-hexosaminidase subunit beta-like	-1	-1	0	1	0	0	0	1	1	27.20317	61.62116	54.13005	32.74835	15.72257	19.18035	GO:0005975	carbohydrate metabolic process	BP
+Gene_009370	xylulose kinase	0	-1	0	1	0	0	0	1	1	88.16504	104.64062	113.67878	87.99065	68.224	78.2452	GO:0005975	carbohydrate metabolic process	BP
+Gene_009622	phosphoenolpyruvate carboxykinase	-1	-1	0	1	0	0	-1	1	1	22.84511	62.04663	65.47447	47.49018	17.14912	27.56733	GO:0005975	carbohydrate metabolic process	BP
+Gene_009910	glycosyl hydrolase	-1	-1	0	1	0	0	0	1	1	108.96398	177.29507	193.0402	139.5155	84.11885	99.70289	GO:0005975	carbohydrate metabolic process	BP
+Gene_010019	xylosyltransferase 2	-1	-1	0	1	0	0	0	1	1	13.706578	24.104098	25.649556	16.864515	9.732555	13.459967	GO:0005975	carbohydrate metabolic process	BP
+Gene_010937	polysaccharide deacetylase family	-1	-1	0	1	0	0	0	1	1	15.821103	32.832785	28.286974	18.326698	9.004437	11.919545	GO:0005975	carbohydrate metabolic process	BP
+Gene_011044	alpha-l-arabinofuranosidase beta-d-xylosidase	-1	-1	0	1	0	0	-1	1	1	146.6216	191.7671	203.3268	183.0973	137.4118	149.0256	GO:0005975	carbohydrate metabolic process	BP
+Gene_011498	alpha-xylosidase 1-like	-1	-1	0	1	0	0	-1	1	1	51.97776	98.43114	119.00056	100.9856	55.09434	64.68741	GO:0005975	carbohydrate metabolic process	BP
+Gene_012346	hypothetical protein pbra 008942	-1	-1	0	1	0	0	0	1	1	39.94824	109.62399	97.46427	67.47583	28.30955	30.02785	GO:0005975	carbohydrate metabolic process	BP

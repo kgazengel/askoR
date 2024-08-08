@@ -1,0 +1,31 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000472	kinesin-ii 95 kda subunit-like	0	0	0	0	0	0	0	1	1	61.07472	57.31422	61.51267	50.48833	46.7112	44.61816	GO:0048856	anatomical structure development	BP
+Gene_000522	actin-binding domain	1	0	0	0	0	0	0	-1	-1	357.04	292.6024	306.7477	305.0367	346.9227	396.5279	GO:0048856	anatomical structure development	BP
+Gene_000629	ccnc dicdi ame: full=cyclin-c	0	0	0	0	0	0	0	-1	-1	114.6966	96.98875	91.3732	114.34903	137.02047	122.06812	GO:0048856	anatomical structure development	BP
+Gene_000634	vacuolar sorting-associated 13	-1	-1	0	1	0	0	0	1	1	75.87985	116.62669	129.28545	105.90386	72.2416	67.6912	GO:0048856	anatomical structure development	BP
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0048856	anatomical structure development	BP
+Gene_000760	kinase 2	0	0	0	0	0	0	0	0	-1	22.01819	23.78803	19.82826	28.72344	27.73389	28.85588	GO:0048856	anatomical structure development	BP
+Gene_002369	dna-directed rna polymerase ii subunit rpb2	0	0	0	0	0	0	0	-1	-1	343.9081	300.8984	314.0964	385.3707	422.1312	433.8727	GO:0048856	anatomical structure development	BP
+Gene_002484	serine threonine-kinase 3 isoform x1	0	0	0	0	0	0	0	0	1	174.5782	179.8131	195.943	163.4427	160.0675	155.4766	GO:0048856	anatomical structure development	BP
+Gene_002637	flap endonuclease 1	1	0	0	0	0	0	0	-1	-1	242.0454	199.6241	207.2958	248.0261	279.3684	268.55	GO:0048856	anatomical structure development	BP
+Gene_003059	atp-dependent rna helicase	1	1	0	0	0	0	0	-1	-1	108.18066	90.52732	88.28593	125.24675	141.1894	133.8628	GO:0048856	anatomical structure development	BP
+Gene_003288	intraflagellar transport 25 homolog isoform x1	-1	-1	0	1	0	0	0	1	1	3.10723	6.909961	9.190913	3.844595	1.139525	1.413442	GO:0048856	anatomical structure development	BP
+Gene_003749	chromo domain-containing	0	0	0	0	0	0	0	-1	-1	271.561	256.2273	260.1928	308.3471	327.4727	315.7389	GO:0048856	anatomical structure development	BP
+Gene_004634	neuroblastoma-amplified sequence	0	0	0	0	0	0	0	-1	-1	110.0993	95.00276	101.26771	130.48462	141.23397	149.52931	GO:0048856	anatomical structure development	BP
+Gene_005155	sperm flagellar 2	-1	-1	0	0	0	0	0	1	1	2.332463	5.674551	5.503059	3.404594	1.321613	1.661158	GO:0048856	anatomical structure development	BP
+Gene_005436	b9 domain-containing 2	-1	-1	0	1	0	0	0	1	1	5.826617	10.896388	11.13283	7.815367	4.287983	3.328562	GO:0048856	anatomical structure development	BP
+Gene_006279	peptidyl-prolyl cis-trans parvulin-type	0	0	0	0	0	0	0	1	1	56.9387	65.4334	65.70457	55.17841	51.04665	43.55859	GO:0048856	anatomical structure development	BP
+Gene_006420	vacuole membrane 1	0	0	0	0	0	0	0	-1	-1	220.3274	191.7614	194.8375	203.2032	227.4166	245.6289	GO:0048856	anatomical structure development	BP
+Gene_006935	rna recognition motif domain containing	0	0	0	0	0	0	-1	-1	-1	104.90033	93.50181	106.19672	133.41798	144.84795	137.99076	GO:0048856	anatomical structure development	BP
+Gene_007073	endoplasmic reticulum metallopeptidase 1	0	-1	0	0	0	0	0	1	1	8.642304	10.945612	12.589868	7.074623	4.667837	6.12006	GO:0048856	anatomical structure development	BP
+Gene_007159	peptidylprolyl isomerase	0	0	0	0	0	0	0	1	1	72.92764	78.62618	85.34091	59.77291	61.15238	58.67349	GO:0048856	anatomical structure development	BP
+Gene_008084	striatin-interacting 1	0	-1	0	0	0	0	0	1	1	113.2862	136.9938	152.5461	130.1333	105.5124	106.5411	GO:0048856	anatomical structure development	BP
+Gene_008237	tudor domain-containing 1	1	0	0	0	0	0	0	-1	-1	124.71426	86.16258	91.67389	116.78944	126.05557	136.77298	GO:0048856	anatomical structure development	BP
+Gene_008538	hypothetical protein pbra 000503	0	0	0	0	0	0	0	-1	-1	71.19543	60.83852	58.37241	67.86095	75.76701	77.92045	GO:0048856	anatomical structure development	BP
+Gene_009168	ubiquitin-cullin 4	0	0	0	0	0	0	0	-1	-1	214.6474	189.2743	184.1491	209.2182	239.1437	243.924	GO:0048856	anatomical structure development	BP
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0048856	anatomical structure development	BP
+Gene_009475	calmodulin cam1	0	0	0	0	0	0	0	1	1	196.2106	202.3192	225.0497	178.7936	166.7399	173.6849	GO:0048856	anatomical structure development	BP
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0048856	anatomical structure development	BP
+Gene_009913	[micromonas commoda]	1	1	0	0	0	0	0	-1	-1	64.09639	52.68227	50.91727	55.73846	65.63136	67.3498	GO:0048856	anatomical structure development	BP
+Gene_011277	pelota homolog isoform x1	1	1	0	0	0	0	0	-1	-1	127.12397	100.93936	96.96826	113.38822	132.48905	138.38623	GO:0048856	anatomical structure development	BP
+Gene_011539	probable disulfide-isomerase a6	-1	-1	0	0	0	0	0	1	1	227.5858	290.7406	333.6661	257.5805	217.2688	217.208	GO:0048856	anatomical structure development	BP

@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000763	phosphate permease	1	1	0	0	0	0	0	-1	-1	140.766	120.771	119.8573	137.8126	143.3055	155.7555	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_004478	laminin b type iv	-1	-1	0	1	0	0	0	1	1	5.236427	15.088862	16.800922	8.630355	2.418063	5.06258	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_005133	sodium hydrogen exchanger 8-like isoform x1	-1	0	0	0	0	0	0	1	0	0.26179183	0.66069785	0.44412397	0.27403557	0.08113218	0.24771676	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_005171	sodium hydrogen exchanger variant 3	1	0	0	0	0	0	0	-1	-1	196.8744	164.2694	179.4473	195.7804	217.1351	228.8632	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_005440	atpase aaa	1	1	0	0	0	0	0	-1	-1	1042.1159	752.8354	764.5194	862.6685	924.8243	1163.1821	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_006787	cyclic nucleotide-binding	-1	-1	0	0	0	0	0	1	1	51.03941	69.98336	82.50547	65.07916	51.56587	49.458	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_007328	cmp-sialic acid transporter 1	-1	0	0	0	0	0	-1	0	0	7.55188	26.7771	16.50022	33.80463	12.14286	11.76549	GO:0015291	secondary active transmembrane transporter activity	MF
+Gene_009656	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:0015291	secondary active transmembrane transporter activity	MF

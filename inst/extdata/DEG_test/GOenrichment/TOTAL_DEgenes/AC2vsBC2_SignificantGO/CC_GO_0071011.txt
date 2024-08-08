@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001188	u1 snrnp	0	0	0	0	0	0	0	-1	0	346.7332	308.3446	311.5014	347.671	388.1104	345.5232	GO:0071011	precatalytic spliceosome	CC
+Gene_003065	pre-mrna-splicing factor 38b isoform x1 [tarenaya hassleriana]	0	0	0	0	0	0	0	-1	-1	150.4765	137.4409	140.4842	159.1499	165.1193	168.7846	GO:0071011	precatalytic spliceosome	CC
+Gene_003187	crooked neck 1	0	0	0	0	0	0	0	-1	0	355.735	306.7533	304.6716	339.7136	392.9204	354.5409	GO:0071011	precatalytic spliceosome	CC
+Gene_003955	rna-binding domain-containing	0	0	0	0	0	0	0	-1	0	54.64776	48.62305	49.06092	55.69621	65.14076	57.47029	GO:0071011	precatalytic spliceosome	CC
+Gene_005766	u6 snrna-associated sm lsm3	0	0	0	0	0	0	0	-1	0	64.79962	55.5326	55.3695	63.22452	72.27103	63.3926	GO:0071011	precatalytic spliceosome	CC
+Gene_005793	pre-mrna-splicing factor 38a	0	0	0	0	0	0	0	-1	0	152.7832	128.5524	130.6271	143.1008	167.0138	160.0167	GO:0071011	precatalytic spliceosome	CC
+Gene_009535	sm lsm8	0	0	0	0	0	0	0	-1	0	20.80774	16.01217	15.81078	20.38557	21.07022	21.53471	GO:0071011	precatalytic spliceosome	CC
+Gene_009884	u4 small nuclear ribonucleo 27 kda	0	0	0	0	0	0	0	-1	0	40.62837	37.40941	35.77389	43.83611	52.24163	42.19511	GO:0071011	precatalytic spliceosome	CC

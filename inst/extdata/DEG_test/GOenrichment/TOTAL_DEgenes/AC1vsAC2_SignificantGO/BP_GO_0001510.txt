@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000165	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0001510	RNA methylation	BP
+Gene_000443	trna (uracil-5-)-methyltransferase	1	1	0	0	0	0	0	-1	-1	208.4949	170.3726	161.3259	205.2603	231.407	208.1174	GO:0001510	RNA methylation	BP
+Gene_002052	family rna methyltransferase	1	0	0	0	0	0	0	-1	0	36.55217	28.59133	28.2014	33.98015	39.30055	34.84271	GO:0001510	RNA methylation	BP
+Gene_005276	probable 18s rrna (guanine-n(7))-methyltransferase	1	1	0	-1	0	0	0	-1	-1	139.6875	108.7096	103.5226	119.1205	148.2297	129.9097	GO:0001510	RNA methylation	BP
+Gene_005317	trna (adenine(58)-n(1))-methyltransferase catalytic subunit trmt61a-like	1	1	0	0	0	0	0	-1	-1	209.1064	166.1371	153.9037	182.4184	200.6272	191.5162	GO:0001510	RNA methylation	BP
+Gene_005977	prip interacting pimt	-1	0	0	0	0	0	0	1	1	9.574882	25.383583	21.04657	16.726609	7.366707	5.489312	GO:0001510	RNA methylation	BP
+Gene_006706	probable 28s rrna (cytosine(4447)-c(5))-methyltransferase	1	1	0	0	0	0	0	0	-1	192.2776	153.1862	136.9344	161.6797	173.0244	188.8434	GO:0001510	RNA methylation	BP
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0001510	RNA methylation	BP
+Gene_009870	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0001510	RNA methylation	BP
+Gene_011898	wd40 repeat-like protein	1	1	0	0	0	0	0	-1	-1	46.24507	35.09459	33.93708	46.20319	49.57215	55.76957	GO:0001510	RNA methylation	BP

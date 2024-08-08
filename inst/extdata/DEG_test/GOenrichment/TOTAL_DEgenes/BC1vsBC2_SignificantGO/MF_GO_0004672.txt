@@ -1,0 +1,31 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000279	camp-dependent kinase catalytic	-1	-1	0	1	0	0	0	1	1	18.57812	43.73731	52.72158	33.62898	12.48653	17.70238	GO:0004672	protein kinase activity	MF
+Gene_000511	serine threonine-kinase ht1	-1	-1	0	1	0	0	0	1	1	19.74145	58.94238	56.78064	40.99977	11.73175	17.81687	GO:0004672	protein kinase activity	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0004672	protein kinase activity	MF
+Gene_001125	hypothetical protein pbra 002666	-1	-1	0	1	0	0	0	1	1	9.461245	17.886693	18.806802	14.12274	8.28517	8.886576	GO:0004672	protein kinase activity	MF
+Gene_001126	serine threonine kinase	-1	-1	0	1	0	0	-1	1	1	14.3454	33.4469	33.95059	25.22197	13.11995	13.75556	GO:0004672	protein kinase activity	MF
+Gene_001442	calcium calmodulin-dependent kinase type iv-like	-1	0	0	1	0	0	0	1	0	0.2855271	1.1892096	0.82224	0.5798069	0.0387046	0.1811034	GO:0004672	protein kinase activity	MF
+Gene_003030	serine threonine-kinase sty46-like isoform x1	-1	0	0	1	0	0	0	1	0	50.86712	66.24065	59.87799	61.07806	40.8617	48.48587	GO:0004672	protein kinase activity	MF
+Gene_003034	serine threonine kinase	0	0	0	-1	0	0	0	-1	-1	596.0434	511.8054	515.1218	655.595	818.0484	735.8227	GO:0004672	protein kinase activity	MF
+Gene_003205	hypothetical protein pbra 007186	-1	-1	0	1	0	0	0	1	1	2.832373	7.674728	6.569769	3.900651	1.040947	2.423045	GO:0004672	protein kinase activity	MF
+Gene_003572	cbl-interacting serine threonine-kinase 5-like	-1	-1	0	1	0	0	0	1	1	5.42126	15.68371	12.747165	10.325893	3.836083	4.51927	GO:0004672	protein kinase activity	MF
+Gene_003626	mitogen-activated kinase kinase 6 isoform x2	-1	-1	0	1	0	0	0	1	1	7.084106	16.653975	20.311944	12.46843	5.285765	7.013086	GO:0004672	protein kinase activity	MF
+Gene_005352	mitogen-activated kinase kinase kinase npk1-like isoform x4	-1	-1	0	1	0	0	0	1	1	9.88723	19.881408	20.047912	15.524826	6.501313	9.785847	GO:0004672	protein kinase activity	MF
+Gene_005784	adp-ribosylation factor gtpase-activating agd7	0	-1	0	1	0	0	0	1	1	35.06131	45.3183	59.61722	41.00798	27.65064	27.30297	GO:0004672	protein kinase activity	MF
+Gene_006552	pas domain-containing sensor histidine kinase	-1	-1	0	1	0	0	0	1	1	0.9119402	2.5993439	3.3219376	2.1914129	0.6580367	0.9304992	GO:0004672	protein kinase activity	MF
+Gene_007081	agc kinase	-1	-1	0	1	0	0	-1	1	1	47.11652	103.71631	117.07826	84.92038	37.8254	48.29852	GO:0004672	protein kinase activity	MF
+Gene_007540	multi-sensor hybrid histidine kinase [nitrosospira lacus]	-1	-1	0	1	0	0	0	1	1	33.99025	48.09363	51.36794	30.45836	16.8886	24.7134	GO:0004672	protein kinase activity	MF
+Gene_007798	sperm motility kinase w	-1	0	0	1	0	0	-1	0	0	9.933622	17.443111	15.107266	21.434292	11.876945	10.742513	GO:0004672	protein kinase activity	MF
+Gene_008419	agc kinase	-1	-1	0	1	0	0	0	1	0	3.880449	11.084354	9.69248	5.306697	2.221377	4.562988	GO:0004672	protein kinase activity	MF
+Gene_008689	kinase-like domain-containing	-1	-1	0	1	0	0	-1	1	1	91.51423	131.48462	144.75361	139.09517	98.0325	110.71897	GO:0004672	protein kinase activity	MF
+Gene_008690	map kinase kinase kinase	-1	-1	0	1	0	0	-1	1	1	51.07666	70.36132	81.50355	77.10422	52.27219	57.81167	GO:0004672	protein kinase activity	MF
+Gene_008767	serine threonine kinase	-1	-1	0	1	0	0	0	1	1	28.02907	43.12416	44.10391	26.63986	16.35723	19.84648	GO:0004672	protein kinase activity	MF
+Gene_008792	dual specificity tyrosine-phosphorylation-regulated kinase 4-like isoform x4	-1	-1	0	1	0	0	0	1	1	4.355976	7.80348	10.548953	3.721401	1.424004	2.368923	GO:0004672	protein kinase activity	MF
+Gene_008994	hypothetical protein pbra 009344	1	1	0	-1	0	0	0	-1	-1	43.74743	35.00819	30.40661	47.14176	59.7302	51.46638	GO:0004672	protein kinase activity	MF
+Gene_010812	snf1-related kinase catalytic subunit alpha kin10	-1	-1	0	1	0	0	-1	1	0	1.485128	5.000756	4.222024	5.71957	2.11098	2.525044	GO:0004672	protein kinase activity	MF
+Gene_010979	cmgc gsk kinase	-1	-1	0	1	0	0	0	1	1	22.98111	41.70768	40.93429	33.65208	19.34415	21.26201	GO:0004672	protein kinase activity	MF
+Gene_011626	agc kinase	-1	-1	0	1	0	0	0	1	1	73.82065	91.36808	108.33708	87.19519	67.78898	74.70846	GO:0004672	protein kinase activity	MF
+Gene_011646	hypothetical protein pbra 009357	-1	-1	0	1	0	0	0	1	1	1.298549	2.927321	3.314628	2.260359	0.60719	0.876377	GO:0004672	protein kinase activity	MF
+Gene_011647	kinase 2 (macronuclear)	-1	-1	0	1	0	0	0	1	1	1.7816489	4.6269193	5.8799592	3.3169272	0.8898513	1.1719705	GO:0004672	protein kinase activity	MF
+Gene_011755	putative nima-related kinase	-1	-1	0	1	0	0	-1	1	0	6.176686	11.692208	11.118987	12.407394	6.313842	6.494758	GO:0004672	protein kinase activity	MF
+Gene_012180	calcium/calmodulin-dependent protein kinase type iv-like	-1	-1	0	1	0	0	0	1	0	1.5563337	5.7710221	4.4799492	3.6901347	0.9446567	1.5341773	GO:0004672	protein kinase activity	MF

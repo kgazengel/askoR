@@ -1,0 +1,5 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000515	voltage-gated hydrogen channel 1	-1	-1	0	1	0	0	0	1	1	1.4912057	4.8535892	5.6305988	2.5959914	0.7058573	1.5404228	GO:0005887	integral component of plasma membrane	CC
+Gene_000555	phosphate:h+ symporter	-1	0	0	1	0	0	-1	1	0	16.34734	71.31489	33.16584	87.97861	30.92097	33.30852	GO:0005887	integral component of plasma membrane	CC
+Gene_001894	mac perforin domain containing	-1	-1	0	1	0	0	0	1	1	7.693121	17.764556	18.942493	11.422135	4.670343	9.123889	GO:0005887	integral component of plasma membrane	CC
+Gene_005816	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0005887	integral component of plasma membrane	CC

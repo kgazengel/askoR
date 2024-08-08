@@ -1,0 +1,15 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000961	dna helicase	0	0	0	0	0	0	0	-1	0	294.8804	270.3242	292.2753	299.2011	317.6125	308.4823	GO:0032508	DNA duplex unwinding	BP
+Gene_001067	hypothetical protein pbra 002611	0	0	0	0	0	0	0	-1	0	98.53642	94.00716	100.89128	106.34708	109.64346	102.03846	GO:0032508	DNA duplex unwinding	BP
+Gene_001518	atp-dependent dna helicase q-like 4a	0	0	0	0	0	0	0	-1	-1	130.1874	111.8279	114.4696	134.5268	151.424	145.9135	GO:0032508	DNA duplex unwinding	BP
+Gene_001644	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0032508	DNA duplex unwinding	BP
+Gene_001721	probable cell division control nda4	0	0	0	0	0	0	0	-1	0	461.7326	408.2226	426.6747	463.5843	490.7864	489.3966	GO:0032508	DNA duplex unwinding	BP
+Gene_003540	transcription factor tfiih complex subunit tfb2	0	0	0	0	0	0	0	-1	0	185.4546	169.9437	169.3498	182.9785	219.8874	194.1766	GO:0032508	DNA duplex unwinding	BP
+Gene_003842	snf2 family nterminal domain containing	0	0	0	0	0	0	0	-1	-1	273.8026	246.4761	243.5866	271.3616	310.7303	311.7317	GO:0032508	DNA duplex unwinding	BP
+Gene_004944	atp-dependent dna helicase 2 subunit ku80	0	0	0	0	0	0	0	-1	0	185.785	170.5349	170.7673	183.4905	203.7065	195.0218	GO:0032508	DNA duplex unwinding	BP
+Gene_008107	chromodomain-helicase-dna-binding 7 isoform x1	0	0	0	0	0	0	-1	-1	-1	647.3868	632.922	634.4581	784.6153	814.2792	802.1567	GO:0032508	DNA duplex unwinding	BP
+Gene_008231	rad3-like dna-binding helicase	0	0	0	0	0	0	0	-1	0	108.9453	108.2735	116.7811	129.2116	133.3332	127.9301	GO:0032508	DNA duplex unwinding	BP
+Gene_008832	t7-like mitochondrial dna helicase	0	0	0	0	0	0	0	-1	0	123.4081	112.1019	110.6147	122.5319	133.5541	132.6658	GO:0032508	DNA duplex unwinding	BP
+Gene_009898	helicase iv	1	0	0	0	0	0	0	-1	0	227.6221	181.1281	192.0273	201.4048	223.948	229.3378	GO:0032508	DNA duplex unwinding	BP
+Gene_010072	fanconi anemia group j	1	0	0	0	0	0	0	-1	-1	85.40648	69.52665	72.47433	83.33967	98.68401	100.70206	GO:0032508	DNA duplex unwinding	BP
+Gene_012388	x-ray repair cross-complementing protein 6-like	0	0	0	0	0	0	0	-1	-1	275.6473	242.8258	244.411	268.7225	305.4414	298.3342	GO:0032508	DNA duplex unwinding	BP

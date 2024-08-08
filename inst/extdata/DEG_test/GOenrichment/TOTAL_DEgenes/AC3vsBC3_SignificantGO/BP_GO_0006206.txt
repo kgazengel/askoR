@@ -1,0 +1,21 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000507	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_000531	ribonucleoside-diphosphate reductase small chain	0	0	0	0	0	0	1	1	1	217.172	195.7217	234.0744	143.7752	134.5333	162.8436	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_000579	[micromonas commoda]	0	0	0	0	0	0	0	-1	-1	185.7671	161.8614	157.4236	222.4347	222.2995	230.8678	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_000823	ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0	0	0	-1	477.5516	434.2584	458.3589	502.4871	522.8118	596.9142	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_001104	dna-directed rna polymerases and iii subunit rpabc4	0	0	0	0	0	0	0	-1	-1	116.89738	99.78038	100.39888	119.41685	126.63876	132.36193	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_001634	thymidylate synthase	1	0	0	0	0	0	0	-1	-1	138.7756	112.5356	120.0033	137.236	146.1223	155.5557	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_002369	dna-directed rna polymerase ii subunit rpb2	0	0	0	0	0	0	0	-1	-1	343.9081	300.8984	314.0964	385.3707	422.1312	433.8727	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_004227	beta and beta-prime subunits of dna dependent rna-polymerase	1	1	0	0	0	0	0	-1	-1	269.7007	206.6472	195.5057	247.665	272.9022	287.9821	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_005420	rna polymerase i associated a49	1	1	0	0	0	0	0	0	-1	85.62953	66.15142	64.40884	75.43681	79.09427	83.79695	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_005559	dna-directed rna polymerase iii subunit rpc4-like isoform x1	0	0	0	0	0	0	0	-1	-1	62.36862	57.54987	58.77009	66.82981	70.25893	73.69886	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_005755	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_007524	dna-directed rna polymerase i complex largesubunit nuc1	1	1	0	0	0	0	0	-1	-1	217.1682	173.8538	158.3606	192.416	216.7122	225.2141	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_007525	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_007841	purine-nucleoside phosphorylase	0	-1	0	0	0	0	0	1	1	38.94862	65.25316	87.09052	46.81348	27.75674	29.43459	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_008123	hypothetical protein pbra 001897	0	0	0	0	0	0	0	0	-1	116.60543	104.12823	93.17567	108.23707	125.49936	129.51424	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_009563	dihydroorotase	0	0	0	0	0	0	0	-1	-1	69.29582	61.79768	60.19698	71.20531	76.81795	76.07194	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_010277	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_010392	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0006206	pyrimidine nucleobase metabolic process	BP
+Gene_011772	dna-directed rna polymerase ii subunit 1	0	0	0	0	0	0	0	-1	-1	454.5259	421.2851	394.8477	562.596	654.8167	627.4208	GO:0006206	pyrimidine nucleobase metabolic process	BP

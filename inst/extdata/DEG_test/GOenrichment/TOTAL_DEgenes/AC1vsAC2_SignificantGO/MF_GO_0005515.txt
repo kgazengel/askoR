@@ -1,0 +1,440 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000006	cilia- and flagella-associated 57-like	-1	0	0	0	0	0	0	1	0	0.4632453	2.3051708	1.0475623	1.4024268	0.6600896	0.6161691	GO:0005515	protein binding	MF
+Gene_000029	wd40 repeat	-1	-1	0	1	0	0	0	1	1	4.469738	12.018435	13.043386	7.680836	1.840225	4.483884	GO:0005515	protein binding	MF
+Gene_000044	multiple epidermal growth factor-like domains 6	-1	-1	0	1	0	0	0	1	1	6.725628	19.321575	15.491319	10.24292	3.443291	5.564259	GO:0005515	protein binding	MF
+Gene_000064	u2 small nuclear ribonucleo a	1	1	0	0	0	0	0	-1	0	221.6359	178.3827	177.9014	207.1945	234.6221	201.8829	GO:0005515	protein binding	MF
+Gene_000090	dna damage-inducible 1	-1	-1	0	1	0	0	0	1	1	16.457651	36.98219	40.418929	26.299206	9.531715	13.601527	GO:0005515	protein binding	MF
+Gene_000091	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0005515	protein binding	MF
+Gene_000100	heat shock sti	1	1	0	-1	0	0	0	-1	0	914.4566	747.6231	722.2744	752.0562	958.3376	904.2784	GO:0005515	protein binding	MF
+Gene_000106	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0005515	protein binding	MF
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0005515	protein binding	MF
+Gene_000180	adenylate cyclase	-1	-1	0	1	0	0	-1	1	1	4.545211	15.494169	16.268382	11.047177	3.492379	6.517653	GO:0005515	protein binding	MF
+Gene_000229	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0005515	protein binding	MF
+Gene_000245	leucine-rich repeat and guanylate kinase domain-containing	-1	-1	0	1	0	0	0	1	1	4.641513	13.954113	11.996625	7.261337	2.450441	3.842733	GO:0005515	protein binding	MF
+Gene_000246	cell division cycle cofactor of apc complex	-1	0	0	0	0	0	0	1	0	2.469049	5.898176	3.885463	2.284554	1.599903	1.679895	GO:0005515	protein binding	MF
+Gene_000250	myosin xi-2	-1	-1	0	0	0	0	0	0	0	6.84785	10.783314	11.856458	10.038452	8.199706	7.521011	GO:0005515	protein binding	MF
+Gene_000255	hypothetical protein pbra 003672	-1	-1	0	1	0	0	0	1	0	0.9062485	3.2424781	2.6549629	1.8714318	0.5591336	1.0512349	GO:0005515	protein binding	MF
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0005515	protein binding	MF
+Gene_000278	kelch repeat-containing s	-1	-1	0	1	0	0	0	1	1	14.549969	32.251104	31.978502	19.958741	8.283994	11.49697	GO:0005515	protein binding	MF
+Gene_000315	u3 small nucleolar rna-interacting	1	1	0	0	0	0	0	0	-1	108.60278	85.78141	80.26321	95.04567	90.28396	104.0556	GO:0005515	protein binding	MF
+Gene_000327	hypothetical protein pbra 001419	-1	-1	0	1	0	0	0	1	1	73.84533	102.7626	126.26174	81.84454	60.05898	60.30343	GO:0005515	protein binding	MF
+Gene_000338	serine protease inhibitor dipetalogastin-like isoform x2	-1	0	0	0	0	0	-1	0	0	3.902175	14.633451	10.313048	12.852866	6.533144	5.247841	GO:0005515	protein binding	MF
+Gene_000364	hypothetical protein pbra 001453	-1	-1	0	0	0	0	0	1	1	2.0182826	4.1501971	5.2435036	1.7958648	0.8331401	2.0421019	GO:0005515	protein binding	MF
+Gene_000380	rab9 effector with kelch motifs-like	-1	-1	0	0	0	0	0	1	1	16.10299	28.10682	28.2271	22.85414	17.52613	15.91215	GO:0005515	protein binding	MF
+Gene_000395	ankyrin repeat domain-containing	-1	-1	0	0	0	0	0	1	1	6.57624	19.256476	18.06583	14.26443	6.476092	3.917294	GO:0005515	protein binding	MF
+Gene_000405	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0005515	protein binding	MF
+Gene_000424	dynein light chain roadblock-type 2	-1	-1	0	1	0	0	0	1	1	7.782176	19.921162	20.24798	12.467616	4.079403	4.325675	GO:0005515	protein binding	MF
+Gene_000437	t-complex 1 subunit beta	1	0	0	0	0	0	0	-1	0	88.16542	69.29972	73.8613	79.07011	91.80587	89.45489	GO:0005515	protein binding	MF
+Gene_000522	actin-binding domain	1	0	0	0	0	0	0	-1	-1	357.04	292.6024	306.7477	305.0367	346.9227	396.5279	GO:0005515	protein binding	MF
+Gene_000608	flagellar inner arm dynein light chain p28	-1	-1	0	1	0	0	0	1	1	75.87843	101.51305	111.01551	79.14651	59.46456	54.43732	GO:0005515	protein binding	MF
+Gene_000621	at-rich interactive domain-containing 3c	-1	-1	0	1	0	0	-1	1	1	24.61881	56.31865	54.70179	53.27559	21.26901	27.66517	GO:0005515	protein binding	MF
+Gene_000622	achain crystal structure of engineered northeast structural genomics consortium target	-1	0	0	0	0	0	-1	0	0	20.27292	89.32665	38.03985	164.03087	61.50153	60.6864	GO:0005515	protein binding	MF
+Gene_000628	bag domain containing	-1	0	0	1	0	0	0	1	1	3.984829	8.304961	7.256319	4.864994	2.136658	1.607036	GO:0005515	protein binding	MF
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0005515	protein binding	MF
+Gene_000645	hypothetical protein pbra 001707; partial	-1	0	0	0	0	0	0	1	0	11.15268	22.72306	19.64407	15.36347	11.23937	11.12852	GO:0005515	protein binding	MF
+Gene_000648	dna topoisomerase domain	-1	-1	0	1	0	0	0	1	1	1.916876	4.883131	5.200732	3.90206	1.191305	1.800631	GO:0005515	protein binding	MF
+Gene_000662	hypothetical protein pbra 001722	1	0	0	0	0	0	0	-1	-1	478.8301	321.7829	395.6439	447.0358	505.7592	644.9172	GO:0005515	protein binding	MF
+Gene_000668	wd40 repeat	1	1	0	0	0	0	0	-1	-1	177.2791	140.1483	132.3413	173.6418	189.7061	203.365	GO:0005515	protein binding	MF
+Gene_000691	ring-h2 finger atl40-like	1	0	0	0	0	0	0	-1	-1	26.3218	13.17358	22.02649	26.71068	36.52243	50.74239	GO:0005515	protein binding	MF
+Gene_000702	cobalamin biosynthesis	-1	-1	0	1	0	0	0	1	1	23.83247	53.68007	50.6019	34.68957	16.81625	21.33903	GO:0005515	protein binding	MF
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0005515	protein binding	MF
+Gene_000756	novel plant snare 11 isoform x1	-1	-1	0	1	0	0	0	1	1	5.771717	15.751852	13.521329	9.709168	4.31877	5.456014	GO:0005515	protein binding	MF
+Gene_000771	e3 ubiquitin-ligase	-1	-1	0	0	0	0	0	1	0	64.93914	84.83753	94.64531	82.09364	66.5205	75.17578	GO:0005515	protein binding	MF
+Gene_000801	scar dicdi ame: full= scar ame: full=suppressor of camp receptor	-1	0	0	0	0	0	0	1	0	48.90228	69.10953	62.34828	55.24146	46.1791	52.74495	GO:0005515	protein binding	MF
+Gene_000820	hypothetical protein pbra 005130	-1	-1	0	1	0	0	0	1	1	0.48562089	1.52031002	1.90036101	1.03722963	0.09676149	0.30183903	GO:0005515	protein binding	MF
+Gene_000860	rrna biogenesis rrp5 isoform x1	1	1	0	0	0	0	0	-1	-1	406.5807	312.011	300.9176	363.2839	391.9832	395.8264	GO:0005515	protein binding	MF
+Gene_000864	bardet-biedl syndrome 4	-1	-1	0	1	0	0	0	1	1	4.21215	7.777549	10.233585	6.863589	2.593962	4.011345	GO:0005515	protein binding	MF
+Gene_000941	hypothetical protein pbra 005227	1	0	0	0	0	0	0	-1	-1	51.6367	40.9603	40.5602	42.93963	54.68823	56.70424	GO:0005515	protein binding	MF
+Gene_000942	hypothetical protein pbra 005228	-1	0	0	0	0	0	0	1	1	77.26593	93.63353	95.05693	73.33062	65.86038	64.22317	GO:0005515	protein binding	MF
+Gene_000951	hypothetical protein pbra 005232	-1	-1	0	1	0	0	0	1	1	5.693909	15.883098	15.805084	9.890266	3.599141	6.942315	GO:0005515	protein binding	MF
+Gene_000990	hypothetical protein pbra 005257	-1	0	0	0	0	0	-1	0	0	9.996889	14.678499	14.911605	15.827429	14.119353	12.585257	GO:0005515	protein binding	MF
+Gene_001013	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0005515	protein binding	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0005515	protein binding	MF
+Gene_001034	e3 ubiquitin-ligase itchy-like	-1	0	0	0	0	0	0	1	1	2.1236334	4.9779365	3.7200427	3.0494495	1.8802756	0.9846215	GO:0005515	protein binding	MF
+Gene_001050	ankyrin repeat-containing at5g02620	-1	0	0	0	0	0	0	0	0	0.9169196	3.7595981	0.9717734	3.1170206	1.9811146	0.978376	GO:0005515	protein binding	MF
+Gene_001051	wd40 repeat	-1	-1	0	0	0	0	-1	1	0	0.2390917	2.5614464	1.1665369	1.7112235	0.7857324	0.3622068	GO:0005515	protein binding	MF
+Gene_001065	serine threonine kinase containing tpr domain (plasmid)	-1	0	0	0	0	0	0	1	0	2.807735	8.958881	5.979372	6.016909	3.460738	2.633289	GO:0005515	protein binding	MF
+Gene_001101	bardet-biedl syndrome 2	-1	-1	0	1	0	0	0	1	1	8.375606	21.901572	23.151475	11.541063	3.755777	6.881947	GO:0005515	protein binding	MF
+Gene_001112	nuclear transcription factor y	-1	-1	0	0	0	0	-1	1	1	14.89848	34.47941	31.51893	25.94624	15.6407	10.79961	GO:0005515	protein binding	MF
+Gene_001151	wd40 repeat-containing	-1	0	0	0	0	0	0	1	1	3.958895	10.566125	7.383858	7.173153	3.34545	1.890139	GO:0005515	protein binding	MF
+Gene_001152	guanine nucleotide-binding subunit beta 1	1	1	0	0	0	0	0	-1	0	61.45362	48.10155	46.08774	50.55044	63.87052	61.05071	GO:0005515	protein binding	MF
+Gene_001169	e3 ubiquitin-ligase nrdp1	-1	0	0	0	0	0	-1	1	0	15.76076	57.0893	35.21253	64.62226	25.00871	25.9353	GO:0005515	protein binding	MF
+Gene_001174	importin beta subunit	1	0	0	0	0	0	0	-1	-1	561.08	467.6085	479.1989	541.3921	576.6958	598.9874	GO:0005515	protein binding	MF
+Gene_001190	leucine-rich repeat-containing 61	-1	-1	0	0	0	0	0	1	1	1.026213	3.096213	3.134536	1.798847	1.026397	1.038744	GO:0005515	protein binding	MF
+Gene_001199	cobalamin biosynthesis	-1	-1	0	0	0	0	0	1	1	13.92953	24.98422	23.05886	15.2968	13.30043	12.36904	GO:0005515	protein binding	MF
+Gene_001208	cilia- and flagella-associated 54-like	-1	0	0	0	0	0	0	1	1	2.5981355	6.6050584	4.8507162	2.5777558	1.0083423	0.9367448	GO:0005515	protein binding	MF
+Gene_001222	brefeldin a-inhibited guanine nucleotide-exchange	-1	-1	0	1	0	0	-1	1	1	4.771499	12.107944	10.162272	8.367949	3.041176	5.027194	GO:0005515	protein binding	MF
+Gene_001229	utp21 specific wd40 associated domain-domain-containing	1	1	0	0	0	0	0	-1	-1	174.5945	140.0304	132.6033	163.1316	161.8826	173.4829	GO:0005515	protein binding	MF
+Gene_001254	hypothetical protein pbra 002772	-1	0	0	0	0	0	0	1	1	19.82381	33.05023	29.89523	23.16892	20.36463	14.09903	GO:0005515	protein binding	MF
+Gene_001257	impact-like isoform x2	1	1	0	0	0	0	0	-1	0	87.36694	69.8548	68.03679	80.31879	86.54936	84.15082	GO:0005515	protein binding	MF
+Gene_001288	suppressor srp40	1	1	0	0	0	0	0	-1	0	416.0867	325.4842	312.6944	376.6981	428.8157	391.4174	GO:0005515	protein binding	MF
+Gene_001318	epidermal growth factor receptor substrate 15-like	-1	-1	0	1	0	0	-1	1	1	32.04411	66.93192	59.56591	56.59176	27.21854	28.58734	GO:0005515	protein binding	MF
+Gene_001363	wd40 repeat	1	0	0	0	0	0	0	-1	0	171.0142	148.6582	160.1039	166.6436	178.2757	178.7745	GO:0005515	protein binding	MF
+Gene_001376	hypothetical protein pbra 002889	-1	-1	0	0	0	0	0	1	1	2.096342	4.87965	4.662887	2.270411	1.939324	1.473809	GO:0005515	protein binding	MF
+Gene_001384	intraflagellar transport 140 homolog	-1	-1	0	1	0	0	0	1	1	6.613938	17.966152	14.65565	8.479514	2.415077	3.286931	GO:0005515	protein binding	MF
+Gene_001432	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0005515	protein binding	MF
+Gene_001517	tho complex subunit 3 isoform x2	1	0	0	0	0	0	0	-1	-1	148.8091	122.1238	128.5304	150.0201	164.2864	171.1223	GO:0005515	protein binding	MF
+Gene_001527	peptidyl-prolyl cis-trans isomerase pasticcino1 isoform x1	-1	-1	0	1	0	0	0	1	1	1.1911283	4.524395	3.7958316	2.0645311	0.5860205	0.4350657	GO:0005515	protein binding	MF
+Gene_001552	f-box lrr-repeat 12	-1	-1	0	1	0	0	0	1	1	2.936688	8.436341	7.40668	4.410212	1.043324	1.661158	GO:0005515	protein binding	MF
+Gene_001571	nucleoporin nup37-like	1	0	0	0	0	0	1	0	0	87.17922	74.34398	73.41919	71.36809	79.99366	78.79267	GO:0005515	protein binding	MF
+Gene_001575	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0005515	protein binding	MF
+Gene_001580	bardet-biedl syndrome 1 family	-1	-1	0	1	0	0	0	1	1	3.1673789	8.6237622	8.0695794	3.6380729	0.7450334	2.1024697	GO:0005515	protein binding	MF
+Gene_001728	ribosome biogenesis bms1 homolog	1	1	0	0	0	0	0	0	0	370.5235	290.1477	277.7039	320.552	334.7161	336.4555	GO:0005515	protein binding	MF
+Gene_001746	tetratricopeptide repeat	1	0	0	0	0	0	0	-1	0	303.5997	256.8842	263.4937	273.4414	309.8999	281.9787	GO:0005515	protein binding	MF
+Gene_001752	hypothetical protein pbra 003046	-1	-1	0	0	0	0	0	1	1	86.17042	104.46619	114.40119	101.5306	85.74297	86.9465	GO:0005515	protein binding	MF
+Gene_001796	death-associated kinase 1	-1	-1	0	0	0	0	0	0	1	38.98585	56.25733	55.76845	49.11776	47.71514	39.17255	GO:0005515	protein binding	MF
+Gene_001809	phd and ring finger domain-containing 1-like	-1	0	0	0	0	0	-1	0	0	33.1368	83.8926	35.9589	110.70471	64.15837	43.73136	GO:0005515	protein binding	MF
+Gene_001827	variable lymphocyte receptor diversity	-1	0	0	0	0	0	0	1	0	2.780184	5.593078	4.107525	3.168177	2.553871	3.734488	GO:0005515	protein binding	MF
+Gene_001848	pentatricopeptide repeat-containing chloroplastic	1	0	0	0	0	0	0	-1	0	77.75264	61.31837	66.01135	77.30193	82.31804	81.91928	GO:0005515	protein binding	MF
+Gene_001850	small ubiquitin-related modifier 1	1	0	0	0	0	0	0	-1	0	177.3545	143.3511	154.6159	152.9892	180.6015	167.5793	GO:0005515	protein binding	MF
+Gene_001871	hypothetical protein pbra 003142	1	1	0	0	0	0	0	-1	-1	119.23739	93.38333	96.62731	113.08764	136.58127	135.34284	GO:0005515	protein binding	MF
+Gene_001901	ring finger 10 isoform x2	1	0	0	-1	0	0	0	-1	-1	103.38292	87.3708	91.30268	115.49325	141.08265	135.36782	GO:0005515	protein binding	MF
+Gene_001907	cilia- and flagella-associated 57-like	-1	-1	0	0	0	0	0	1	1	4.378937	10.91555	9.977704	3.704445	2.167131	1.981734	GO:0005515	protein binding	MF
+Gene_001931	hypothetical protein pbra 003191	-1	-1	0	0	0	0	-1	0	0	3.40485	6.729002	8.538984	7.149853	5.254772	5.897326	GO:0005515	protein binding	MF
+Gene_001994	intraflagellar transport 88	-1	-1	0	0	0	0	0	1	1	18.33016	36.54342	37.13445	26.16183	14.13359	14.53618	GO:0005515	protein binding	MF
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0005515	protein binding	MF
+Gene_002045	superoxide	1	1	0	0	0	0	0	-1	-1	897.7074	691.5159	695.9569	860.2962	967.3381	1040.4563	GO:0005515	protein binding	MF
+Gene_002051	dedicator of cytokinesis 8	-1	-1	0	0	0	0	0	1	1	204.8316	245.5786	280.5113	242.2018	207.7574	216.4316	GO:0005515	protein binding	MF
+Gene_002083	myosin head (motor domain) domain containing	-1	-1	0	0	0	0	-1	0	0	0.09506752	0.80328064	0.8576892	1.18572675	0.43739103	0.12073561	GO:0005515	protein binding	MF
+Gene_002096	elav 3 isoform x6	1	0	0	0	0	0	0	-1	0	30.55974	23.53708	23.6791	30.15208	33.86699	30.02785	GO:0005515	protein binding	MF
+Gene_002140	leucine-rich repeat-containing 15-like	1	0	0	0	0	0	0	-1	-1	1094.0367	719.5991	832.8374	885.4336	1072.8222	1389.8996	GO:0005515	protein binding	MF
+Gene_002142	slit-like isoform x2	1	0	0	0	0	0	0	-1	-1	381.7682	303.4592	318.2486	389.2624	469.5648	456.9666	GO:0005515	protein binding	MF
+Gene_002145	insulin-like growth factor-binding complex acid labile subunit	-1	0	0	0	0	0	-1	0	0	5.572847	14.153977	10.296747	14.239607	9.199229	8.235021	GO:0005515	protein binding	MF
+Gene_002175	isoform a	1	1	0	0	0	0	0	-1	-1	263.1409	187.4732	196.6217	231.7889	269.8463	296.8271	GO:0005515	protein binding	MF
+Gene_002176	wd repeat-containing 43-like	1	1	0	0	0	0	0	-1	-1	106.3991	83.11756	72.04283	97.93397	99.82758	111.67445	GO:0005515	protein binding	MF
+Gene_002272	hypothetical protein pbra 003405	1	1	0	0	0	0	1	-1	0	31.18712	23.50479	22.97989	23.13143	29.97891	28.88502	GO:0005515	protein binding	MF
+Gene_002283	polysaccharide deacetylase family	-1	-1	0	0	0	0	0	1	0	1.808618	4.04075	3.803568	3.442509	1.566444	2.296064	GO:0005515	protein binding	MF
+Gene_002368	otu domain-containing	-1	0	0	0	0	0	-1	0	0	9.056151	35.163793	20.480625	44.370199	22.856509	17.100772	GO:0005515	protein binding	MF
+Gene_002388	pentatricopeptide repeat-containing mitochondrial-like isoform x3	-1	0	0	0	0	0	0	0	0	0.6612056	1.3393344	1.2292846	1.3441085	1.1406938	0.9971126	GO:0005515	protein binding	MF
+Gene_002437	hypothetical protein pbra 003272	1	1	0	0	0	0	0	-1	-1	57.88227	47.7888	47.00083	59.95383	64.89168	60.14312	GO:0005515	protein binding	MF
+Gene_002460	maintenance of mitochondrial structure and function-domain-containing	1	1	0	0	0	0	1	0	-1	432.4044	364.1232	334.2544	352.1659	392.5047	418.6684	GO:0005515	protein binding	MF
+Gene_002471	e3 ubiquitin-ligase hace1-like isoform x1	-1	-1	0	0	0	0	-1	0	0	265.215	342.6977	356.1172	346.3457	291.3776	310.489	GO:0005515	protein binding	MF
+Gene_002555	pre-mrna-processing factor 19	1	0	0	0	0	0	0	-1	0	303.5934	254.2271	255.1527	273.4479	299.9491	298.0303	GO:0005515	protein binding	MF
+Gene_002606	wd40 repeat	1	1	0	0	0	0	0	0	-1	142.0081	111.3062	101.5826	122.7942	132.8918	152.0793	GO:0005515	protein binding	MF
+Gene_002635	hypothetical protein pbra 008579	-1	0	0	0	0	0	-1	0	0	3.651054	13.037616	7.337412	14.692639	8.149619	6.428145	GO:0005515	protein binding	MF
+Gene_002660	lrr and pyd domains-containing 5	-1	0	0	0	0	0	0	0	0	0.4660911	1.3409266	1.2162433	0.5749508	0.4393855	0.7369047	GO:0005515	protein binding	MF
+Gene_002731	unconventional myosin-ie-like	-1	-1	0	0	0	0	0	1	1	0.15889909	0.67622407	0.97666386	0.11910524	0.09294988	0.18734896	GO:0005515	protein binding	MF
+Gene_002742	serine threonine-phosphatase 6 regulatory ankyrin repeat subunit b-like	-1	-1	0	0	0	0	-1	0	0	117.6915	155.1151	154.4	164.2897	147.3357	137.36	GO:0005515	protein binding	MF
+Gene_002755	hypothetical protein pbra 007889	1	1	0	0	0	0	0	0	0	71.44203	57.30369	54.10883	57.02843	62.19332	69.05675	GO:0005515	protein binding	MF
+Gene_002758	f-box lrr-repeat 20 isoform x2	-1	0	0	1	0	0	-1	1	0	0.7700496	1.7071403	0.5630986	2.0746753	0.6539893	1.365565	GO:0005515	protein binding	MF
+Gene_002772	hypothetical protein pbra 007876	-1	-1	0	0	0	0	0	1	1	17.84342	33.01458	32.40141	22.98603	16.99058	15.40216	GO:0005515	protein binding	MF
+Gene_002773	hypothetical protein pbra 001162	-1	0	0	0	0	0	0	1	0	8.959382	17.083687	15.611095	9.6992	8.736974	8.513965	GO:0005515	protein binding	MF
+Gene_002801	hypothetical protein pbra 002342	1	1	0	0	0	0	0	-1	0	57.98463	44.47056	45.54705	53.82963	60.09268	55.67382	GO:0005515	protein binding	MF
+Gene_002878	elongator complex 2 isoform x1	1	1	0	0	0	0	0	0	-1	75.88911	60.97788	56.07763	63.7001	67.39864	72.60391	GO:0005515	protein binding	MF
+Gene_002887	heat shock ssa2 ( )	-1	0	0	0	0	0	-1	0	0	48.9351	114.96961	49.82127	115.40731	104.98019	55.14089	GO:0005515	protein binding	MF
+Gene_002907	molecular chaperone	1	0	0	0	0	0	0	-1	-1	100.59427	83.5151	85.55521	92.31395	111.64594	111.25812	GO:0005515	protein binding	MF
+Gene_002942	dynein intermediate chain 2	-1	-1	0	1	0	0	0	1	1	25.98572	76.85431	80.40965	54.82723	16.80953	27.91496	GO:0005515	protein binding	MF
+Gene_002963	hypothetical protein pbra 002222	-1	-1	0	1	0	0	0	1	1	3.988645	10.135561	8.998194	4.67279	1.829576	2.489659	GO:0005515	protein binding	MF
+Gene_003013	[micromonas commoda]	1	1	0	0	0	0	0	0	0	54.42902	42.78174	39.99553	49.45689	50.96413	51.26488	GO:0005515	protein binding	MF
+Gene_003018	likely vesicular transport factor uso1p	-1	0	0	0	0	0	0	0	0	6.652997	10.194516	9.991547	8.496301	7.386281	6.272023	GO:0005515	protein binding	MF
+Gene_003031	hypothetical protein pbra 007505	-1	-1	0	1	0	0	0	1	1	4.851368	10.685913	10.87612	5.754067	2.89407	4.01759	GO:0005515	protein binding	MF
+Gene_003081	exportin-2 isoform x1	1	0	0	0	0	0	0	-1	-1	420.5802	342.2531	348.1911	387.8236	458.366	451.7916	GO:0005515	protein binding	MF
+Gene_003088	hypothetical protein pbra 003566	1	1	0	0	0	0	0	0	0	125.94792	102.61116	98.78396	105.8321	112.30189	104.13262	GO:0005515	protein binding	MF
+Gene_003106	wd repeat-containing 92	-1	-1	0	1	0	0	0	1	1	13.954926	39.65622	38.415066	24.479822	8.795808	12.179752	GO:0005515	protein binding	MF
+Gene_003164	fha domain-containing	-1	0	0	0	0	0	0	1	1	0.3841511	1.2947901	1.1310877	0.799657	0.3076424	0	GO:0005515	protein binding	MF
+Gene_003179	myosin viia	-1	0	0	0	0	0	0	1	0	33.90393	48.42396	45.91984	38.04067	29.38053	32.9505	GO:0005515	protein binding	MF
+Gene_003192	kelch 5	-1	0	0	0	0	0	0	1	1	0.5696312	2.1492727	1.3258513	1.0953755	0.6596181	0.2477168	GO:0005515	protein binding	MF
+Gene_003205	hypothetical protein pbra 007186	-1	-1	0	1	0	0	0	1	1	2.832373	7.674728	6.569769	3.900651	1.040947	2.423045	GO:0005515	protein binding	MF
+Gene_003212	hypothetical protein pbra 007179	1	1	0	0	0	0	0	-1	-1	150.6932	109.9015	115.9363	129.2466	143.7026	170.5145	GO:0005515	protein binding	MF
+Gene_003233	speckle-type poz b-like	-1	-1	0	1	0	0	0	1	1	9.541127	28.628309	29.406263	13.906304	4.388685	9.448623	GO:0005515	protein binding	MF
+Gene_003254	hypothetical protein pbra 007148	1	1	0	0	0	0	0	-1	-1	150.5123	111.328	114.2496	139.3177	155.3797	176.2432	GO:0005515	protein binding	MF
+Gene_003270	intraflagellar transport 81	-1	-1	0	1	0	0	0	1	1	28.24401	73.8178	80.99474	48.4973	14.88284	21.14543	GO:0005515	protein binding	MF
+Gene_003302	angio-associated migratory cell	1	1	0	0	0	0	0	0	-1	79.69579	65.00556	60.71607	76.46683	72.65583	76.31757	GO:0005515	protein binding	MF
+Gene_003315	set domain	-1	-1	0	0	0	0	0	1	1	37.53559	51.65907	55.88375	45.66613	33.96226	38.28577	GO:0005515	protein binding	MF
+Gene_003333	hypothetical protein pbra 004137	1	1	0	0	0	0	1	-1	0	39.54571	28.2817	27.39013	28.18348	36.53556	37.12629	GO:0005515	protein binding	MF
+Gene_003348	eukaryotic translation initiation factor 4 gamma 3 (eif4-gamma 3)	-1	0	0	0	0	0	0	1	0	73.32464	105.701	89.50909	92.18031	80.48913	75.24553	GO:0005515	protein binding	MF
+Gene_003353	mitogen-activated kinase-binding 1 isoform x2	-1	0	0	0	0	0	0	1	0	1.5234152	4.2944534	3.9363857	1.8450653	0.6520835	1.4321783	GO:0005515	protein binding	MF
+Gene_003392	sel1 repeat family	-1	-1	0	1	0	0	0	1	1	3.488923	10.29343	8.956638	6.652982	1.677872	3.220318	GO:0005515	protein binding	MF
+Gene_003455	hypothetical protein pbra 004219	1	1	0	0	0	0	0	-1	-1	99.05866	82.81698	81.88606	99.66072	111.83419	113.6645	GO:0005515	protein binding	MF
+Gene_003477	nucleolar 10	1	1	0	0	0	0	0	0	-1	132.91944	101.31384	87.90409	114.78894	113.61589	125.87757	GO:0005515	protein binding	MF
+Gene_003486	leucine-rich repeat-containing 9	-1	-1	0	0	0	0	0	1	1	4.996041	10.955874	9.428448	5.915603	4.276637	3.697015	GO:0005515	protein binding	MF
+Gene_003502	n-alpha-acetyltransferase auxiliary subunit	1	1	0	0	0	0	0	0	-1	121.778	101.9187	101.7163	106.8498	112.7937	127.5908	GO:0005515	protein binding	MF
+Gene_003555	hypothetical protein pbra 004297	-1	-1	0	0	0	0	0	1	1	0.8527635	2.7440705	1.9015769	0.4658985	0.4143157	0.4350657	GO:0005515	protein binding	MF
+Gene_003580	hypothetical protein axg93 939s1080	-1	-1	0	0	0	0	0	0	1	1.0081061	2.4744311	2.6484423	1.5066231	1.33906	0.5433103	GO:0005515	protein binding	MF
+Gene_003595	wd40 repeat	1	1	0	0	0	0	1	0	0	81.24134	57.65962	53.73806	59.41173	60.79733	66.83146	GO:0005515	protein binding	MF
+Gene_003668	nhl repeat containing	-1	0	0	1	0	0	0	1	0	0.795271	2.9184776	1.5495434	0.9879003	0.2458625	0.6827825	GO:0005515	protein binding	MF
+Gene_003672	heat repeat-containing 3-like	1	1	0	0	0	0	0	-1	-1	101.29369	74.52877	74.23781	108.45904	103.91915	128.92928	GO:0005515	protein binding	MF
+Gene_003718	leucine-rich repeat-containing	-1	-1	0	0	0	0	0	1	1	5.985128	10.508089	9.5682	7.929616	6.391477	5.548645	GO:0005515	protein binding	MF
+Gene_003810	hypothetical protein pbra 006881	-1	0	0	0	0	0	0	1	0	8.849584	16.640503	11.18903	9.990663	6.498416	7.697956	GO:0005515	protein binding	MF
+Gene_003821	hypothetical protein pbra 006871	1	0	0	0	0	0	0	-1	-1	95.74009	62.49977	73.32392	76.88987	94.80366	122.65102	GO:0005515	protein binding	MF
+Gene_003879	hypothetical protein pbra 008914	-1	-1	0	0	0	0	-1	1	0	1.877429	4.418436	4.904511	3.994799	2.258872	2.84562	GO:0005515	protein binding	MF
+Gene_003910	rab9 effector with kelch motifs-like	-1	-1	0	1	0	0	0	1	1	2.685827	8.976481	7.186249	5.385845	1.563664	2.343941	GO:0005515	protein binding	MF
+Gene_003948	ring finger 11	-1	-1	0	0	0	0	-1	0	0	25.51884	46.68526	42.63709	41.45897	32.92652	26.26005	GO:0005515	protein binding	MF
+Gene_003979	dynein light chain tctex-type	-1	-1	0	0	0	0	0	1	0	0.1000469	0.6003054	0.6694463	0.239318	0.1510068	0.187349	GO:0005515	protein binding	MF
+Gene_004007	glutathione s-transferase	-1	0	0	0	0	0	-1	1	0	123.2015	490.214	264.8189	550.6466	226.6451	207.5282	GO:0005515	protein binding	MF
+Gene_004017	phosphatase regulatory and related s	-1	0	0	0	0	0	0	0	0	0.1252051	0.5582939	0.5068716	0.2452816	0.1934344	0.3143301	GO:0005515	protein binding	MF
+Gene_004034	pa14 multi-domain (macronuclear)	-1	-1	0	1	0	0	0	1	1	4.983236	13.480525	14.465804	8.696852	2.99758	3.944732	GO:0005515	protein binding	MF
+Gene_004035	mannan endo-1;4-beta-mannosidase	-1	-1	0	1	0	0	0	1	1	2.094855	5.358028	5.309512	3.864826	1.213034	2.30231	GO:0005515	protein binding	MF
+Gene_004036	pa14 multi-domain (macronuclear)	-1	-1	0	1	0	0	0	1	1	5.341518	12.677587	13.385638	8.344733	2.977756	3.830241	GO:0005515	protein binding	MF
+Gene_004051	wd domain containing	1	1	0	0	0	0	0	-1	-1	166.2589	129.5527	117.9402	157.1698	161.5631	170.7622	GO:0005515	protein binding	MF
+Gene_004138	polyubiquitin	-1	0	0	0	0	0	0	1	0	201.4108	309.2982	291.5704	290.3148	202.4866	204.7223	GO:0005515	protein binding	MF
+Gene_004226	ankyrin repeat	-1	0	0	0	0	0	-1	0	0	5.288687	25.160093	9.130624	51.065386	20.536626	15.766435	GO:0005515	protein binding	MF
+Gene_004231	hypothetical protein pbra 004659	-1	-1	0	1	0	0	0	1	1	1.690526	5.106585	4.25279	3.564059	1.118179	1.867244	GO:0005515	protein binding	MF
+Gene_004241	histone-lysine n-methyltransferase atx1-like	1	0	0	0	0	0	0	-1	0	77.518	63.86601	64.97393	73.53648	79.41054	80.01458	GO:0005515	protein binding	MF
+Gene_004264	zinc c3hc4 type (ring finger) domain containing	-1	-1	0	1	0	0	0	1	1	2.7119589	7.0991144	8.5956254	4.1723904	0.8243484	1.6861406	GO:0005515	protein binding	MF
+Gene_004270	trna modification gtpase mitochondrial	1	0	0	0	0	0	0	0	0	60.77955	48.9908	49.59142	53.48359	57.55935	59.12311	GO:0005515	protein binding	MF
+Gene_004285	splicing factor 3b subunit 3	1	0	0	0	0	0	0	-1	-1	570.4643	464.7438	485.0075	575.5115	659.7218	678.419	GO:0005515	protein binding	MF
+Gene_004295	mps1 binder	-1	-1	0	1	0	0	0	1	1	10.910266	36.704916	38.607011	21.863974	6.216178	11.732196	GO:0005515	protein binding	MF
+Gene_004300	eukaryotic translation initiation factor 2a	1	1	0	0	0	0	0	-1	-1	186.9718	148.4802	148.3782	172.6576	191.0412	200.9982	GO:0005515	protein binding	MF
+Gene_004320	kinesin kif19	-1	-1	0	1	0	0	0	1	1	11.051989	34.838541	26.222021	20.678962	6.93069	9.444465	GO:0005515	protein binding	MF
+Gene_004327	ribosome assembly	-1	-1	0	1	0	0	-1	1	1	5.848476	18.914489	16.065468	14.058113	3.914495	4.542164	GO:0005515	protein binding	MF
+Gene_004343	syntaxin 16	-1	-1	0	1	0	0	0	1	0	1.5379656	4.7365434	5.3376384	3.4789286	0.8380719	2.3023097	GO:0005515	protein binding	MF
+Gene_004353	intraflagellar transport 72 74	-1	-1	0	1	0	0	0	1	1	11.418742	34.115153	36.586847	16.735693	7.149891	10.789205	GO:0005515	protein binding	MF
+Gene_004423	insulin-like growth factor-binding complex acid labile subunit isoform x2	-1	-1	0	0	0	0	0	1	0	1.129367	3.352923	3.239254	2.068323	1.07748	1.492546	GO:0005515	protein binding	MF
+Gene_004429	prefoldin subunit 6	1	0	0	0	0	0	0	-1	-1	81.03933	67.16132	68.59743	82.0793	86.4643	90.19597	GO:0005515	protein binding	MF
+Gene_004453	unconventional myosin-viib	-1	0	0	1	0	0	-1	1	0	1.97327	4.395764	2.435747	4.632076	1.858929	2.972601	GO:0005515	protein binding	MF
+Gene_004507	nucleolar mif4g domain-containing 1	1	1	0	0	0	0	0	-1	-1	130.5889	107.8075	104.976	123.36	138.8313	133.6442	GO:0005515	protein binding	MF
+Gene_004508	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0005515	protein binding	MF
+Gene_004535	hypothetical protein pbra 001115	1	0	0	0	0	0	0	0	0	71.75219	60.31197	62.6148	61.17155	69.38098	75.76177	GO:0005515	protein binding	MF
+Gene_004582	lish domain-containing fopnl-like	-1	-1	0	1	0	0	0	1	1	7.976713	22.895928	27.227253	18.198816	5.853299	10.476963	GO:0005515	protein binding	MF
+Gene_004659	translation initiation factor eif-2b epsilon subunit	1	0	0	0	0	0	0	-1	-1	241.8878	196.6436	201.446	216.4565	249.0192	260.2087	GO:0005515	protein binding	MF
+Gene_004693	protease inhibitor epi11	-1	0	0	0	0	0	0	1	0	0.3068043	0.8141835	0.4376033	0.4759514	0.2377678	0.2477168	GO:0005515	protein binding	MF
+Gene_004722	vamp (vesicle associated membrane ) homolog	-1	-1	0	0	0	0	0	1	0	0.5260417	1.8641712	1.9374404	1.01478	0.4000321	0.6161691	GO:0005515	protein binding	MF
+Gene_004760	receptor-interacting serine-threonine kinase	-1	-1	0	0	0	0	0	1	1	0.6601072	1.7840636	1.8600213	0.6940561	0.2763837	0.5620469	GO:0005515	protein binding	MF
+Gene_004800	dyslexia susceptibility 1 candidate gene 1 homolog	-1	-1	0	1	0	0	0	1	1	9.962653	29.403472	28.280895	19.641244	7.125914	9.200906	GO:0005515	protein binding	MF
+Gene_004824	glutathione s-transferase	-1	0	0	0	0	0	-1	0	0	20.70919	61.59388	31.2985	79.05837	54.44051	26.61392	GO:0005515	protein binding	MF
+Gene_004827	hypothetical protein pbra 001354	1	1	0	0	0	0	0	-1	0	119.23547	99.36949	99.03775	113.78579	135.49711	115.54631	GO:0005515	protein binding	MF
+Gene_004861	pci domain-containing	1	0	0	0	0	0	0	-1	-1	369.5	299.1796	303.6363	357.8603	417.3784	400.7869	GO:0005515	protein binding	MF
+Gene_004886	leucine rich repeat domain containing	-1	-1	0	0	0	0	0	1	1	13.908366	37.122561	28.760441	21.236138	11.761485	9.985687	GO:0005515	protein binding	MF
+Gene_004897	e3 ubiquitin-ligase	-1	0	0	0	0	0	-1	0	0	4.539194	17.174443	5.250438	19.04664	9.98069	9.121801	GO:0005515	protein binding	MF
+Gene_004904	hypothetical protein pbra 000376; partial	1	0	0	0	0	0	0	0	0	166.0121	114.9869	121.9623	129.2267	142.4257	175.2503	GO:0005515	protein binding	MF
+Gene_004932	hypothetical protein pbra 000353	-1	0	0	0	0	0	0	1	1	2.999619	6.510678	6.024188	3.838757	2.086696	2.458431	GO:0005515	protein binding	MF
+Gene_004997	e3 ubiquitin-ligase	-1	-1	0	1	0	0	-1	1	1	50.80679	75.06472	89.42442	75.31412	55.3868	60.27844	GO:0005515	protein binding	MF
+Gene_005015	2-oxoglutarate-dependent dioxygenase	-1	0	0	0	0	0	0	1	0	1.7368977	4.6280303	3.6210174	1.5476014	0.6789704	1.2927061	GO:0005515	protein binding	MF
+Gene_005078	ubiquitin-60s ribosomal l40	1	0	0	0	0	0	1	0	0	912.8001	701.8858	709.9254	641.273	734.0211	735.9145	GO:0005515	protein binding	MF
+Gene_005103	cytochrome b561 and domon domain-containing at3g07570	-1	-1	0	1	0	0	0	1	1	1.2698347	3.585808	4.5940334	2.21729	0.5360583	0.6161691	GO:0005515	protein binding	MF
+Gene_005130	swim zinc finger family mitogen-activated kinase kinase kinase (mapkkk)-related	-1	0	0	0	0	0	0	0	0	9.855036	27.87179	13.509089	22.903709	16.065612	9.896179	GO:0005515	protein binding	MF
+Gene_005154	achain gfp-binding darpin fusion gc r11	-1	-1	0	1	0	0	0	1	1	0.4547094	1.5949021	1.7296356	0.7672834	0.1878056	0.689028	GO:0005515	protein binding	MF
+Gene_005206	kinesin kin-7o isoform x1	-1	-1	0	0	0	0	0	1	0	1.986209	5.534076	6.33182	3.563911	1.211306	2.096224	GO:0005515	protein binding	MF
+Gene_005259	wd40-repeat-containing domain	1	1	0	0	0	0	0	-1	-1	221.1583	184.6502	164.0341	224.0686	244.3337	244.7961	GO:0005515	protein binding	MF
+Gene_005303	cgmp-dependent 3 ;5-cyclic phosphodiesterase-like	-1	-1	0	0	0	0	-1	0	0	57.74877	81.21932	83.83908	83.98628	71.69107	69.17333	GO:0005515	protein binding	MF
+Gene_005306	wd repeat-containing	1	1	0	0	0	0	1	0	0	176.592	139.9097	131.0876	136.1375	156.826	137.5411	GO:0005515	protein binding	MF
+Gene_005386	gala	-1	0	0	1	0	0	-1	1	0	0.5610954	1.8699367	1.4704942	2.0748	0.421939	1.0512349	GO:0005515	protein binding	MF
+Gene_005387	nucleotide exchange factor	1	1	0	0	0	0	0	-1	-1	178.4194	142.3589	136.3175	174.4968	195.2977	213.688	GO:0005515	protein binding	MF
+Gene_005402	leucine-rich repeat-containing	-1	-1	0	0	0	0	-1	1	0	0.318186	1.452135	1.0088528	1.3622153	0.5047997	0.4288202	GO:0005515	protein binding	MF
+Gene_005415	hypothetical protein pbra 000976	-1	0	0	1	0	0	0	1	0	4.746989	11.266125	7.539912	5.890382	2.668031	4.344412	GO:0005515	protein binding	MF
+Gene_005418	anaphase-promoting complex	1	0	0	0	0	0	1	0	0	98.92888	83.68705	83.53988	73.84191	87.10141	83.32234	GO:0005515	protein binding	MF
+Gene_005439	f-box at5g06550	1	1	0	0	0	0	1	0	-1	99.47298	78.79888	77.44032	79.2946	92.43104	107.31548	GO:0005515	protein binding	MF
+Gene_005456	hypothetical protein pbra 000942	1	0	0	0	0	0	0	-1	-1	55.38962	30.53736	40.72651	55.62237	68.19279	111.1062	GO:0005515	protein binding	MF
+Gene_005501	wd repeat-containing 54 isoform x1	-1	-1	0	1	0	0	0	1	1	5.218895	15.031356	17.264194	9.051315	3.122397	3.38893	GO:0005515	protein binding	MF
+Gene_005517	pas domain s-box	-1	0	0	0	0	0	0	1	0	4.97696	10.758471	9.1913	5.85426	3.815445	3.925995	GO:0005515	protein binding	MF
+Gene_005563	sec14 1 isoform x1	-1	-1	0	0	0	0	0	1	1	5.191866	11.893758	12.241924	6.811575	3.179197	4.042573	GO:0005515	protein binding	MF
+Gene_005566	ubiquitin-conjugating enzyme e2	-1	-1	0	1	0	0	0	1	1	3.450636	7.686636	8.436311	3.824269	1.423915	1.238584	GO:0005515	protein binding	MF
+Gene_005585	tetratricopeptide repeat	-1	-1	0	0	0	0	0	1	1	1.930391	4.075099	4.490532	3.084853	2.358487	2.296064	GO:0005515	protein binding	MF
+Gene_005586	wd repeat-containing 17	-1	-1	0	1	0	0	0	1	0	8.175251	15.737462	15.674284	11.155852	5.976553	8.886576	GO:0005515	protein binding	MF
+Gene_005735	forkhead associated fha domain and ring domain	1	1	0	0	0	0	0	-1	-1	20.425	15.08952	14.28038	19.91636	25.11171	25.5627	GO:0005515	protein binding	MF
+Gene_005829	set domain containing	-1	-1	0	1	0	0	0	1	1	3.715473	12.474552	10.887144	8.498172	2.886624	3.921837	GO:0005515	protein binding	MF
+Gene_005854	wd40 repeat	1	1	0	0	0	0	0	-1	-1	220.5185	169.2427	159.4971	189.0005	208.7734	224.269	GO:0005515	protein binding	MF
+Gene_005892	hypothetical protein pbra 006175	-1	-1	0	1	0	0	0	1	1	3.443784	8.804791	9.985854	5.672024	1.963225	2.712393	GO:0005515	protein binding	MF
+Gene_005909	e3 ubiquitin-ligase rnf181-like	-1	0	0	0	0	0	-1	0	0	0	0.3506313	0.0965667	0.5290729	0.2303218	0	GO:0005515	protein binding	MF
+Gene_005966	t-complex 1 subunit epsilon	1	1	0	0	0	0	0	-1	-1	637.4178	532.8514	522.6237	628.4955	693.8034	727.438	GO:0005515	protein binding	MF
+Gene_006098	wd repeat-containing 37-like	-1	-1	0	1	0	0	0	1	1	73.95236	99.45615	105.02491	81.27179	62.13584	62.93464	GO:0005515	protein binding	MF
+Gene_006120	hypothetical protein pbra 007292	1	0	0	0	0	0	0	-1	0	56.57963	44.54546	45.63953	51.52155	57.63201	56.4586	GO:0005515	protein binding	MF
+Gene_006159	hypothetical protein pbra 007314	-1	-1	0	0	0	0	0	1	0	1.1396502	3.4447455	3.7114777	1.329156	0.8690646	1.867244	GO:0005515	protein binding	MF
+Gene_006162	hypothetical protein pbra 003410	-1	-1	0	1	0	0	0	1	1	3.535295	9.497644	8.17717	5.231087	2.033748	3.153705	GO:0005515	protein binding	MF
+Gene_006223	dynein light chain cytoplasmic	-1	-1	0	0	0	0	0	1	1	2.624454	7.798793	7.945741	4.145166	1.884381	3.191178	GO:0005515	protein binding	MF
+Gene_006388	leucine rich repeat domain containing	-1	-1	0	0	0	0	0	0	0	22.89101	30.68971	32.56887	25.83668	26.7146	24.02019	GO:0005515	protein binding	MF
+Gene_006394	hypothetical protein pbra 005019	-1	0	0	0	0	0	-1	0	0	6.27324	26.94643	10.29144	29.37306	17.32047	7.53766	GO:0005515	protein binding	MF
+Gene_006407	hypothetical protein pbra 005027	1	0	0	0	0	0	1	0	0	18.90908	12.95595	13.91246	11.00075	12.03679	16.0662	GO:0005515	protein binding	MF
+Gene_006440	hypothetical protein pbra 005051	-1	0	0	0	0	0	0	1	1	3.148487	5.720817	5.688042	3.534562	2.947283	2.404309	GO:0005515	protein binding	MF
+Gene_006449	hypothetical protein pbra 005058	-1	-1	0	0	0	0	-1	0	0	12.64446	18.7581	21.95844	19.06988	13.89455	15.35219	GO:0005515	protein binding	MF
+Gene_006547	e3 ubiquitin-ligase rnf181-like	1	0	0	0	0	0	0	-1	-1	128.67391	92.09927	101.31993	110.75706	136.31306	137.90327	GO:0005515	protein binding	MF
+Gene_006652	glycine cleavage system t	-1	-1	0	1	0	0	0	1	1	66.80993	90.73551	111.08618	71.51501	52.10775	50.77569	GO:0005515	protein binding	MF
+Gene_006668	ankyrin repeat and death domain-containing 1a-like isoform x1	1	1	0	0	0	0	0	0	-1	93.53453	71.42247	68.85732	74.03164	88.29262	99.81114	GO:0005515	protein binding	MF
+Gene_006757	tyrosine-kinase src42a	-1	0	0	0	0	0	-1	0	0	0.3256234	2.5623308	0.5068716	2.1504148	1.5385662	0.489188	GO:0005515	protein binding	MF
+Gene_006780	hypothetical protein pbra 005459	1	1	0	0	0	0	0	-1	-1	154.6629	107.5069	119.8757	141.1711	160.0729	193.1816	GO:0005515	protein binding	MF
+Gene_006811	[naegleria gruberi]	1	0	0	0	0	0	0	-1	0	156.734	121.7936	136.5462	132.4887	148.1533	154.4629	GO:0005515	protein binding	MF
+Gene_006838	denticleless homolog	1	0	0	0	0	0	0	0	0	61.20846	49.55829	51.18533	48.8488	51.24631	60.59485	GO:0005515	protein binding	MF
+Gene_006854	hypothetical protein pbra 008536	1	1	0	0	0	0	1	0	0	347.7537	215.0403	216.9226	195.063	230.5836	315.991	GO:0005515	protein binding	MF
+Gene_006856	hypothetical protein pbra 008535	1	1	0	0	0	0	0	0	-1	95.51229	71.80633	70.57379	80.50079	86.86498	102.94727	GO:0005515	protein binding	MF
+Gene_006983	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0005515	protein binding	MF
+Gene_007005	hypothetical protein pbra 004485	-1	-1	0	1	0	0	0	1	1	6.443691	16.40515	13.943252	11.976571	5.565396	3.379562	GO:0005515	protein binding	MF
+Gene_007011	hypothetical protein pbra 004485	-1	-1	0	0	0	0	0	1	1	6.796282	16.193178	14.146968	12.264921	6.602531	3.989486	GO:0005515	protein binding	MF
+Gene_007037	e3 ubiquitin-ligase fancl isoform x1	1	0	0	0	0	0	0	-1	0	81.01622	66.03768	69.84952	71.96019	83.81733	78.31181	GO:0005515	protein binding	MF
+Gene_007055	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0005515	protein binding	MF
+Gene_007060	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0005515	protein binding	MF
+Gene_007080	chromosome condensation regulator rcc1 repeat	-1	-1	0	1	0	0	0	1	1	50.67656	119.17027	121.04551	88.68145	38.49987	45.56116	GO:0005515	protein binding	MF
+Gene_007081	agc kinase	-1	-1	0	1	0	0	-1	1	1	47.11652	103.71631	117.07826	84.92038	37.8254	48.29852	GO:0005515	protein binding	MF
+Gene_007104	tho complex subunit 6	1	0	0	0	0	0	0	-1	-1	82.03209	66.04418	69.22043	77.97953	79.1976	91.39084	GO:0005515	protein binding	MF
+Gene_007116	srf-type transcription factor	1	1	0	0	0	0	0	-1	-1	74.78815	59.18087	56.35305	66.37199	81.14271	79.43173	GO:0005515	protein binding	MF
+Gene_007139	syntaxin-like isoform x4	1	1	0	0	0	0	0	-1	0	9.664122	6.750711	6.083261	7.67232	9.582705	8.239179	GO:0005515	protein binding	MF
+Gene_007168	nbs-lrr class disease resistance	1	1	0	0	0	0	0	0	0	88.53565	67.66253	70.13272	73.02559	80.61382	85.84531	GO:0005515	protein binding	MF
+Gene_007174	hypothetical protein pbra 004581	-1	-1	0	1	0	0	0	1	1	9.860734	25.52892	25.043271	17.662034	5.551669	9.914916	GO:0005515	protein binding	MF
+Gene_007197	dynein intermediate chain	-1	-1	0	1	0	0	0	1	1	16.147247	44.308082	38.153052	26.1607	9.615531	11.413708	GO:0005515	protein binding	MF
+Gene_007244	hypothetical protein pbra 007811	-1	-1	0	1	0	0	0	1	1	4.027968	10.924299	11.195163	6.930335	1.81823	4.356903	GO:0005515	protein binding	MF
+Gene_007245	hypothetical protein pbra 007811	-1	-1	0	0	0	0	0	1	0	0.8789568	2.7924818	2.8480963	1.2575494	0.8411461	1.6195273	GO:0005515	protein binding	MF
+Gene_007284	leucine rich repeat gene family	-1	0	0	0	0	0	0	1	1	6.623436	11.153534	10.233171	7.598202	5.842686	5.122948	GO:0005515	protein binding	MF
+Gene_007302	hypothetical protein pbra 007853	1	1	0	0	0	0	0	-1	-1	49.60568	35.55772	33.18085	43.22629	53.20918	63.61951	GO:0005515	protein binding	MF
+Gene_007304	hypothetical protein pbra 007855	1	1	0	0	0	0	0	-1	-1	99.55479	66.34721	73.02477	92.25052	108.34464	131.4106	GO:0005515	protein binding	MF
+Gene_007353	ubiquitin domain-containing 1	-1	0	0	0	0	0	0	1	0	18.86003	37.60799	32.90217	32.03286	19.96912	18.24569	GO:0005515	protein binding	MF
+Gene_007492	flagellar associated	-1	-1	0	0	0	0	0	1	1	19.57244	35.3619	37.22654	25.24758	16.12506	15.71647	GO:0005515	protein binding	MF
+Gene_007525	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0005515	protein binding	MF
+Gene_007564	histone-lysine n-methyltransferase setd3-like	-1	-1	0	0	0	0	-1	0	0	6.370126	12.167024	11.689822	11.542175	8.281399	7.920691	GO:0005515	protein binding	MF
+Gene_007600	intraflagellar transport 122 homolog	-1	-1	0	1	0	0	0	1	1	34.07888	53.49927	50.32281	33.93655	19.56782	27.8775	GO:0005515	protein binding	MF
+Gene_007611	dynein assembly factor	-1	-1	0	0	0	0	0	1	1	6.910321	13.350765	15.283567	10.699148	6.974069	6.882982	GO:0005515	protein binding	MF
+Gene_007657	lrr and pyd domains-containing 12-like	-1	0	0	1	0	0	0	1	0	1.8422485	5.2496102	4.257473	3.4128971	0.7819208	1.5404228	GO:0005515	protein binding	MF
+Gene_007680	novel plant snare 11	1	0	0	0	0	0	0	0	0	54.51149	42.34261	41.79076	45.33718	52.39265	46.91215	GO:0005515	protein binding	MF
+Gene_007696	translin domain-containing	-1	-1	0	0	0	0	0	1	1	1.115915	2.6661253	2.5453549	2.0477478	0.9465625	0.8701314	GO:0005515	protein binding	MF
+Gene_007753	hypothetical protein pbra 005398	1	0	0	0	0	0	0	-1	-1	60.45905	40.06112	47.26691	50.28726	67.23014	74.4524	GO:0005515	protein binding	MF
+Gene_007794	hypothetical protein pbra 005368	-1	0	0	0	0	0	0	1	0	15.33507	38.80098	26.71215	27.30304	17.09462	16.76979	GO:0005515	protein binding	MF
+Gene_007813	fantom isoform x1	-1	0	0	0	0	0	0	1	1	11.069436	17.493705	16.454554	8.053578	6.424641	6.211656	GO:0005515	protein binding	MF
+Gene_007856	e3 ubiquitin-ligase mylip	-1	0	0	0	0	0	0	0	0	0.5043767	1.6498431	1.5544339	1.3387828	0.6771532	0.8638859	GO:0005515	protein binding	MF
+Gene_007859	ddb1- and cul4-associated factor 4	1	1	0	0	0	0	1	-1	0	146.7458	113.0696	108.6039	117.3971	138.8917	129.2103	GO:0005515	protein binding	MF
+Gene_007874	calcineurin subunit b	-1	-1	0	1	0	0	0	1	1	125.8943	183.8884	209.3162	151.1094	104.1234	113.5937	GO:0005515	protein binding	MF
+Gene_007932	tbc1 domain family member 31 isoform x1	-1	-1	0	0	0	0	0	1	1	100.65324	156.32338	162.45505	136.22401	103.40522	97.73567	GO:0005515	protein binding	MF
+Gene_007942	hypothetical protein pbra 006799	-1	-1	0	1	0	0	0	1	1	37.81669	70.56835	89.38066	43.52596	20.006	26.5411	GO:0005515	protein binding	MF
+Gene_007958	ubiquitin family	-1	0	0	0	0	0	0	1	1	52.87572	73.98581	69.61162	60.65575	49.92479	49.34558	GO:0005515	protein binding	MF
+Gene_007976	tetratricopeptide repeat 5-like	-1	-1	0	0	0	0	-1	0	0	86.31913	105.15336	113.44854	111.06649	99.95773	93.4475	GO:0005515	protein binding	MF
+Gene_008031	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting 1	1	1	0	0	0	0	0	-1	-1	290.924	225.3486	218.5069	296.2104	352.6476	308.349	GO:0005515	protein binding	MF
+Gene_008036	tkl kinase	-1	-1	0	0	0	0	0	1	0	8.585336	16.794822	15.201231	12.126455	7.192544	9.184257	GO:0005515	protein binding	MF
+Gene_008041	receptor of activated c kinase 1	1	1	0	0	0	0	1	0	0	1179.4315	886.3082	829.5828	779.1944	897.8791	1111.8112	GO:0005515	protein binding	MF
+Gene_008055	dynein intermediate chain axonemal	-1	-1	0	0	0	0	0	1	1	22.71881	51.67101	46.84524	30.7225	18.67157	18.9826	GO:0005515	protein binding	MF
+Gene_008072	hypothetical protein pbra 001847	1	0	0	0	0	0	0	-1	-1	257.9706	222.9568	219.468	263.0443	293.3127	302.3143	GO:0005515	protein binding	MF
+Gene_008078	t9ss c-terminal target domain-containing	1	0	0	0	0	0	0	-1	-1	150.2844	120.3199	128.9422	135.0938	151.3759	172.6253	GO:0005515	protein binding	MF
+Gene_008083	hypothetical protein pbra 001860	-1	-1	0	0	0	0	0	1	1	1.879238	3.990376	4.659627	2.688088	1.702205	1.286461	GO:0005515	protein binding	MF
+Gene_008092	hypothetical protein pbra 001867	1	0	0	0	0	0	1	0	0	108.72886	65.70279	79.50941	69.88565	85.13032	118.09014	GO:0005515	protein binding	MF
+Gene_008140	hypothetical protein pbra 001904	-1	0	0	0	0	0	-1	0	0	5.192544	13.177913	8.032734	15.345655	11.283489	6.575941	GO:0005515	protein binding	MF
+Gene_008160	hypothetical protein pbra 001921	1	0	0	0	0	0	0	-1	-1	23.15253	16.03102	18.49751	24.1696	25.84249	34.55961	GO:0005515	protein binding	MF
+Gene_008163	spef1 family	-1	-1	0	1	0	0	0	1	1	1.1173379	2.5106053	2.5938454	1.0670911	0.2745665	0.8097636	GO:0005515	protein binding	MF
+Gene_008165	hypothetical protein pbra 001926	-1	-1	0	0	0	0	0	0	0	0.8122794	1.9576988	1.8535007	1.2903927	1.1949391	1.0449893	GO:0005515	protein binding	MF
+Gene_008182	wd repeat-containing 78-like isoform x3	-1	-1	0	1	0	0	-1	1	0	19.61734	57.52729	42.80047	50.97079	21.97686	24.32828	GO:0005515	protein binding	MF
+Gene_008283	tripartite motif-containing 2-like	1	1	0	0	0	0	0	0	0	73.87808	58.60399	56.61755	60.60537	66.9564	66.1466	GO:0005515	protein binding	MF
+Gene_008297	arf-gap with coiled-ank repeat and ph domain-containing 3	1	1	0	0	0	0	0	-1	0	111.33674	93.48252	90.31135	94.61507	115.10681	109.13067	GO:0005515	protein binding	MF
+Gene_008322	guanine nucleotide binding alpha subunit	-1	-1	0	0	0	0	0	1	1	2.264489	4.796077	5.417904	3.800889	1.625444	1.473809	GO:0005515	protein binding	MF
+Gene_008464	ankyrin repeat-containing domain	1	0	0	0	0	0	0	-1	-1	199.0941	145.4858	150.7726	201.3211	226.6749	271.2499	GO:0005515	protein binding	MF
+Gene_008465	hypothetical protein pbra 007015	1	1	0	0	0	0	0	-1	-1	174.9147	133.9453	135.3432	171.0706	200.6706	210.4999	GO:0005515	protein binding	MF
+Gene_008466	hypothetical protein pbra 007015	1	0	0	0	0	0	0	-1	-1	36.26174	27.97596	29.74769	34.36605	41.05915	49.43095	GO:0005515	protein binding	MF
+Gene_008493	periodic tryptophan	1	1	0	0	0	0	1	0	-1	110.61209	82.09345	76.55497	87.69869	90.42081	98.73281	GO:0005515	protein binding	MF
+Gene_008511	hypothetical protein pbra 007047	1	1	0	0	0	0	0	-1	-1	103.91526	85.78515	86.48333	105.4973	112.5061	114.42848	GO:0005515	protein binding	MF
+Gene_008543	ring zinc finger domain superfamily	1	1	0	0	0	0	0	0	0	2.752891	1.406183	1.385339	2.036166	2.359877	2.423045	GO:0005515	protein binding	MF
+Gene_008547	probable e3 ubiquitin-ligase rhc2a	1	1	0	0	0	0	0	-1	0	16.65838	11.79273	11.02565	14.59334	16.88035	16.32848	GO:0005515	protein binding	MF
+Gene_008564	serine threonine-phosphatase 6 regulatory ankyrin repeat subunit b-like	-1	0	0	0	0	0	0	1	1	2.262678	4.719277	4.50052	2.513646	1.681124	1.721526	GO:0005515	protein binding	MF
+Gene_008575	ankyrin repeat	1	0	0	0	0	0	0	-1	-1	81.67278	66.45031	70.28184	78.38968	87.02891	102.44649	GO:0005515	protein binding	MF
+Gene_008581	wd40-repeat-containing domain	-1	-1	0	0	0	0	0	1	1	0.5912962	1.8351453	2.1480913	0.8579318	0.3327121	0.2414712	GO:0005515	protein binding	MF
+Gene_008637	intraflagellar ift172	-1	-1	0	1	0	0	0	1	1	10.98525	26.4709	23.8987	16.30148	10.15202	14.7839	GO:0005515	protein binding	MF
+Gene_008642	peptidylprolyl cis-trans fkbp-type domain containing	1	1	0	0	0	0	0	-1	-1	633.0662	474.3173	434.3093	536.1849	608.995	598.7114	GO:0005515	protein binding	MF
+Gene_008643	u3 small nucleolar rna-associated 4 homolog	1	1	0	0	0	0	0	-1	-1	130.83559	99.54676	92.71408	114.35859	116.52538	132.68041	GO:0005515	protein binding	MF
+Gene_008656	heat shock hsp90	1	1	0	0	0	0	0	-1	-1	653.7856	510.5939	497.98	587.4838	698.0807	726.114	GO:0005515	protein binding	MF
+Gene_008687	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0005515	protein binding	MF
+Gene_008707	glutathione s-transferase u20-like	1	0	0	0	0	0	0	0	0	80.13068	65.40864	66.43265	66.23217	77.85725	70.22249	GO:0005515	protein binding	MF
+Gene_008710	tetratricopeptide repeat 21b	-1	-1	0	1	0	0	-1	1	1	45.56806	110.94682	106.654	88.57672	49.42019	46.23768	GO:0005515	protein binding	MF
+Gene_008724	t-complex 1	1	0	0	0	0	0	0	-1	-1	812.5433	672.7667	679.4957	777.6111	850.4637	884.509	GO:0005515	protein binding	MF
+Gene_008728	ankyrin repeat	-1	0	0	0	0	0	0	1	0	0.3280815	1.0227304	0.6339971	0.478636	0.371328	0.187349	GO:0005515	protein binding	MF
+Gene_008775	peptidyl-prolyl cis-trans isomerase (cyclophilin-40)	1	0	0	0	0	0	0	-1	0	289.228	245.61	258.0523	257.3141	294.5154	302.3643	GO:0005515	protein binding	MF
+Gene_008776	elongation factor ts	1	1	0	0	0	0	0	-1	0	225.5681	173.0729	176.0718	188.5239	215.5862	215.7634	GO:0005515	protein binding	MF
+Gene_008781	hypothetical protein pbra 004749	-1	0	0	0	0	0	-1	0	0	1.960402	6.482674	4.725635	5.853455	3.89866	2.01712	GO:0005515	protein binding	MF
+Gene_008829	hypothetical protein pbra 002084	1	0	0	0	0	0	0	0	-1	104.68611	84.72751	82.72292	85.85154	97.00992	107.77344	GO:0005515	protein binding	MF
+Gene_008835	eukaryotic translation initiation factor 5	1	0	0	0	0	0	0	-1	-1	893.1296	728.7281	762.0006	982.1806	936.7964	1024.3962	GO:0005515	protein binding	MF
+Gene_008889	hypothetical protein pbra 002136	-1	-1	0	1	0	0	0	1	1	1.6731294	4.6615904	4.6306986	2.998888	0.8375118	2.1149608	GO:0005515	protein binding	MF
+Gene_008890	hypothetical protein pbra 002137	-1	-1	0	0	0	0	0	1	1	1.210658	3.3922811	3.3838965	1.1849164	0.5535934	0.7306592	GO:0005515	protein binding	MF
+Gene_008917	nap1-binding 2	-1	0	0	0	0	0	-1	0	0	3.55062	8.262847	3.986921	10.06832	4.700925	3.334808	GO:0005515	protein binding	MF
+Gene_009002	hypothetical protein pbra 009189	-1	-1	0	1	0	0	0	1	1	0.8916982	2.9874729	3.3211488	1.4800406	0.4355738	0.6036781	GO:0005515	protein binding	MF
+Gene_009085	prefoldin subunit 5	1	0	0	0	0	0	0	-1	0	103.6631	78.0533	82.81426	84.94301	96.49814	93.93256	GO:0005515	protein binding	MF
+Gene_009194	hypothetical protein pbra 008603	-1	0	0	0	0	0	0	1	0	1.093603	2.524243	2.06639	1.172692	1.032586	1.498792	GO:0005515	protein binding	MF
+Gene_009213	molecular chaperone	1	1	0	0	0	0	0	-1	-1	1216.1435	941.9226	907.3838	1140.1666	1314.1488	1359.4653	GO:0005515	protein binding	MF
+Gene_009247	wd repeat-containing 69	-1	-1	0	1	0	0	0	1	1	8.736471	26.909942	29.40466	15.406747	4.946993	8.959435	GO:0005515	protein binding	MF
+Gene_009257	echinoderm microtubule-associated-like 5	-1	0	0	1	0	0	0	1	0	0.7388769	1.9465632	1.6265482	1.5444471	0.5296922	0.689028	GO:0005515	protein binding	MF
+Gene_009258	echinoderm microtubule-associated-like 6	-1	0	0	1	0	0	-1	1	0	0.2816461	1.3674082	0.7256733	1.0447703	0.2325721	0.187349	GO:0005515	protein binding	MF
+Gene_009288	hypothetical protein pbra 006358	1	0	0	0	0	0	0	-1	-1	55.25969	40.65047	43.99425	57.71208	67.25779	62.38298	GO:0005515	protein binding	MF
+Gene_009291	outer dynein arm light chain 1	-1	0	0	0	0	0	0	1	0	4.25302	8.501768	8.277411	5.980307	2.909699	4.458902	GO:0005515	protein binding	MF
+Gene_009296	heat shock cytosolic	1	1	0	0	0	0	1	0	0	346.5134	258.7689	254.8939	255.0614	227.859	299.1565	GO:0005515	protein binding	MF
+Gene_009313	hypothetical protein pbra 004929	1	0	0	0	0	0	0	0	0	55.6408	45.74827	49.95851	49.11335	51.91532	48.84183	GO:0005515	protein binding	MF
+Gene_009523	pleiotropic regulator 1	1	1	0	0	0	0	0	-1	-1	156.5133	131.0306	126.6406	160.0408	184.8643	171.039	GO:0005515	protein binding	MF
+Gene_009715	t-complex 1 subunit eta	1	1	0	0	0	0	0	-1	-1	1054.7146	835.9996	797.271	955.571	1100.6836	1189.4547	GO:0005515	protein binding	MF
+Gene_009768	u3 small nucleolar rna-associated 15	1	1	0	0	0	0	0	0	-1	145.089	110.4258	103.9063	122.3484	130.5132	146.1175	GO:0005515	protein binding	MF
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0005515	protein binding	MF
+Gene_009907	e3 ubiquitin-ligase nrdp1	-1	-1	0	0	0	0	-1	1	0	0.05251314	0.97400498	0.54395098	0.70598325	0.29391885	0.18110342	GO:0005515	protein binding	MF
+Gene_010011	heat shock 91	1	0	0	-1	0	0	0	-1	-1	842.8334	686.716	683.1204	909.6674	1145.515	1087.4576	GO:0005515	protein binding	MF
+Gene_010013	saccharomyces cerevisiae yel013w vac8 phosphorylated and palmitoylated vacuolar membrane that interacts with atg13p	-1	0	0	0	0	0	0	1	0	4.10182	7.664735	6.489795	5.870239	3.93973	6.640476	GO:0005515	protein binding	MF
+Gene_010015	leucine-rich repeat and coiled-coil domain-containing 1	-1	0	0	0	0	0	0	0	0	4.425636	14.843882	8.059384	9.391982	6.419879	6.494758	GO:0005515	protein binding	MF
+Gene_010038	calmodulin-regulated spectrin-associated 3-like isoform x7	-1	-1	0	1	0	0	0	1	1	2.81349	9.660858	8.011749	5.671851	1.747187	2.264837	GO:0005515	protein binding	MF
+Gene_010085	hypothetical protein pbra 005896	1	0	0	0	0	0	1	0	0	3.703306	1.762948	2.106121	1.672843	1.569813	2.283573	GO:0005515	protein binding	MF
+Gene_010089	clathrin heavy chain	-1	0	0	1	0	0	0	1	1	1.3273272	3.0468606	2.5922152	1.2320743	0.2571201	0.6952736	GO:0005515	protein binding	MF
+Gene_010090	sporangia induced trp	-1	-1	0	1	0	0	0	1	1	18.114683	50.636047	47.253505	26.012601	8.631344	15.008723	GO:0005515	protein binding	MF
+Gene_010107	kif1-binding homolog	-1	-1	0	1	0	0	-1	1	1	15.07769	40.95431	43.16026	28.93153	11.95362	16.78228	GO:0005515	protein binding	MF
+Gene_010109	dna damage-binding 1a isoform x1	1	0	0	0	0	0	0	-1	-1	384.32	328.6102	326.5142	377.3071	444.6743	443.0361	GO:0005515	protein binding	MF
+Gene_010159	hypothetical protein pbra 005949	1	0	0	0	0	0	0	-1	-1	353.6878	198.8644	272.4581	261.038	312.3691	505.5505	GO:0005515	protein binding	MF
+Gene_010190	ankyrin repeat domain-containing 50-like	-1	-1	0	1	0	0	0	1	1	3.045146	9.968081	7.547235	3.456608	1.070122	2.368923	GO:0005515	protein binding	MF
+Gene_010194	ring finger 44	-1	0	0	0	0	0	-1	0	0	9.844759	21.109106	11.009766	28.219917	20.974336	13.611931	GO:0005515	protein binding	MF
+Gene_010196	dynein light chain axonemal	-1	-1	0	1	0	0	-1	1	1	6.041271	20.401476	19.766777	13.7995	4.320628	5.932711	GO:0005515	protein binding	MF
+Gene_010217	hypothetical protein pbra 009043	-1	0	0	0	0	0	0	0	0	1.145404	2.797161	2.46672	2.131072	1.412097	1.298952	GO:0005515	protein binding	MF
+Gene_010260	beta-galactosidase 3	-1	-1	0	0	0	0	-1	0	0	0.160322	1.1323545	1.4240481	1.0310936	0.4105041	0.489188	GO:0005515	protein binding	MF
+Gene_010261	multiple epidermal growth factor-like domains 6	-1	-1	0	0	0	0	0	1	1	4.811984	12.808708	10.539974	5.85124	3.374714	4.398534	GO:0005515	protein binding	MF
+Gene_010267	wd repeat-containing 60	-1	0	0	0	0	0	0	0	0	90.52164	111.20714	110.44323	101.69044	94.19456	86.46978	GO:0005515	protein binding	MF
+Gene_010273	hypothetical protein pbra 008425	1	0	0	0	0	0	1	0	-1	443.8974	277.6451	320.1422	296.8276	337.1228	482.0256	GO:0005515	protein binding	MF
+Gene_010322	ankyrin repeat	-1	0	0	0	0	0	0	1	0	0.3756152	1.0772933	0.9815543	0.5290729	0.3250888	0.3746979	GO:0005515	protein binding	MF
+Gene_010323	ankyrin repeat	1	0	0	0	0	0	0	-1	-1	254.3168	209.1404	209.7466	240.3898	270.5454	269.2794	GO:0005515	protein binding	MF
+Gene_010337	hypothetical protein pbra 001904	-1	0	0	0	0	0	-1	0	0	2.343614	7.834205	4.819563	9.290921	4.425258	2.579167	GO:0005515	protein binding	MF
+Gene_010358	tubulin-specific chaperone e	1	0	0	0	0	0	0	-1	-1	103.38857	80.96968	86.56851	97.9082	111.79876	106.35375	GO:0005515	protein binding	MF
+Gene_010387	morn repeat-containing	-1	-1	0	1	0	0	-1	1	1	83.34903	189.78096	190.62266	158.51981	75.19434	88.6389	GO:0005515	protein binding	MF
+Gene_010411	ankyrin-3-like isoform x2	-1	-1	0	0	0	0	0	1	1	12.86397	27.13943	27.46471	18.22165	12.57321	15.06285	GO:0005515	protein binding	MF
+Gene_010442	hypothetical protein pbra 006649	1	0	0	0	0	0	1	0	0	104.13224	63.53077	75.55407	68.91766	79.27066	105.13079	GO:0005515	protein binding	MF
+Gene_010450	hypothetical protein pbra 006655	1	0	0	0	0	0	0	0	-1	546.7441	345.234	399.1715	379.1377	461.2371	629.5452	GO:0005515	protein binding	MF
+Gene_010492	hypothetical protein pbra 006690	1	1	0	0	0	0	0	-1	-1	219.8622	149.7992	159.3733	196.0435	228.1404	270.4713	GO:0005515	protein binding	MF
+Gene_010503	hypothetical protein pbra 006696	1	0	0	0	0	0	0	-1	-1	82.86016	58.01078	62.21559	70.53771	83.48746	96.32539	GO:0005515	protein binding	MF
+Gene_010505	hypothetical protein pbra 006697	1	0	0	0	0	0	0	-1	-1	109.86409	73.82529	83.54061	88.04079	105.25232	144.0369	GO:0005515	protein binding	MF
+Gene_010559	1-phosphatidylinositol 4;5-bisphosphate phosphodiesterase delta-4-like isoform x1	-1	-1	0	0	0	0	0	1	1	87.93731	112.94821	117.08348	96.91657	81.32484	88.40157	GO:0005515	protein binding	MF
+Gene_010603	pentatricopeptide repeat-containing at5g65560-like	-1	-1	0	0	0	0	0	1	1	145.2391	347.4456	310.3324	230.6689	149.8249	118.6084	GO:0005515	protein binding	MF
+Gene_010626	n-lysine methyltransferase setd6	1	0	0	0	0	0	1	0	0	47.594	38.78524	38.93368	34.20745	38.5399	46.26267	GO:0005515	protein binding	MF
+Gene_010671	hypothetical protein pbra 006539	-1	-1	0	0	0	0	0	0	0	0.4032947	1.8115786	2.2430278	1.3075166	0.7333043	0.6036781	GO:0005515	protein binding	MF
+Gene_010712	26s proteasome non-atpase regulatory subunit 12	1	0	0	0	0	0	0	-1	-1	322.1212	274.7708	291.6461	319.826	357.6132	377.3184	GO:0005515	protein binding	MF
+Gene_010747	peroxisome biogenesis 5	-1	-1	0	0	0	0	-1	0	0	105.2886	124.7766	127.2103	135.618	116.7129	114.7636	GO:0005515	protein binding	MF
+Gene_010753	leucine rich repeat	-1	0	0	0	0	0	0	1	0	7.198507	11.77383	10.288569	7.555775	5.889526	8.772086	GO:0005515	protein binding	MF
+Gene_010756	sesquipedalian-1 isoform x1	-1	0	0	0	0	0	-1	0	0	0.07023387	0.93484807	0.3748557	0.80660344	0.67343022	0.56204687	GO:0005515	protein binding	MF
+Gene_010761	heat shock 90	1	0	0	0	0	0	0	-1	-1	900.6578	729.7311	750.7113	789.639	929.0536	977.8859	GO:0005515	protein binding	MF
+Gene_010802	leucine-rich repeat-containing 15-like	-1	-1	0	1	0	0	0	1	0	1.0907568	3.6524721	3.4531647	2.4826773	0.7394046	1.8006307	GO:0005515	protein binding	MF
+Gene_010806	hypothetical protein pbra 009148	-1	0	0	0	0	0	-1	0	0	1.2082	3.470725	1.578472	4.094604	4.001139	1.740263	GO:0005515	protein binding	MF
+Gene_010852	tetratricopeptide repeat	-1	0	0	0	0	0	0	1	0	2.214109	5.595764	4.421264	4.396756	2.688435	4.265307	GO:0005515	protein binding	MF
+Gene_010927	proteasome activator subunit 4	-1	0	0	0	0	0	-1	0	0	133.605	184.178	162.8468	192.0726	169.3954	165.2749	GO:0005515	protein binding	MF
+Gene_010970	wd repeat-containing 35 isoform x2	-1	0	0	0	0	0	0	1	0	13.79931	32.95472	27.00271	26.94084	18.65978	15.59158	GO:0005515	protein binding	MF
+Gene_010972	wd40 repeat	-1	0	0	0	0	0	0	1	1	0.7466388	2.025513	1.9211388	0.9448316	0.5591336	0.4954335	GO:0005515	protein binding	MF
+Gene_010991	crinkler (crn) family	-1	0	0	0	0	0	-1	0	0	24.10018	37.74968	27.84735	39.78847	32.31557	29.94041	GO:0005515	protein binding	MF
+Gene_011027	tyrosine-kinase src42a	1	0	0	0	0	0	0	-1	-1	1.1883457	0.4883891	1.2920322	1.9572719	2.9872733	4.2777983	GO:0005515	protein binding	MF
+Gene_011028	tkl kinase	1	0	0	0	0	0	0	-1	-1	0.8201046	0.3057651	0.4408637	1.1459848	1.787491	1.7943851	GO:0005515	protein binding	MF
+Gene_011029	tkl kinase	1	1	0	0	0	0	0	0	-1	3.145902	1.599911	1.329112	2.690135	2.14765	3.207827	GO:0005515	protein binding	MF
+Gene_011071	nep1-interacting-like 2 isoform x1	1	0	0	0	0	0	1	0	0	509.9333	351.1896	372.3985	366.5986	409.4261	498.9444	GO:0005515	protein binding	MF
+Gene_011184	hypothetical protein pbra 000560	1	1	0	0	0	0	0	0	0	70.84038	57.42521	54.73225	58.34221	63.86004	68.07839	GO:0005515	protein binding	MF
+Gene_011194	achain crystal structure of engineered northeast structural genomics consortium target	-1	0	0	0	0	0	0	1	1	2.2678938	4.7179861	4.4713842	1.7214888	0.6174263	0.3622068	GO:0005515	protein binding	MF
+Gene_011283	hypothetical protein pbra 007374	1	1	0	-1	0	0	0	-1	-1	221.0937	160.862	168.5548	208.2484	269.9416	279.9295	GO:0005515	protein binding	MF
+Gene_011306	spermidine synthase 2	1	1	0	0	0	0	0	-1	-1	115.4126	90.95166	86.40185	114.11195	134.69406	145.17453	GO:0005515	protein binding	MF
+Gene_011317	hypothetical protein pbra 007405	1	0	0	0	0	0	1	0	0	19.168164	11.68255	14.430328	6.599779	9.892418	12.023631	GO:0005515	protein binding	MF
+Gene_011319	hypothetical protein pbra 007406	1	1	0	0	0	0	0	-1	-1	108.49536	83.31173	82.71147	109.70323	134.10169	138.48485	GO:0005515	protein binding	MF
+Gene_011320	hypothetical protein pbra 007407	1	1	0	0	0	0	0	-1	-1	63.05551	45.06354	45.4681	50.21747	61.30746	66.77515	GO:0005515	protein binding	MF
+Gene_011395	achain structural determinants for improved thermal stability of designed ankyrin repeat s with a redesigned c-capping	-1	0	0	0	0	0	-1	0	0	0.04753376	0.57172952	0.31373822	0.77955127	0.36569925	0.44131126	GO:0005515	protein binding	MF
+Gene_011398	hypothetical protein pbra 009297	-1	-1	0	1	0	0	0	1	1	2.399977	5.805782	5.256131	3.765702	1.110644	2.114961	GO:0005515	protein binding	MF
+Gene_011432	glutathione s-transferase	-1	-1	0	0	0	0	0	1	1	2.176085	7.490208	6.228318	3.553733	1.530589	2.4168	GO:0005515	protein binding	MF
+Gene_011450	pro convertase subtilisin kexin type 5-like	-1	-1	0	0	0	0	0	1	1	2.121761	5.258435	5.129005	2.247262	1.166972	1.667404	GO:0005515	protein binding	MF
+Gene_011474	ring zinc finger domain superfamily	-1	0	0	0	0	0	0	1	0	1.3085081	2.844062	2.6211438	1.1740967	0.8991144	1.2510749	GO:0005515	protein binding	MF
+Gene_011477	kinesin kif16b	-1	-1	0	0	0	0	0	1	1	0.225252	0.8779368	0.7851606	0.2493709	0.117931	0	GO:0005515	protein binding	MF
+Gene_011563	wd repeat-containing 6	1	1	0	0	0	0	0	-1	-1	104.42199	82.75383	84.68934	98.90988	117.9075	124.91793	GO:0005515	protein binding	MF
+Gene_011569	s-adenosyl-l-methionine-dependent methyltransferase	1	1	0	0	0	0	0	-1	-1	50.07168	33.57083	34.24676	45.04583	50.69041	54.52058	GO:0005515	protein binding	MF
+Gene_011598	kinesin heavy chain	-1	-1	0	1	0	0	0	1	1	1.6930469	4.9155349	3.6992649	2.5515181	0.8743106	1.4987916	GO:0005515	protein binding	MF
+Gene_011599	wd-40 repeat domain-containing	-1	-1	0	1	0	0	-1	1	1	3.736424	11.749916	9.630146	8.694469	2.45551	3.969714	GO:0005515	protein binding	MF
+Gene_011613	phosphatidylinositol 3;4;5-trisphosphate 3-phosphatase and dual-specificity phosphatase pten	-1	-1	0	0	0	0	0	1	1	29.57481	52.78396	47.37861	42.52874	32.52682	29.86755	GO:0005515	protein binding	MF
+Gene_011681	ccr4-not transcription complex subunit 10 isoform x1	1	0	0	0	0	0	0	-1	-1	115.28536	97.20958	103.03279	114.85669	122.04518	135.82582	GO:0005515	protein binding	MF
+Gene_011720	set domain-containing protein	1	0	0	0	0	0	0	-1	0	98.21107	81.69361	86.20302	90.55298	94.90001	98.55589	GO:0005515	protein binding	MF
+Gene_011796	programmed cell death 6-interacting protein	1	0	0	0	0	0	0	-1	-1	329.7369	271.8752	284.1971	336.143	372.9916	381.3589	GO:0005515	protein binding	MF
+Gene_011819	hypothetical protein pbra 007977	1	0	0	0	0	0	1	0	0	127.07163	90.83051	97.95824	81.92895	88.19429	118.87806	GO:0005515	protein binding	MF
+Gene_011853	hypothetical protein pbra 009271	1	1	0	0	0	0	1	0	0	199.4772	138.8085	139.1612	141.9033	164.0972	182.0156	GO:0005515	protein binding	MF
+Gene_011898	wd40 repeat-like protein	1	1	0	0	0	0	0	-1	-1	46.24507	35.09459	33.93708	46.20319	49.57215	55.76957	GO:0005515	protein binding	MF
+Gene_011952	achain a; crystal structure of engineered protein. northeast structural genomics consortium (nesg) target or464.	-1	0	0	0	0	0	0	0	0	0.7108096	1.6816034	1.1970957	1.7478154	1.3633037	0.9367448	GO:0005515	protein binding	MF
+Gene_011959	fimbrin-like protein	1	0	0	0	0	0	1	0	0	22.39737	13.55087	15.79445	12.22201	16.44442	21.90732	GO:0005515	protein binding	MF
+Gene_011972	kinesin-like protein kif13b	-1	0	0	1	0	0	0	1	1	11.469386	31.413923	24.53839	18.289111	5.696487	9.800426	GO:0005515	protein binding	MF
+Gene_012062	glutamate-rich wd repeat-containing protein	1	1	0	0	0	0	0	0	-1	224.0686	172.5696	158.6422	181.0755	196.7574	218.5986	GO:0005515	protein binding	MF
+Gene_012068	hypothetical protein pbra 008871	1	1	0	0	0	0	0	-1	-1	80.69656	62.15534	63.15469	73.4687	82.96081	82.54172	GO:0005515	protein binding	MF
+Gene_012071	achain a; 4ank: a designed ankyrin repeat protein with four identical consensus repeats	1	0	0	0	0	0	0	-1	-1	104.32476	84.86232	84.13155	105.16643	123.97433	124.53073	GO:0005515	protein binding	MF
+Gene_012275	vam6/vps39-like protein	-1	-1	0	1	0	0	-1	1	1	3.736749	9.95265	9.947947	7.382092	1.96798	3.293177	GO:0005515	protein binding	MF
+Gene_012393	histidine kinase a	-1	0	0	0	0	0	0	1	0	12.359213	41.52894	27.409282	21.546841	7.891802	11.403304	GO:0005515	protein binding	MF
+Gene_012410	bardet-biedl syndrome 7 protein homolog	-1	-1	0	1	0	0	0	1	1	6.87554	15.563858	15.706473	7.480027	2.560189	5.202052	GO:0005515	protein binding	MF
+Gene_012483	notchless protein homolog 1 isoform x1	1	1	0	0	0	0	0	-1	-1	122.21074	93.78606	89.43167	111.25323	110.4671	121.18344	GO:0005515	protein binding	MF
+Gene_012493	ring finger protein 11 (sid 1669) (nedd4 ww domain-binding protein 2); putative	-1	-1	0	0	0	0	0	1	1	3.177662	8.769793	7.590835	4.208934	2.6302	2.404309	GO:0005515	protein binding	MF
+Gene_012503	tyrosine-protein kinase csk; variant 4	-1	0	0	0	0	0	0	1	1	2.14834	5.745099	4.812835	4.468876	2.192761	1.407196	GO:0005515	protein binding	MF
+Gene_012521	histone-lysine n-methyltransferase atxr2	1	1	0	0	0	0	1	0	-1	135.8184	102.7823	102.6217	111.2421	116.9844	128.5275	GO:0005515	protein binding	MF
+Gene_012549	protein phosphatase 1 regulatory subunit 7	1	1	0	0	0	0	0	0	0	92.34242	75.46877	66.29044	82.01629	89.33544	77.92461	GO:0005515	protein binding	MF
+Gene_012550	adaptor protein complex 2 subunit alpha 1	-1	-1	0	1	0	0	-1	1	1	119.7454	186.5042	188.0929	174.5086	125.7671	127.3431	GO:0005515	protein binding	MF
+Gene_012557	hypothetical protein pbra 009205	-1	0	0	0	0	0	-1	0	0	0.3554364	2.9012951	0.5712494	3.3574026	1.8419255	0.5495558	GO:0005515	protein binding	MF
+Gene_012561	hypothetical protein pbra 009593	-1	0	0	0	0	0	-1	0	0	1.86973	4.388398	2.949553	4.945091	3.157781	2.083733	GO:0005515	protein binding	MF
+Gene_012574	tetratricopeptide repeat protein	-1	0	0	0	0	0	-1	0	0	18.75203	69.74447	36.50166	68.33001	35.21456	22.91899	GO:0005515	protein binding	MF
+Gene_012600	hypothetical protein pbra 007721	1	0	0	0	0	0	0	-1	-1	72.75119	47.26416	58.99461	69.48658	81.21261	103.3208	GO:0005515	protein binding	MF
+Gene_012619	putative wd repeat-containing protein	-1	-1	0	1	0	0	0	1	1	3.233534	9.394162	9.454945	5.313945	1.465694	2.537535	GO:0005515	protein binding	MF
+Gene_012660	hypothetical protein pbra 009634	1	0	0	0	0	0	1	0	-1	456.7232	318.1874	348.7384	324.0623	375.6331	486.2348	GO:0005515	protein binding	MF

@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000649	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0006531	aspartate metabolic process	BP
+Gene_001008	glutamate decarboxylase	-1	0	0	0	0	0	-1	0	0	16.62348	97.86657	31.40894	140.09158	93.56884	45.85879	GO:0006531	aspartate metabolic process	BP
+Gene_004479	asparagine-trna cytoplasmic	1	0	0	0	0	0	0	-1	-1	473.832	353.6498	370.8573	485.0185	559.2368	597.8113	GO:0006531	aspartate metabolic process	BP
+Gene_004665	aspartate aminotransferase chloroplastic	1	0	0	0	0	0	0	-1	-1	296.5896	250.4308	263.3307	287.6339	303.3745	321.0846	GO:0006531	aspartate metabolic process	BP
+Gene_004984	alanine-trna ligase	1	0	0	0	0	0	0	-1	-1	406.0457	339.3033	341.2607	401.511	440.4367	449.7488	GO:0006531	aspartate metabolic process	BP
+Gene_006637	adenylosuccinate lyase	1	1	0	0	0	0	0	-1	-1	126.1515	101.751	98.7969	105.9955	125.7071	129.8848	GO:0006531	aspartate metabolic process	BP
+Gene_010119	asparaginyl-trna synthetase	1	0	0	0	0	0	0	-1	0	120.12686	97.52626	100.38277	105.17983	122.49663	115.25072	GO:0006531	aspartate metabolic process	BP
+Gene_011757	ornithine carbamoyltransferase	-1	0	0	0	0	0	-1	1	0	10.89386	31.21372	17.50905	32.78543	15.6741	13.27886	GO:0006531	aspartate metabolic process	BP

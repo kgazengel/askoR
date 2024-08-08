@@ -1,0 +1,110 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000157	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0042254	ribosome biogenesis	BP
+Gene_000189	60s ribosomal l11-1	1	1	0	0	0	0	1	0	0	1289.4639	973.9467	979.6907	807.8441	922.3151	1022.5227	GO:0042254	ribosome biogenesis	BP
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0042254	ribosome biogenesis	BP
+Gene_000625	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0042254	ribosome biogenesis	BP
+Gene_000722	60s ribosomal l6	1	0	0	0	0	0	0	0	-1	710.381	549.9565	553.3166	550.3433	634.3333	732.434	GO:0042254	ribosome biogenesis	BP
+Gene_000724	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0042254	ribosome biogenesis	BP
+Gene_000933	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0042254	ribosome biogenesis	BP
+Gene_000940	rrna 2-o-methyltransferase fibrillarin	1	1	0	0	0	0	0	0	0	463.0426	382.1217	380.9645	391.6197	415.3551	430.8481	GO:0042254	ribosome biogenesis	BP
+Gene_000957	60s ribosomal l12	1	0	0	0	0	0	1	0	0	722.8675	535.9112	559.0357	503.9154	594.727	604.4435	GO:0042254	ribosome biogenesis	BP
+Gene_001176	60s ribosomal l27a	1	0	0	0	0	0	0	0	0	1211.1456	925.5307	950.5628	940.8875	1091.2943	1115.0688	GO:0042254	ribosome biogenesis	BP
+Gene_001193	ribosomal l22e	1	0	0	0	0	0	0	0	0	563.8406	430.6701	446.4992	458.8442	515.8686	546.4569	GO:0042254	ribosome biogenesis	BP
+Gene_001229	utp21 specific wd40 associated domain-domain-containing	1	1	0	0	0	0	0	-1	-1	174.5945	140.0304	132.6033	163.1316	161.8826	173.4829	GO:0042254	ribosome biogenesis	BP
+Gene_001581	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	-1	-1	220.1977	178.7816	169.9087	208.2993	232.2573	252.7273	GO:0042254	ribosome biogenesis	BP
+Gene_001728	ribosome biogenesis bms1 homolog	1	1	0	0	0	0	0	0	0	370.5235	290.1477	277.7039	320.552	334.7161	336.4555	GO:0042254	ribosome biogenesis	BP
+Gene_001811	60s ribosomal l30	1	0	0	0	0	0	0	-1	0	697.3216	529.4646	553.133	573.3418	662.8779	638.2411	GO:0042254	ribosome biogenesis	BP
+Gene_001820	40s ribosomal s7	1	1	0	0	0	0	1	0	0	1108.8226	867.6296	840.5388	781.9588	919.8004	971.6368	GO:0042254	ribosome biogenesis	BP
+Gene_001882	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0042254	ribosome biogenesis	BP
+Gene_001910	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0042254	ribosome biogenesis	BP
+Gene_001965	nhp2 1	1	1	0	0	0	0	0	-1	-1	258.8191	200.7431	194.2492	229.9705	268.3717	248.3267	GO:0042254	ribosome biogenesis	BP
+Gene_002010	60s ribosomal l14	1	1	0	0	0	0	1	0	0	890.7516	714.003	693.4431	655.2516	760.3536	761.7436	GO:0042254	ribosome biogenesis	BP
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0042254	ribosome biogenesis	BP
+Gene_002139	related to human gtp-binding mmr1	1	1	0	0	0	0	0	-1	-1	414.4649	339.6519	333.6813	378.3758	444.3302	428.9642	GO:0042254	ribosome biogenesis	BP
+Gene_002362	u3 small nucleolar rna-associated 14	1	1	0	0	0	0	0	-1	-1	192.7344	153.3517	144.2111	174.6489	190.8267	194.3369	GO:0042254	ribosome biogenesis	BP
+Gene_002374	ribosome production factor 2 homolog	1	1	0	0	0	0	0	-1	0	278.3937	218.7487	207.3117	247.6753	261.4164	250.5145	GO:0042254	ribosome biogenesis	BP
+Gene_002412	40s ribosomal s2	1	0	0	0	0	0	1	0	0	1363.8403	1043.2078	1051.5785	915.3255	1045.4547	1231.5916	GO:0042254	ribosome biogenesis	BP
+Gene_002416	atp-dependent rna helicase has1	1	1	0	0	0	0	0	-1	-1	194.4527	153.556	149.1646	183.9015	190.2593	184.8883	GO:0042254	ribosome biogenesis	BP
+Gene_002448	60s ribosomal l16	1	1	0	0	0	0	0	0	0	777.2253	598.5204	585.5306	600.668	686.7111	767.6639	GO:0042254	ribosome biogenesis	BP
+Gene_002519	mrna turnover 4 homolog	1	1	0	0	0	0	1	-1	0	191.0472	147.6175	141.0942	147.6701	177.5743	158.318	GO:0042254	ribosome biogenesis	BP
+Gene_002557	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0042254	ribosome biogenesis	BP
+Gene_002606	wd40 repeat	1	1	0	0	0	0	0	0	-1	142.0081	111.3062	101.5826	122.7942	132.8918	152.0793	GO:0042254	ribosome biogenesis	BP
+Gene_002621	h aca ribonucleo complex non-core subunit naf1-like	1	0	0	0	0	0	0	-1	-1	111.83731	84.7896	85.97068	97.22345	112.09668	129.62664	GO:0042254	ribosome biogenesis	BP
+Gene_002642	40s ribosomal s24-1	1	0	0	0	0	0	1	0	0	632.3782	498.5319	484.6473	464.6018	521.8295	546.9733	GO:0042254	ribosome biogenesis	BP
+Gene_002754	ribosomal s6	1	1	0	0	0	0	1	0	0	1026.6998	776.5053	772.7651	757.9029	874.3324	929.3376	GO:0042254	ribosome biogenesis	BP
+Gene_002951	40s ribosomal s3a	1	0	0	0	0	0	1	0	0	1340.0833	1027.2643	1072.2097	910.3755	1070.8749	1174.05	GO:0042254	ribosome biogenesis	BP
+Gene_002952	mak16 homolog	1	1	0	0	0	0	0	-1	0	162.7199	123.8588	120.5321	133.5332	155.2423	137.2122	GO:0042254	ribosome biogenesis	BP
+Gene_003071	40s ribosomal s17-4-like	1	0	0	0	0	0	1	0	0	599.8295	465.9144	488.9862	435.391	496.228	501.0915	GO:0042254	ribosome biogenesis	BP
+Gene_003118	nucleolar complex 2 homolog	1	1	0	0	0	0	0	-1	-1	290.4842	232.983	219.8808	252.6635	283.004	282.5053	GO:0042254	ribosome biogenesis	BP
+Gene_003193	40s ribosomal s12	1	1	0	0	0	0	1	0	0	1056.2266	795.3678	764.385	744.6902	870.9743	927.7743	GO:0042254	ribosome biogenesis	BP
+Gene_003292	50s ribosomal l10	1	0	0	0	0	0	0	-1	-1	118.64532	95.51469	96.44227	102.70883	116.98775	125.09905	GO:0042254	ribosome biogenesis	BP
+Gene_003473	u3 small nucleolar rna-associated mpp10	1	1	0	0	0	0	0	0	0	217.4579	183.895	166.1887	190.5029	183.5003	191.204	GO:0042254	ribosome biogenesis	BP
+Gene_003590	probable atp-dependent rna helicase ddx47	1	1	0	0	0	0	0	-1	-1	193.0124	147.5788	138.2783	160.1766	186.9464	188.2959	GO:0042254	ribosome biogenesis	BP
+Gene_003595	wd40 repeat	1	1	0	0	0	0	1	0	0	81.24134	57.65962	53.73806	59.41173	60.79733	66.83146	GO:0042254	ribosome biogenesis	BP
+Gene_004051	wd domain containing	1	1	0	0	0	0	0	-1	-1	166.2589	129.5527	117.9402	157.1698	161.5631	170.7622	GO:0042254	ribosome biogenesis	BP
+Gene_004290	ribosomal l34	1	0	0	0	0	0	0	0	0	504.888	391.5894	390.267	422.5149	463.4461	473.5534	GO:0042254	ribosome biogenesis	BP
+Gene_004355	40s ribosomal s20-1	1	0	0	0	0	0	1	0	0	717.7286	545.9548	542.2422	532.0657	611.641	616.9022	GO:0042254	ribosome biogenesis	BP
+Gene_004387	40s ribosomal s4	1	0	0	0	0	0	0	-1	-1	1253.7372	941.2434	964.4036	1020.0461	1204.4856	1326.2256	GO:0042254	ribosome biogenesis	BP
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0042254	ribosome biogenesis	BP
+Gene_004508	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0042254	ribosome biogenesis	BP
+Gene_004538	50s ribosomal l21	1	0	0	0	0	0	0	-1	0	77.31094	64.69869	63.67496	69.45105	85.09037	69.21706	GO:0042254	ribosome biogenesis	BP
+Gene_004797	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0042254	ribosome biogenesis	BP
+Gene_004813	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0042254	ribosome biogenesis	BP
+Gene_004931	60s ribosomal l28	1	0	0	0	0	0	0	-1	0	722.7167	570.8907	563.2471	626.2768	728.1734	706.4591	GO:0042254	ribosome biogenesis	BP
+Gene_005078	ubiquitin-60s ribosomal l40	1	0	0	0	0	0	1	0	0	912.8001	701.8858	709.9254	641.273	734.0211	735.9145	GO:0042254	ribosome biogenesis	BP
+Gene_005179	ribosome biogenesis nop16 domain-containing	1	1	0	0	0	0	0	-1	0	84.46201	68.20751	63.29242	75.55478	83.82873	66.65037	GO:0042254	ribosome biogenesis	BP
+Gene_005240	60s ribosomal l32-1	1	0	0	0	0	0	1	0	0	1140.6876	894.067	903.7116	795.5149	939.9341	881.0202	GO:0042254	ribosome biogenesis	BP
+Gene_005259	wd40-repeat-containing domain	1	1	0	0	0	0	0	-1	-1	221.1583	184.6502	164.0341	224.0686	244.3337	244.7961	GO:0042254	ribosome biogenesis	BP
+Gene_005276	probable 18s rrna (guanine-n(7))-methyltransferase	1	1	0	-1	0	0	0	-1	-1	139.6875	108.7096	103.5226	119.1205	148.2297	129.9097	GO:0042254	ribosome biogenesis	BP
+Gene_005306	wd repeat-containing	1	1	0	0	0	0	1	0	0	176.592	139.9097	131.0876	136.1375	156.826	137.5411	GO:0042254	ribosome biogenesis	BP
+Gene_005475	probable ribosome biogenesis rlp24	1	1	0	0	0	0	0	0	0	175.2541	139.2837	128.9468	144.3095	161.7174	150.5306	GO:0042254	ribosome biogenesis	BP
+Gene_005526	40s ribosomal s13-2	1	1	0	0	0	0	0	0	-1	799.3971	621.8932	604.7639	667.9955	744.3109	782.8849	GO:0042254	ribosome biogenesis	BP
+Gene_005823	50s ribosomal l13	1	1	0	0	0	0	0	-1	-1	128.8731	103.6831	103.9578	131.4341	141.0924	138.9774	GO:0042254	ribosome biogenesis	BP
+Gene_006018	polynucleotide 5-hydroxyl-kinase nol9	1	1	0	0	0	0	0	0	0	137.9811	110.8372	107.8074	126.212	129.0056	129.3706	GO:0042254	ribosome biogenesis	BP
+Gene_006079	eukaryotic translation initiation factor 6	1	1	0	0	0	0	1	0	0	216.5792	170.6673	166.2071	169.9236	194.0349	186.3995	GO:0042254	ribosome biogenesis	BP
+Gene_006307	40s ribosomal s18	1	0	0	0	0	0	0	-1	-1	1350.335	1008.468	1024.815	1142.608	1309.961	1410.149	GO:0042254	ribosome biogenesis	BP
+Gene_006485	ribosome biogenesis nsa2	1	1	0	0	0	0	0	-1	-1	227.5808	178.2912	167.7567	212.1707	242.3452	230.0476	GO:0042254	ribosome biogenesis	BP
+Gene_006611	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0042254	ribosome biogenesis	BP
+Gene_006706	probable 28s rrna (cytosine(4447)-c(5))-methyltransferase	1	1	0	0	0	0	0	0	-1	192.2776	153.1862	136.9344	161.6797	173.0244	188.8434	GO:0042254	ribosome biogenesis	BP
+Gene_006709	60s ribosomal l1-b	1	1	0	0	0	0	1	0	0	2135.617	1603.686	1623.836	1661.999	1949.173	2056.016	GO:0042254	ribosome biogenesis	BP
+Gene_006968	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0042254	ribosome biogenesis	BP
+Gene_007089	60s ribosomal l33-a	1	0	0	0	0	0	0	0	0	986.809	746.6474	767.763	768.4518	887.0558	887.1425	GO:0042254	ribosome biogenesis	BP
+Gene_007109	pre-rrna-processing esf2-like	1	0	0	0	0	0	0	-1	0	125.07258	97.30442	98.65725	107.89145	133.71666	116.05632	GO:0042254	ribosome biogenesis	BP
+Gene_007190	large subunit gtpase 1	1	0	0	0	0	0	0	-1	-1	166.7527	131.9865	130.9442	168.796	177.0482	198.3149	GO:0042254	ribosome biogenesis	BP
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0042254	ribosome biogenesis	BP
+Gene_007649	nuc091 domain-domain-containing	1	1	0	0	0	0	0	-1	-1	178.8531	133.2813	132.8258	163.9282	179.0794	185.4524	GO:0042254	ribosome biogenesis	BP
+Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0042254	ribosome biogenesis	BP
+Gene_008011	60s ribosomal l9-like	1	1	0	0	0	0	0	0	-1	1041.5844	798.2073	794.0062	848.2562	966.7744	1073.8022	GO:0042254	ribosome biogenesis	BP
+Gene_008100	pre-rrna-processing tsr1 homolog	1	1	0	0	0	0	1	0	-1	239.6543	193.2827	177.2527	197.752	206.0598	224.0754	GO:0042254	ribosome biogenesis	BP
+Gene_008343	upf0054 family metallo	1	1	0	0	0	0	0	-1	-1	51.64292	40.87772	39.43931	48.37629	56.44404	55.70296	GO:0042254	ribosome biogenesis	BP
+Gene_008347	ribosome biogenesis regulatory homolog	1	1	0	0	0	0	0	-1	-1	167.5869	129.0511	120.3667	146.3676	159.0818	163.3203	GO:0042254	ribosome biogenesis	BP
+Gene_008523	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0042254	ribosome biogenesis	BP
+Gene_008704	60s ribosomal l18a-2	1	1	0	0	0	0	1	0	0	830.9152	639.7874	652.0151	646.4914	730.4165	732.6359	GO:0042254	ribosome biogenesis	BP
+Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0042254	ribosome biogenesis	BP
+Gene_008764	dead-domain-containing [cutaneotrichosporon oleaginosum]	1	0	0	0	0	0	0	-1	-1	1480.922	1220.242	1212.977	1470.77	1570.161	1704.618	GO:0042254	ribosome biogenesis	BP
+Gene_008798	60s ribosomal l7a-like	1	1	0	0	0	0	1	0	0	1380.8519	1059.6961	1044.4931	975.6129	1124.2737	1156.5041	GO:0042254	ribosome biogenesis	BP
+Gene_009125	ribosomal l44	1	0	0	0	0	0	1	0	0	1053.9071	808.7909	848.864	688.2026	795.472	781.4049	GO:0042254	ribosome biogenesis	BP
+Gene_009145	ribosome maturation sbds	1	1	0	0	0	0	0	0	0	100.68287	82.02277	74.78908	81.56813	81.25906	75.29547	GO:0042254	ribosome biogenesis	BP
+Gene_009305	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0042254	ribosome biogenesis	BP
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0042254	ribosome biogenesis	BP
+Gene_009473	hypothetical protein pbra 005952	1	1	0	0	0	0	0	-1	-1	166.2055	129.9931	120.5305	140.3094	160.1589	156.6673	GO:0042254	ribosome biogenesis	BP
+Gene_009768	u3 small nucleolar rna-associated 15	1	1	0	0	0	0	0	0	-1	145.089	110.4258	103.9063	122.3484	130.5132	146.1175	GO:0042254	ribosome biogenesis	BP
+Gene_009807	superkiller viralicidic activity 2-like 2	1	1	0	0	0	0	0	-1	-1	339.3375	267.7458	257.8492	312.4984	345.0771	335.3855	GO:0042254	ribosome biogenesis	BP
+Gene_009838	pescadillo containing brct domain	1	1	0	0	0	0	0	-1	-1	201.9465	154.1985	142.3382	172.5614	191.4006	183.4269	GO:0042254	ribosome biogenesis	BP
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0042254	ribosome biogenesis	BP
+Gene_010401	u3 small nucleolar ribonucleo imp4 isoform x2	1	1	0	0	0	0	0	-1	-1	100.32965	79.38879	71.57144	92.79957	97.37876	89.04479	GO:0042254	ribosome biogenesis	BP
+Gene_010489	nucleolar complex 4 homolog	1	1	0	0	0	0	0	-1	-1	134.5556	103.1379	103.2805	128.7218	141.1686	147.8473	GO:0042254	ribosome biogenesis	BP
+Gene_010516	60s ribosomal	1	0	0	0	0	0	0	0	-1	644.9048	492.9606	488.8513	528.6603	582.3058	683.23	GO:0042254	ribosome biogenesis	BP
+Gene_010549	eukaryotic type kh-domain (kh-domain type i)	1	1	0	0	0	0	0	-1	-1	99.81553	78.82461	71.27193	92.47353	92.51276	99.67375	GO:0042254	ribosome biogenesis	BP
+Gene_010714	ribosomal rps9	1	1	0	0	0	0	1	0	0	1000.3437	740.9802	747.6835	764.3451	893.7219	977.9837	GO:0042254	ribosome biogenesis	BP
+Gene_011043	60s ribosomal l21-1-like	1	1	0	0	0	0	0	0	0	824.3928	644.121	612.4455	628.8476	717.3133	819.0558	GO:0042254	ribosome biogenesis	BP
+Gene_011083	sda1 domain-containing	1	1	0	0	0	0	0	-1	-1	302.7476	244.0534	240.7949	296.5267	347.1898	326.7404	GO:0042254	ribosome biogenesis	BP
+Gene_011098	60s ribosomal l3	1	1	0	0	0	0	1	0	-1	1912.52	1475.484	1432.938	1455.18	1693.828	1856.851	GO:0042254	ribosome biogenesis	BP
+Gene_011315	40s ribosomal s23	1	1	0	0	0	0	1	0	0	882.9078	685.5058	681.8266	645.3305	754.2785	718.6993	GO:0042254	ribosome biogenesis	BP
+Gene_011786	40s ribosomal protein s11	1	0	0	0	0	0	0	-1	0	857.7058	656.0985	678.6174	702.9493	819.4689	855.0557	GO:0042254	ribosome biogenesis	BP
+Gene_012005	large subunit ribosomal protein 31	1	0	0	0	0	0	1	0	0	759.787	588.1812	613.6175	539.9209	627.8456	569.0117	GO:0042254	ribosome biogenesis	BP
+Gene_012021	40s ribosomal protein s27	1	0	0	0	0	0	1	0	0	465.5914	354.4684	364.8241	356.5893	414.6402	395.6536	GO:0042254	ribosome biogenesis	BP
+Gene_012060	40s ribosomal protein s8	1	1	0	0	0	0	1	0	0	1098.3878	877.0724	859.9193	874.4064	995.3703	1019.0214	GO:0042254	ribosome biogenesis	BP
+Gene_012190	60s ribosomal protein l26-1	1	0	0	0	0	0	1	0	0	1094.5218	849.4155	872.7906	795.6336	923.2722	927.6078	GO:0042254	ribosome biogenesis	BP
+Gene_012265	50s ribosomal protein l6	-1	-1	0	0	0	0	0	1	0	0.5757723	1.5452283	1.5638006	0.5795098	0.5184346	0.8160092	GO:0042254	ribosome biogenesis	BP
+Gene_012759	rna cytidine acetyltransferase	1	1	0	0	0	0	0	-1	-1	153.9122	116.9025	109.6971	145.1201	153.3694	162.0962	GO:0042254	ribosome biogenesis	BP

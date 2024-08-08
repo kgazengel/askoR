@@ -1,0 +1,10 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000140	nucleolar 14	1	1	0	0	0	0	0	-1	-1	242.8077	184.2814	178.4144	218.9172	251.1766	237.8059	GO:0032040	small-subunit processome	CC
+Gene_001229	utp21 specific wd40 associated domain-domain-containing	1	1	0	0	0	0	0	-1	-1	174.5945	140.0304	132.6033	163.1316	161.8826	173.4829	GO:0032040	small-subunit processome	CC
+Gene_002362	u3 small nucleolar rna-associated 14	1	1	0	0	0	0	0	-1	-1	192.7344	153.3517	144.2111	174.6489	190.8267	194.3369	GO:0032040	small-subunit processome	CC
+Gene_004508	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0032040	small-subunit processome	CC
+Gene_006611	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0032040	small-subunit processome	CC
+Gene_009305	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0032040	small-subunit processome	CC
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0032040	small-subunit processome	CC
+Gene_009922	fcf1-domain-containing	1	1	0	0	0	0	0	-1	-1	56.68817	40.19961	40.1801	53.44501	55.55086	58.67556	GO:0032040	small-subunit processome	CC
+Gene_010401	u3 small nucleolar ribonucleo imp4 isoform x2	1	1	0	0	0	0	0	-1	-1	100.32965	79.38879	71.57144	92.79957	97.37876	89.04479	GO:0032040	small-subunit processome	CC

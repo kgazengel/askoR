@@ -1,0 +1,12 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002357	phenylalanine-trna ligase beta subunit	1	0	0	0	0	0	0	-1	-1	266.3495	210.5162	221.5473	254.5193	266.1183	300.3326	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_005931	prolyl-trna synthetase ( )	1	1	0	0	0	0	0	-1	-1	640.4133	492.8115	505.935	612.0846	699.2832	749.6471	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_006039	leucine-trna cytoplasmic isoform x2	1	0	0	0	0	0	0	-1	-1	483.7841	395.8129	404.4109	479.9591	559.1742	567.086	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_006040	leucine-trna cytoplasmic-like	0	0	0	0	0	0	0	-1	0	17.0821	14.35694	15.71543	16.80275	20.93164	15.06909	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_006080	valyl-trna synthetase	0	0	0	0	0	0	0	-1	0	534.4807	462.8078	503.9944	551.9798	577.731	600.0615	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_006695	histidine phosphatase family	0	0	0	0	0	0	1	1	0	3.72834	3.275059	3.772595	1.736185	1.813209	1.87349	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_007075	leucine-trna ligase	0	0	0	0	0	0	0	-1	0	230.0764	198.9008	205.1286	218.1515	238.4961	244.5485	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_007475	3-5 exonuclease	1	0	0	0	0	0	0	-1	0	3.599252	2.21904	2.445528	4.032623	5.720472	4.059222	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_009212	proline-trna ligase	0	0	0	0	0	0	0	-1	-1	66.89033	60.483	58.46083	70.11844	86.00763	77.52701	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_011656	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0002161	aminoacyl-tRNA editing activity	MF
+Gene_011803	hypothetical protein pbra 007965	0	0	0	0	0	0	0	-1	-1	49.42972	41.30978	42.18349	46.89737	52.38385	55.96525	GO:0002161	aminoacyl-tRNA editing activity	MF

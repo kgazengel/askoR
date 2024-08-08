@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000090	dna damage-inducible 1	-1	-1	0	1	0	0	0	1	1	16.457651	36.98219	40.418929	26.299206	9.531715	13.601527	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000091	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_002039	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_002592	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_006502	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.501317	2.25509	2.970726	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_009363	lysosomal aspartic protease	-1	-1	0	1	0	0	0	1	1	11.866213	27.49142	30.026805	17.235758	6.269078	10.670557	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_011454	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.469969	7.48349	7.33612	6.4195	2.2365	2.933256	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_012610	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	0	1.680732	4.751127	4.490835	4.027574	1.418724	1.898259	GO:0004190	aspartic-type endopeptidase activity	MF

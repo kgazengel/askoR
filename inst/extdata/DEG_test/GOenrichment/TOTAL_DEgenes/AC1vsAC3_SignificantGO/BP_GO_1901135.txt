@@ -1,0 +1,50 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000507	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_000600	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_000951	hypothetical protein pbra 005232	-1	-1	0	1	0	0	0	1	1	5.693909	15.883098	15.805084	9.890266	3.599141	6.942315	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_000952	multiple epidermal growth factor-like domains 6	-1	-1	0	1	0	0	-1	1	1	6.952301	15.479029	21.857399	13.412975	4.272011	6.694598	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001307	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001536	glycosyltransferase family 71	0	-1	0	0	0	0	0	1	1	19.8409	28.94377	37.60418	22.27634	16.00858	18.44971	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001729	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001794	chitinase domain-containing 1	1	1	0	0	0	0	0	-1	0	115.70138	89.95923	93.47888	103.98973	124.3237	115.97722	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001882	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001887	adenylate kinase	1	1	0	0	0	0	0	-1	-1	213.8695	158.8456	165.8168	200.687	230.8222	228.6654	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_001928	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_002062	glycerol-3-phosphate dehydrogenase	-1	-1	0	0	0	0	0	1	0	76.4915	102.58759	106.6372	100.73193	76.73397	80.41428	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_002190	phosphoglycerate mutase family	0	-1	0	0	0	0	0	1	1	551.9243	609.6477	685.7749	554.5254	455.7187	495.3981	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_002769	hypothetical protein pbra 007876	-1	-1	0	0	0	0	-1	1	1	12.08167	24.6861	26.47506	21.05666	14.03967	10.87871	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_003920	glycoside hydrolase	-1	-1	0	0	0	0	0	1	1	0.3884198	1.5288818	1.0312607	0.4658985	0.1953402	0.187349	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_004348	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_004814	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_004998	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_005755	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006160	hypothetical protein pbra 007315	-1	-1	0	1	0	0	0	1	1	2.426493	8.068273	6.894504	3.777801	1.659954	1.607036	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006428	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006560	nadh-cytochrome b5 reductase	0	-1	0	1	0	0	0	1	1	151.8047	174.8862	204.2852	167.6785	123.7402	139.4583	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006637	adenylosuccinate lyase	1	1	0	0	0	0	0	-1	-1	126.1515	101.751	98.7969	105.9955	125.7071	129.8848	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006771	glycoside hydrolase family 18	-1	-1	0	0	0	0	0	1	1	1.0713569	2.5603886	2.3184025	0.9152912	0.7938069	0.4954335	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006866	hypothetical protein pbra 009717; partial	1	1	0	0	0	0	0	-1	-1	24.3449	16.55083	14.8046	23.7159	29.01917	29.27637	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_006968	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_007018	thymidylate kinase	-1	-1	0	0	0	0	-1	0	0	89.3749	107.35327	115.08818	107.74335	93.93068	96.71154	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_007405	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_007781	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	13.210096	38.853031	38.853111	26.554445	7.601252	12.167261	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_007841	purine-nucleoside phosphorylase	0	-1	0	0	0	0	0	1	1	38.94862	65.25316	87.09052	46.81348	27.75674	29.43459	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_007978	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008065	dehydrodolichyl diphosphate synthase complex subunit dhdds	0	-1	0	0	0	0	0	1	0	45.83838	53.98968	66.60009	52.33174	41.77815	52.49515	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008506	6-phosphofructo-2-kinase fructose-2;6-bisphosphatase isoform x5	-1	-1	0	0	0	0	0	1	1	7.017951	19.299932	15.954203	8.941371	4.792352	5.189561	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008582	alpha 1;3 fucosyltransferase	-1	-1	0	0	0	0	0	1	1	6.281261	13.917527	13.053167	7.432231	3.369871	3.709506	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008834	glutamine synthetase	-1	-1	0	1	0	0	0	1	1	392.2103	604.5827	669.4432	488.9117	301.0374	328.9158	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008862	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008865	intraflagellar transport 57	-1	-1	0	1	0	0	0	1	1	14.925323	44.76304	44.936372	30.635745	9.276855	14.288468	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_008944	beta-hexosaminidase subunit beta-like	-1	-1	0	1	0	0	0	1	1	27.20317	61.62116	54.13005	32.74835	15.72257	19.18035	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_009482	gdp-l-fucose synthetase	0	-1	0	0	0	0	0	1	1	187.5291	214.9001	249.1159	170.2561	144.8793	159.8481	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_010274	tetratricopeptide repeat	0	1	0	0	0	0	0	0	-1	34.20491	30.45366	24.77228	29.2654	32.26523	32.91301	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_010277	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_010892	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_011946	queuine trna-ribosyltransferase	1	1	0	0	0	0	0	0	-1	79.8687	66.21623	61.16627	72.52891	73.95502	79.88553	GO:1901135	carbohydrate derivative metabolic process	BP
+Gene_011947	glycosyl hydrolases family 18-domain-containing protein	-1	-1	0	0	0	0	0	1	1	47.0599	76.49866	77.6316	45.69052	29.96818	24.38656	GO:1901135	carbohydrate derivative metabolic process	BP

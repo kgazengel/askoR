@@ -1,0 +1,16 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000087	structural maintenance of chromosomes 6-like	0	0	0	0	0	0	0	-1	-1	509.1067	437.0651	449.9503	524.1797	590.4527	570.9495	GO:0006302	double-strand break repair	BP
+Gene_000744	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0006302	double-strand break repair	BP
+Gene_001510	breast cancer type 2 susceptibility homolog	0	-1	0	0	0	0	0	1	1	114.69616	136.04774	155.21291	119.85837	98.65996	105.52941	GO:0006302	double-strand break repair	BP
+Gene_002540	poly [adp-ribose] polymerase 3	0	0	0	0	0	0	0	-1	0	7.115918	5.013789	5.887282	7.929103	9.708996	7.454397	GO:0006302	double-strand break repair	BP
+Gene_004818	structural maintenance of chromosomes 5 puta	0	0	0	0	0	0	0	-1	-1	235.5796	213.3333	212.6523	247.2381	279.0473	276.1251	GO:0006302	double-strand break repair	BP
+Gene_004944	atp-dependent dna helicase 2 subunit ku80	0	0	0	0	0	0	0	-1	0	185.785	170.5349	170.7673	183.4905	203.7065	195.0218	GO:0006302	double-strand break repair	BP
+Gene_005334	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0006302	double-strand break repair	BP
+Gene_006126	1-phosphatidylinositol-3-phosphate 5-kinase fab1b-like	0	0	0	0	0	0	0	1	0	1.843347	3.76037	3.888309	1.533929	1.331574	1.298952	GO:0006302	double-strand break repair	BP
+Gene_007146	rad52 22 double-strand break repair	0	0	0	0	0	0	0	-1	0	93.66659	85.06552	92.9289	95.25484	109.23195	101.16	GO:0006302	double-strand break repair	BP
+Gene_010066	hypothetical protein pbra 005883	0	0	0	0	0	0	0	-1	0	22.63057	19.37124	18.73709	23.21104	26.57141	23.77456	GO:0006302	double-strand break repair	BP
+Gene_010228	double-strand break repair mre11-like	0	0	0	0	0	0	0	-1	-1	166.039	139.0671	131.4318	179.7232	206.0499	183.1022	GO:0006302	double-strand break repair	BP
+Gene_010423	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	0	209.3327	172.1119	186.6762	218.34	247.337	238.5731	GO:0006302	double-strand break repair	BP
+Gene_010424	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	-1	251.6439	212.7431	219.3053	261.5417	310.5978	302.0999	GO:0006302	double-strand break repair	BP
+Gene_010425	hypothetical protein pbra 006636	0	0	0	0	0	0	0	-1	0	21.72516	19.00814	18.47712	21.85079	27.65828	25.76879	GO:0006302	double-strand break repair	BP
+Gene_012388	x-ray repair cross-complementing protein 6-like	0	0	0	0	0	0	0	-1	-1	275.6473	242.8258	244.411	268.7225	305.4414	298.3342	GO:0006302	double-strand break repair	BP

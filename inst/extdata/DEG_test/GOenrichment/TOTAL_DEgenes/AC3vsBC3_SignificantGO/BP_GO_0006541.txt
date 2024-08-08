@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000507	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0006541	glutamine metabolic process	BP
+Gene_001650	cell division cycle-associated 7	-1	0	0	0	0	0	0	1	1	145.1445	181.892	157.8699	152.5931	132.7514	127.6345	GO:0006541	glutamine metabolic process	BP
+Gene_001675	n-terminal nucleophile aminohydrolase	0	0	0	0	0	0	0	1	1	102.27738	108.34577	119.28089	86.35198	83.59311	83.43265	GO:0006541	glutamine metabolic process	BP
+Gene_004876	peptidase c26 family	0	-1	0	0	0	0	0	1	1	36.31879	51.65458	55.69592	42.62111	30.60805	29.19728	GO:0006541	glutamine metabolic process	BP
+Gene_008834	glutamine synthetase	-1	-1	0	1	0	0	0	1	1	392.2103	604.5827	669.4432	488.9117	301.0374	328.9158	GO:0006541	glutamine metabolic process	BP
+Gene_010392	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0006541	glutamine metabolic process	BP
+Gene_011531	asparagine synthase (glutamine-hydrolysing)	0	-1	0	1	0	0	0	1	1	387.8902	434.0037	491.9456	348.0262	282.2816	316.0366	GO:0006541	glutamine metabolic process	BP

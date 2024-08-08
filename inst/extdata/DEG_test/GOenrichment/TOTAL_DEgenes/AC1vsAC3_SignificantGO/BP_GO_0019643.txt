@@ -1,0 +1,7 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_004433	malate cytoplasmic	-1	-1	0	0	0	0	0	1	1	182.5081	227.6623	270.0265	214.6488	174.782	160.761	GO:0019643	reductive tricarboxylic acid cycle	BP
+Gene_004513	fumarate reductase flavo subunit	1	1	0	0	0	0	0	-1	-1	380.5564	294.8949	277.0811	304.3843	374.5742	373.5048	GO:0019643	reductive tricarboxylic acid cycle	BP
+Gene_004998	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0019643	reductive tricarboxylic acid cycle	BP
+Gene_008040	isocitrate dehydrogenase (nadp)	0	-1	0	0	0	0	0	0	0	172.4747	189.8132	210.9438	183.3516	171.0611	178.9577	GO:0019643	reductive tricarboxylic acid cycle	BP
+Gene_009587	phosphoenolpyruvate synthase	-1	-1	0	0	0	0	-1	0	1	142.1249	254.2619	264.9311	258.0395	191.0857	157.8247	GO:0019643	reductive tricarboxylic acid cycle	BP
+Gene_012114	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0019643	reductive tricarboxylic acid cycle	BP

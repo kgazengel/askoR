@@ -1,0 +1,101 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000017	muts homolog 4	-1	-1	0	1	0	0	-1	1	1	156.5167	290.4311	347.9632	254.4962	139.8845	158.3939	GO:0043168	anion binding	MF
+Gene_000135	phospholipid transporter	-1	-1	0	1	0	0	0	1	1	29.22189	51.79994	57.32736	41.47086	22.15862	23.31036	GO:0043168	anion binding	MF
+Gene_000136	phospholipid-transporting atpase ib-like isoform x2 [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	16.24209	28.26335	33.46063	21.65433	12.51139	14.35092	GO:0043168	anion binding	MF
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0043168	anion binding	MF
+Gene_000279	camp-dependent kinase catalytic	-1	-1	0	1	0	0	0	1	1	18.57812	43.73731	52.72158	33.62898	12.48653	17.70238	GO:0043168	anion binding	MF
+Gene_000334	isobutyryl-mitochondrial	0	-1	0	1	0	0	0	1	1	159.493	182.5625	210.5711	168.3657	130.3956	149.6064	GO:0043168	anion binding	MF
+Gene_000421	fad-binding oxidoreductase	-1	-1	0	1	0	0	-1	1	0	4.265051	10.934488	9.960186	9.877511	3.673436	5.06258	GO:0043168	anion binding	MF
+Gene_000452	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0043168	anion binding	MF
+Gene_000511	serine threonine-kinase ht1	-1	-1	0	1	0	0	0	1	1	19.74145	58.94238	56.78064	40.99977	11.73175	17.81687	GO:0043168	anion binding	MF
+Gene_000643	fad-dependent oxidoreductase	-1	-1	0	1	0	0	0	1	1	13.600014	38.525443	36.587595	18.493	5.530028	11.430357	GO:0043168	anion binding	MF
+Gene_000671	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0043168	anion binding	MF
+Gene_000696	dead box atp-dependent rna	-1	-1	0	1	0	0	0	1	1	258.8511	544.2399	672.1915	426.0996	165.6881	223.3594	GO:0043168	anion binding	MF
+Gene_000753	gamma-glutamylcyclotransferase	-1	-1	0	1	0	0	-1	1	0	9.564021	33.640794	25.732694	42.956371	16.133663	15.735207	GO:0043168	anion binding	MF
+Gene_000819	cytochrome p450	-1	-1	0	1	0	0	-1	1	0	3.161814	10.438394	9.147313	6.872535	2.637038	4.941844	GO:0043168	anion binding	MF
+Gene_000931	dynein heavy chain axonemal isoform x1	-1	-1	0	1	0	0	0	1	1	18.54604	38.73695	34.53646	26.04246	15.53691	15.3397	GO:0043168	anion binding	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0043168	anion binding	MF
+Gene_001125	hypothetical protein pbra 002666	-1	-1	0	1	0	0	0	1	1	9.461245	17.886693	18.806802	14.12274	8.28517	8.886576	GO:0043168	anion binding	MF
+Gene_001126	serine threonine kinase	-1	-1	0	1	0	0	-1	1	1	14.3454	33.4469	33.95059	25.22197	13.11995	13.75556	GO:0043168	anion binding	MF
+Gene_001307	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:0043168	anion binding	MF
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0043168	anion binding	MF
+Gene_001442	calcium calmodulin-dependent kinase type iv-like	-1	0	0	1	0	0	0	1	0	0.2855271	1.1892096	0.82224	0.5798069	0.0387046	0.1811034	GO:0043168	anion binding	MF
+Gene_001578	hsp70	0	1	0	-1	0	0	0	-1	-1	2565.978	2201.392	1874.301	2524.906	3187.673	2840.821	GO:0043168	anion binding	MF
+Gene_001776	pantothenate kinase 3	0	0	0	-1	0	0	0	-1	0	115.0648	103.4463	102.125	101.1001	121.5538	116.0272	GO:0043168	anion binding	MF
+Gene_001910	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0043168	anion binding	MF
+Gene_002573	adp-ribosylation factor 6	0	0	0	1	0	0	0	1	0	0.2816461	0.67457566	0.66129549	0.6945257	0.06177988	0.43506572	GO:0043168	anion binding	MF
+Gene_002759	gtp-binding variant	-1	-1	0	1	0	0	-1	1	1	27.01303	59.12555	59.25875	49.54164	22.62715	24.03684	GO:0043168	anion binding	MF
+Gene_003030	serine threonine-kinase sty46-like isoform x1	-1	0	0	1	0	0	0	1	0	50.86712	66.24065	59.87799	61.07806	40.8617	48.48587	GO:0043168	anion binding	MF
+Gene_003034	serine threonine kinase	0	0	0	-1	0	0	0	-1	-1	596.0434	511.8054	515.1218	655.595	818.0484	735.8227	GO:0043168	anion binding	MF
+Gene_003205	hypothetical protein pbra 007186	-1	-1	0	1	0	0	0	1	1	2.832373	7.674728	6.569769	3.900651	1.040947	2.423045	GO:0043168	anion binding	MF
+Gene_003517	tubulin polyglutamylase ttll4	-1	-1	0	1	0	0	-1	1	1	1.3116768	4.1714716	4.1979857	3.3238258	0.8105363	1.3468283	GO:0043168	anion binding	MF
+Gene_003572	cbl-interacting serine threonine-kinase 5-like	-1	-1	0	1	0	0	0	1	1	5.42126	15.68371	12.747165	10.325893	3.836083	4.51927	GO:0043168	anion binding	MF
+Gene_003626	mitogen-activated kinase kinase 6 isoform x2	-1	-1	0	1	0	0	0	1	1	7.084106	16.653975	20.311944	12.46843	5.285765	7.013086	GO:0043168	anion binding	MF
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0043168	anion binding	MF
+Gene_004126	p-type atpase	-1	-1	0	1	0	0	0	1	1	43.09042	113.42764	123.46356	76.37287	26.56698	42.97781	GO:0043168	anion binding	MF
+Gene_004129	guanine nucleotide-binding g(o) subunit alpha	-1	0	0	1	0	0	0	1	1	2.6077697	7.170916	5.4806512	4.6196689	0.6582724	1.4071961	GO:0043168	anion binding	MF
+Gene_004189	phospholipid-transporting atpase 3 isoform x1	-1	-1	0	1	0	0	0	1	1	41.03667	88.27212	102.41368	70.90607	37.16891	36.8411	GO:0043168	anion binding	MF
+Gene_004320	kinesin kif19	-1	-1	0	1	0	0	0	1	1	11.051989	34.838541	26.222021	20.678962	6.93069	9.444465	GO:0043168	anion binding	MF
+Gene_004685	calcium atpase transmembrane domain m-containing	-1	-1	0	1	0	0	0	1	1	6.233604	14.695056	16.290349	7.577795	3.333189	5.4914	GO:0043168	anion binding	MF
+Gene_004697	endopeptidase la	-1	-1	0	1	0	0	0	1	1	25.15552	61.53665	71.50269	41.29092	14.73395	23.02517	GO:0043168	anion binding	MF
+Gene_004937	gdp-mannose 4;6-dehydratase	-1	-1	0	1	0	0	0	1	1	4.994816	14.311986	17.749071	8.10005	2.489146	4.554655	GO:0043168	anion binding	MF
+Gene_005056	probable phospholipid-transporting atpase ia isoform x1	-1	-1	0	1	0	0	0	1	1	8.489354	16.527777	19.630672	9.691109	4.241007	6.253287	GO:0043168	anion binding	MF
+Gene_005057	probable phospholipid-transporting atpase	-1	-1	0	1	0	0	0	1	1	20.41939	38.22152	48.99905	23.12764	11.42976	17.60663	GO:0043168	anion binding	MF
+Gene_005334	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0043168	anion binding	MF
+Gene_005352	mitogen-activated kinase kinase kinase npk1-like isoform x4	-1	-1	0	1	0	0	0	1	1	9.88723	19.881408	20.047912	15.524826	6.501313	9.785847	GO:0043168	anion binding	MF
+Gene_005403	atp-binding cassette sub-family a member 3	-1	-1	0	1	0	0	0	1	1	0.33306084	0.86005435	0.97666386	0.74151117	0.08113218	0.06036781	GO:0043168	anion binding	MF
+Gene_005566	ubiquitin-conjugating enzyme e2	-1	-1	0	1	0	0	0	1	1	3.450636	7.686636	8.436311	3.824269	1.423915	1.238584	GO:0043168	anion binding	MF
+Gene_005633	atp-dependent rna helicase ddx5	-1	-1	0	1	0	0	-1	1	1	9.441592	27.041715	20.554784	21.381415	7.040438	7.666729	GO:0043168	anion binding	MF
+Gene_005755	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:0043168	anion binding	MF
+Gene_005784	adp-ribosylation factor gtpase-activating agd7	0	-1	0	1	0	0	0	1	1	35.06131	45.3183	59.61722	41.00798	27.65064	27.30297	GO:0043168	anion binding	MF
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0043168	anion binding	MF
+Gene_006646	choline dehydrogenase	-1	-1	0	1	0	0	0	1	1	22.9365	59.61054	53.01573	29.3621	11.50156	16.97797	GO:0043168	anion binding	MF
+Gene_007081	agc kinase	-1	-1	0	1	0	0	-1	1	1	47.11652	103.71631	117.07826	84.92038	37.8254	48.29852	GO:0043168	anion binding	MF
+Gene_007261	probable tubulin polyglutamylase ttll1	-1	-1	0	1	0	0	0	1	1	9.857429	32.05801	32.668366	19.23255	6.256652	10.909941	GO:0043168	anion binding	MF
+Gene_007798	sperm motility kinase w	-1	0	0	1	0	0	-1	0	0	9.933622	17.443111	15.107266	21.434292	11.876945	10.742513	GO:0043168	anion binding	MF
+Gene_008064	p-loop containing nucleoside triphosphate hydrolase	-1	-1	0	1	0	0	-1	1	1	13.95789	25.21071	23.651	23.37564	12.51771	13.0249	GO:0043168	anion binding	MF
+Gene_008141	s-adenosylmethionine synthetase	0	-1	0	1	0	0	0	1	1	340.0936	413.1303	497.6191	342.2597	248.693	292.4141	GO:0043168	anion binding	MF
+Gene_008226	long-chain fatty alcohol dehydrogenase	-1	-1	0	1	0	0	0	1	1	17.04113	35.70791	46.33879	29.33142	11.98935	18.72032	GO:0043168	anion binding	MF
+Gene_008321	guanine nucleotide-binding g(q) subunit alpha	-1	-1	0	1	0	0	0	1	1	12.11338	25.5729	32.027848	20.78032	6.843055	10.402016	GO:0043168	anion binding	MF
+Gene_008419	agc kinase	-1	-1	0	1	0	0	0	1	0	3.880449	11.084354	9.69248	5.306697	2.221377	4.562988	GO:0043168	anion binding	MF
+Gene_008434	p-loop containing nucleoside triphosphate hydrolase	1	1	0	-1	0	0	0	-1	0	100.83121	82.77548	80.42126	86.77983	104.22014	93.62236	GO:0043168	anion binding	MF
+Gene_008689	kinase-like domain-containing	-1	-1	0	1	0	0	-1	1	1	91.51423	131.48462	144.75361	139.09517	98.0325	110.71897	GO:0043168	anion binding	MF
+Gene_008690	map kinase kinase kinase	-1	-1	0	1	0	0	-1	1	1	51.07666	70.36132	81.50355	77.10422	52.27219	57.81167	GO:0043168	anion binding	MF
+Gene_008767	serine threonine kinase	-1	-1	0	1	0	0	0	1	1	28.02907	43.12416	44.10391	26.63986	16.35723	19.84648	GO:0043168	anion binding	MF
+Gene_008792	dual specificity tyrosine-phosphorylation-regulated kinase 4-like isoform x4	-1	-1	0	1	0	0	0	1	1	4.355976	7.80348	10.548953	3.721401	1.424004	2.368923	GO:0043168	anion binding	MF
+Gene_008834	glutamine synthetase	-1	-1	0	1	0	0	0	1	1	392.2103	604.5827	669.4432	488.9117	301.0374	328.9158	GO:0043168	anion binding	MF
+Gene_009286	probable atp-dependent dna helicase hfm1	-1	-1	0	1	0	0	-1	1	1	89.08735	140.69913	165.84497	141.65764	81.34604	84.14917	GO:0043168	anion binding	MF
+Gene_009287	probable atp-dependent dna helicase hfm1	-1	-1	0	1	0	0	-1	1	1	69.80895	104.68373	125.6649	118.03931	72.62494	67.29154	GO:0043168	anion binding	MF
+Gene_009498	gtpase era	0	0	0	-1	0	0	0	0	0	120.917	104.33569	99.04706	98.95885	122.323	119.23085	GO:0043168	anion binding	MF
+Gene_009622	phosphoenolpyruvate carboxykinase	-1	-1	0	1	0	0	-1	1	1	22.84511	62.04663	65.47447	47.49018	17.14912	27.56733	GO:0043168	anion binding	MF
+Gene_009762	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0043168	anion binding	MF
+Gene_009778	abc transporter g family member 24 q9mag3	0	0	0	1	0	0	0	1	0	0.6597826	1.3262847	1.1938354	1.5593997	0.4774413	0.5620469	GO:0043168	anion binding	MF
+Gene_009957	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:0043168	anion binding	MF
+Gene_009958	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	-1	1	1	15.92027	46.67115	42.50716	33.09745	12.22081	17.16219	GO:0043168	anion binding	MF
+Gene_010011	heat shock 91	1	0	0	-1	0	0	0	-1	-1	842.8334	686.716	683.1204	909.6674	1145.515	1087.4576	GO:0043168	anion binding	MF
+Gene_010500	hypothetical protein pbra 006694	-1	-1	0	1	0	0	0	1	1	2.296048	5.558092	4.508049	3.265977	1.28616	1.842262	GO:0043168	anion binding	MF
+Gene_010597	actin-7-like	-1	-1	0	1	0	0	0	1	1	107.69068	211.38089	229.66103	143.25165	67.34466	101.23994	GO:0043168	anion binding	MF
+Gene_010645	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0043168	anion binding	MF
+Gene_010812	snf1-related kinase catalytic subunit alpha kin10	-1	-1	0	1	0	0	-1	1	0	1.485128	5.000756	4.222024	5.71957	2.11098	2.525044	GO:0043168	anion binding	MF
+Gene_010813	abc transporter g family	-1	0	0	1	0	0	-1	1	0	2.220061	7.158159	5.214989	7.650351	2.63531	3.322317	GO:0043168	anion binding	MF
+Gene_010814	abc transporter	-1	0	0	1	0	0	-1	1	0	1.741553	6.038072	3.874467	6.223384	2.494126	3.715751	GO:0043168	anion binding	MF
+Gene_010979	cmgc gsk kinase	-1	-1	0	1	0	0	0	1	1	22.98111	41.70768	40.93429	33.65208	19.34415	21.26201	GO:0043168	anion binding	MF
+Gene_011524	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	78.32657	129.04377	156.27271	88.87875	53.89099	57.10185	GO:0043168	anion binding	MF
+Gene_011525	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	30.87866	48.62802	57.54647	30.70788	17.29464	21.58676	GO:0043168	anion binding	MF
+Gene_011531	asparagine synthase (glutamine-hydrolysing)	0	-1	0	1	0	0	0	1	1	387.8902	434.0037	491.9456	348.0262	282.2816	316.0366	GO:0043168	anion binding	MF
+Gene_011598	kinesin heavy chain	-1	-1	0	1	0	0	0	1	1	1.6930469	4.9155349	3.6992649	2.5515181	0.8743106	1.4987916	GO:0043168	anion binding	MF
+Gene_011626	agc kinase	-1	-1	0	1	0	0	0	1	1	73.82065	91.36808	108.33708	87.19519	67.78898	74.70846	GO:0043168	anion binding	MF
+Gene_011646	hypothetical protein pbra 009357	-1	-1	0	1	0	0	0	1	1	1.298549	2.927321	3.314628	2.260359	0.60719	0.876377	GO:0043168	anion binding	MF
+Gene_011647	kinase 2 (macronuclear)	-1	-1	0	1	0	0	0	1	1	1.7816489	4.6269193	5.8799592	3.3169272	0.8898513	1.1719705	GO:0043168	anion binding	MF
+Gene_011711	probable phospholipid-transporting atpase 7 isoform x1	-1	-1	0	1	0	0	0	1	1	3.745997	14.1124	11.74522	7.23172	2.751069	4.671233	GO:0043168	anion binding	MF
+Gene_011712	transmembrane protein	-1	-1	0	1	0	0	0	1	1	5.591478	15.988357	14.175275	8.006291	3.146298	5.456014	GO:0043168	anion binding	MF
+Gene_011755	putative nima-related kinase	-1	-1	0	1	0	0	-1	1	0	6.176686	11.692208	11.118987	12.407394	6.313842	6.494758	GO:0043168	anion binding	MF
+Gene_011829	protein c7orf62 like protein	-1	-1	0	1	0	0	0	1	1	2.396358	5.322056	6.685483	3.685403	1.373393	2.73113	GO:0043168	anion binding	MF
+Gene_011899	intraflagellar transport protein 22 homolog	-1	-1	0	1	0	0	0	1	1	1.7099938	6.7010954	4.6074621	2.7922408	0.8010959	1.4321783	GO:0043168	anion binding	MF
+Gene_011900	hypothetical protein pbra 008770; partial	0	0	0	1	0	0	0	0	0	0.5874152	0.879143	1.0426718	1.273863	0.3761661	0.4288202	GO:0043168	anion binding	MF
+Gene_011906	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:0043168	anion binding	MF
+Gene_011954	dyneins heavy chain	-1	-1	0	1	0	0	0	1	1	14.12792	46.135837	39.750258	26.571694	8.565015	12.798009	GO:0043168	anion binding	MF
+Gene_011972	kinesin-like protein kif13b	-1	0	0	1	0	0	0	1	1	11.469386	31.413923	24.53839	18.289111	5.696487	9.800426	GO:0043168	anion binding	MF
+Gene_012180	calcium/calmodulin-dependent protein kinase type iv-like	-1	-1	0	1	0	0	0	1	0	1.5563337	5.7710221	4.4799492	3.6901347	0.9446567	1.5341773	GO:0043168	anion binding	MF
+Gene_012387	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:0043168	anion binding	MF
+Gene_012407	eh domain protein	-1	0	0	1	0	0	0	1	1	5.512771	12.214137	9.923494	7.985547	3.816525	4.132081	GO:0043168	anion binding	MF

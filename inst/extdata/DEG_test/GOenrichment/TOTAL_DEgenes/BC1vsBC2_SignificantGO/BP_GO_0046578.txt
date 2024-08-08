@@ -1,0 +1,4 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001222	brefeldin a-inhibited guanine nucleotide-exchange	-1	-1	0	1	0	0	-1	1	1	4.771499	12.107944	10.162272	8.367949	3.041176	5.027194	GO:0046578	regulation of Ras protein signal transduction	BP
+Gene_001223	brefeldin a-inhibited guanine nucleotide-exchange 2	-1	-1	0	1	0	0	-1	1	1	30.41852	67.50239	64.78093	53.11653	23.11612	30.36508	GO:0046578	regulation of Ras protein signal transduction	BP
+Gene_008720	dbl homology domain-containing	-1	-1	0	1	0	0	0	1	1	2.35736	7.436657	6.110974	4.251068	1.495224	2.035856	GO:0046578	regulation of Ras protein signal transduction	BP

@@ -1,0 +1,15 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0006446	regulation of translational initiation	BP
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0006446	regulation of translational initiation	BP
+Gene_001432	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0006446	regulation of translational initiation	BP
+Gene_001575	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0006446	regulation of translational initiation	BP
+Gene_002460	maintenance of mitochondrial structure and function-domain-containing	1	1	0	0	0	0	1	0	-1	432.4044	364.1232	334.2544	352.1659	392.5047	418.6684	GO:0006446	regulation of translational initiation	BP
+Gene_003356	eukaryotic translation initiation factor 2 subunit alpha	1	1	0	0	0	0	0	-1	-1	233.8599	189.4091	178.2635	215.0823	231.2569	238.0641	GO:0006446	regulation of translational initiation	BP
+Gene_004571	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0006446	regulation of translational initiation	BP
+Gene_006079	eukaryotic translation initiation factor 6	1	1	0	0	0	0	1	0	0	216.5792	170.6673	166.2071	169.9236	194.0349	186.3995	GO:0006446	regulation of translational initiation	BP
+Gene_006983	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0006446	regulation of translational initiation	BP
+Gene_007012	eukaryotic translation initiation factor 3	0	1	0	0	0	0	0	-1	-1	402.5301	336.5196	310.517	378.5476	418.173	434.9927	GO:0006446	regulation of translational initiation	BP
+Gene_007055	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0006446	regulation of translational initiation	BP
+Gene_007565	eukaryotic translation initiation factor 2d	0	1	0	0	0	0	0	0	-1	110.44261	91.34027	85.55673	97.6858	109.90879	116.79535	GO:0006446	regulation of translational initiation	BP
+Gene_011815	atp-dependent rna helicase eif4a	0	1	0	0	0	0	0	0	-1	1257.3676	1077.9213	994.7062	1113.8109	1200.6001	1255.5617	GO:0006446	regulation of translational initiation	BP
+Gene_012330	eukaryotic translation initiation factor 1a; acc. no. p55877	1	1	0	0	0	0	1	0	0	177.2061	147.8451	142.2982	132.2308	150.4931	136.8874	GO:0006446	regulation of translational initiation	BP

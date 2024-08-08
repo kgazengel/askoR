@@ -1,0 +1,241 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000010	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	350.7983	285.5533	274.0677	328.6615	371.6419	377.3454	GO:0032991	protein-containing complex	CC
+Gene_000011	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0032991	protein-containing complex	CC
+Gene_000058	ap-5 complex subunit beta-1-like	-1	0	0	1	0	0	0	1	1	11.936759	19.434774	18.205408	13.5452	7.787857	9.16552	GO:0032991	protein-containing complex	CC
+Gene_000064	u2 small nuclear ribonucleo a	1	1	0	0	0	0	0	-1	0	221.6359	178.3827	177.9014	207.1945	234.6221	201.8829	GO:0032991	protein-containing complex	CC
+Gene_000106	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0032991	protein-containing complex	CC
+Gene_000140	nucleolar 14	1	1	0	0	0	0	0	-1	-1	242.8077	184.2814	178.4144	218.9172	251.1766	237.8059	GO:0032991	protein-containing complex	CC
+Gene_000157	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0032991	protein-containing complex	CC
+Gene_000171	probable proteasome inhibitor	1	0	0	0	0	0	0	-1	-1	104.12839	84.96474	86.56683	101.1425	114.12504	123.22347	GO:0032991	protein-containing complex	CC
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0032991	protein-containing complex	CC
+Gene_000250	myosin xi-2	-1	-1	0	0	0	0	0	0	0	6.84785	10.783314	11.856458	10.038452	8.199706	7.521011	GO:0032991	protein-containing complex	CC
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0032991	protein-containing complex	CC
+Gene_000386	dna mismatch repair	-1	-1	0	0	0	0	0	1	0	2.080952	6.558197	6.998006	4.719182	1.964257	3.0746	GO:0032991	protein-containing complex	CC
+Gene_000405	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0032991	protein-containing complex	CC
+Gene_000424	dynein light chain roadblock-type 2	-1	-1	0	1	0	0	0	1	1	7.782176	19.921162	20.24798	12.467616	4.079403	4.325675	GO:0032991	protein-containing complex	CC
+Gene_000491	hypothetical protein pbra 001573	-1	-1	0	1	0	0	0	1	1	2.675932	7.339769	6.629256	4.413535	1.471411	1.292706	GO:0032991	protein-containing complex	CC
+Gene_000492	hypothetical protein pbra 001573	-1	-1	0	0	0	0	0	1	1	3.385382	8.931083	8.613143	5.298941	2.419968	1.908875	GO:0032991	protein-containing complex	CC
+Gene_000498	dynein heavy chain axonemal-like isoform x4	-1	-1	0	0	0	0	-1	1	1	145.1224	220.7308	225.7166	186.2228	156.5274	147.1354	GO:0032991	protein-containing complex	CC
+Gene_000568	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0032991	protein-containing complex	CC
+Gene_000608	flagellar inner arm dynein light chain p28	-1	-1	0	1	0	0	0	1	1	75.87843	101.51305	111.01551	79.14651	59.46456	54.43732	GO:0032991	protein-containing complex	CC
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0032991	protein-containing complex	CC
+Gene_000669	geranylgeranyl transferase type-2 subunit beta isoform x1	1	0	0	0	0	0	0	-1	-1	115.69807	94.49291	99.90281	106.99057	115.83755	123.88959	GO:0032991	protein-containing complex	CC
+Gene_000724	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0032991	protein-containing complex	CC
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0032991	protein-containing complex	CC
+Gene_000905	mitochondrial presequence translocase subunit tim50	1	0	0	0	0	0	0	-1	0	318.1608	270.2805	272.3765	290.1036	325.0438	307.1625	GO:0032991	protein-containing complex	CC
+Gene_000906	hypothetical protein pbra 005199	1	0	0	0	0	0	0	-1	-1	123.1887	105.3761	107.3143	127.529	140.4085	147.7433	GO:0032991	protein-containing complex	CC
+Gene_000931	dynein heavy chain axonemal isoform x1	-1	-1	0	1	0	0	0	1	1	18.54604	38.73695	34.53646	26.04246	15.53691	15.3397	GO:0032991	protein-containing complex	CC
+Gene_000933	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0032991	protein-containing complex	CC
+Gene_000943	sister chromatid cohesion	1	0	0	0	0	0	0	0	0	19.62049	14.71672	16.15018	18.55998	18.68356	19.47803	GO:0032991	protein-containing complex	CC
+Gene_000962	actin-related 10	1	0	0	0	0	0	0	0	0	76.1745	61.73622	61.48904	64.36263	69.34713	70.98647	GO:0032991	protein-containing complex	CC
+Gene_000977	bromodomain domain containing	-1	0	0	0	0	0	0	1	0	3.84391	11.540526	7.169533	7.928006	4.271068	4.361061	GO:0032991	protein-containing complex	CC
+Gene_000983	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 2-like	1	0	0	0	0	0	0	0	0	359.6928	307.7466	331.9603	307.8812	325.3616	371.3357	GO:0032991	protein-containing complex	CC
+Gene_001013	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0032991	protein-containing complex	CC
+Gene_001014	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0032991	protein-containing complex	CC
+Gene_001025	hypothetical protein pbra 002570	1	0	0	0	0	0	0	-1	0	234.5779	183.8744	192.2979	200.491	230.0547	225.8656	GO:0032991	protein-containing complex	CC
+Gene_001052	non-structural maintenance of chromosomes element 1 homolog	1	0	0	0	0	0	1	-1	0	112.00876	87.98591	95.13927	89.16317	104.59221	98.79318	GO:0032991	protein-containing complex	CC
+Gene_001075	exosome component 4	1	1	0	0	0	0	0	-1	0	97.8271	77.73852	72.25188	87.74829	94.37448	91.4158	GO:0032991	protein-containing complex	CC
+Gene_001085	proliferating cell nuclear antigen	1	0	0	0	0	0	1	0	0	544.3659	454.7839	483.0855	444.0129	476.9758	481.807	GO:0032991	protein-containing complex	CC
+Gene_001093	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0032991	protein-containing complex	CC
+Gene_001101	bardet-biedl syndrome 2	-1	-1	0	1	0	0	0	1	1	8.375606	21.901572	23.151475	11.541063	3.755777	6.881947	GO:0032991	protein-containing complex	CC
+Gene_001112	nuclear transcription factor y	-1	-1	0	0	0	0	-1	1	1	14.89848	34.47941	31.51893	25.94624	15.6407	10.79961	GO:0032991	protein-containing complex	CC
+Gene_001176	60s ribosomal l27a	1	0	0	0	0	0	0	0	0	1211.1456	925.5307	950.5628	940.8875	1091.2943	1115.0688	GO:0032991	protein-containing complex	CC
+Gene_001229	utp21 specific wd40 associated domain-domain-containing	1	1	0	0	0	0	0	-1	-1	174.5945	140.0304	132.6033	163.1316	161.8826	173.4829	GO:0032991	protein-containing complex	CC
+Gene_001258	meckelin isoform 4	-1	-1	0	1	0	0	0	1	1	21.15768	33.8024	41.73127	29.01059	20.34183	22.36528	GO:0032991	protein-containing complex	CC
+Gene_001368	transcription factor dpb isoform x1	-1	-1	0	1	0	0	0	1	1	4.961049	15.737354	16.934982	9.931989	3.426316	3.721997	GO:0032991	protein-containing complex	CC
+Gene_001432	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0032991	protein-containing complex	CC
+Gene_001517	tho complex subunit 3 isoform x2	1	0	0	0	0	0	0	-1	-1	148.8091	122.1238	128.5304	150.0201	164.2864	171.1223	GO:0032991	protein-containing complex	CC
+Gene_001532	exocyst complex component sec6 isoform x1	-1	-1	0	0	0	0	0	1	1	169.0024	226.328	250.0296	194.0256	154.9455	150.2912	GO:0032991	protein-containing complex	CC
+Gene_001571	nucleoporin nup37-like	1	0	0	0	0	0	1	0	0	87.17922	74.34398	73.41919	71.36809	79.99366	78.79267	GO:0032991	protein-containing complex	CC
+Gene_001575	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0032991	protein-containing complex	CC
+Gene_001580	bardet-biedl syndrome 1 family	-1	-1	0	1	0	0	0	1	1	3.1673789	8.6237622	8.0695794	3.6380729	0.7450334	2.1024697	GO:0032991	protein-containing complex	CC
+Gene_001731	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0032991	protein-containing complex	CC
+Gene_001811	60s ribosomal l30	1	0	0	0	0	0	0	-1	0	697.3216	529.4646	553.133	573.3418	662.8779	638.2411	GO:0032991	protein-containing complex	CC
+Gene_001820	40s ribosomal s7	1	1	0	0	0	0	1	0	0	1108.8226	867.6296	840.5388	781.9588	919.8004	971.6368	GO:0032991	protein-containing complex	CC
+Gene_001856	n-alpha-acetyltransferase auxiliary subunit	1	1	0	0	0	0	1	-1	0	76.69973	57.72447	59.93541	61.78547	68.59022	70.62424	GO:0032991	protein-containing complex	CC
+Gene_001894	mac perforin domain containing	-1	-1	0	1	0	0	0	1	1	7.693121	17.764556	18.942493	11.422135	4.670343	9.123889	GO:0032991	protein-containing complex	CC
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0032991	protein-containing complex	CC
+Gene_002062	glycerol-3-phosphate dehydrogenase	-1	-1	0	0	0	0	0	1	0	76.4915	102.58759	106.6372	100.73193	76.73397	80.41428	GO:0032991	protein-containing complex	CC
+Gene_002083	myosin head (motor domain) domain containing	-1	-1	0	0	0	0	-1	0	0	0.09506752	0.80328064	0.8576892	1.18572675	0.43739103	0.12073561	GO:0032991	protein-containing complex	CC
+Gene_002138	exosome complex component rrp45	1	1	0	0	0	0	0	-1	-1	83.68556	69.09079	64.57462	86.12791	89.24331	95.41883	GO:0032991	protein-containing complex	CC
+Gene_002357	phenylalanine-trna ligase beta subunit	1	0	0	0	0	0	0	-1	-1	266.3495	210.5162	221.5473	254.5193	266.1183	300.3326	GO:0032991	protein-containing complex	CC
+Gene_002362	u3 small nucleolar rna-associated 14	1	1	0	0	0	0	0	-1	-1	192.7344	153.3517	144.2111	174.6489	190.8267	194.3369	GO:0032991	protein-containing complex	CC
+Gene_002412	40s ribosomal s2	1	0	0	0	0	0	1	0	0	1363.8403	1043.2078	1051.5785	915.3255	1045.4547	1231.5916	GO:0032991	protein-containing complex	CC
+Gene_002416	atp-dependent rna helicase has1	1	1	0	0	0	0	0	-1	-1	194.4527	153.556	149.1646	183.9015	190.2593	184.8883	GO:0032991	protein-containing complex	CC
+Gene_002438	hypothetical protein pbra 003271	1	1	0	0	0	0	0	-1	-1	392.9634	328.6213	307.0356	420.8845	506.1213	458.4779	GO:0032991	protein-containing complex	CC
+Gene_002448	60s ribosomal l16	1	1	0	0	0	0	0	0	0	777.2253	598.5204	585.5306	600.668	686.7111	767.6639	GO:0032991	protein-containing complex	CC
+Gene_002460	maintenance of mitochondrial structure and function-domain-containing	1	1	0	0	0	0	1	0	-1	432.4044	364.1232	334.2544	352.1659	392.5047	418.6684	GO:0032991	protein-containing complex	CC
+Gene_002489	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0032991	protein-containing complex	CC
+Gene_002553	[naegleria gruberi]	-1	0	0	1	0	0	-1	1	0	1.2074261	2.9268399	2.0657818	2.7154374	0.9939701	1.7277718	GO:0032991	protein-containing complex	CC
+Gene_002557	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0032991	protein-containing complex	CC
+Gene_002566	nuclear cap-binding subunit 1	1	0	0	0	0	0	0	-1	-1	145.513	122.6397	126.4512	145.9538	166.7355	169.8691	GO:0032991	protein-containing complex	CC
+Gene_002606	wd40 repeat	1	1	0	0	0	0	0	0	-1	142.0081	111.3062	101.5826	122.7942	132.8918	152.0793	GO:0032991	protein-containing complex	CC
+Gene_002618	33 kda inner dynein arm light axonemal	-1	-1	0	1	0	0	0	1	1	8.711897	16.893599	17.159476	12.162827	5.713067	6.856965	GO:0032991	protein-containing complex	CC
+Gene_002642	40s ribosomal s24-1	1	0	0	0	0	0	1	0	0	632.3782	498.5319	484.6473	464.6018	521.8295	546.9733	GO:0032991	protein-containing complex	CC
+Gene_002728	hypothetical protein pbra 007907	1	1	0	0	0	0	0	0	0	139.06761	109.35404	97.68416	118.67182	129.67082	125.09281	GO:0032991	protein-containing complex	CC
+Gene_002731	unconventional myosin-ie-like	-1	-1	0	0	0	0	0	1	1	0.15889909	0.67622407	0.97666386	0.11910524	0.09294988	0.18734896	GO:0032991	protein-containing complex	CC
+Gene_002846	bbsome-interacting 1	-1	-1	0	0	0	0	0	1	1	2.3056203	5.1421157	6.0180816	2.7131788	1.2760713	0.8638859	GO:0032991	protein-containing complex	CC
+Gene_002878	elongator complex 2 isoform x1	1	1	0	0	0	0	0	0	-1	75.88911	60.97788	56.07763	63.7001	67.39864	72.60391	GO:0032991	protein-containing complex	CC
+Gene_002951	40s ribosomal s3a	1	0	0	0	0	0	1	0	0	1340.0833	1027.2643	1072.2097	910.3755	1070.8749	1174.05	GO:0032991	protein-containing complex	CC
+Gene_002952	mak16 homolog	1	1	0	0	0	0	0	-1	0	162.7199	123.8588	120.5321	133.5332	155.2423	137.2122	GO:0032991	protein-containing complex	CC
+Gene_002999	hypothetical protein pbra 002189	1	0	0	0	0	0	0	-1	0	51.4452	41.7196	42.80876	53.86317	64.64814	52.55965	GO:0032991	protein-containing complex	CC
+Gene_003118	nucleolar complex 2 homolog	1	1	0	0	0	0	0	-1	-1	290.4842	232.983	219.8808	252.6635	283.004	282.5053	GO:0032991	protein-containing complex	CC
+Gene_003179	myosin viia	-1	0	0	0	0	0	0	1	0	33.90393	48.42396	45.91984	38.04067	29.38053	32.9505	GO:0032991	protein-containing complex	CC
+Gene_003193	40s ribosomal s12	1	1	0	0	0	0	1	0	0	1056.2266	795.3678	764.385	744.6902	870.9743	927.7743	GO:0032991	protein-containing complex	CC
+Gene_003270	intraflagellar transport 81	-1	-1	0	1	0	0	0	1	1	28.24401	73.8178	80.99474	48.4973	14.88284	21.14543	GO:0032991	protein-containing complex	CC
+Gene_003288	intraflagellar transport 25 homolog isoform x1	-1	-1	0	1	0	0	0	1	1	3.10723	6.909961	9.190913	3.844595	1.139525	1.413442	GO:0032991	protein-containing complex	CC
+Gene_003418	hypothetical protein pbra 003378	-1	-1	0	1	0	0	0	1	1	9.750342	23.996662	23.523899	15.196472	5.064541	3.58877	GO:0032991	protein-containing complex	CC
+Gene_003473	u3 small nucleolar rna-associated mpp10	1	1	0	0	0	0	0	0	0	217.4579	183.895	166.1887	190.5029	183.5003	191.204	GO:0032991	protein-containing complex	CC
+Gene_003595	wd40 repeat	1	1	0	0	0	0	1	0	0	81.24134	57.65962	53.73806	59.41173	60.79733	66.83146	GO:0032991	protein-containing complex	CC
+Gene_003763	thioesterase family	-1	-1	0	0	0	0	0	1	1	0.8576796	2.9554798	2.7242312	1.6703263	0.8860396	0.6161691	GO:0032991	protein-containing complex	CC
+Gene_003797	trna-splicing ligase homolog	-1	0	0	0	0	0	-1	0	0	0.3106852	3.6712484	1.1135702	5.5486626	4.5068253	1.2989516	GO:0032991	protein-containing complex	CC
+Gene_003979	dynein light chain tctex-type	-1	-1	0	0	0	0	0	1	0	0.1000469	0.6003054	0.6694463	0.239318	0.1510068	0.187349	GO:0032991	protein-containing complex	CC
+Gene_003988	exosome complex exonuclease mtr3	1	1	0	0	0	0	0	-1	0	84.17694	62.18546	63.64691	78.26428	85.07443	72.7288	GO:0032991	protein-containing complex	CC
+Gene_004168	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like	1	0	0	0	0	0	0	-1	0	258.2012	212.5475	233.2546	232.946	269.928	273.3253	GO:0032991	protein-containing complex	CC
+Gene_004198	dynein light chain axonemal	-1	-1	0	1	0	0	0	1	1	8.468279	21.566573	23.24072	16.384969	4.893013	6.392759	GO:0032991	protein-containing complex	CC
+Gene_004272	eukaryotic peptide chain release factor gtp-binding subunit erf3a-like isoform x1	1	0	0	0	0	0	0	-1	-1	550.9606	477.6519	480.91	512.2554	577.8999	597.78	GO:0032991	protein-containing complex	CC
+Gene_004281	n-alpha-acetyltransferase daf-31	1	0	0	0	0	0	0	0	0	83.45496	67.05527	71.17334	68.40041	77.45106	67.93683	GO:0032991	protein-containing complex	CC
+Gene_004290	ribosomal l34	1	0	0	0	0	0	0	0	0	504.888	391.5894	390.267	422.5149	463.4461	473.5534	GO:0032991	protein-containing complex	CC
+Gene_004320	kinesin kif19	-1	-1	0	1	0	0	0	1	1	11.051989	34.838541	26.222021	20.678962	6.93069	9.444465	GO:0032991	protein-containing complex	CC
+Gene_004335	atp-dependent protease atpase subunit	1	0	0	0	0	0	1	0	0	173.7353	140.1616	151.4891	139.8893	158.2928	151.5673	GO:0032991	protein-containing complex	CC
+Gene_004353	intraflagellar transport 72 74	-1	-1	0	1	0	0	0	1	1	11.418742	34.115153	36.586847	16.735693	7.149891	10.789205	GO:0032991	protein-containing complex	CC
+Gene_004355	40s ribosomal s20-1	1	0	0	0	0	0	1	0	0	717.7286	545.9548	542.2422	532.0657	611.641	616.9022	GO:0032991	protein-containing complex	CC
+Gene_004394	er membrane complex subunit 1-like	1	0	0	0	0	0	0	-1	0	321.344	259.9491	268.2682	297.1034	345.9247	320.4434	GO:0032991	protein-containing complex	CC
+Gene_004429	prefoldin subunit 6	1	0	0	0	0	0	0	-1	-1	81.03933	67.16132	68.59743	82.0793	86.4643	90.19597	GO:0032991	protein-containing complex	CC
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0032991	protein-containing complex	CC
+Gene_004508	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0032991	protein-containing complex	CC
+Gene_004513	fumarate reductase flavo subunit	1	1	0	0	0	0	0	-1	-1	380.5564	294.8949	277.0811	304.3843	374.5742	373.5048	GO:0032991	protein-containing complex	CC
+Gene_004571	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0032991	protein-containing complex	CC
+Gene_004624	hsf-type dna-binding domain containing	-1	-1	0	1	0	0	0	1	1	8.960759	25.125694	25.01763	16.51753	5.441272	8.295389	GO:0032991	protein-containing complex	CC
+Gene_004638	two pore calcium channel 2-like	-1	0	0	0	0	0	0	1	0	1.994809	4.487594	3.077895	4.626409	2.035477	1.527932	GO:0032991	protein-containing complex	CC
+Gene_004722	vamp (vesicle associated membrane ) homolog	-1	-1	0	0	0	0	0	1	0	0.5260417	1.8641712	1.9374404	1.01478	0.4000321	0.6161691	GO:0032991	protein-containing complex	CC
+Gene_004797	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0032991	protein-containing complex	CC
+Gene_004813	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0032991	protein-containing complex	CC
+Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0032991	protein-containing complex	CC
+Gene_004993	dna polymerase delta small subunit	1	0	0	0	0	0	0	-1	-1	151.9049	125.5688	129.6713	143.5124	151.2567	176.0038	GO:0032991	protein-containing complex	CC
+Gene_005078	ubiquitin-60s ribosomal l40	1	0	0	0	0	0	1	0	0	912.8001	701.8858	709.9254	641.273	734.0211	735.9145	GO:0032991	protein-containing complex	CC
+Gene_005179	ribosome biogenesis nop16 domain-containing	1	1	0	0	0	0	0	-1	0	84.46201	68.20751	63.29242	75.55478	83.82873	66.65037	GO:0032991	protein-containing complex	CC
+Gene_005206	kinesin kin-7o isoform x1	-1	-1	0	0	0	0	0	1	0	1.986209	5.534076	6.33182	3.563911	1.211306	2.096224	GO:0032991	protein-containing complex	CC
+Gene_005217	histone h1	-1	-1	0	0	0	0	0	1	1	152.0935	216.8983	227.4768	169.8568	139.6281	119.6451	GO:0032991	protein-containing complex	CC
+Gene_005240	60s ribosomal l32-1	1	0	0	0	0	0	1	0	0	1140.6876	894.067	903.7116	795.5149	939.9341	881.0202	GO:0032991	protein-containing complex	CC
+Gene_005259	wd40-repeat-containing domain	1	1	0	0	0	0	0	-1	-1	221.1583	184.6502	164.0341	224.0686	244.3337	244.7961	GO:0032991	protein-containing complex	CC
+Gene_005317	trna (adenine(58)-n(1))-methyltransferase catalytic subunit trmt61a-like	1	1	0	0	0	0	0	-1	-1	209.1064	166.1371	153.9037	182.4184	200.6272	191.5162	GO:0032991	protein-containing complex	CC
+Gene_005500	exosome complex exonuclease rrp4	1	1	0	0	0	0	0	0	0	127.4533	103.532	102.5325	111.5209	121.0667	118.0547	GO:0032991	protein-containing complex	CC
+Gene_005513	enoyl-hydratase	1	0	0	0	0	0	0	-1	0	34.99106	28.63978	30.36618	30.53939	37.38292	36.62045	GO:0032991	protein-containing complex	CC
+Gene_005526	40s ribosomal s13-2	1	1	0	0	0	0	0	0	-1	799.3971	621.8932	604.7639	667.9955	744.3109	782.8849	GO:0032991	protein-containing complex	CC
+Gene_005578	glutamate-trna ligase	1	0	0	0	0	0	0	-1	-1	105.69497	84.50922	90.46621	104.709	118.3958	127.29101	GO:0032991	protein-containing complex	CC
+Gene_005673	signal peptidase complex subunit 3	1	0	0	0	0	0	0	-1	-1	219.1097	182.0425	188.8065	209.0773	230.6059	242.8332	GO:0032991	protein-containing complex	CC
+Gene_005679	pas domain s-box	1	1	0	0	0	0	1	0	0	157.4992	125.6533	121.5234	124.765	125.7718	142.5683	GO:0032991	protein-containing complex	CC
+Gene_005729	hypothetical protein pbra 000716; partial	-1	0	0	0	0	0	0	1	0	0.2933523	0.8063196	0.600178	0.2811067	0.2552143	0.3143301	GO:0032991	protein-containing complex	CC
+Gene_005787	dna-directed rna polymerases and iii subunit rpabc2-like	1	0	0	0	0	0	0	0	0	29.10934	22.44219	22.53129	25.74185	25.23763	24.59891	GO:0032991	protein-containing complex	CC
+Gene_005816	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0032991	protein-containing complex	CC
+Gene_005832	hybrid sensor histidine kinase response regulator	1	0	0	0	0	0	0	-1	-1	178.2951	146.7755	150.4978	194.1543	212.2392	225.9593	GO:0032991	protein-containing complex	CC
+Gene_005966	t-complex 1 subunit epsilon	1	1	0	0	0	0	0	-1	-1	637.4178	532.8514	522.6237	628.4955	693.8034	727.438	GO:0032991	protein-containing complex	CC
+Gene_006071	cyclin-dependent kinase 20	-1	-1	0	0	0	0	0	1	1	6.618391	12.083379	13.439019	8.933805	5.127401	5.793239	GO:0032991	protein-containing complex	CC
+Gene_006159	hypothetical protein pbra 007314	-1	-1	0	0	0	0	0	1	0	1.1396502	3.4447455	3.7114777	1.329156	0.8690646	1.867244	GO:0032991	protein-containing complex	CC
+Gene_006223	dynein light chain cytoplasmic	-1	-1	0	0	0	0	0	1	1	2.624454	7.798793	7.945741	4.145166	1.884381	3.191178	GO:0032991	protein-containing complex	CC
+Gene_006246	hypothetical protein pbra 004911	-1	-1	0	0	0	0	0	1	0	103.6586	128.219	140.6473	119.7836	104.8785	114.8989	GO:0032991	protein-containing complex	CC
+Gene_006292	cyclin-h isoform x1	1	0	0	0	0	0	0	-1	0	69.95889	55.94955	60.56695	59.45888	71.33524	67.69329	GO:0032991	protein-containing complex	CC
+Gene_006316	glycyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	141.8776	112.7339	111.4243	118.9396	138.5452	144.3002	GO:0032991	protein-containing complex	CC
+Gene_006385	dna replication licensing factor mcm4	1	0	0	0	0	0	0	0	0	234.8307	200.6037	215.9769	206.2122	217.2645	229.929	GO:0032991	protein-containing complex	CC
+Gene_006485	ribosome biogenesis nsa2	1	1	0	0	0	0	0	-1	-1	227.5808	178.2912	167.7567	212.1707	242.3452	230.0476	GO:0032991	protein-containing complex	CC
+Gene_006525	peptidyl-prolyl cis-trans isomerase-like 1	1	1	0	-1	0	0	0	-1	0	93.10018	73.1022	70.33442	79.47601	103.33966	82.98303	GO:0032991	protein-containing complex	CC
+Gene_006552	pas domain-containing sensor histidine kinase	-1	-1	0	1	0	0	0	1	1	0.9119402	2.5993439	3.3219376	2.1914129	0.6580367	0.9304992	GO:0032991	protein-containing complex	CC
+Gene_006558	multi-sensor hybrid histidine kinase [nitrosospira lacus]	-1	0	0	0	0	0	-1	0	0	2.622645	9.400259	3.966143	11.263769	7.249505	4.10294	GO:0032991	protein-containing complex	CC
+Gene_006611	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0032991	protein-containing complex	CC
+Gene_006617	phosphate abc transporter substrate-binding	-1	0	0	0	0	0	0	0	0	0.7048583	1.6489025	0.8768368	0.7691576	1.0132338	0.3746979	GO:0032991	protein-containing complex	CC
+Gene_006651	dna polymerase i	-1	-1	0	1	0	0	0	1	1	70.98151	108.1141	128.48363	96.01215	58.44089	58.76715	GO:0032991	protein-containing complex	CC
+Gene_006709	60s ribosomal l1-b	1	1	0	0	0	0	1	0	0	2135.617	1603.686	1623.836	1661.999	1949.173	2056.016	GO:0032991	protein-containing complex	CC
+Gene_006902	small nuclear ribonucleo sm d3	1	0	0	0	0	0	0	0	0	263.1283	205.3701	216.0598	223.0306	236.6284	245.8932	GO:0032991	protein-containing complex	CC
+Gene_006908	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0032991	protein-containing complex	CC
+Gene_006943	24-hydroxycholesterol 7-alpha-hydroxylase	-1	-1	0	0	0	0	-1	0	0	0.9563036	2.439374	2.5408787	2.6198893	2.2158847	1.582054	GO:0032991	protein-containing complex	CC
+Gene_006983	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0032991	protein-containing complex	CC
+Gene_007000	intron-binding aquarius isoform x1	1	0	0	0	0	0	0	-1	-1	291.926	230.7932	245.2113	291.4351	333.9079	348.9912	GO:0032991	protein-containing complex	CC
+Gene_007037	e3 ubiquitin-ligase fancl isoform x1	1	0	0	0	0	0	0	-1	0	81.01622	66.03768	69.84952	71.96019	83.81733	78.31181	GO:0032991	protein-containing complex	CC
+Gene_007038	rna-binding 34-like isoform x1	1	1	0	0	0	0	0	-1	-1	104.73381	87.87927	81.37228	99.60851	115.03175	110.61489	GO:0032991	protein-containing complex	CC
+Gene_007055	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0032991	protein-containing complex	CC
+Gene_007060	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0032991	protein-containing complex	CC
+Gene_007089	60s ribosomal l33-a	1	0	0	0	0	0	0	0	0	986.809	746.6474	767.763	768.4518	887.0558	887.1425	GO:0032991	protein-containing complex	CC
+Gene_007191	malic enzyme	-1	-1	0	1	0	0	0	1	1	7.605676	18.800826	17.514412	11.48605	5.064684	4.015634	GO:0032991	protein-containing complex	CC
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0032991	protein-containing complex	CC
+Gene_007492	flagellar associated	-1	-1	0	0	0	0	0	1	1	19.57244	35.3619	37.22654	25.24758	16.12506	15.71647	GO:0032991	protein-containing complex	CC
+Gene_007525	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0032991	protein-containing complex	CC
+Gene_007540	multi-sensor hybrid histidine kinase [nitrosospira lacus]	-1	-1	0	1	0	0	0	1	1	33.99025	48.09363	51.36794	30.45836	16.8886	24.7134	GO:0032991	protein-containing complex	CC
+Gene_007545	hypothetical protein pbra 004029	1	0	0	0	0	0	0	0	0	30.15373	23.09024	25.56437	26.08388	28.6215	30.68774	GO:0032991	protein-containing complex	CC
+Gene_007709	hypothetical protein pbra 005397; partial	-1	0	0	0	0	0	-1	0	0	1.832739	4.651073	2.679001	4.779015	3.845052	2.779007	GO:0032991	protein-containing complex	CC
+Gene_007722	dna polymerase	1	0	0	0	0	0	0	0	0	164.3992	131.8496	132.7385	140.3457	161.1728	164.1987	GO:0032991	protein-containing complex	CC
+Gene_007785	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0032991	protein-containing complex	CC
+Gene_007814	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 1a-like	1	0	0	0	0	0	0	-1	-1	679.3603	543.1603	573.9172	606.7912	705.511	767.7845	GO:0032991	protein-containing complex	CC
+Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0032991	protein-containing complex	CC
+Gene_008108	n-alpha-acetyltransferase 30-like	1	0	0	0	0	0	0	-1	-1	69.39671	55.49056	57.32123	70.79337	84.72631	77.15233	GO:0032991	protein-containing complex	CC
+Gene_008169	kinetochore ndc8	-1	-1	0	1	0	0	0	1	1	306.003	366.9228	383.7081	314.1915	262.1503	292.158	GO:0032991	protein-containing complex	CC
+Gene_008215	v-type h+-transporting atpase subunit i	-1	-1	0	0	0	0	0	0	1	176.9362	218.099	221.0691	216.3422	185.9286	168.6972	GO:0032991	protein-containing complex	CC
+Gene_008322	guanine nucleotide binding alpha subunit	-1	-1	0	0	0	0	0	1	1	2.264489	4.796077	5.417904	3.800889	1.625444	1.473809	GO:0032991	protein-containing complex	CC
+Gene_008392	vacuolar sorting-associated 37a	1	1	0	-1	0	0	0	-1	-1	151.9552	125.9929	122.4349	141.4011	165.9032	163.8781	GO:0032991	protein-containing complex	CC
+Gene_008523	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0032991	protein-containing complex	CC
+Gene_008687	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0032991	protein-containing complex	CC
+Gene_008723	rrna-processing utp23 homolog	1	0	0	0	0	0	0	0	0	71.11639	57.36995	58.45107	67.26014	69.16117	68.79656	GO:0032991	protein-containing complex	CC
+Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0032991	protein-containing complex	CC
+Gene_008794	prefoldin subunit 3	1	0	0	0	0	0	0	-1	0	361.3909	293.6087	297.8003	307.7048	358.2204	332.3838	GO:0032991	protein-containing complex	CC
+Gene_008798	60s ribosomal l7a-like	1	1	0	0	0	0	1	0	0	1380.8519	1059.6961	1044.4931	975.6129	1124.2737	1156.5041	GO:0032991	protein-containing complex	CC
+Gene_008864	intraflagellar transport 57 homolog isoform x1	-1	-1	0	1	0	0	0	1	1	2.943611	10.197361	9.439057	6.717039	1.983049	2.905988	GO:0032991	protein-containing complex	CC
+Gene_008900	intraflagellar transport 46 homolog	-1	-1	0	1	0	0	0	1	1	5.523054	13.392645	15.070872	9.250014	3.261026	5.23328	GO:0032991	protein-containing complex	CC
+Gene_008913	methionyl-trna synthetase	1	0	0	0	0	0	0	0	-1	488.3208	407.1885	410.5476	438.4716	470.1946	510.3069	GO:0032991	protein-containing complex	CC
+Gene_009085	prefoldin subunit 5	1	0	0	0	0	0	0	-1	0	103.6631	78.0533	82.81426	84.94301	96.49814	93.93256	GO:0032991	protein-containing complex	CC
+Gene_009160	hybrid sensor histidine kinase response regulator	-1	-1	0	0	0	0	-1	1	0	1.024079	4.129718	3.467836	3.259122	1.718011	2.918479	GO:0032991	protein-containing complex	CC
+Gene_009194	hypothetical protein pbra 008603	-1	0	0	0	0	0	0	1	0	1.093603	2.524243	2.06639	1.172692	1.032586	1.498792	GO:0032991	protein-containing complex	CC
+Gene_009305	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0032991	protein-containing complex	CC
+Gene_009315	pc12g11630 [penicillium rubens wisconsin 54-1255]	1	0	0	0	0	0	0	-1	-1	154.6537	128.392	131.5207	154.7196	164.1623	165.8932	GO:0032991	protein-containing complex	CC
+Gene_009414	intraflagellar transport 43	-1	-1	0	1	0	0	0	1	1	4.553495	13.046153	14.438091	8.567224	2.774793	3.938486	GO:0032991	protein-containing complex	CC
+Gene_009425	phosphatase 2c-related	-1	-1	0	1	0	0	0	1	1	1.3868284	4.3400023	4.6302843	2.2419982	0.4760956	0.8638859	GO:0032991	protein-containing complex	CC
+Gene_009426	ubx domain-containing 1-like isoform x2	-1	-1	0	1	0	0	0	1	1	1.2624605	3.661422	3.4637474	1.7326904	0.4256619	0.9242537	GO:0032991	protein-containing complex	CC
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0032991	protein-containing complex	CC
+Gene_009473	hypothetical protein pbra 005952	1	1	0	0	0	0	0	-1	-1	166.2055	129.9931	120.5305	140.3094	160.1589	156.6673	GO:0032991	protein-containing complex	CC
+Gene_009539	alpha-tubulin n-acetyltransferase 1 isoform x6	-1	-1	0	1	0	0	0	1	1	2.973812	7.620084	8.616817	5.356966	1.311702	2.229451	GO:0032991	protein-containing complex	CC
+Gene_009691	dynein light chain type 1-domain-containing	-1	-1	0	1	0	0	0	1	1	3.226033	6.004286	7.173207	3.488809	1.382745	1.813122	GO:0032991	protein-containing complex	CC
+Gene_009719	2-oxoisovalerate dehydrogenase subunit mitochondrial-like	-1	-1	0	1	0	0	0	1	1	21.19708	47.42704	48.97416	28.83215	10.64917	16.45339	GO:0032991	protein-containing complex	CC
+Gene_009731	clp1 homolog	1	1	0	0	0	0	0	-1	-1	162.3735	124.6755	128.5459	151.423	171.4274	165.6497	GO:0032991	protein-containing complex	CC
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0032991	protein-containing complex	CC
+Gene_009870	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0032991	protein-containing complex	CC
+Gene_009875	pas domain s-box	-1	-1	0	0	0	0	-1	0	0	60.83501	92.62067	106.8226	99.59097	74.24871	80.56626	GO:0032991	protein-containing complex	CC
+Gene_009922	fcf1-domain-containing	1	1	0	0	0	0	0	-1	-1	56.68817	40.19961	40.1801	53.44501	55.55086	58.67556	GO:0032991	protein-containing complex	CC
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0032991	protein-containing complex	CC
+Gene_009957	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:0032991	protein-containing complex	CC
+Gene_009958	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	-1	1	1	15.92027	46.67115	42.50716	33.09745	12.22081	17.16219	GO:0032991	protein-containing complex	CC
+Gene_010034	voltage-gated ion channel (vic) superfamily	-1	0	0	0	0	0	-1	0	0	1.016967	5.440494	1.639589	5.745855	3.827412	1.480055	GO:0032991	protein-containing complex	CC
+Gene_010038	calmodulin-regulated spectrin-associated 3-like isoform x7	-1	-1	0	1	0	0	0	1	1	2.81349	9.660858	8.011749	5.671851	1.747187	2.264837	GO:0032991	protein-containing complex	CC
+Gene_010063	f1 delta epsilon subunit	1	0	0	0	0	0	0	0	0	387.6815	330.921	335.1086	358.1922	379.2703	368.8003	GO:0032991	protein-containing complex	CC
+Gene_010079	pyruvate dehydrogenase kinase	-1	-1	0	0	0	0	0	1	1	28.72902	41.37388	45.92887	27.80894	21.50997	21.67001	GO:0032991	protein-containing complex	CC
+Gene_010090	sporangia induced trp	-1	-1	0	1	0	0	0	1	1	18.114683	50.636047	47.253505	26.012601	8.631344	15.008723	GO:0032991	protein-containing complex	CC
+Gene_010392	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0032991	protein-containing complex	CC
+Gene_010401	u3 small nucleolar ribonucleo imp4 isoform x2	1	1	0	0	0	0	0	-1	-1	100.32965	79.38879	71.57144	92.79957	97.37876	89.04479	GO:0032991	protein-containing complex	CC
+Gene_010516	60s ribosomal	1	0	0	0	0	0	0	0	-1	644.9048	492.9606	488.8513	528.6603	582.3058	683.23	GO:0032991	protein-containing complex	CC
+Gene_010582	ribosomal l1	1	1	0	0	0	0	0	0	0	185.5872	147.2863	142.4266	157.658	172.8417	167.723	GO:0032991	protein-containing complex	CC
+Gene_010646	bardet-biedl syndrome parathyroid hormone-responsive b1	-1	-1	0	1	0	0	-1	1	1	19.52072	58.11503	51.58967	47.01288	15.46415	18.10413	GO:0032991	protein-containing complex	CC
+Gene_010714	ribosomal rps9	1	1	0	0	0	0	1	0	0	1000.3437	740.9802	747.6835	764.3451	893.7219	977.9837	GO:0032991	protein-containing complex	CC
+Gene_011043	60s ribosomal l21-1-like	1	1	0	0	0	0	0	0	0	824.3928	644.121	612.4455	628.8476	717.3133	819.0558	GO:0032991	protein-containing complex	CC
+Gene_011052	origin recognition complex subunit 2	-1	-1	0	1	0	0	0	1	1	205.5027	277.8995	332.5618	210.05	145.3425	153.8842	GO:0032991	protein-containing complex	CC
+Gene_011162	nuclear export [rhodotorula toruloides np11]	1	1	0	0	0	0	0	-1	-1	250.4716	205.0152	197.6183	239.1789	257.0028	253.1561	GO:0032991	protein-containing complex	CC
+Gene_011315	40s ribosomal s23	1	1	0	0	0	0	1	0	0	882.9078	685.5058	681.8266	645.3305	754.2785	718.6993	GO:0032991	protein-containing complex	CC
+Gene_011345	hsf-type dna-binding	-1	-1	0	1	0	0	0	1	1	1.611044	3.554756	4.471798	3.415883	1.368933	1.298952	GO:0032991	protein-containing complex	CC
+Gene_011353	signal peptidase complex catalytic subunit sec11a	1	1	0	0	0	0	0	-1	0	112.41868	92.01105	93.62924	100.18013	108.64695	112.96926	GO:0032991	protein-containing complex	CC
+Gene_011415	rna polymerase ii core subunit	1	1	0	0	0	0	1	0	0	150.9421	125.9959	121.5831	123.9831	134.3007	136.3296	GO:0032991	protein-containing complex	CC
+Gene_011498	alpha-xylosidase 1-like	-1	-1	0	1	0	0	-1	1	1	51.97776	98.43114	119.00056	100.9856	55.09434	64.68741	GO:0032991	protein-containing complex	CC
+Gene_011598	kinesin heavy chain	-1	-1	0	1	0	0	0	1	1	1.6930469	4.9155349	3.6992649	2.5515181	0.8743106	1.4987916	GO:0032991	protein-containing complex	CC
+Gene_011604	3-5 exoribonuclease	1	1	0	0	0	0	1	0	0	91.17553	68.81716	69.31413	64.65106	80.43204	71.89823	GO:0032991	protein-containing complex	CC
+Gene_011742	glycyl-trna synthetase	1	1	0	0	0	0	0	0	-1	413.9107	343.0444	330.7584	356.084	384.2083	438.7918	GO:0032991	protein-containing complex	CC
+Gene_011757	ornithine carbamoyltransferase	-1	0	0	0	0	0	-1	1	0	10.89386	31.21372	17.50905	32.78543	15.6741	13.27886	GO:0032991	protein-containing complex	CC
+Gene_011786	40s ribosomal protein s11	1	0	0	0	0	0	0	-1	0	857.7058	656.0985	678.6174	702.9493	819.4689	855.0557	GO:0032991	protein-containing complex	CC
+Gene_011906	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:0032991	protein-containing complex	CC
+Gene_011954	dyneins heavy chain	-1	-1	0	1	0	0	0	1	1	14.12792	46.135837	39.750258	26.571694	8.565015	12.798009	GO:0032991	protein-containing complex	CC
+Gene_011972	kinesin-like protein kif13b	-1	0	0	1	0	0	0	1	1	11.469386	31.413923	24.53839	18.289111	5.696487	9.800426	GO:0032991	protein-containing complex	CC
+Gene_011988	cdk-activating kinase assembly factor	1	1	0	0	0	0	0	0	0	65.96724	55.14676	52.67663	58.12117	65.25109	65.48049	GO:0032991	protein-containing complex	CC
+Gene_011991	hpt sensor hybrid histidine kinase	-1	0	0	0	0	0	0	0	0	10.66156	25.99086	16.2003	22.05616	15.43348	11.90081	GO:0032991	protein-containing complex	CC
+Gene_012004	probable small nuclear ribonucleoprotein e	1	0	0	0	0	0	0	-1	0	175.3392	147.321	145.907	165.5531	183.7168	170.2106	GO:0032991	protein-containing complex	CC
+Gene_012022	actin-related protein	1	0	0	0	0	0	1	0	0	103.922	87.21696	93.89244	80.81505	85.92851	84.69831	GO:0032991	protein-containing complex	CC
+Gene_012114	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0032991	protein-containing complex	CC
+Gene_012178	probable trna n6-adenosine threonylcarbamoyltransferase	1	1	0	0	0	0	0	0	0	115.21233	95.43968	86.47562	105.88049	110.25012	104.09516	GO:0032991	protein-containing complex	CC
+Gene_012190	60s ribosomal protein l26-1	1	0	0	0	0	0	1	0	0	1094.5218	849.4155	872.7906	795.6336	923.2722	927.6078	GO:0032991	protein-containing complex	CC
+Gene_012275	vam6/vps39-like protein	-1	-1	0	1	0	0	-1	1	1	3.736749	9.95265	9.947947	7.382092	1.96798	3.293177	GO:0032991	protein-containing complex	CC
+Gene_012387	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:0032991	protein-containing complex	CC
+Gene_012550	adaptor protein complex 2 subunit alpha 1	-1	-1	0	1	0	0	-1	1	1	119.7454	186.5042	188.0929	174.5086	125.7671	127.3431	GO:0032991	protein-containing complex	CC

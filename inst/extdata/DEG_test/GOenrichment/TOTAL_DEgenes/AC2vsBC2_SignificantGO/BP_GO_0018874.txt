@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001731	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0018874	benzoate metabolic process	BP
+Gene_002198	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	1	44.05302	52.82204	60.31195	36.18611	30.54178	36.9556	GO:0018874	benzoate metabolic process	BP
+Gene_004513	fumarate reductase flavo subunit	1	1	0	0	0	0	0	-1	-1	380.5564	294.8949	277.0811	304.3843	374.5742	373.5048	GO:0018874	benzoate metabolic process	BP
+Gene_006904	3-hydroxyacyl-dehydrogenase	-1	0	0	0	0	0	0	1	0	1.7113534	4.8334821	4.3564716	1.9432544	0.5978382	1.6611584	GO:0018874	benzoate metabolic process	BP
+Gene_006928	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0018874	benzoate metabolic process	BP
+Gene_007499	succinate dehydrogenase cytochrome b subunit	0	0	0	0	0	0	0	1	1	211.3581	225.7984	245.3987	184.9623	177.8949	161.7236	GO:0018874	benzoate metabolic process	BP
+Gene_008956	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	0	230.8349	257.5443	270.6161	220.191	201.1301	219.2897	GO:0018874	benzoate metabolic process	BP
+Gene_010935	trifunctional enzyme alpha mitochondrial precursor	0	0	0	0	0	0	0	-1	0	384.4596	344.2614	369.3986	382.0479	426.5839	426.0041	GO:0018874	benzoate metabolic process	BP

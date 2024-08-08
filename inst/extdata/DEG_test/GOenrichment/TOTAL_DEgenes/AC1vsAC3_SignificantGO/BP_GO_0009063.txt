@@ -1,0 +1,12 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001661	threonine ammonia-lyase	-1	-1	0	0	0	0	0	1	1	46.92135	69.19541	79.0226	59.04064	47.95741	44.00199	GO:0009063	cellular amino acid catabolic process	BP
+Gene_002613	kynureninase isoform x1	0	-1	0	0	0	0	0	1	1	11.14563	21.556208	24.463457	13.896851	7.013406	6.199165	GO:0009063	cellular amino acid catabolic process	BP
+Gene_004766	probable proline dehydrogenase 2	-1	-1	0	1	0	0	0	1	1	34.20298	64.60684	77.26848	45.47679	23.50117	30.4546	GO:0009063	cellular amino acid catabolic process	BP
+Gene_004814	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0009063	cellular amino acid catabolic process	BP
+Gene_004914	1-pyrroline-5-carboxylate dehydrogenase	-1	-1	0	0	0	0	0	1	1	182.9921	224.1142	249.97	205.1894	167.929	178.9826	GO:0009063	cellular amino acid catabolic process	BP
+Gene_005873	indoleamine 2;3-dioxygenase 1	0	-1	0	0	0	0	0	1	1	18.86267	28.67948	36.68137	26.1842	14.82779	17.69613	GO:0009063	cellular amino acid catabolic process	BP
+Gene_006652	glycine cleavage system t	-1	-1	0	1	0	0	0	1	1	66.80993	90.73551	111.08618	71.51501	52.10775	50.77569	GO:0009063	cellular amino acid catabolic process	BP
+Gene_006928	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0009063	cellular amino acid catabolic process	BP
+Gene_009719	2-oxoisovalerate dehydrogenase subunit mitochondrial-like	-1	-1	0	1	0	0	0	1	1	21.19708	47.42704	48.97416	28.83215	10.64917	16.45339	GO:0009063	cellular amino acid catabolic process	BP
+Gene_009975	methylmalonate-semialdehyde dehydrogenase [acylating] mitochondrial	0	-1	0	0	0	0	0	1	1	113.9065	138.7512	153.9319	120.1605	108.375	107.5632	GO:0009063	cellular amino acid catabolic process	BP
+Gene_012387	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:0009063	cellular amino acid catabolic process	BP

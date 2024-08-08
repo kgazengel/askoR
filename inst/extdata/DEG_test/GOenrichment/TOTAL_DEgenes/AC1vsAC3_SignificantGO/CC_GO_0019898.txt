@@ -1,0 +1,7 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000491	hypothetical protein pbra 001573	-1	-1	0	1	0	0	0	1	1	2.675932	7.339769	6.629256	4.413535	1.471411	1.292706	GO:0019898	extrinsic component of membrane	CC
+Gene_000492	hypothetical protein pbra 001573	-1	-1	0	0	0	0	0	1	1	3.385382	8.931083	8.613143	5.298941	2.419968	1.908875	GO:0019898	extrinsic component of membrane	CC
+Gene_000634	vacuolar sorting-associated 13	-1	-1	0	1	0	0	0	1	1	75.87985	116.62669	129.28545	105.90386	72.2416	67.6912	GO:0019898	extrinsic component of membrane	CC
+Gene_002306	hypothetical protein pbra 003378	0	-1	0	0	0	0	0	1	1	6.180965	11.478027	14.389961	7.273644	4.421072	4.223676	GO:0019898	extrinsic component of membrane	CC
+Gene_003418	hypothetical protein pbra 003378	-1	-1	0	1	0	0	0	1	1	9.750342	23.996662	23.523899	15.196472	5.064541	3.58877	GO:0019898	extrinsic component of membrane	CC
+Gene_008322	guanine nucleotide binding alpha subunit	-1	-1	0	0	0	0	0	1	1	2.264489	4.796077	5.417904	3.800889	1.625444	1.473809	GO:0019898	extrinsic component of membrane	CC

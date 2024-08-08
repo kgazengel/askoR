@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002952	mak16 homolog	1	1	0	0	0	0	0	-1	0	162.7199	123.8588	120.5321	133.5332	155.2423	137.2122	GO:0030687	preribosome, large subunit precursor	CC
+Gene_003118	nucleolar complex 2 homolog	1	1	0	0	0	0	0	-1	-1	290.4842	232.983	219.8808	252.6635	283.004	282.5053	GO:0030687	preribosome, large subunit precursor	CC
+Gene_003595	wd40 repeat	1	1	0	0	0	0	1	0	0	81.24134	57.65962	53.73806	59.41173	60.79733	66.83146	GO:0030687	preribosome, large subunit precursor	CC
+Gene_005179	ribosome biogenesis nop16 domain-containing	1	1	0	0	0	0	0	-1	0	84.46201	68.20751	63.29242	75.55478	83.82873	66.65037	GO:0030687	preribosome, large subunit precursor	CC
+Gene_006485	ribosome biogenesis nsa2	1	1	0	0	0	0	0	-1	-1	227.5808	178.2912	167.7567	212.1707	242.3452	230.0476	GO:0030687	preribosome, large subunit precursor	CC
+Gene_007561	eukaryotic rrna processing	0	1	0	0	0	0	0	-1	0	319.3465	253.8965	234.6795	277.5637	324.7958	282.4948	GO:0030687	preribosome, large subunit precursor	CC
+Gene_008523	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0030687	preribosome, large subunit precursor	CC
+Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0030687	preribosome, large subunit precursor	CC
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0030687	preribosome, large subunit precursor	CC
+Gene_012461	ribosome biogenesis protein bop1 homolog	0	1	0	0	0	0	0	0	-1	138.3472	112.6101	104.4678	110.8673	118.5112	140.4325	GO:0030687	preribosome, large subunit precursor	CC

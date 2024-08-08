@@ -1,0 +1,7 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0042255	ribosome assembly	BP
+Gene_002519	mrna turnover 4 homolog	1	1	0	0	0	0	1	-1	0	191.0472	147.6175	141.0942	147.6701	177.5743	158.318	GO:0042255	ribosome assembly	BP
+Gene_006079	eukaryotic translation initiation factor 6	1	1	0	0	0	0	1	0	0	216.5792	170.6673	166.2071	169.9236	194.0349	186.3995	GO:0042255	ribosome assembly	BP
+Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0042255	ribosome assembly	BP
+Gene_008974	component of cytosolic 80s ribosome and 40s small subunit	0	0	0	0	0	0	1	0	0	1068.5893	853.3302	852.3765	800.259	933.808	1057.5549	GO:0042255	ribosome assembly	BP
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0042255	ribosome assembly	BP

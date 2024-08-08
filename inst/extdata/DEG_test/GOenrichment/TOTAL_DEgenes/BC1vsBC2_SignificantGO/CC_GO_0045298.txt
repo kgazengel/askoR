@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0045298	tubulin complex	CC
+Gene_003270	intraflagellar transport 81	-1	-1	0	1	0	0	0	1	1	28.24401	73.8178	80.99474	48.4973	14.88284	21.14543	GO:0045298	tubulin complex	CC
+Gene_004320	kinesin kif19	-1	-1	0	1	0	0	0	1	1	11.051989	34.838541	26.222021	20.678962	6.93069	9.444465	GO:0045298	tubulin complex	CC
+Gene_004353	intraflagellar transport 72 74	-1	-1	0	1	0	0	0	1	1	11.418742	34.115153	36.586847	16.735693	7.149891	10.789205	GO:0045298	tubulin complex	CC
+Gene_009539	alpha-tubulin n-acetyltransferase 1 isoform x6	-1	-1	0	1	0	0	0	1	1	2.973812	7.620084	8.616817	5.356966	1.311702	2.229451	GO:0045298	tubulin complex	CC
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0045298	tubulin complex	CC
+Gene_010038	calmodulin-regulated spectrin-associated 3-like isoform x7	-1	-1	0	1	0	0	0	1	1	2.81349	9.660858	8.011749	5.671851	1.747187	2.264837	GO:0045298	tubulin complex	CC
+Gene_011598	kinesin heavy chain	-1	-1	0	1	0	0	0	1	1	1.6930469	4.9155349	3.6992649	2.5515181	0.8743106	1.4987916	GO:0045298	tubulin complex	CC
+Gene_011900	hypothetical protein pbra 008770; partial	0	0	0	1	0	0	0	0	0	0.5874152	0.879143	1.0426718	1.273863	0.3761661	0.4288202	GO:0045298	tubulin complex	CC
+Gene_011972	kinesin-like protein kif13b	-1	0	0	1	0	0	0	1	1	11.469386	31.413923	24.53839	18.289111	5.696487	9.800426	GO:0045298	tubulin complex	CC

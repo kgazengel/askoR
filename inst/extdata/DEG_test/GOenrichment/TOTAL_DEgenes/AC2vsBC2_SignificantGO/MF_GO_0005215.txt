@@ -1,0 +1,147 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000258	hypothetical protein pbra 003670	-1	-1	0	0	0	0	0	1	0	3.697553	6.939173	7.244106	4.956285	2.614011	3.769874	GO:0005215	transporter activity	MF
+Gene_000309	voltage-gated ion channel	0	-1	0	0	0	0	0	1	0	2.231442	4.195827	5.09234	2.355265	1.251739	2.610394	GO:0005215	transporter activity	MF
+Gene_000319	v-type f subunit	0	0	0	0	0	0	0	-1	0	58.04231	50.20827	50.97717	55.82291	64.10793	52.91146	GO:0005215	transporter activity	MF
+Gene_000353	v-type proton atpase subunit e1-like	0	0	0	0	0	0	0	-1	0	20.91813	18.00135	19.5243	20.21198	23.63023	16.43881	GO:0005215	transporter activity	MF
+Gene_000371	hypothetical protein pbra 001460	0	0	0	0	0	0	0	-1	0	340.8493	325.7058	331.6347	388.6734	425.1511	388.1263	GO:0005215	transporter activity	MF
+Gene_000461	large conductance mechanosensitive channel	0	-1	0	0	0	0	0	1	1	1.2396972	2.3630132	3.4482743	0.9325637	0.4492087	0.5620469	GO:0005215	transporter activity	MF
+Gene_000515	voltage-gated hydrogen channel 1	-1	-1	0	1	0	0	0	1	1	1.4912057	4.8535892	5.6305988	2.5959914	0.7058573	1.5404228	GO:0005215	transporter activity	MF
+Gene_000538	hypothetical protein pbra 001613	1	1	0	0	0	0	0	-1	0	1040.0244	837.9032	819.1481	887.803	1026.491	974.3719	GO:0005215	transporter activity	MF
+Gene_000555	phosphate:h+ symporter	-1	0	0	1	0	0	-1	1	0	16.34734	71.31489	33.16584	87.97861	30.92097	33.30852	GO:0005215	transporter activity	MF
+Gene_000710	zinc transporter 2-like	0	0	0	0	0	0	0	1	1	47.09409	57.61487	59.10016	50.2113	42.59588	43.43994	GO:0005215	transporter activity	MF
+Gene_000725	voltage-gated ion channel superfamily	0	0	0	0	0	0	0	-1	-1	9.51809	6.226092	6.644315	8.452647	11.548698	12.498241	GO:0005215	transporter activity	MF
+Gene_000748	major facilitator superfamily domain-containing	-1	-1	0	1	0	0	0	1	0	0.68319337	1.90644057	1.76182447	0.76839087	0.09485569	0.74939582	GO:0005215	transporter activity	MF
+Gene_000763	phosphate permease	1	1	0	0	0	0	0	-1	-1	140.766	120.771	119.8573	137.8126	143.3055	155.7555	GO:0005215	transporter activity	MF
+Gene_000828	hypothetical protein pbra 005136	0	0	0	0	0	0	0	-1	-1	289.1682	256.8566	248.5229	374.4164	466.5635	373.9357	GO:0005215	transporter activity	MF
+Gene_000829	hypothetical protein pbra 005137	0	0	0	0	0	0	0	-1	0	36.81319	35.05196	39.36481	44.30686	46.23526	50.16889	GO:0005215	transporter activity	MF
+Gene_000896	thiamine transporter 2-like	0	0	0	0	0	0	0	-1	-1	66.38253	52.96616	51.99334	64.91238	70.34348	70.32865	GO:0005215	transporter activity	MF
+Gene_000897	hypothetical protein pbra 005191	0	0	0	0	0	0	0	-1	0	48.97939	43.80443	39.52654	53.66932	59.63517	52.39104	GO:0005215	transporter activity	MF
+Gene_001027	hypothetical protein pbra 002573	0	0	0	0	0	0	0	-1	0	17.42972	13.74418	15.58382	19.19461	18.56789	20.02758	GO:0005215	transporter activity	MF
+Gene_001242	retinaldehyde-binding 1-like	0	-1	0	0	0	0	0	1	0	52.13987	64.17944	70.38335	61.89751	47.00454	58.45489	GO:0005215	transporter activity	MF
+Gene_001344	equilibrative nucleoside transporter	1	0	0	0	0	0	0	-1	-1	120.4194	100.7955	101.6528	123.5098	141.8311	138.176	GO:0005215	transporter activity	MF
+Gene_001495	atp-binding cassette sub-family a member 5-like isoform x1	0	0	0	0	0	0	0	-1	-1	272.5163	238.3215	251.9166	289.8265	331.7347	319.4942	GO:0005215	transporter activity	MF
+Gene_001567	amino olyamineorganocation (apc) family putati	-1	-1	0	0	0	0	0	1	1	61.43128	90.86657	106.44412	75.61162	52.88684	58.41745	GO:0005215	transporter activity	MF
+Gene_001585	large conductance mechanosensitive channel	-1	-1	0	1	0	0	0	1	1	7.339424	14.992747	17.979672	9.315514	3.433851	4.404779	GO:0005215	transporter activity	MF
+Gene_001608	plastidic glucose transporter 4	-1	-1	0	0	0	0	0	1	1	73.40698	111.87849	139.01382	94.44439	58.32061	70.68882	GO:0005215	transporter activity	MF
+Gene_001662	probable purine permease 11	1	1	0	0	0	0	0	-1	-1	60.93576	45.99508	43.26531	52.9382	57.8041	63.80059	GO:0005215	transporter activity	MF
+Gene_001735	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	-1	-1	44.87312	42.91501	39.30489	55.98268	63.71599	55.2658	GO:0005215	transporter activity	MF
+Gene_001738	zinc transporter	0	0	0	0	0	0	0	1	1	71.55559	79.63365	82.33469	68.89187	65.88406	58.11144	GO:0005215	transporter activity	MF
+Gene_001816	mfs transporter	-1	-1	0	1	0	0	0	1	1	5.229512	12.516127	14.268194	9.259751	3.300762	5.268665	GO:0005215	transporter activity	MF
+Gene_002047	zinc transporter	-1	0	0	0	0	0	0	1	1	4.81761	7.743307	7.526871	3.91369	3.13218	3.522157	GO:0005215	transporter activity	MF
+Gene_002048	pyrophosphate-energized vacuolar membrane proton pump	0	0	0	0	0	0	0	-1	-1	1495.633	1288.146	1329.427	1489.88	1568.274	1814.919	GO:0005215	transporter activity	MF
+Gene_002225	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	-1	0	26.23422	26.10354	23.09481	30.06198	33.60907	30.16315	GO:0005215	transporter activity	MF
+Gene_002226	peptide transporter ptr2	-1	0	0	0	0	0	-1	1	1	22.51859	62.44724	48.16908	49.56313	27.5998	18.95968	GO:0005215	transporter activity	MF
+Gene_002255	magnesium and cobalt transporter	0	-1	0	0	0	0	0	1	1	60.33643	69.17953	77.32551	61.18105	53.45469	53.40482	GO:0005215	transporter activity	MF
+Gene_002256	magnesium and cobalt transport	0	0	0	0	0	0	0	1	0	19.43314	21.83358	23.25003	18.4533	14.86108	18.16452	GO:0005215	transporter activity	MF
+Gene_002304	multidrug resistance	-1	-1	0	0	0	0	0	1	1	91.89878	210.6905	212.48674	155.59427	100.27146	83.55129	GO:0005215	transporter activity	MF
+Gene_002305	abc transporter c family member 2	1	1	0	0	0	0	0	-1	-1	164.2066	132.9492	131.6824	152.7858	177.4672	180.2795	GO:0005215	transporter activity	MF
+Gene_002364	major facilitator superfamily mfs-1 domain containing	-1	-1	0	0	0	0	0	1	1	21.90122	37.05194	37.05741	29.15336	20.8969	19.52591	GO:0005215	transporter activity	MF
+Gene_002625	aquaporin pip2-2-like	0	0	0	0	0	0	0	1	1	3.177789	5.393944	4.260733	2.8581	1.807581	1.298952	GO:0005215	transporter activity	MF
+Gene_002628	cyclic nucleotide-binding	0	0	0	0	0	0	0	-1	0	55.8346	54.60782	51.59051	60.71383	70.89293	62.65297	GO:0005215	transporter activity	MF
+Gene_002643	sugar porter (sp) family mfs transporter	-1	-1	0	1	0	0	0	1	1	85.59132	187.15569	161.26804	122.92174	73.06386	61.62318	GO:0005215	transporter activity	MF
+Gene_003054	cral amine-terminal domain	0	0	0	1	0	0	0	1	1	19.92386	23.2158	24.46509	19.3419	12.67308	15.3397	GO:0005215	transporter activity	MF
+Gene_003323	acetyltransferase at1g77540	1	0	0	0	0	0	0	-1	-1	165.429	135.8169	133.9609	168.3845	187.9065	172.0382	GO:0005215	transporter activity	MF
+Gene_003363	zinc transporter	0	1	0	0	0	0	0	-1	-1	93.14944	76.5389	71.74211	92.52691	98.35479	109.30974	GO:0005215	transporter activity	MF
+Gene_003763	thioesterase family	-1	-1	0	0	0	0	0	1	1	0.8576796	2.9554798	2.7242312	1.6703263	0.8860396	0.6161691	GO:0005215	transporter activity	MF
+Gene_003837	mfs general substrate transporter	-1	-1	0	1	0	0	0	1	1	1.1666191	3.8135812	3.1740473	1.611073	0.402498	0.8035181	GO:0005215	transporter activity	MF
+Gene_003860	camkk kinase	0	-1	0	0	0	0	0	1	1	57.14417	72.0007	86.90549	54.99593	42.65141	47.71983	GO:0005215	transporter activity	MF
+Gene_004064	ion transporter	0	0	0	0	0	0	0	1	0	4.837142	7.895603	7.358992	4.172688	3.205217	4.966826	GO:0005215	transporter activity	MF
+Gene_004312	hypothetical protein pbra 004727	0	0	0	0	0	0	0	-1	-1	116.95706	96.14684	97.15004	130.00389	154.1931	140.00571	GO:0005215	transporter activity	MF
+Gene_004317	hypothetical protein bvrb 036760; partial	0	0	0	0	0	0	0	1	1	0.25681245	0.53104448	0.72567329	0.12617634	0.0193523	0.06036781	GO:0005215	transporter activity	MF
+Gene_004354	probable magnesium transporter nipa8 isoform x2	0	0	0	0	0	0	0	-1	0	106.24843	93.13951	89.57515	112.35546	135.82773	111.05202	GO:0005215	transporter activity	MF
+Gene_004415	cyclic nucleotide-binding	0	0	0	1	0	0	0	1	0	1.673903	2.457514	2.299255	2.372096	1.125625	2.121206	GO:0005215	transporter activity	MF
+Gene_004478	laminin b type iv	-1	-1	0	1	0	0	0	1	1	5.236427	15.088862	16.800922	8.630355	2.418063	5.06258	GO:0005215	transporter activity	MF
+Gene_004638	two pore calcium channel 2-like	-1	0	0	0	0	0	0	1	0	1.994809	4.487594	3.077895	4.626409	2.035477	1.527932	GO:0005215	transporter activity	MF
+Gene_004682	heavy metal p-type atpase	-1	-1	0	0	0	0	0	1	1	17.01843	36.47515	31.45308	24.50637	17.05046	18.85146	GO:0005215	transporter activity	MF
+Gene_004774	cation efflux pump	0	-1	0	0	0	0	0	1	1	28.32404	36.51389	40.2392	31.58262	27.62369	27.31337	GO:0005215	transporter activity	MF
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0005215	transporter activity	MF
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0005215	transporter activity	MF
+Gene_004846	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	0	0	0	0	0	0	0	1	1	0.2266749	0.50379508	0.66649047	0.23899905	0.09485569	0	GO:0005215	transporter activity	MF
+Gene_004849	mitochondrial tricarboxylate carrier (mtc) family	-1	-1	0	0	0	0	0	1	1	58.7741	69.65235	72.74775	56.66779	52.94329	49.24151	GO:0005215	transporter activity	MF
+Gene_004873	transport sec61 subunit gamma	0	0	0	0	0	0	0	-1	0	130.1191	112.5761	121.1861	136.7605	152.8391	132.6596	GO:0005215	transporter activity	MF
+Gene_004907	hypothetical protein pbra 000373	-1	-1	0	0	0	0	0	1	0	0.5473189	1.7498597	1.7198546	0.7768666	0.1934344	1.7589995	GO:0005215	transporter activity	MF
+Gene_005089	atp-binding subfamily b (mdr tap) member 10	0	0	0	0	0	0	0	-1	0	264.528	254.1587	273.1448	300.5656	304.9013	263.8828	GO:0005215	transporter activity	MF
+Gene_005133	sodium hydrogen exchanger 8-like isoform x1	-1	0	0	0	0	0	0	1	0	0.26179183	0.66069785	0.44412397	0.27403557	0.08113218	0.24771676	GO:0005215	transporter activity	MF
+Gene_005154	achain gfp-binding darpin fusion gc r11	-1	-1	0	1	0	0	0	1	1	0.4547094	1.5949021	1.7296356	0.7672834	0.1878056	0.689028	GO:0005215	transporter activity	MF
+Gene_005171	sodium hydrogen exchanger variant 3	1	0	0	0	0	0	0	-1	-1	196.8744	164.2694	179.4473	195.7804	217.1351	228.8632	GO:0005215	transporter activity	MF
+Gene_005282	family nucleoside transporter	-1	-1	0	0	0	0	0	1	1	4.350294	10.478324	10.634109	6.625892	4.771996	2.518799	GO:0005215	transporter activity	MF
+Gene_005314	phosphatidylinositol phosphatidylcholine transfer sfh8	1	1	0	0	0	0	0	-1	-1	118.9745	93.19618	94.98485	108.49214	120.80339	118.4773	GO:0005215	transporter activity	MF
+Gene_005374	mitochondrial substrate carrier family	1	1	0	0	0	0	0	-1	-1	105.50609	82.04959	81.19623	99.2233	115.2309	108.53533	GO:0005215	transporter activity	MF
+Gene_005403	atp-binding cassette sub-family a member 3	-1	-1	0	1	0	0	0	1	1	0.33306084	0.86005435	0.97666386	0.74151117	0.08113218	0.06036781	GO:0005215	transporter activity	MF
+Gene_005440	atpase aaa	1	1	0	0	0	0	0	-1	-1	1042.1159	752.8354	764.5194	862.6685	924.8243	1163.1821	GO:0005215	transporter activity	MF
+Gene_005763	amino acid permease	0	0	0	0	0	0	1	1	1	1.082221	1.3138537	1.7585642	0.3912665	0.3981263	0.5016791	GO:0005215	transporter activity	MF
+Gene_005790	probable magnesium transporter nipa8	-1	-1	0	1	0	0	0	1	1	22.46678	36.74247	45.52224	25.48248	14.7389	18.63912	GO:0005215	transporter activity	MF
+Gene_005816	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0005215	transporter activity	MF
+Gene_006086	shaker-related potassium channel tsha2-like	0	0	0	0	0	0	0	1	0	4.410947	5.413258	5.610209	3.42108	2.951212	2.826883	GO:0005215	transporter activity	MF
+Gene_006173	briggsae cbr-folt-1	0	0	0	0	0	0	0	-1	0	62.95829	51.7592	50.55214	54.69038	66.02762	63.08865	GO:0005215	transporter activity	MF
+Gene_006355	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	1	0	7.974238	8.8723	8.680754	6.070409	5.087447	5.129193	GO:0005215	transporter activity	MF
+Gene_006356	abc transporter a family	0	0	0	0	0	0	0	1	1	19.88378	26.41559	26.83765	17.94553	14.02747	16.56788	GO:0005215	transporter activity	MF
+Gene_006448	hypothetical protein pbra 005057	-1	-1	0	1	0	0	0	1	1	3.765202	13.100949	10.355405	6.850463	2.03422	4.052976	GO:0005215	transporter activity	MF
+Gene_006487	gdp-fucose transporter 1-like	-1	-1	0	1	0	0	0	1	1	13.187656	36.94219	45.684867	23.840331	7.337874	11.091044	GO:0005215	transporter activity	MF
+Gene_006530	mitochondrial carrier	0	0	0	0	0	0	0	1	1	117.33778	117.53885	128.76388	98.79891	88.23469	84.40689	GO:0005215	transporter activity	MF
+Gene_006785	multidrug resistance-associated 4 isoform x1	0	0	0	0	0	0	-1	-1	0	143.1045	159.4277	155.4822	210.4459	199.9663	177.8002	GO:0005215	transporter activity	MF
+Gene_006787	cyclic nucleotide-binding	-1	-1	0	0	0	0	0	1	1	51.03941	69.98336	82.50547	65.07916	51.56587	49.458	GO:0005215	transporter activity	MF
+Gene_006897	multidrug resistance 1	-1	-1	0	0	0	0	0	1	1	10.511857	35.323359	27.56086	19.501702	9.301079	10.66847	GO:0005215	transporter activity	MF
+Gene_007098	cop9 signalosome complex subunit 8-like	0	0	0	0	0	0	1	1	1	44.92749	43.32936	46.73561	33.28809	34.56386	33.68323	GO:0005215	transporter activity	MF
+Gene_007150	mitochondrial import inner membrane translocase subunit tim16	0	0	0	0	0	0	0	-1	0	71.91263	61.89491	58.84386	74.41334	89.47392	70.01432	GO:0005215	transporter activity	MF
+Gene_007156	zinc iron permease	0	0	0	0	0	0	0	1	0	0.5182798	0.987939	0.5036113	0.2624056	0.3749624	0.2477168	GO:0005215	transporter activity	MF
+Gene_007341	unc93 3	0	0	0	0	0	0	0	1	1	38.9279	42.14674	48.90324	39.63803	32.59705	32.30518	GO:0005215	transporter activity	MF
+Gene_007538	magnesium transporter nipa2	-1	0	0	1	0	0	0	1	0	1.2035451	3.3829141	2.278477	1.6252151	0.3388124	0.9304992	GO:0005215	transporter activity	MF
+Gene_007542	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0005215	transporter activity	MF
+Gene_007579	mfs transporter	-1	-1	0	1	0	0	0	1	1	3.811701	10.971808	10.847218	6.772552	1.516482	4.21743	GO:0005215	transporter activity	MF
+Gene_007621	ammonium transporter	-1	-1	0	1	0	0	0	1	1	9.585625	31.190839	28.563246	19.647184	8.559475	8.801226	GO:0005215	transporter activity	MF
+Gene_007656	two pore calcium channel 1-like isoform x3	0	0	0	0	0	0	0	-1	0	0.1464823	0.1040524	0.222062	0.6126502	0.6838618	0.6827825	GO:0005215	transporter activity	MF
+Gene_007822	magnesium transporter nipa2	0	0	0	0	0	0	0	1	0	38.94821	43.97909	45.15147	40.76046	30.78709	40.08848	GO:0005215	transporter activity	MF
+Gene_007918	phosphoenolpyruvate phosphate translocator chloroplastic	0	0	0	0	0	0	0	-1	-1	112.63684	100.83379	97.47884	119.03835	132.04215	139.40833	GO:0005215	transporter activity	MF
+Gene_008008	crp fnr family transcriptional regulator	0	0	0	0	0	0	0	1	1	0.7317639	1.1309077	0.878467	0.6137577	0.2071579	0.187349	GO:0005215	transporter activity	MF
+Gene_008064	p-loop containing nucleoside triphosphate hydrolase	-1	-1	0	1	0	0	-1	1	1	13.95789	25.21071	23.651	23.37564	12.51771	13.0249	GO:0005215	transporter activity	MF
+Gene_008118	hypothetical protein pbra 001894	0	0	0	0	0	0	0	1	1	1.0084307	2.0625793	1.9292896	0.5619162	0.2496741	0.301839	GO:0005215	transporter activity	MF
+Gene_008151	slowmo family	0	0	0	0	0	0	0	-1	0	95.51329	87.94743	87.80274	89.66905	105.76535	94.11362	GO:0005215	transporter activity	MF
+Gene_008410	h(+) cl(-) exchange transporter 7-like	-1	-1	0	0	0	0	0	1	1	7.703082	16.730979	16.294024	8.900814	5.125584	6.440636	GO:0005215	transporter activity	MF
+Gene_008415	cyclic nucleotide-gated cation channel beta-1-like isoform x2	-1	0	0	0	0	0	0	1	0	1.156011	2.436279	1.731266	1.95557	1.189399	1.419687	GO:0005215	transporter activity	MF
+Gene_008433	adenylate guanylate cyclase domain	0	0	0	0	0	0	0	-1	0	33.39877	31.06039	29.71547	36.27253	40.69257	35.46929	GO:0005215	transporter activity	MF
+Gene_008587	mitochondrial import inner membrane subunit tim17 22	0	0	0	0	0	0	0	-1	0	40.12781	33.72285	32.89971	41.01787	45.89673	42.59063	GO:0005215	transporter activity	MF
+Gene_009223	na+ h+ antiporter	0	0	0	0	0	0	0	-1	-1	166.5533	144.3987	147.2096	179.8164	198.2748	220.062	GO:0005215	transporter activity	MF
+Gene_009295	mfs-type transporter slc18b1-like	-1	-1	0	0	0	0	0	1	0	2.276779	4.405966	4.657997	3.015077	1.828839	2.53129	GO:0005215	transporter activity	MF
+Gene_009307	mfs-type transporter slc18b1-like	-1	0	0	1	0	0	0	1	0	0.4683869	1.4285684	1.2260243	0.9154398	0.2127867	0.7972726	GO:0005215	transporter activity	MF
+Gene_009517	ankyrin repeat	0	0	0	0	0	0	0	-1	0	6.408665	6.400225	6.934015	7.37409	10.333415	7.866569	GO:0005215	transporter activity	MF
+Gene_009547	calcium-transporting atpase sarcoplasmic endoplasmic reticulum type-like isoform x7	0	0	0	0	0	0	0	-1	0	817.0687	751.8162	807.5953	853.0471	882.3383	942.9536	GO:0005215	transporter activity	MF
+Gene_009625	magnesium-translocating p-type atpase	0	-1	0	0	0	0	0	1	1	78.29854	96.49205	109.86101	92.47156	74.66214	74.00693	GO:0005215	transporter activity	MF
+Gene_009626	magnesium-transporting p-type 1	0	0	0	0	0	0	0	1	0	21.76324	27.60382	30.00623	25.90936	20.53032	21.62422	GO:0005215	transporter activity	MF
+Gene_009627	hypothetical protein pbra 006078	0	0	0	0	0	0	0	1	0	4.699445	6.16791	5.963872	5.66372	3.304102	3.58877	GO:0005215	transporter activity	MF
+Gene_009656	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:0005215	transporter activity	MF
+Gene_009778	abc transporter g family member 24 q9mag3	0	0	0	1	0	0	0	1	0	0.6597826	1.3262847	1.1938354	1.5593997	0.4774413	0.5620469	GO:0005215	transporter activity	MF
+Gene_009793	atp synthase subunit	0	0	0	0	0	0	0	1	1	214.9337	229.2808	253.7172	206.3651	194.9057	196.8599	GO:0005215	transporter activity	MF
+Gene_009996	amino acid transporter	-1	-1	0	1	0	0	0	1	1	2.631891	7.162811	8.160066	4.083396	1.422098	1.473809	GO:0005215	transporter activity	MF
+Gene_010321	maltose maltodextrin abc substrate binding periplasmic	-1	-1	0	1	0	0	0	1	0	4.510514	10.621433	9.672421	8.613125	2.469056	5.383155	GO:0005215	transporter activity	MF
+Gene_010396	hypothetical protein pbra 006615	-1	-1	0	0	0	0	0	1	1	0.7849877	2.2764574	2.6178835	0.7284765	0.3600705	0.1811034	GO:0005215	transporter activity	MF
+Gene_010457	metal ion (mn2+ fe2+) transporter (nramp) family metal ion transporter	-1	-1	0	1	0	0	0	1	0	30.03578	43.46862	41.21746	37.1122	28.06549	33.65201	GO:0005215	transporter activity	MF
+Gene_010506	hypothetical protein pbra 006698	0	0	0	0	0	0	0	1	0	1.5192097	1.975461	1.8208976	0.6953361	0.5297808	1.1365848	GO:0005215	transporter activity	MF
+Gene_010682	solute carrier family 12 member 1-like	0	0	0	0	0	0	0	1	0	2.470922	4.421196	3.749773	2.210607	1.359847	1.727772	GO:0005215	transporter activity	MF
+Gene_010683	na-k-2cl cotransporter 1	0	0	0	0	0	0	0	1	0	21.95263	29.68121	30.7769	23.79998	18.8114	18.92431	GO:0005215	transporter activity	MF
+Gene_010759	hypothetical protein pbra 008731	0	0	0	0	0	0	0	-1	-1	399.7669	343.6534	379.1343	471.8145	549.6883	577.7441	GO:0005215	transporter activity	MF
+Gene_010810	7 transmembrane sweet-taste receptor of 3 gcpr-domain-containing	-1	-1	0	1	0	0	-1	1	1	12.54514	37.74985	31.78705	37.91196	13.31143	11.78632	GO:0005215	transporter activity	MF
+Gene_011038	cyclic nucleotide-binding	0	-1	0	0	0	0	0	1	1	15.50548	18.78727	21.11498	17.04667	14.78743	14.46957	GO:0005215	transporter activity	MF
+Gene_011096	amino acid transporter	-1	0	0	0	0	0	0	1	1	31.63718	44.79609	43.31549	34.77653	31.58394	27.33835	GO:0005215	transporter activity	MF
+Gene_011133	multidrug resistance 1 isoform x2	0	0	0	0	0	0	0	1	1	99.28108	111.68815	111.82205	86.97033	77.99205	77.3001	GO:0005215	transporter activity	MF
+Gene_011182	mitochondrial carrier	-1	-1	0	0	0	0	0	1	1	4.479307	8.241102	9.844058	5.504528	4.043849	4.144572	GO:0005215	transporter activity	MF
+Gene_011439	extracellular solute-binding family 1	-1	-1	0	1	0	0	-1	1	1	0.8374376	3.4244195	2.6614835	3.3911945	0.8317944	0.7306592	GO:0005215	transporter activity	MF
+Gene_011442	extracellular solute-binding family 1	0	1	0	0	0	0	0	-1	-1	44.55725	39.36097	32.92255	44.8003	55.58725	43.91143	GO:0005215	transporter activity	MF
+Gene_011509	hypothetical protein pbra 004415	-1	0	0	0	0	0	0	1	0	0.2379933	1.1764818	0.7721194	0.5377211	0.1510068	0.3746979	GO:0005215	transporter activity	MF
+Gene_011510	g-coupled receptor family	0	0	0	1	0	0	0	1	0	1.8326775	4.1720764	5.1913386	2.4261522	0.5516876	2.2898187	GO:0005215	transporter activity	MF
+Gene_011620	solute carrier family 25 member 44-like	1	1	0	0	0	0	0	-1	0	65.18703	50.79639	49.45937	60.35332	65.25538	61.8938	GO:0005215	transporter activity	MF
+Gene_011784	pre-mrna cleavage complex ii protein clp1	-1	-1	0	1	0	0	0	1	1	2.155194	4.626919	4.753348	2.408559	1.042026	1.292706	GO:0005215	transporter activity	MF
+Gene_011799	amino acid permease	-1	-1	0	0	0	0	-1	1	0	70.70581	96.00991	92.75732	93.09618	78.52625	86.15131	GO:0005215	transporter activity	MF
+Gene_011817	no-inducible flavohemoprotein	-1	0	0	0	0	0	0	1	1	0.61121374	1.44839603	1.07323056	0.25942376	0.10420747	0.06036781	GO:0005215	transporter activity	MF
+Gene_012217	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:0005215	transporter activity	MF
+Gene_012218	nadh dehydrogenase subunit 1 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.7870686	3.7087258	3.1233321	1.0324982	0.3188113	2.7623576	GO:0005215	transporter activity	MF
+Gene_012219	nadh dehydrogenase subunit 4l (mitochondrion)	0	0	0	0	0	0	0	1	0	0.50165744	1.08933837	0.79168124	0.22108652	0.07359759	0.94923586	GO:0005215	transporter activity	MF
+Gene_012220	group ii intron reverse transcriptase/maturase (mitochondrion)	0	0	0	0	0	0	0	1	0	0.8159624	2.3234955	1.6122911	1.1112195	0.3057365	2.6666041	GO:0005215	transporter activity	MF
+Gene_012221	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0005215	transporter activity	MF
+Gene_012222	cytochrome c oxidase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	1	0	4.584116	9.1937	6.160266	3.111469	1.038686	2.593745	GO:0005215	transporter activity	MF
+Gene_012223	nadh dehydrogenase subunit 9 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.8976609	4.0625085	2.8737646	1.0656387	0.4703782	0.9492359	GO:0005215	transporter activity	MF
+Gene_012224	cytochrome c oxidase subunit 3 (mitochondrion)	0	0	0	0	0	0	0	1	0	3.152285	6.195363	4.728895	2.122332	1.105398	2.5875	GO:0005215	transporter activity	MF
+Gene_012225	atp synthase subunit alpha; mitochondrial	0	0	0	0	0	0	0	1	0	5.521466	8.288417	10.499661	3.271596	1.455291	2.708235	GO:0005215	transporter activity	MF
+Gene_012392	abc transporter family protein	0	0	0	0	0	0	0	-1	-1	339.0438	293.8593	305.8444	374.9839	426.8931	449.0293	GO:0005215	transporter activity	MF
+Gene_012421	sugar abc transporter substrate-binding protein	0	0	0	0	0	0	0	-1	-1	1.669248	1.612342	1.468864	2.958034	3.306911	3.9031	GO:0005215	transporter activity	MF
+Gene_012544	p-loop containing nucleoside triphosphate hydrolase protein	0	0	0	0	0	0	0	-1	-1	133.4081	108.2978	108.5269	154.8992	196.3686	173.3309	GO:0005215	transporter activity	MF

@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000157	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_000724	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_003120	60s ribosomal l37-2	0	0	0	0	0	0	1	0	0	410.5611	325.1794	315.9433	294.7168	347.7761	329.3655	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_005078	ubiquitin-60s ribosomal l40	1	0	0	0	0	0	1	0	0	912.8001	701.8858	709.9254	641.273	734.0211	735.9145	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_005240	60s ribosomal l32-1	1	0	0	0	0	0	1	0	0	1140.6876	894.067	903.7116	795.5149	939.9341	881.0202	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_008798	60s ribosomal l7a-like	1	1	0	0	0	0	1	0	0	1380.8519	1059.6961	1044.4931	975.6129	1124.2737	1156.5041	GO:0022625	cytosolic large ribosomal subunit	CC

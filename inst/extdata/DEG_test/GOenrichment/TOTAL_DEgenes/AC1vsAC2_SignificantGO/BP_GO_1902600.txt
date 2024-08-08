@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000515	voltage-gated hydrogen channel 1	-1	-1	0	1	0	0	0	1	1	1.4912057	4.8535892	5.6305988	2.5959914	0.7058573	1.5404228	GO:1902600	proton transmembrane transport	BP
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:1902600	proton transmembrane transport	BP
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:1902600	proton transmembrane transport	BP
+Gene_005133	sodium hydrogen exchanger 8-like isoform x1	-1	0	0	0	0	0	0	1	0	0.26179183	0.66069785	0.44412397	0.27403557	0.08113218	0.24771676	GO:1902600	proton transmembrane transport	BP
+Gene_005171	sodium hydrogen exchanger variant 3	1	0	0	0	0	0	0	-1	-1	196.8744	164.2694	179.4473	195.7804	217.1351	228.8632	GO:1902600	proton transmembrane transport	BP
+Gene_006335	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:1902600	proton transmembrane transport	BP
+Gene_006336	s53301h+-exporting atpase (ec ) (clone haa1)-golden alga (heterosigma akashiwo) (fragment)	-1	0	0	0	0	0	-1	0	0	2.993991	13.680055	5.956964	19.667209	12.088225	5.424787	GO:1902600	proton transmembrane transport	BP
+Gene_007328	cmp-sialic acid transporter 1	-1	0	0	0	0	0	-1	0	0	7.55188	26.7771	16.50022	33.80463	12.14286	11.76549	GO:1902600	proton transmembrane transport	BP
+Gene_009088	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:1902600	proton transmembrane transport	BP
+Gene_009656	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:1902600	proton transmembrane transport	BP

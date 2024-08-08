@@ -1,0 +1,431 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0097159	organic cyclic compound binding	MF
+Gene_000017	muts homolog 4	-1	-1	0	1	0	0	-1	1	1	156.5167	290.4311	347.9632	254.4962	139.8845	158.3939	GO:0097159	organic cyclic compound binding	MF
+Gene_000076	serine threonine kinase	1	1	0	0	0	0	0	-1	-1	128.98429	100.79848	98.53502	120.74153	132.10107	128.83352	GO:0097159	organic cyclic compound binding	MF
+Gene_000080	zinc finger 236-like	-1	-1	0	0	0	0	0	1	1	3.86325	12.168065	9.792721	7.241223	3.40723	3.214072	GO:0097159	organic cyclic compound binding	MF
+Gene_000135	phospholipid transporter	-1	-1	0	1	0	0	0	1	1	29.22189	51.79994	57.32736	41.47086	22.15862	23.31036	GO:0097159	organic cyclic compound binding	MF
+Gene_000136	phospholipid-transporting atpase ib-like isoform x2 [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	16.24209	28.26335	33.46063	21.65433	12.51139	14.35092	GO:0097159	organic cyclic compound binding	MF
+Gene_000172	chromosome-associated kinesin kif4a	-1	-1	0	1	0	0	0	1	1	11.182369	32.144806	32.95522	20.808945	7.068288	11.41162	GO:0097159	organic cyclic compound binding	MF
+Gene_000250	myosin xi-2	-1	-1	0	0	0	0	0	0	0	6.84785	10.783314	11.856458	10.038452	8.199706	7.521011	GO:0097159	organic cyclic compound binding	MF
+Gene_000257	atp-binding cassette (abc) superfamily	-1	-1	0	0	0	0	0	0	1	48.84399	73.09943	74.60824	61.11385	57.08318	50.12203	GO:0097159	organic cyclic compound binding	MF
+Gene_000258	hypothetical protein pbra 003670	-1	-1	0	0	0	0	0	1	0	3.697553	6.939173	7.244106	4.956285	2.614011	3.769874	GO:0097159	organic cyclic compound binding	MF
+Gene_000267	cmgc mapk kinase	0	-1	0	0	0	0	0	0	1	35.68453	45.49657	50.85537	43.19143	37.02378	34.9801	GO:0097159	organic cyclic compound binding	MF
+Gene_000279	camp-dependent kinase catalytic	-1	-1	0	1	0	0	0	1	1	18.57812	43.73731	52.72158	33.62898	12.48653	17.70238	GO:0097159	organic cyclic compound binding	MF
+Gene_000324	glycylpeptide n-tetradecanoyltransferase	1	1	0	0	0	0	0	-1	-1	211.9863	177.3582	172.6689	214.7104	227.9951	226.7649	GO:0097159	organic cyclic compound binding	MF
+Gene_000334	isobutyryl-mitochondrial	0	-1	0	1	0	0	0	1	1	159.493	182.5625	210.5711	168.3657	130.3956	149.6064	GO:0097159	organic cyclic compound binding	MF
+Gene_000386	dna mismatch repair	-1	-1	0	0	0	0	0	1	0	2.080952	6.558197	6.998006	4.719182	1.964257	3.0746	GO:0097159	organic cyclic compound binding	MF
+Gene_000421	fad-binding oxidoreductase	-1	-1	0	1	0	0	-1	1	0	4.265051	10.934488	9.960186	9.877511	3.673436	5.06258	GO:0097159	organic cyclic compound binding	MF
+Gene_000451	myb-like dna-binding domain	0	1	0	0	0	0	0	-1	0	235.6698	205.034	195.764	216.7565	251.2838	225.0288	GO:0097159	organic cyclic compound binding	MF
+Gene_000452	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0097159	organic cyclic compound binding	MF
+Gene_000453	proly 4-hydroxylase	-1	-1	0	0	0	0	0	1	1	16.20158	45.22108	41.72444	30.19788	17.29311	12.63978	GO:0097159	organic cyclic compound binding	MF
+Gene_000456	elongation factor alpha	1	1	0	0	0	0	0	0	0	10181.05	8285.877	7956.99	8629.072	9568.859	9852.146	GO:0097159	organic cyclic compound binding	MF
+Gene_000457	probable prolyl 4-hydroxylase 11 isoform x1	0	1	0	0	0	0	0	0	0	0.8722933	0.3942913	0.3137382	0.3801061	0.4312021	0.4350657	GO:0097159	organic cyclic compound binding	MF
+Gene_000492	hypothetical protein pbra 001573	-1	-1	0	0	0	0	0	1	1	3.385382	8.931083	8.613143	5.298941	2.419968	1.908875	GO:0097159	organic cyclic compound binding	MF
+Gene_000498	dynein heavy chain axonemal-like isoform x4	-1	-1	0	0	0	0	-1	1	1	145.1224	220.7308	225.7166	186.2228	156.5274	147.1354	GO:0097159	organic cyclic compound binding	MF
+Gene_000500	serine arginine-rich splicing factor 2-like	1	1	0	0	0	0	0	-1	-1	209.7441	169.3129	163.7056	184.542	200.1094	211.1526	GO:0097159	organic cyclic compound binding	MF
+Gene_000507	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0097159	organic cyclic compound binding	MF
+Gene_000511	serine threonine-kinase ht1	-1	-1	0	1	0	0	0	1	1	19.74145	58.94238	56.78064	40.99977	11.73175	17.81687	GO:0097159	organic cyclic compound binding	MF
+Gene_000621	at-rich interactive domain-containing 3c	-1	-1	0	1	0	0	-1	1	1	24.61881	56.31865	54.70179	53.27559	21.26901	27.66517	GO:0097159	organic cyclic compound binding	MF
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0097159	organic cyclic compound binding	MF
+Gene_000643	fad-dependent oxidoreductase	-1	-1	0	1	0	0	0	1	1	13.600014	38.525443	36.587595	18.493	5.530028	11.430357	GO:0097159	organic cyclic compound binding	MF
+Gene_000649	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0097159	organic cyclic compound binding	MF
+Gene_000661	gpn-loop gtpase 2	0	1	0	0	0	0	0	0	0	143.4144	126.2097	115.4374	123.1497	140.8049	123.1631	GO:0097159	organic cyclic compound binding	MF
+Gene_000671	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0097159	organic cyclic compound binding	MF
+Gene_000678	arachidonate 5-lipoxygenase	0	-1	0	0	0	0	0	1	0	24.18141	32.79474	34.98221	25.64165	22.99219	27.83587	GO:0097159	organic cyclic compound binding	MF
+Gene_000696	dead box atp-dependent rna	-1	-1	0	1	0	0	0	1	1	258.8511	544.2399	672.1915	426.0996	165.6881	223.3594	GO:0097159	organic cyclic compound binding	MF
+Gene_000699	reveille 6-like isoform x2	-1	-1	0	1	0	0	0	1	1	9.966605	28.543861	23.180404	20.91684	6.198998	8.844945	GO:0097159	organic cyclic compound binding	MF
+Gene_000726	coiled-coil domain-containing 79	1	1	0	0	0	0	0	-1	-1	215.3331	184.4763	175.1677	204.422	233.4298	215.7238	GO:0097159	organic cyclic compound binding	MF
+Gene_000737	hypothetical protein pbra 001791	1	1	0	0	0	0	0	-1	0	233.2986	179.0113	169.1925	196.4066	214.4254	201.3999	GO:0097159	organic cyclic compound binding	MF
+Gene_000752	hypothetical protein pbra 001803	1	1	0	0	0	0	0	-1	-1	71.89579	57.97996	51.83157	74.93767	88.40037	94.82347	GO:0097159	organic cyclic compound binding	MF
+Gene_000753	gamma-glutamylcyclotransferase	-1	-1	0	1	0	0	-1	1	0	9.564021	33.640794	25.732694	42.956371	16.133663	15.735207	GO:0097159	organic cyclic compound binding	MF
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0097159	organic cyclic compound binding	MF
+Gene_000759	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0097159	organic cyclic compound binding	MF
+Gene_000771	e3 ubiquitin-ligase	-1	-1	0	0	0	0	0	1	0	64.93914	84.83753	94.64531	82.09364	66.5205	75.17578	GO:0097159	organic cyclic compound binding	MF
+Gene_000819	cytochrome p450	-1	-1	0	1	0	0	-1	1	0	3.161814	10.438394	9.147313	6.872535	2.637038	4.941844	GO:0097159	organic cyclic compound binding	MF
+Gene_000860	rrna biogenesis rrp5 isoform x1	1	1	0	0	0	0	0	-1	-1	406.5807	312.011	300.9176	363.2839	391.9832	395.8264	GO:0097159	organic cyclic compound binding	MF
+Gene_000915	endothelial monocyte-activating polypeptide ii precursor pro-emap ii family	1	1	0	0	0	0	0	-1	-1	272.0809	228.8476	224.7608	242.8251	285.3787	276.329	GO:0097159	organic cyclic compound binding	MF
+Gene_000931	dynein heavy chain axonemal isoform x1	-1	-1	0	1	0	0	0	1	1	18.54604	38.73695	34.53646	26.04246	15.53691	15.3397	GO:0097159	organic cyclic compound binding	MF
+Gene_000940	rrna 2-o-methyltransferase fibrillarin	1	1	0	0	0	0	0	0	0	463.0426	382.1217	380.9645	391.6197	415.3551	430.8481	GO:0097159	organic cyclic compound binding	MF
+Gene_000982	dead-box atp-dependent rna helicase 29	1	1	0	0	0	0	0	-1	-1	152.1166	117.0285	110.6009	142.7345	151.9854	146.0092	GO:0097159	organic cyclic compound binding	MF
+Gene_001013	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0097159	organic cyclic compound binding	MF
+Gene_001014	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0097159	organic cyclic compound binding	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0097159	organic cyclic compound binding	MF
+Gene_001030	retrovirus-related pol poly from transposon tnt 1-94	1	1	0	0	0	0	0	-1	-1	52.37674	40.08161	40.54434	53.63793	59.55547	51.9872	GO:0097159	organic cyclic compound binding	MF
+Gene_001053	trna (cytosine(34)-c(5))-methyltransferase-like	1	1	0	0	0	0	0	-1	-1	94.06377	69.904	73.29008	78.32068	86.36095	100.69165	GO:0097159	organic cyclic compound binding	MF
+Gene_001059	leucine rich repeat family	0	-1	0	0	0	0	-1	0	1	161.2324	181.0712	203.9237	194.7425	164.7653	163.085	GO:0097159	organic cyclic compound binding	MF
+Gene_001092	splicing factor u2af-associated 2	0	1	0	0	0	0	0	-1	0	150.9401	127.75	121.2134	140.949	160.9631	143.7194	GO:0097159	organic cyclic compound binding	MF
+Gene_001112	nuclear transcription factor y	-1	-1	0	0	0	0	-1	1	1	14.89848	34.47941	31.51893	25.94624	15.6407	10.79961	GO:0097159	organic cyclic compound binding	MF
+Gene_001114	cytochrome p450 3a24-like	-1	-1	0	0	0	0	0	1	1	120.846	156.47769	170.50645	124.72394	99.35404	92.65647	GO:0097159	organic cyclic compound binding	MF
+Gene_001115	gtp cyclohydrolase urc1	0	-1	0	0	0	0	0	1	1	234.02	288.3871	360.0128	268.0698	222.9025	213.8587	GO:0097159	organic cyclic compound binding	MF
+Gene_001125	hypothetical protein pbra 002666	-1	-1	0	1	0	0	0	1	1	9.461245	17.886693	18.806802	14.12274	8.28517	8.886576	GO:0097159	organic cyclic compound binding	MF
+Gene_001126	serine threonine kinase	-1	-1	0	1	0	0	-1	1	1	14.3454	33.4469	33.95059	25.22197	13.11995	13.75556	GO:0097159	organic cyclic compound binding	MF
+Gene_001196	homeobox-leucine zipper anthocyaninless 2-like isoform x2	1	1	0	0	0	0	1	0	0	221.5587	163.0176	168.3385	173.1341	193.7839	210.4135	GO:0097159	organic cyclic compound binding	MF
+Gene_001245	jerky homolog-like	0	1	0	0	0	0	0	0	0	50.84165	41.75469	40.22017	44.28306	48.14628	50.79486	GO:0097159	organic cyclic compound binding	MF
+Gene_001266	pin2 terf1-interacting telomerase inhibitor 1	1	1	0	0	0	0	0	-1	0	262.1996	214.662	203.5306	245.4399	268.44	247.1484	GO:0097159	organic cyclic compound binding	MF
+Gene_001294	serine-trna ligase	1	1	0	0	0	0	0	-1	-1	533.8233	409.2717	405.6851	454.6443	528.438	538.7901	GO:0097159	organic cyclic compound binding	MF
+Gene_001307	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:0097159	organic cyclic compound binding	MF
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0097159	organic cyclic compound binding	MF
+Gene_001368	transcription factor dpb isoform x1	-1	-1	0	1	0	0	0	1	1	4.961049	15.737354	16.934982	9.931989	3.426316	3.721997	GO:0097159	organic cyclic compound binding	MF
+Gene_001432	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0097159	organic cyclic compound binding	MF
+Gene_001487	calcium calmodulin-dependent kinase type 1d-like	-1	-1	0	0	0	0	-1	0	0	3.875406	9.057199	10.121131	8.213063	5.106408	4.694127	GO:0097159	organic cyclic compound binding	MF
+Gene_001575	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0097159	organic cyclic compound binding	MF
+Gene_001578	hsp70	0	1	0	-1	0	0	0	-1	-1	2565.978	2201.392	1874.301	2524.906	3187.673	2840.821	GO:0097159	organic cyclic compound binding	MF
+Gene_001581	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	-1	-1	220.1977	178.7816	169.9087	208.2993	232.2573	252.7273	GO:0097159	organic cyclic compound binding	MF
+Gene_001582	cytoplasmic trna 2-thiolation 1	1	1	0	0	0	0	0	0	0	145.3401	110.5019	105.8541	120.4044	120.4524	120.255	GO:0097159	organic cyclic compound binding	MF
+Gene_001728	ribosome biogenesis bms1 homolog	1	1	0	0	0	0	0	0	0	370.5235	290.1477	277.7039	320.552	334.7161	336.4555	GO:0097159	organic cyclic compound binding	MF
+Gene_001772	n2;n2-dimethylguanosine trna methyltransferase	1	1	0	0	0	0	0	-1	-1	106.45326	87.66109	83.82837	104.02211	114.25444	125.40089	GO:0097159	organic cyclic compound binding	MF
+Gene_001807	deah box polypeptide 37	1	1	0	0	0	0	0	0	-1	75.91911	59.56618	51.86456	63.86008	69.17693	72.60389	GO:0097159	organic cyclic compound binding	MF
+Gene_001839	calcium calmodulin dependent kinase	1	1	0	0	0	0	0	-1	-1	191.4005	139.681	138.3468	158.5899	192.3665	193.8123	GO:0097159	organic cyclic compound binding	MF
+Gene_001879	dead-box atp-dependent rna helicase 39	1	1	0	0	0	0	0	-1	-1	226.5321	183.5995	178.1792	210.0146	234.254	250.0232	GO:0097159	organic cyclic compound binding	MF
+Gene_001882	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0097159	organic cyclic compound binding	MF
+Gene_001887	adenylate kinase	1	1	0	0	0	0	0	-1	-1	213.8695	158.8456	165.8168	200.687	230.8222	228.6654	GO:0097159	organic cyclic compound binding	MF
+Gene_001910	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0097159	organic cyclic compound binding	MF
+Gene_001927	dead (asp-glu-ala-asp) box polypeptide 10	1	1	0	0	0	0	1	0	-1	195.6827	163.026	151.7405	159.633	173.0137	183.479	GO:0097159	organic cyclic compound binding	MF
+Gene_001965	nhp2 1	1	1	0	0	0	0	0	-1	-1	258.8191	200.7431	194.2492	229.9705	268.3717	248.3267	GO:0097159	organic cyclic compound binding	MF
+Gene_001989	2oxoglutarate and iron-dependent oxygenase domain containing	1	1	0	0	0	0	0	0	-1	140.8147	103.9741	103.763	115.5767	120.9191	144.3356	GO:0097159	organic cyclic compound binding	MF
+Gene_002006	dead-box atp-dependent rna helicase 28	1	1	0	0	0	0	0	0	0	133.86545	106.41599	98.26485	119.23155	120.46202	119.32867	GO:0097159	organic cyclic compound binding	MF
+Gene_002039	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0097159	organic cyclic compound binding	MF
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0097159	organic cyclic compound binding	MF
+Gene_002083	myosin head (motor domain) domain containing	-1	-1	0	0	0	0	-1	0	0	0.09506752	0.80328064	0.8576892	1.18572675	0.43739103	0.12073561	GO:0097159	organic cyclic compound binding	MF
+Gene_002139	related to human gtp-binding mmr1	1	1	0	0	0	0	0	-1	-1	414.4649	339.6519	333.6813	378.3758	444.3302	428.9642	GO:0097159	organic cyclic compound binding	MF
+Gene_002143	pseudouridylate synthase 7 homolog	1	1	0	0	0	0	0	-1	-1	338.8299	256.7933	264.9515	336.2901	408.5337	402.2233	GO:0097159	organic cyclic compound binding	MF
+Gene_002190	phosphoglycerate mutase family	0	-1	0	0	0	0	0	1	1	551.9243	609.6477	685.7749	554.5254	455.7187	495.3981	GO:0097159	organic cyclic compound binding	MF
+Gene_002246	zinc finger 740	-1	-1	0	1	0	0	0	1	1	2.548593	5.810243	5.340485	4.91871	1.579991	2.429291	GO:0097159	organic cyclic compound binding	MF
+Gene_002304	multidrug resistance	-1	-1	0	0	0	0	0	1	1	91.89878	210.6905	212.48674	155.59427	100.27146	83.55129	GO:0097159	organic cyclic compound binding	MF
+Gene_002305	abc transporter c family member 2	1	1	0	0	0	0	0	-1	-1	164.2066	132.9492	131.6824	152.7858	177.4672	180.2795	GO:0097159	organic cyclic compound binding	MF
+Gene_002365	zinc finger and btb domain-containing	-1	-1	0	0	0	0	0	1	0	11.72679	43.73055	27.83266	21.97442	11.76486	11.74469	GO:0097159	organic cyclic compound binding	MF
+Gene_002374	ribosome production factor 2 homolog	1	1	0	0	0	0	0	-1	0	278.3937	218.7487	207.3117	247.6753	261.4164	250.5145	GO:0097159	organic cyclic compound binding	MF
+Gene_002416	atp-dependent rna helicase has1	1	1	0	0	0	0	0	-1	-1	194.4527	153.556	149.1646	183.9015	190.2593	184.8883	GO:0097159	organic cyclic compound binding	MF
+Gene_002438	hypothetical protein pbra 003271	1	1	0	0	0	0	0	-1	-1	392.9634	328.6213	307.0356	420.8845	506.1213	458.4779	GO:0097159	organic cyclic compound binding	MF
+Gene_002460	maintenance of mitochondrial structure and function-domain-containing	1	1	0	0	0	0	1	0	-1	432.4044	364.1232	334.2544	352.1659	392.5047	418.6684	GO:0097159	organic cyclic compound binding	MF
+Gene_002489	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0097159	organic cyclic compound binding	MF
+Gene_002518	heat shock hsp10	1	1	0	0	0	0	0	-1	0	666.5423	497.9945	487.6515	562.0477	688.4057	623.5155	GO:0097159	organic cyclic compound binding	MF
+Gene_002557	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0097159	organic cyclic compound binding	MF
+Gene_002592	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0097159	organic cyclic compound binding	MF
+Gene_002613	kynureninase isoform x1	0	-1	0	0	0	0	0	1	1	11.14563	21.556208	24.463457	13.896851	7.013406	6.199165	GO:0097159	organic cyclic compound binding	MF
+Gene_002728	hypothetical protein pbra 007907	1	1	0	0	0	0	0	0	0	139.06761	109.35404	97.68416	118.67182	129.67082	125.09281	GO:0097159	organic cyclic compound binding	MF
+Gene_002731	unconventional myosin-ie-like	-1	-1	0	0	0	0	0	1	1	0.15889909	0.67622407	0.97666386	0.11910524	0.09294988	0.18734896	GO:0097159	organic cyclic compound binding	MF
+Gene_002734	trna-dihydrouridine(20) synthase [nad(p)+]-like	1	1	0	0	0	0	0	-1	-1	84.60322	69.87414	66.67464	79.42111	92.54741	85.03137	GO:0097159	organic cyclic compound binding	MF
+Gene_002759	gtp-binding variant	-1	-1	0	1	0	0	-1	1	1	27.01303	59.12555	59.25875	49.54164	22.62715	24.03684	GO:0097159	organic cyclic compound binding	MF
+Gene_002818	poly [adp-ribose] polymerase 2	-1	-1	0	1	0	0	0	1	1	167.5678	317.6498	394.1135	316.4352	126.3919	154.3484	GO:0097159	organic cyclic compound binding	MF
+Gene_002820	high mobility group dsp1-like	1	1	0	0	0	0	0	-1	-1	219.5814	167.1372	166.747	266.2347	296.2348	300.0787	GO:0097159	organic cyclic compound binding	MF
+Gene_002952	mak16 homolog	1	1	0	0	0	0	0	-1	0	162.7199	123.8588	120.5321	133.5332	155.2423	137.2122	GO:0097159	organic cyclic compound binding	MF
+Gene_002953	telomeric repeat-binding factor 1	-1	-1	0	0	0	0	-1	1	0	5.897443	21.716478	16.99447	18.355381	8.299889	6.596757	GO:0097159	organic cyclic compound binding	MF
+Gene_002997	mar5 transposase	-1	-1	0	0	0	0	0	0	0	6.623244	12.987015	11.635225	11.607527	9.358584	6.174182	GO:0097159	organic cyclic compound binding	MF
+Gene_003007	hmg (high mobility group) box domain containing	-1	-1	0	1	0	0	0	1	1	12.720398	34.62855	30.433075	22.189506	6.749859	8.378651	GO:0097159	organic cyclic compound binding	MF
+Gene_003015	zinc finger ccch domain-containing 64	1	1	0	0	0	0	0	-1	-1	110.45985	92.00384	89.05927	104.09192	118.77521	109.33258	GO:0097159	organic cyclic compound binding	MF
+Gene_003040	2-polyprenylphenol 6-hydroxylase	-1	-1	0	0	0	0	-1	0	0	3.50137	10.206137	7.762181	10.594578	5.943979	4.18308	GO:0097159	organic cyclic compound binding	MF
+Gene_003205	hypothetical protein pbra 007186	-1	-1	0	1	0	0	0	1	1	2.832373	7.674728	6.569769	3.900651	1.040947	2.423045	GO:0097159	organic cyclic compound binding	MF
+Gene_003234	ribosomal rna-processing 7 homolog a	0	1	0	0	0	0	0	0	0	65.44957	54.4195	51.37894	65.54028	62.63654	63.07618	GO:0097159	organic cyclic compound binding	MF
+Gene_003245	zinc finger and btb domain-containing 10-like	1	1	0	0	0	0	0	-1	-1	89.76064	68.82584	68.57096	86.41313	103.38825	101.00598	GO:0097159	organic cyclic compound binding	MF
+Gene_003289	ras let-60	-1	-1	0	0	0	0	0	1	1	1.0492376	3.1906324	3.4515346	1.0689654	0.5266179	0.5433103	GO:0097159	organic cyclic compound binding	MF
+Gene_003296	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	-1	168.5506	130.5591	120.5944	138.6273	158.2392	161.9838	GO:0097159	organic cyclic compound binding	MF
+Gene_003331	abc transporter g family member 11-like	-1	-1	0	0	0	0	0	1	1	4.167011	9.941939	11.147915	5.321606	3.065077	2.905988	GO:0097159	organic cyclic compound binding	MF
+Gene_003356	eukaryotic translation initiation factor 2 subunit alpha	1	1	0	0	0	0	0	-1	-1	233.8599	189.4091	178.2635	215.0823	231.2569	238.0641	GO:0097159	organic cyclic compound binding	MF
+Gene_003437	dead box rna helicase	1	1	0	0	0	0	0	-1	-1	95.26215	71.88412	68.83494	87.1695	86.81845	98.08959	GO:0097159	organic cyclic compound binding	MF
+Gene_003514	dead-box atp-dependent rna helicase 18-like isoform x1	1	1	0	0	0	0	1	0	0	94.31984	75.27832	64.77389	76.75291	82.70415	78.22644	GO:0097159	organic cyclic compound binding	MF
+Gene_003517	tubulin polyglutamylase ttll4	-1	-1	0	1	0	0	-1	1	1	1.3116768	4.1714716	4.1979857	3.3238258	0.8105363	1.3468283	GO:0097159	organic cyclic compound binding	MF
+Gene_003539	hypothetical protein pbra 004284	-1	-1	0	0	0	0	0	1	1	6.086408	16.312615	14.4051	7.553336	4.759659	3.316071	GO:0097159	organic cyclic compound binding	MF
+Gene_003572	cbl-interacting serine threonine-kinase 5-like	-1	-1	0	1	0	0	0	1	1	5.42126	15.68371	12.747165	10.325893	3.836083	4.51927	GO:0097159	organic cyclic compound binding	MF
+Gene_003580	hypothetical protein axg93 939s1080	-1	-1	0	0	0	0	0	0	1	1.0081061	2.4744311	2.6484423	1.5066231	1.33906	0.5433103	GO:0097159	organic cyclic compound binding	MF
+Gene_003590	probable atp-dependent rna helicase ddx47	1	1	0	0	0	0	0	-1	-1	193.0124	147.5788	138.2783	160.1766	186.9464	188.2959	GO:0097159	organic cyclic compound binding	MF
+Gene_003626	mitogen-activated kinase kinase 6 isoform x2	-1	-1	0	1	0	0	0	1	1	7.084106	16.653975	20.311944	12.46843	5.285765	7.013086	GO:0097159	organic cyclic compound binding	MF
+Gene_003636	saicar synthase	-1	-1	0	0	0	0	0	1	0	69.82043	89.23222	91.46412	80.92535	65.52437	73.46363	GO:0097159	organic cyclic compound binding	MF
+Gene_003637	serine threonine-kinase nek1-like	-1	-1	0	0	0	0	0	1	0	21.18614	29.8181	29.09291	25.98075	22.78309	20.71661	GO:0097159	organic cyclic compound binding	MF
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0097159	organic cyclic compound binding	MF
+Gene_003646	rjl family gtpase	0	-1	0	0	0	0	0	1	1	0.8689981	1.8860254	2.6309248	1.094268	0.4837188	0.6099236	GO:0097159	organic cyclic compound binding	MF
+Gene_003860	camkk kinase	0	-1	0	0	0	0	0	1	1	57.14417	72.0007	86.90549	54.99593	42.65141	47.71983	GO:0097159	organic cyclic compound binding	MF
+Gene_003937	h aca ribonucleo complex subunit 4	1	1	0	0	0	0	0	-1	-1	622.7298	463.7327	442.8272	550.1405	608.408	619.656	GO:0097159	organic cyclic compound binding	MF
+Gene_003958	rna pseudouridine synthase 7	1	1	0	0	0	0	0	-1	-1	128.35336	105.92614	99.03125	128.25116	126.76469	131.46681	GO:0097159	organic cyclic compound binding	MF
+Gene_004049	[micromonas commoda]	0	-1	0	0	0	0	0	0	0	69.19155	79.60844	95.605	85.64917	73.68217	84.48808	GO:0097159	organic cyclic compound binding	MF
+Gene_004126	p-type atpase	-1	-1	0	1	0	0	0	1	1	43.09042	113.42764	123.46356	76.37287	26.56698	42.97781	GO:0097159	organic cyclic compound binding	MF
+Gene_004173	probable atp-dependent rna helicase cg8611	0	1	0	0	0	0	0	-1	-1	160.485	132.709	120.1683	165.6616	197.5409	186.7638	GO:0097159	organic cyclic compound binding	MF
+Gene_004189	phospholipid-transporting atpase 3 isoform x1	-1	-1	0	1	0	0	0	1	1	41.03667	88.27212	102.41368	70.90607	37.16891	36.8411	GO:0097159	organic cyclic compound binding	MF
+Gene_004227	beta and beta-prime subunits of dna dependent rna-polymerase	1	1	0	0	0	0	0	-1	-1	269.7007	206.6472	195.5057	247.665	272.9022	287.9821	GO:0097159	organic cyclic compound binding	MF
+Gene_004300	eukaryotic translation initiation factor 2a	1	1	0	0	0	0	0	-1	-1	186.9718	148.4802	148.3782	172.6576	191.0412	200.9982	GO:0097159	organic cyclic compound binding	MF
+Gene_004320	kinesin kif19	-1	-1	0	1	0	0	0	1	1	11.051989	34.838541	26.222021	20.678962	6.93069	9.444465	GO:0097159	organic cyclic compound binding	MF
+Gene_004357	acetylglutamate kinase	-1	-1	0	0	0	0	0	1	1	1.2570934	3.5349279	3.1072376	1.7710276	0.7811834	0.4350657	GO:0097159	organic cyclic compound binding	MF
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0097159	organic cyclic compound binding	MF
+Gene_004507	nucleolar mif4g domain-containing 1	1	1	0	0	0	0	0	-1	-1	130.5889	107.8075	104.976	123.36	138.8313	133.6442	GO:0097159	organic cyclic compound binding	MF
+Gene_004561	gastrula zinc finger-like	0	1	0	-1	0	0	0	-1	0	45.27131	36.98199	34.05321	38.86571	52.90933	46.28765	GO:0097159	organic cyclic compound binding	MF
+Gene_004571	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0097159	organic cyclic compound binding	MF
+Gene_004579	trna nucleotidyltransferase ( )	1	1	0	0	0	0	0	-1	-1	110.58504	90.88065	86.9576	106.90444	114.31635	120.59641	GO:0097159	organic cyclic compound binding	MF
+Gene_004606	jerky homolog-like	0	1	0	0	0	0	0	0	0	50.85035	41.75469	40.15742	44.29743	48.14628	50.79486	GO:0097159	organic cyclic compound binding	MF
+Gene_004624	hsf-type dna-binding domain containing	-1	-1	0	1	0	0	0	1	1	8.960759	25.125694	25.01763	16.51753	5.441272	8.295389	GO:0097159	organic cyclic compound binding	MF
+Gene_004681	hypothetical protein pbra 001238	-1	-1	0	0	0	0	0	1	1	5.131526	12.572974	11.704493	8.338044	5.090336	3.957223	GO:0097159	organic cyclic compound binding	MF
+Gene_004682	heavy metal p-type atpase	-1	-1	0	0	0	0	0	1	1	17.01843	36.47515	31.45308	24.50637	17.05046	18.85146	GO:0097159	organic cyclic compound binding	MF
+Gene_004684	hypothetical protein pbra 001243	0	-1	0	0	0	0	0	1	1	3.16537	5.095095	7.702073	3.255843	1.777885	2.489659	GO:0097159	organic cyclic compound binding	MF
+Gene_004685	calcium atpase transmembrane domain m-containing	-1	-1	0	1	0	0	0	1	1	6.233604	14.695056	16.290349	7.577795	3.333189	5.4914	GO:0097159	organic cyclic compound binding	MF
+Gene_004697	endopeptidase la	-1	-1	0	1	0	0	0	1	1	25.15552	61.53665	71.50269	41.29092	14.73395	23.02517	GO:0097159	organic cyclic compound binding	MF
+Gene_004794	zinc c2h2 type family	-1	-1	0	1	0	0	0	1	1	1.4386293	4.6643716	4.9513716	3.3915592	0.8456065	1.178216	GO:0097159	organic cyclic compound binding	MF
+Gene_004805	fad-binding domain-containing	-1	-1	0	0	0	0	0	1	0	0.6612056	1.6907938	1.6330689	0.9536523	0.3850515	0.5558013	GO:0097159	organic cyclic compound binding	MF
+Gene_004813	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0097159	organic cyclic compound binding	MF
+Gene_004814	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0097159	organic cyclic compound binding	MF
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0097159	organic cyclic compound binding	MF
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0097159	organic cyclic compound binding	MF
+Gene_004857	abc transporter e family member 2	1	1	0	0	0	0	0	-1	-1	389.226	302.9321	302.5792	374.4369	468.2251	472.6643	GO:0097159	organic cyclic compound binding	MF
+Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0097159	organic cyclic compound binding	MF
+Gene_004933	zinc finger 271 (zinc finger 7) (hzf7) (zinc finger znfphex133) (epstein-barr virus-induced zinc finger ) (znf-eb) (ct-zfp48) (zinc finger	-1	-1	0	1	0	0	0	1	1	81.23273	146.7275	163.90618	102.63939	52.56938	69.69794	GO:0097159	organic cyclic compound binding	MF
+Gene_004937	gdp-mannose 4;6-dehydratase	-1	-1	0	1	0	0	0	1	1	4.994816	14.311986	17.749071	8.10005	2.489146	4.554655	GO:0097159	organic cyclic compound binding	MF
+Gene_004951	zinc finger 177 isoform x2	-1	-1	0	1	0	0	0	1	1	5.025403	12.70809	13.800005	8.749336	3.478007	5.26242	GO:0097159	organic cyclic compound binding	MF
+Gene_004998	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0097159	organic cyclic compound binding	MF
+Gene_005037	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:0097159	organic cyclic compound binding	MF
+Gene_005038	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:0097159	organic cyclic compound binding	MF
+Gene_005056	probable phospholipid-transporting atpase ia isoform x1	-1	-1	0	1	0	0	0	1	1	8.489354	16.527777	19.630672	9.691109	4.241007	6.253287	GO:0097159	organic cyclic compound binding	MF
+Gene_005057	probable phospholipid-transporting atpase	-1	-1	0	1	0	0	0	1	1	20.41939	38.22152	48.99905	23.12764	11.42976	17.60663	GO:0097159	organic cyclic compound binding	MF
+Gene_005090	serine threonine-kinase 26	-1	-1	0	0	0	0	0	1	1	94.76466	132.94393	143.20089	110.9481	82.00645	83.44932	GO:0097159	organic cyclic compound binding	MF
+Gene_005155	sperm flagellar 2	-1	-1	0	0	0	0	0	1	1	2.332463	5.674551	5.503059	3.404594	1.321613	1.661158	GO:0097159	organic cyclic compound binding	MF
+Gene_005156	central pair complex 1 [micromonas commoda]	-1	-1	0	0	0	0	0	1	1	1.2514034	3.2097211	3.391633	1.5587618	0.7232152	0.7972726	GO:0097159	organic cyclic compound binding	MF
+Gene_005161	gtp-binding	1	1	0	0	0	0	0	-1	-1	118.90794	87.54733	87.96976	104.65004	122.7646	125.03451	GO:0097159	organic cyclic compound binding	MF
+Gene_005162	gtp-binding variant 2	1	1	0	0	0	0	0	-1	-1	90.12675	68.19331	69.5957	79.26314	98.13439	96.48463	GO:0097159	organic cyclic compound binding	MF
+Gene_005206	kinesin kin-7o isoform x1	-1	-1	0	0	0	0	0	1	0	1.986209	5.534076	6.33182	3.563911	1.211306	2.096224	GO:0097159	organic cyclic compound binding	MF
+Gene_005217	histone h1	-1	-1	0	0	0	0	0	1	1	152.0935	216.8983	227.4768	169.8568	139.6281	119.6451	GO:0097159	organic cyclic compound binding	MF
+Gene_005255	tp53-regulating kinase	1	1	0	0	0	0	0	-1	-1	49.00732	39.46025	37.2994	44.27898	51.09265	51.19618	GO:0097159	organic cyclic compound binding	MF
+Gene_005334	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0097159	organic cyclic compound binding	MF
+Gene_005350	adp-ribosylation factor 16 isoform x1	-1	-1	0	0	0	0	0	1	0	0.8889156	2.0025728	2.3412247	0.9610206	0.791184	0.9242537	GO:0097159	organic cyclic compound binding	MF
+Gene_005352	mitogen-activated kinase kinase kinase npk1-like isoform x4	-1	-1	0	1	0	0	0	1	1	9.88723	19.881408	20.047912	15.524826	6.501313	9.785847	GO:0097159	organic cyclic compound binding	MF
+Gene_005365	retrotransposon nucleocapsid	-1	-1	0	0	0	0	0	0	1	2.008647	4.4978	5.79479	3.391882	2.900522	1.842262	GO:0097159	organic cyclic compound binding	MF
+Gene_005387	nucleotide exchange factor	1	1	0	0	0	0	0	-1	-1	178.4194	142.3589	136.3175	174.4968	195.2977	213.688	GO:0097159	organic cyclic compound binding	MF
+Gene_005395	arginine serine-rich splicing factor 1	0	1	0	0	0	0	0	0	-1	175.4404	144.8504	135.1962	150.0066	173.6255	176.9385	GO:0097159	organic cyclic compound binding	MF
+Gene_005403	atp-binding cassette sub-family a member 3	-1	-1	0	1	0	0	0	1	1	0.33306084	0.86005435	0.97666386	0.74151117	0.08113218	0.06036781	GO:0097159	organic cyclic compound binding	MF
+Gene_005420	rna polymerase i associated a49	1	1	0	0	0	0	0	0	-1	85.62953	66.15142	64.40884	75.43681	79.09427	83.79695	GO:0097159	organic cyclic compound binding	MF
+Gene_005438	jerky homolog-like	0	1	0	0	0	0	0	0	0	50.77786	41.74017	40.13725	44.2563	48.11333	50.77493	GO:0097159	organic cyclic compound binding	MF
+Gene_005440	atpase aaa	1	1	0	0	0	0	0	-1	-1	1042.1159	752.8354	764.5194	862.6685	924.8243	1163.1821	GO:0097159	organic cyclic compound binding	MF
+Gene_005500	exosome complex exonuclease rrp4	1	1	0	0	0	0	0	0	0	127.4533	103.532	102.5325	111.5209	121.0667	118.0547	GO:0097159	organic cyclic compound binding	MF
+Gene_005526	40s ribosomal s13-2	1	1	0	0	0	0	0	0	-1	799.3971	621.8932	604.7639	667.9955	744.3109	782.8849	GO:0097159	organic cyclic compound binding	MF
+Gene_005566	ubiquitin-conjugating enzyme e2	-1	-1	0	1	0	0	0	1	1	3.450636	7.686636	8.436311	3.824269	1.423915	1.238584	GO:0097159	organic cyclic compound binding	MF
+Gene_005633	atp-dependent rna helicase ddx5	-1	-1	0	1	0	0	-1	1	1	9.441592	27.041715	20.554784	21.381415	7.040438	7.666729	GO:0097159	organic cyclic compound binding	MF
+Gene_005638	zinc c2h2 type	-1	-1	0	1	0	0	-1	1	1	31.06239	53.84836	52.73209	44.18172	28.33596	31.91799	GO:0097159	organic cyclic compound binding	MF
+Gene_005677	gastrula zinc finger-like	0	-1	0	0	0	0	0	1	1	0.8442277	1.7030794	2.0723024	1.7206385	0.7021343	0.3080846	GO:0097159	organic cyclic compound binding	MF
+Gene_005688	serine threonine-kinase ulk4 isoform x1	0	-1	0	0	0	0	0	0	1	145.5945	166.7979	196.8484	159.6288	156.1618	141.7231	GO:0097159	organic cyclic compound binding	MF
+Gene_005755	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:0097159	organic cyclic compound binding	MF
+Gene_005784	adp-ribosylation factor gtpase-activating agd7	0	-1	0	1	0	0	0	1	1	35.06131	45.3183	59.61722	41.00798	27.65064	27.30297	GO:0097159	organic cyclic compound binding	MF
+Gene_005821	lysine-trna ligase isoform x2	1	1	0	0	0	0	0	0	-1	279.5477	211.2864	203.1541	235.1486	246.3479	261.8928	GO:0097159	organic cyclic compound binding	MF
+Gene_005873	indoleamine 2;3-dioxygenase 1	0	-1	0	0	0	0	0	1	1	18.86267	28.67948	36.68137	26.1842	14.82779	17.69613	GO:0097159	organic cyclic compound binding	MF
+Gene_005890	nucleolar 6 isoform x1	1	1	0	0	0	0	0	0	-1	122.11397	96.52152	93.70373	101.68377	106.08989	121.03774	GO:0097159	organic cyclic compound binding	MF
+Gene_005911	nucleotide-alpha-beta plait	1	1	0	0	0	0	0	-1	-1	287.6679	230.3059	219.8404	276.5274	322.1287	295.9195	GO:0097159	organic cyclic compound binding	MF
+Gene_005920	gastrula zinc finger-like	-1	-1	0	1	0	0	0	1	1	43.44947	80.36649	86.52184	64.09752	33.84479	42.9237	GO:0097159	organic cyclic compound binding	MF
+Gene_005921	g patch domain-containing 4-like	1	1	0	0	0	0	0	0	0	41.4499	31.67045	31.70345	37.11027	38.10845	36.30403	GO:0097159	organic cyclic compound binding	MF
+Gene_005931	prolyl-trna synthetase ( )	1	1	0	0	0	0	0	-1	-1	640.4133	492.8115	505.935	612.0846	699.2832	749.6471	GO:0097159	organic cyclic compound binding	MF
+Gene_005966	t-complex 1 subunit epsilon	1	1	0	0	0	0	0	-1	-1	637.4178	532.8514	522.6237	628.4955	693.8034	727.438	GO:0097159	organic cyclic compound binding	MF
+Gene_006018	polynucleotide 5-hydroxyl-kinase nol9	1	1	0	0	0	0	0	0	0	137.9811	110.8372	107.8074	126.212	129.0056	129.3706	GO:0097159	organic cyclic compound binding	MF
+Gene_006068	dead-box helicase family	1	1	0	0	0	0	0	0	-1	52.28426	41.49695	37.68893	40.73065	46.14032	52.54301	GO:0097159	organic cyclic compound binding	MF
+Gene_006071	cyclin-dependent kinase 20	-1	-1	0	0	0	0	0	1	1	6.618391	12.083379	13.439019	8.933805	5.127401	5.793239	GO:0097159	organic cyclic compound binding	MF
+Gene_006079	eukaryotic translation initiation factor 6	1	1	0	0	0	0	1	0	0	216.5792	170.6673	166.2071	169.9236	194.0349	186.3995	GO:0097159	organic cyclic compound binding	MF
+Gene_006167	cytochrome p450 71d11	-1	-1	0	1	0	0	0	1	0	5.742229	17.555433	13.916134	10.314655	3.463852	6.881947	GO:0097159	organic cyclic compound binding	MF
+Gene_006179	guanine nucleotide-binding-like 3	1	1	0	0	0	0	0	-1	-1	236.1354	179.9556	169.3449	206.8794	227.4492	238.7386	GO:0097159	organic cyclic compound binding	MF
+Gene_006182	adenine dna glycosylase	1	1	0	0	0	0	0	-1	-1	59.88728	45.52967	46.0967	54.71337	64.2182	62.13735	GO:0097159	organic cyclic compound binding	MF
+Gene_006233	mki67 fha domain-interacting nucleolar phospho	1	1	0	0	0	0	0	0	0	130.2402	106.09168	96.22515	113.62421	116.21046	113.08584	GO:0097159	organic cyclic compound binding	MF
+Gene_006273	hypothetical protein pbra 009723; partial	-1	-1	0	0	0	0	0	1	1	1.877104	5.46848	5.916624	3.84425	1.789526	2.054593	GO:0097159	organic cyclic compound binding	MF
+Gene_006284	pre-mrna-splicing factor atp-dependent rna helicase	1	1	0	0	0	0	0	-1	-1	268.174	206.0997	196.7074	232.3652	247.5654	259.7778	GO:0097159	organic cyclic compound binding	MF
+Gene_006316	glycyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	141.8776	112.7339	111.4243	118.9396	138.5452	144.3002	GO:0097159	organic cyclic compound binding	MF
+Gene_006317	nucleic acid binding zinc ion binding	0	1	0	0	0	0	0	-1	-1	5.290029	3.728889	2.965441	5.011112	6.770162	5.859852	GO:0097159	organic cyclic compound binding	MF
+Gene_006323	delta l-pyrroline-5-carboxylate synthetase	0	1	0	0	0	0	0	-1	0	95.42909	85.04328	78.81999	92.43295	101.34768	90.48323	GO:0097159	organic cyclic compound binding	MF
+Gene_006332	hypothetical protein pbra 004975	0	-1	0	0	0	0	0	0	0	37.22502	40.17014	50.09141	47.2358	41.05985	40.01978	GO:0097159	organic cyclic compound binding	MF
+Gene_006333	hypothetical protein pbra 004975	0	-1	0	0	0	0	0	0	0	52.55821	57.85703	69.11941	62.31945	56.37654	61.25472	GO:0097159	organic cyclic compound binding	MF
+Gene_006334	hypothetical protein pbra 004975	0	-1	0	0	0	0	0	0	0	57.92267	66.47901	74.92151	68.56776	62.70142	63.29683	GO:0097159	organic cyclic compound binding	MF
+Gene_006382	heterogeneous nuclear ribonucleo f-like	-1	-1	0	0	0	0	0	1	1	72.28345	104.09213	126.66381	86.73216	65.50183	65.83438	GO:0097159	organic cyclic compound binding	MF
+Gene_006384	non-transporter abc	0	-1	0	0	0	0	0	1	1	52.23737	63.24794	72.34076	50.88279	41.83906	47.05576	GO:0097159	organic cyclic compound binding	MF
+Gene_006411	elongation factor 2	1	1	0	0	0	0	0	-1	-1	3145.814	2423.944	2433.899	2736.199	3229.08	3500.354	GO:0097159	organic cyclic compound binding	MF
+Gene_006486	probable steroid-binding 3	0	1	0	0	0	0	0	0	0	63.86678	52.69351	49.55475	55.46921	64.09459	61.00494	GO:0097159	organic cyclic compound binding	MF
+Gene_006502	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.501317	2.25509	2.970726	GO:0097159	organic cyclic compound binding	MF
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0097159	organic cyclic compound binding	MF
+Gene_006571	family atpase	-1	-1	0	0	0	0	0	1	1	21.51758	34.44169	32.42426	24.81661	20.62334	21.23494	GO:0097159	organic cyclic compound binding	MF
+Gene_006611	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0097159	organic cyclic compound binding	MF
+Gene_006646	choline dehydrogenase	-1	-1	0	1	0	0	0	1	1	22.9365	59.61054	53.01573	29.3621	11.50156	16.97797	GO:0097159	organic cyclic compound binding	MF
+Gene_006649	g patch domain-containing 8-like	0	1	0	0	0	0	0	-1	0	247.884	226.4736	192.5086	271.3993	316.0221	223.5779	GO:0097159	organic cyclic compound binding	MF
+Gene_006651	dna polymerase i	-1	-1	0	1	0	0	0	1	1	70.98151	108.1141	128.48363	96.01215	58.44089	58.76715	GO:0097159	organic cyclic compound binding	MF
+Gene_006706	probable 28s rrna (cytosine(4447)-c(5))-methyltransferase	1	1	0	0	0	0	0	0	-1	192.2776	153.1862	136.9344	161.6797	173.0244	188.8434	GO:0097159	organic cyclic compound binding	MF
+Gene_006709	60s ribosomal l1-b	1	1	0	0	0	0	1	0	0	2135.617	1603.686	1623.836	1661.999	1949.173	2056.016	GO:0097159	organic cyclic compound binding	MF
+Gene_006732	mads-box soc1-like isoform x1	0	1	0	0	0	0	0	-1	-1	110.85489	92.75945	87.78882	111.32573	124.22456	116.20416	GO:0097159	organic cyclic compound binding	MF
+Gene_006748	hypothetical protein pbra 005483	0	1	0	0	0	0	0	-1	0	10.612467	7.702507	6.868422	8.810592	11.299201	10.349982	GO:0097159	organic cyclic compound binding	MF
+Gene_006750	probable 28s rrna (cytosine-c(5))-methyltransferase	0	1	0	0	0	0	0	-1	-1	66.40549	59.16182	54.82798	68.476	72.80331	74.99364	GO:0097159	organic cyclic compound binding	MF
+Gene_006764	jerky homolog-like	0	1	0	0	0	0	0	0	0	50.78944	41.74017	40.13725	44.2563	48.11333	50.77493	GO:0097159	organic cyclic compound binding	MF
+Gene_006787	cyclic nucleotide-binding	-1	-1	0	0	0	0	0	1	1	51.03941	69.98336	82.50547	65.07916	51.56587	49.458	GO:0097159	organic cyclic compound binding	MF
+Gene_006788	agc pka kinase	-1	-1	0	0	0	0	0	1	1	100.23701	129.66729	151.84777	122.02959	96.87235	101.60135	GO:0097159	organic cyclic compound binding	MF
+Gene_006863	hypothetical protein pbra 009597	0	1	0	0	0	0	0	-1	-1	13.607978	9.894828	9.036061	12.970171	16.831856	15.528236	GO:0097159	organic cyclic compound binding	MF
+Gene_006864	hypothetical protein pbra 009324	0	1	0	0	0	0	0	-1	-1	15.15259	11.38616	10.52742	17.46266	20.27917	19.48344	GO:0097159	organic cyclic compound binding	MF
+Gene_006897	multidrug resistance 1	-1	-1	0	0	0	0	0	1	1	10.511857	35.323359	27.56086	19.501702	9.301079	10.66847	GO:0097159	organic cyclic compound binding	MF
+Gene_006943	24-hydroxycholesterol 7-alpha-hydroxylase	-1	-1	0	0	0	0	-1	0	0	0.9563036	2.439374	2.5408787	2.6198893	2.2158847	1.582054	GO:0097159	organic cyclic compound binding	MF
+Gene_006983	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0097159	organic cyclic compound binding	MF
+Gene_007012	eukaryotic translation initiation factor 3	0	1	0	0	0	0	0	-1	-1	402.5301	336.5196	310.517	378.5476	418.173	434.9927	GO:0097159	organic cyclic compound binding	MF
+Gene_007018	thymidylate kinase	-1	-1	0	0	0	0	-1	0	0	89.3749	107.35327	115.08818	107.74335	93.93068	96.71154	GO:0097159	organic cyclic compound binding	MF
+Gene_007038	rna-binding 34-like isoform x1	1	1	0	0	0	0	0	-1	-1	104.73381	87.87927	81.37228	99.60851	115.03175	110.61489	GO:0097159	organic cyclic compound binding	MF
+Gene_007049	xanthine dehydrogenase oxidase-like	0	-1	0	0	0	0	0	1	1	12.71663	20.770786	27.628111	13.008842	9.830852	7.383626	GO:0097159	organic cyclic compound binding	MF
+Gene_007055	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0097159	organic cyclic compound binding	MF
+Gene_007060	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0097159	organic cyclic compound binding	MF
+Gene_007081	agc kinase	-1	-1	0	1	0	0	-1	1	1	47.11652	103.71631	117.07826	84.92038	37.8254	48.29852	GO:0097159	organic cyclic compound binding	MF
+Gene_007116	srf-type transcription factor	1	1	0	0	0	0	0	-1	-1	74.78815	59.18087	56.35305	66.37199	81.14271	79.43173	GO:0097159	organic cyclic compound binding	MF
+Gene_007152	serine palmitoyltransferase 2	0	-1	0	0	0	0	0	1	1	10.9033	17.49319	20.6387	13.66579	10.17711	10.24174	GO:0097159	organic cyclic compound binding	MF
+Gene_007153	long chain base biosynthesis 2b-like	-1	-1	0	0	0	0	0	1	1	7.077171	11.352061	14.871606	9.383588	5.796076	6.011816	GO:0097159	organic cyclic compound binding	MF
+Gene_007154	calmodulin-domain kinase	0	-1	0	0	0	0	0	1	1	0.7210929	1.2795044	2.0258563	0.7198283	0.3656992	0.5558013	GO:0097159	organic cyclic compound binding	MF
+Gene_007165	histone h3	0	-1	0	0	0	0	0	1	1	43.1247	51.85242	62.26061	34.3239	32.36953	38.2137	GO:0097159	organic cyclic compound binding	MF
+Gene_007222	serine threonine kinase	-1	-1	0	0	0	0	-1	1	1	4.090573	15.388231	12.858403	9.861457	6.561611	4.723268	GO:0097159	organic cyclic compound binding	MF
+Gene_007261	probable tubulin polyglutamylase ttll1	-1	-1	0	1	0	0	0	1	1	9.857429	32.05801	32.668366	19.23255	6.256652	10.909941	GO:0097159	organic cyclic compound binding	MF
+Gene_007348	zinc finger 664-like isoform x1	0	-1	0	0	0	0	0	1	1	17.20786	26.37138	32.45515	18.23299	13.75342	13.52242	GO:0097159	organic cyclic compound binding	MF
+Gene_007392	40s ribosomal s26	0	1	0	0	0	0	1	0	0	902.2663	723.9047	655.3584	619.8565	705.9123	803.2645	GO:0097159	organic cyclic compound binding	MF
+Gene_007405	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:0097159	organic cyclic compound binding	MF
+Gene_007424	guanyl-nucleotide exchange factor vps901 ( )	0	-1	0	0	0	0	0	1	0	42.67181	57.24299	63.44201	53.66575	41.73185	46.57075	GO:0097159	organic cyclic compound binding	MF
+Gene_007470	poly(a)-specific ribonuclease parn-like domain-containing 1	1	1	0	0	0	0	1	-1	-1	261.3242	206.4651	209.6455	209.7671	242.688	264.4054	GO:0097159	organic cyclic compound binding	MF
+Gene_007524	dna-directed rna polymerase i complex largesubunit nuc1	1	1	0	0	0	0	0	-1	-1	217.1682	173.8538	158.3606	192.416	216.7122	225.2141	GO:0097159	organic cyclic compound binding	MF
+Gene_007525	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0097159	organic cyclic compound binding	MF
+Gene_007542	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0097159	organic cyclic compound binding	MF
+Gene_007565	eukaryotic translation initiation factor 2d	0	1	0	0	0	0	0	0	-1	110.44261	91.34027	85.55673	97.6858	109.90879	116.79535	GO:0097159	organic cyclic compound binding	MF
+Gene_007570	lupus la	1	1	0	0	0	0	0	0	-1	479.9688	386.3284	359.2576	393.13	448.5116	459.6186	GO:0097159	organic cyclic compound binding	MF
+Gene_007572	atp-dependent rna helicase dbp8	0	1	0	0	0	0	0	0	-1	85.6027	72.32239	68.98489	77.61996	84.06213	93.14773	GO:0097159	organic cyclic compound binding	MF
+Gene_007649	nuc091 domain-domain-containing	1	1	0	0	0	0	0	-1	-1	178.8531	133.2813	132.8258	163.9282	179.0794	185.4524	GO:0097159	organic cyclic compound binding	MF
+Gene_007653	guanine nucleotide-binding g(k) subunit alpha-like	0	1	0	0	0	0	0	0	0	14.406311	12.160744	9.965878	10.481608	13.344944	11.576074	GO:0097159	organic cyclic compound binding	MF
+Gene_007681	hypothetical protein pbra 004130	1	1	0	0	0	0	0	-1	-1	39.97357	27.53294	26.70278	38.44945	38.02019	48.44633	GO:0097159	organic cyclic compound binding	MF
+Gene_007737	gtp-binding	1	1	0	0	0	0	0	-1	-1	263.0303	206.0364	205.4619	246.2271	297.1397	268.883	GO:0097159	organic cyclic compound binding	MF
+Gene_007738	probable trna(his) guanylyltransferase	1	1	0	0	0	0	0	-1	0	99.82515	80.47603	77.68647	85.62294	99.27612	90.44783	GO:0097159	organic cyclic compound binding	MF
+Gene_007785	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0097159	organic cyclic compound binding	MF
+Gene_007808	hypothetical protein pbra 005355	-1	-1	0	0	0	0	0	1	1	7.005075	18.119485	15.771679	11.06166	5.993097	4.687882	GO:0097159	organic cyclic compound binding	MF
+Gene_007843	dead deah box rna helicase	1	1	0	0	0	0	0	-1	-1	197.7274	158.4711	149.0732	201.981	231.5991	235.459	GO:0097159	organic cyclic compound binding	MF
+Gene_007852	zinc finger 596-like	-1	-1	0	1	0	0	0	1	1	106.18906	212.04282	277.87007	175.52814	73.67761	98.4331	GO:0097159	organic cyclic compound binding	MF
+Gene_007878	atp-binding cassette (abc) superfamily	1	1	0	0	0	0	0	0	0	17.15772	12.09054	11.38747	11.57886	15.31155	14.17814	GO:0097159	organic cyclic compound binding	MF
+Gene_007931	wd repeat-containing 67	-1	-1	0	0	0	0	-1	1	1	62.67711	98.58997	106.51	92.90955	66.97093	59.85167	GO:0097159	organic cyclic compound binding	MF
+Gene_007939	hypothetical protein pbra 006797	1	1	0	0	0	0	0	-1	-1	191.7885	153.7508	142.6291	179.7735	194.0504	193.4252	GO:0097159	organic cyclic compound binding	MF
+Gene_008011	60s ribosomal l9-like	1	1	0	0	0	0	0	0	-1	1041.5844	798.2073	794.0062	848.2562	966.7744	1073.8022	GO:0097159	organic cyclic compound binding	MF
+Gene_008040	isocitrate dehydrogenase (nadp)	0	-1	0	0	0	0	0	0	0	172.4747	189.8132	210.9438	183.3516	171.0611	178.9577	GO:0097159	organic cyclic compound binding	MF
+Gene_008064	p-loop containing nucleoside triphosphate hydrolase	-1	-1	0	1	0	0	-1	1	1	13.95789	25.21071	23.651	23.37564	12.51771	13.0249	GO:0097159	organic cyclic compound binding	MF
+Gene_008082	g-subunit alpha 1	-1	-1	0	0	0	0	0	1	1	4.720922	9.487096	9.281346	6.146277	4.378733	4.096695	GO:0097159	organic cyclic compound binding	MF
+Gene_008141	s-adenosylmethionine synthetase	0	-1	0	1	0	0	0	1	1	340.0936	413.1303	497.6191	342.2597	248.693	292.4141	GO:0097159	organic cyclic compound binding	MF
+Gene_008204	prolyl 4-hydroxylase	0	1	0	0	0	0	0	-1	-1	62.2978	51.6933	47.32557	65.55203	72.7551	65.10788	GO:0097159	organic cyclic compound binding	MF
+Gene_008226	long-chain fatty alcohol dehydrogenase	-1	-1	0	1	0	0	0	1	1	17.04113	35.70791	46.33879	29.33142	11.98935	18.72032	GO:0097159	organic cyclic compound binding	MF
+Gene_008321	guanine nucleotide-binding g(q) subunit alpha	-1	-1	0	1	0	0	0	1	1	12.11338	25.5729	32.027848	20.78032	6.843055	10.402016	GO:0097159	organic cyclic compound binding	MF
+Gene_008322	guanine nucleotide binding alpha subunit	-1	-1	0	0	0	0	0	1	1	2.264489	4.796077	5.417904	3.800889	1.625444	1.473809	GO:0097159	organic cyclic compound binding	MF
+Gene_008419	agc kinase	-1	-1	0	1	0	0	0	1	0	3.880449	11.084354	9.69248	5.306697	2.221377	4.562988	GO:0097159	organic cyclic compound binding	MF
+Gene_008420	zinc finger 271-like	-1	-1	0	1	0	0	0	1	1	12.748	26.71006	26.39316	20.02926	10.32714	10.223	GO:0097159	organic cyclic compound binding	MF
+Gene_008423	zinc finger 271-like isoform x1	1	1	0	-1	0	0	0	-1	-1	132.7852	111.5052	107.7772	109.0597	135.8779	141.4379	GO:0097159	organic cyclic compound binding	MF
+Gene_008434	p-loop containing nucleoside triphosphate hydrolase	1	1	0	-1	0	0	0	-1	0	100.83121	82.77548	80.42126	86.77983	104.22014	93.62236	GO:0097159	organic cyclic compound binding	MF
+Gene_008443	hypothetical protein pbra 006996	-1	-1	0	1	0	0	0	1	1	1.2808919	3.1671782	3.2311028	1.7891344	0.4274791	0.9117626	GO:0097159	organic cyclic compound binding	MF
+Gene_008506	6-phosphofructo-2-kinase fructose-2;6-bisphosphatase isoform x5	-1	-1	0	0	0	0	0	1	1	7.017951	19.299932	15.954203	8.941371	4.792352	5.189561	GO:0097159	organic cyclic compound binding	MF
+Gene_008523	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0097159	organic cyclic compound binding	MF
+Gene_008578	probable tubulin polyglutamylase ttll2	-1	-1	0	0	0	0	0	1	1	13.466063	23.755515	29.966516	17.159132	8.963721	12.06735	GO:0097159	organic cyclic compound binding	MF
+Gene_008593	trna (guanine-n(7)-)-methyltransferase	0	1	0	0	0	0	0	-1	0	171.7386	140.6659	131.894	166.1512	185.5186	152.4186	GO:0097159	organic cyclic compound binding	MF
+Gene_008642	peptidylprolyl cis-trans fkbp-type domain containing	1	1	0	0	0	0	0	-1	-1	633.0662	474.3173	434.3093	536.1849	608.995	598.7114	GO:0097159	organic cyclic compound binding	MF
+Gene_008656	heat shock hsp90	1	1	0	0	0	0	0	-1	-1	653.7856	510.5939	497.98	587.4838	698.0807	726.114	GO:0097159	organic cyclic compound binding	MF
+Gene_008689	kinase-like domain-containing	-1	-1	0	1	0	0	-1	1	1	91.51423	131.48462	144.75361	139.09517	98.0325	110.71897	GO:0097159	organic cyclic compound binding	MF
+Gene_008690	map kinase kinase kinase	-1	-1	0	1	0	0	-1	1	1	51.07666	70.36132	81.50355	77.10422	52.27219	57.81167	GO:0097159	organic cyclic compound binding	MF
+Gene_008717	elongation factor-like gtpase 1	1	1	0	0	0	0	0	-1	-1	196.7948	159.3451	155.4149	207.5152	228.9621	229.2671	GO:0097159	organic cyclic compound binding	MF
+Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0097159	organic cyclic compound binding	MF
+Gene_008762	zinc finger dzip1l-like	-1	-1	0	1	0	0	0	1	1	13.736067	25.427486	27.76952	16.425492	9.632405	12.43996	GO:0097159	organic cyclic compound binding	MF
+Gene_008767	serine threonine kinase	-1	-1	0	1	0	0	0	1	1	28.02907	43.12416	44.10391	26.63986	16.35723	19.84648	GO:0097159	organic cyclic compound binding	MF
+Gene_008776	elongation factor ts	1	1	0	0	0	0	0	-1	0	225.5681	173.0729	176.0718	188.5239	215.5862	215.7634	GO:0097159	organic cyclic compound binding	MF
+Gene_008792	dual specificity tyrosine-phosphorylation-regulated kinase 4-like isoform x4	-1	-1	0	1	0	0	0	1	1	4.355976	7.80348	10.548953	3.721401	1.424004	2.368923	GO:0097159	organic cyclic compound binding	MF
+Gene_008798	60s ribosomal l7a-like	1	1	0	0	0	0	1	0	0	1380.8519	1059.6961	1044.4931	975.6129	1124.2737	1156.5041	GO:0097159	organic cyclic compound binding	MF
+Gene_008834	glutamine synthetase	-1	-1	0	1	0	0	0	1	1	392.2103	604.5827	669.4432	488.9117	301.0374	328.9158	GO:0097159	organic cyclic compound binding	MF
+Gene_008865	intraflagellar transport 57	-1	-1	0	1	0	0	0	1	1	14.925323	44.76304	44.936372	30.635745	9.276855	14.288468	GO:0097159	organic cyclic compound binding	MF
+Gene_008894	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0097159	organic cyclic compound binding	MF
+Gene_009033	cholesterol 7-alpha-monooxygenase-like isoform x2	-1	-1	0	0	0	0	0	1	1	1.623138	3.27948	3.116604	2.24417	1.20494	0.990867	GO:0097159	organic cyclic compound binding	MF
+Gene_009213	molecular chaperone	1	1	0	0	0	0	0	-1	-1	1216.1435	941.9226	907.3838	1140.1666	1314.1488	1359.4653	GO:0097159	organic cyclic compound binding	MF
+Gene_009286	probable atp-dependent dna helicase hfm1	-1	-1	0	1	0	0	-1	1	1	89.08735	140.69913	165.84497	141.65764	81.34604	84.14917	GO:0097159	organic cyclic compound binding	MF
+Gene_009287	probable atp-dependent dna helicase hfm1	-1	-1	0	1	0	0	-1	1	1	69.80895	104.68373	125.6649	118.03931	72.62494	67.29154	GO:0097159	organic cyclic compound binding	MF
+Gene_009296	heat shock cytosolic	1	1	0	0	0	0	1	0	0	346.5134	258.7689	254.8939	255.0614	227.859	299.1565	GO:0097159	organic cyclic compound binding	MF
+Gene_009305	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0097159	organic cyclic compound binding	MF
+Gene_009350	ribosomal s6 kinase alpha-5 isoform x2	1	1	0	0	0	0	0	-1	-1	217.5494	171.6981	173.5261	199.7401	246.0197	254.9567	GO:0097159	organic cyclic compound binding	MF
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0097159	organic cyclic compound binding	MF
+Gene_009481	probable atp-dependent rna helicase ddx56	1	1	0	0	0	0	0	-1	-1	210.0514	167.7117	152.381	189.3695	203.6484	200.765	GO:0097159	organic cyclic compound binding	MF
+Gene_009490	zinc finger 593-like	1	1	0	0	0	0	0	0	0	50.92699	39.12481	37.31979	45.78388	48.10078	38.1234	GO:0097159	organic cyclic compound binding	MF
+Gene_009569	jerky homolog-like	0	1	0	0	0	0	0	0	0	50.82409	41.75469	40.15742	44.28306	48.14628	50.85522	GO:0097159	organic cyclic compound binding	MF
+Gene_009587	phosphoenolpyruvate synthase	-1	-1	0	0	0	0	-1	0	1	142.1249	254.2619	264.9311	258.0395	191.0857	157.8247	GO:0097159	organic cyclic compound binding	MF
+Gene_009600	1-phosphatidylinositol-4-phosphate 5-kinase	-1	-1	0	0	0	0	-1	1	1	8.140904	17.556606	18.195213	15.769231	9.601167	8.511878	GO:0097159	organic cyclic compound binding	MF
+Gene_009613	cbl-interacting kinase 24	0	-1	0	0	0	0	0	1	1	0.548354	0.9355308	1.4415656	0.4517563	0.346347	0.3684524	GO:0097159	organic cyclic compound binding	MF
+Gene_009622	phosphoenolpyruvate carboxykinase	-1	-1	0	1	0	0	-1	1	1	22.84511	62.04663	65.47447	47.49018	17.14912	27.56733	GO:0097159	organic cyclic compound binding	MF
+Gene_009625	magnesium-translocating p-type atpase	0	-1	0	0	0	0	0	1	1	78.29854	96.49205	109.86101	92.47156	74.66214	74.00693	GO:0097159	organic cyclic compound binding	MF
+Gene_009715	t-complex 1 subunit eta	1	1	0	0	0	0	0	-1	-1	1054.7146	835.9996	797.271	955.571	1100.6836	1189.4547	GO:0097159	organic cyclic compound binding	MF
+Gene_009731	clp1 homolog	1	1	0	0	0	0	0	-1	-1	162.3735	124.6755	128.5459	151.423	171.4274	165.6497	GO:0097159	organic cyclic compound binding	MF
+Gene_009762	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0097159	organic cyclic compound binding	MF
+Gene_009772	electron transfer flavo subunit alpha	0	-1	0	0	0	0	0	1	1	140.5293	156.978	176.536	143.0572	118.951	136.1485	GO:0097159	organic cyclic compound binding	MF
+Gene_009779	pep carboxykinase	-1	-1	0	0	0	0	-1	1	0	1.389025	4.224403	3.438493	3.692819	1.774634	1.781894	GO:0097159	organic cyclic compound binding	MF
+Gene_009807	superkiller viralicidic activity 2-like 2	1	1	0	0	0	0	0	-1	-1	339.3375	267.7458	257.8492	312.4984	345.0771	335.3855	GO:0097159	organic cyclic compound binding	MF
+Gene_009866	hypothetical protein pbra 005729	-1	-1	0	1	0	0	0	1	1	15.040644	42.757829	38.125313	23.4659	7.092873	11.390813	GO:0097159	organic cyclic compound binding	MF
+Gene_009870	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0097159	organic cyclic compound binding	MF
+Gene_009903	ras let-60	0	-1	0	0	0	0	0	1	1	94.21573	111.4296	118.67544	98.00295	86.64935	82.61666	GO:0097159	organic cyclic compound binding	MF
+Gene_009908	dna-directed rna polymerases and iii subunit rpabc1	1	1	0	0	0	0	0	0	0	209.3648	165.2535	159.8308	168.3188	195.2447	176.4825	GO:0097159	organic cyclic compound binding	MF
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0097159	organic cyclic compound binding	MF
+Gene_010021	rap1-interacting factor 1 n terminal-domain-containing	0	1	0	0	0	0	1	0	0	1.5702999	0.9430728	0.6612955	0.4745467	0.4585605	0.489188	GO:0097159	organic cyclic compound binding	MF
+Gene_010079	pyruvate dehydrogenase kinase	-1	-1	0	0	0	0	0	1	1	28.72902	41.37388	45.92887	27.80894	21.50997	21.67001	GO:0097159	organic cyclic compound binding	MF
+Gene_010277	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:0097159	organic cyclic compound binding	MF
+Gene_010398	agc kinase	-1	-1	0	0	0	0	0	1	1	8.500675	13.122722	13.577142	9.918192	7.315484	7.371135	GO:0097159	organic cyclic compound binding	MF
+Gene_010401	u3 small nucleolar ribonucleo imp4 isoform x2	1	1	0	0	0	0	0	-1	-1	100.32965	79.38879	71.57144	92.79957	97.37876	89.04479	GO:0097159	organic cyclic compound binding	MF
+Gene_010410	tkl drk kinase	-1	-1	0	0	0	0	-1	0	0	3.572997	10.379458	7.906617	8.450089	6.285553	5.231192	GO:0097159	organic cyclic compound binding	MF
+Gene_010413	dead deah box rna	1	1	0	0	0	0	0	0	0	90.46923	71.45952	64.13903	71.01099	70.35397	83.99888	GO:0097159	organic cyclic compound binding	MF
+Gene_010488	xrn family 5-3 exonuclease	1	1	0	0	0	0	0	0	-1	67.66874	53.33873	50.24047	59.1532	59.83373	64.02957	GO:0097159	organic cyclic compound binding	MF
+Gene_010500	hypothetical protein pbra 006694	-1	-1	0	1	0	0	0	1	1	2.296048	5.558092	4.508049	3.265977	1.28616	1.842262	GO:0097159	organic cyclic compound binding	MF
+Gene_010549	eukaryotic type kh-domain (kh-domain type i)	1	1	0	0	0	0	0	-1	-1	99.81553	78.82461	71.27193	92.47353	92.51276	99.67375	GO:0097159	organic cyclic compound binding	MF
+Gene_010556	28 kda ribonucleo	1	1	0	0	0	0	1	0	0	1200.7321	893.1892	811.1531	778.8721	845.3749	905.3527	GO:0097159	organic cyclic compound binding	MF
+Gene_010595	zinc finger 22	0	-1	0	0	0	0	0	1	1	184.8475	336.3655	448.5958	240.9846	112.5386	133.9857	GO:0097159	organic cyclic compound binding	MF
+Gene_010597	actin-7-like	-1	-1	0	1	0	0	0	1	1	107.69068	211.38089	229.66103	143.25165	67.34466	101.23994	GO:0097159	organic cyclic compound binding	MF
+Gene_010645	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0097159	organic cyclic compound binding	MF
+Gene_010714	ribosomal rps9	1	1	0	0	0	0	1	0	0	1000.3437	740.9802	747.6835	764.3451	893.7219	977.9837	GO:0097159	organic cyclic compound binding	MF
+Gene_010729	single-stranded dna-bindig mitochondrial-like	1	1	0	0	0	0	0	-1	-1	183.5106	144.6439	137.4491	186.8912	217.7998	212.822	GO:0097159	organic cyclic compound binding	MF
+Gene_010775	hypothetical protein pbra 009717; partial	1	1	0	0	0	0	0	-1	-1	22.65153	16.09882	15.08284	20.5689	25.98739	25.32643	GO:0097159	organic cyclic compound binding	MF
+Gene_010778	hypothetical protein pbra 008748	1	1	0	0	0	0	0	-1	-1	26.10391	19.29028	18.17116	26.07449	33.71416	32.04694	GO:0097159	organic cyclic compound binding	MF
+Gene_010780	hypothetical protein pbra 007053	1	1	0	0	0	0	0	-1	-1	54.0495	41.19541	38.74068	58.60398	68.17432	58.73176	GO:0097159	organic cyclic compound binding	MF
+Gene_010791	arm repeat-containing	1	1	0	0	0	0	1	0	0	257.4667	203.436	189.6526	199.0962	220.8092	231.9191	GO:0097159	organic cyclic compound binding	MF
+Gene_010812	snf1-related kinase catalytic subunit alpha kin10	-1	-1	0	1	0	0	-1	1	0	1.485128	5.000756	4.222024	5.71957	2.11098	2.525044	GO:0097159	organic cyclic compound binding	MF
+Gene_010855	zinc finger 540-like isoform x2	1	1	0	0	0	0	0	-1	-1	117.42342	84.748	89.29843	109.35748	133.78138	142.45379	GO:0097159	organic cyclic compound binding	MF
+Gene_010881	srftype transcription factor (dna-binding and dimerization domain) domain containing	0	1	0	0	0	0	0	0	0	8.499117	6.794749	5.656655	7.72246	9.028032	8.784577	GO:0097159	organic cyclic compound binding	MF
+Gene_010892	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:0097159	organic cyclic compound binding	MF
+Gene_010909	cold-shock	1	1	0	0	0	0	0	-1	-1	322.3521	241.5556	242.2503	370.8198	448.3097	446.2231	GO:0097159	organic cyclic compound binding	MF
+Gene_010922	abc transporter transmembrane region 2-domain-containing	0	1	0	0	0	0	1	0	0	43.74195	34.41292	29.43517	30.01892	36.63105	34.08083	GO:0097159	organic cyclic compound binding	MF
+Gene_010979	cmgc gsk kinase	-1	-1	0	1	0	0	0	1	1	22.98111	41.70768	40.93429	33.65208	19.34415	21.26201	GO:0097159	organic cyclic compound binding	MF
+Gene_011022	cca trna nucleotidyltransferase 2 isoform x1	1	1	0	0	0	0	0	-1	-1	240.5548	195.4541	195.6317	227.4236	255.0101	256.1079	GO:0097159	organic cyclic compound binding	MF
+Gene_011247	related to tetracycline resistance from transposon tn4351 tn4400	-1	-1	0	0	0	0	-1	1	1	0.9520365	3.2391735	3.2840695	2.4259797	1.3017011	0.4829424	GO:0097159	organic cyclic compound binding	MF
+Gene_011248	ribonuclease p subunit p25	0	1	0	0	0	0	0	0	0	399.7538	348.7806	317.7974	343.0556	380.0438	396.4572	GO:0097159	organic cyclic compound binding	MF
+Gene_011329	cytoplasmic dynein 2 light intermediate chain 1	-1	-1	0	0	0	0	0	1	1	0.9062485	2.2703621	2.6838915	1.4677727	0.7681087	0.3622068	GO:0097159	organic cyclic compound binding	MF
+Gene_011338	dead deah box rna helicase	0	1	0	0	0	0	0	0	-1	252.5687	220.5707	192.9133	223.23	244.9042	253.2852	GO:0097159	organic cyclic compound binding	MF
+Gene_011340	swi snf-related matrix-associated actin-dependent regulator of chromatin subfamily a-like	0	-1	0	0	0	0	-1	0	0	116.5745	128.2173	138.6759	147.2069	130.6857	131.6084	GO:0097159	organic cyclic compound binding	MF
+Gene_011345	hsf-type dna-binding	-1	-1	0	1	0	0	0	1	1	1.611044	3.554756	4.471798	3.415883	1.368933	1.298952	GO:0097159	organic cyclic compound binding	MF
+Gene_011383	abc transporter	0	-1	0	0	0	0	0	0	0	0.4132535	0.7903512	1.0394115	0.3988072	0.347604	0.6827825	GO:0097159	organic cyclic compound binding	MF
+Gene_011400	lon protease homolog mitochondrial-like	-1	-1	0	0	0	0	0	1	0	7.30328	15.01375	12.959834	9.305585	6.419101	8.326616	GO:0097159	organic cyclic compound binding	MF
+Gene_011438	arginine-trna ligase	1	1	0	0	0	0	0	-1	-1	327.8552	263.2239	251.2182	299.1615	354.6968	373.101	GO:0097159	organic cyclic compound binding	MF
+Gene_011454	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.469969	7.48349	7.33612	6.4195	2.2365	2.933256	GO:0097159	organic cyclic compound binding	MF
+Gene_011524	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	78.32657	129.04377	156.27271	88.87875	53.89099	57.10185	GO:0097159	organic cyclic compound binding	MF
+Gene_011525	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	30.87866	48.62802	57.54647	30.70788	17.29464	21.58676	GO:0097159	organic cyclic compound binding	MF
+Gene_011531	asparagine synthase (glutamine-hydrolysing)	0	-1	0	1	0	0	0	1	1	387.8902	434.0037	491.9456	348.0262	282.2816	316.0366	GO:0097159	organic cyclic compound binding	MF
+Gene_011548	hypothetical protein pbra 009717; partial	0	1	0	0	0	0	0	-1	-1	21.00751	15.78271	14.15613	19.2748	25.69014	22.85848	GO:0097159	organic cyclic compound binding	MF
+Gene_011598	kinesin heavy chain	-1	-1	0	1	0	0	0	1	1	1.6930469	4.9155349	3.6992649	2.5515181	0.8743106	1.4987916	GO:0097159	organic cyclic compound binding	MF
+Gene_011604	3-5 exoribonuclease	1	1	0	0	0	0	1	0	0	91.17553	68.81716	69.31413	64.65106	80.43204	71.89823	GO:0097159	organic cyclic compound binding	MF
+Gene_011626	agc kinase	-1	-1	0	1	0	0	0	1	1	73.82065	91.36808	108.33708	87.19519	67.78898	74.70846	GO:0097159	organic cyclic compound binding	MF
+Gene_011631	serine threonine kinase	0	-1	0	0	0	0	0	0	0	91.34218	109.51984	117.40775	108.92197	107.31772	103.66217	GO:0097159	organic cyclic compound binding	MF
+Gene_011645	d-3-phosphoglycerate dehydrogenase	-1	-1	0	0	0	0	0	1	1	132.9882	173.3641	198.8229	147.6166	116.8456	135.0827	GO:0097159	organic cyclic compound binding	MF
+Gene_011646	hypothetical protein pbra 009357	-1	-1	0	1	0	0	0	1	1	1.298549	2.927321	3.314628	2.260359	0.60719	0.876377	GO:0097159	organic cyclic compound binding	MF
+Gene_011647	kinase 2 (macronuclear)	-1	-1	0	1	0	0	0	1	1	1.7816489	4.6269193	5.8799592	3.3169272	0.8898513	1.1719705	GO:0097159	organic cyclic compound binding	MF
+Gene_011656	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0097159	organic cyclic compound binding	MF
+Gene_011685	zinc finger (c2h2 type) family	1	1	0	0	0	0	0	0	0	198.4679	160.6626	144.6011	168.8365	180.5307	171.7302	GO:0097159	organic cyclic compound binding	MF
+Gene_011706	c2h2-type zinc finger-containing protein	0	1	0	-1	0	0	1	0	0	67.07053	56.8493	54.4242	45.31607	58.44043	64.07954	GO:0097159	organic cyclic compound binding	MF
+Gene_011711	probable phospholipid-transporting atpase 7 isoform x1	-1	-1	0	1	0	0	0	1	1	3.745997	14.1124	11.74522	7.23172	2.751069	4.671233	GO:0097159	organic cyclic compound binding	MF
+Gene_011712	transmembrane protein	-1	-1	0	1	0	0	0	1	1	5.591478	15.988357	14.175275	8.006291	3.146298	5.456014	GO:0097159	organic cyclic compound binding	MF
+Gene_011742	glycyl-trna synthetase	1	1	0	0	0	0	0	0	-1	413.9107	343.0444	330.7584	356.084	384.2083	438.7918	GO:0097159	organic cyclic compound binding	MF
+Gene_011755	putative nima-related kinase	-1	-1	0	1	0	0	-1	1	0	6.176686	11.692208	11.118987	12.407394	6.313842	6.494758	GO:0097159	organic cyclic compound binding	MF
+Gene_011815	atp-dependent rna helicase eif4a	0	1	0	0	0	0	0	0	-1	1257.3676	1077.9213	994.7062	1113.8109	1200.6001	1255.5617	GO:0097159	organic cyclic compound binding	MF
+Gene_011818	trna-dihydrouridine synthase	1	1	0	0	0	0	0	-1	-1	67.8456	52.54997	50.13821	66.97693	74.89818	82.67078	GO:0097159	organic cyclic compound binding	MF
+Gene_011829	protein c7orf62 like protein	-1	-1	0	1	0	0	0	1	1	2.396358	5.322056	6.685483	3.685403	1.373393	2.73113	GO:0097159	organic cyclic compound binding	MF
+Gene_011856	bleomycin hydrolase	-1	-1	0	1	0	0	0	1	1	132.938	195.9744	219.727	162.5815	102.5546	118.3524	GO:0097159	organic cyclic compound binding	MF
+Gene_011899	intraflagellar transport protein 22 homolog	-1	-1	0	1	0	0	0	1	1	1.7099938	6.7010954	4.6074621	2.7922408	0.8010959	1.4321783	GO:0097159	organic cyclic compound binding	MF
+Gene_011954	dyneins heavy chain	-1	-1	0	1	0	0	0	1	1	14.12792	46.135837	39.750258	26.571694	8.565015	12.798009	GO:0097159	organic cyclic compound binding	MF
+Gene_012010	zinc knuckle (cchc-type) family protein isoform 1	0	1	0	0	0	0	0	-1	-1	226.1725	206.3749	176.8186	217.8046	244.4509	239.9647	GO:0097159	organic cyclic compound binding	MF
+Gene_012037	gtp-binding nuclear protein gsp1 ran	1	1	0	0	0	0	0	-1	-1	985.9285	812.8093	779.7704	932.0556	1056.023	1069.0311	GO:0097159	organic cyclic compound binding	MF
+Gene_012069	abcf/ef-3b transporter-like protein	1	1	0	0	0	0	0	-1	-1	589.7162	482.6212	468.5087	577.1641	625.3838	657.0363	GO:0097159	organic cyclic compound binding	MF
+Gene_012114	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0097159	organic cyclic compound binding	MF
+Gene_012125	hypothetical protein pbra 008461; partial	0	1	0	0	0	0	0	-1	-1	23.97382	18.64567	15.94201	24.89456	31.10156	30.7289	GO:0097159	organic cyclic compound binding	MF
+Gene_012147	chaperonin cpn60-2; mitochondrial	1	1	0	0	0	0	0	-1	-1	3052.061	2234.621	2031.438	2425.531	3086.734	3046.567	GO:0097159	organic cyclic compound binding	MF
+Gene_012180	calcium/calmodulin-dependent protein kinase type iv-like	-1	-1	0	1	0	0	0	1	0	1.5563337	5.7710221	4.4799492	3.6901347	0.9446567	1.5341773	GO:0097159	organic cyclic compound binding	MF
+Gene_012205	tryptophan-trna ligase	1	1	0	0	0	0	0	-1	-1	182.8972	146.378	142.16	171.9264	196.0012	196.0793	GO:0097159	organic cyclic compound binding	MF
+Gene_012265	50s ribosomal protein l6	-1	-1	0	0	0	0	0	1	0	0.5757723	1.5452283	1.5638006	0.5795098	0.5184346	0.8160092	GO:0097159	organic cyclic compound binding	MF
+Gene_012293	gtpase obge	1	1	0	0	0	0	0	-1	0	110.15838	92.49857	86.73064	99.44483	116.03826	107.11146	GO:0097159	organic cyclic compound binding	MF
+Gene_012300	hypothetical protein pbra 009206	1	1	0	0	0	0	0	-1	-1	78.03706	56.29626	58.80228	80.3473	91.49011	100.3128	GO:0097159	organic cyclic compound binding	MF
+Gene_012330	eukaryotic translation initiation factor 1a; acc. no. p55877	1	1	0	0	0	0	1	0	0	177.2061	147.8451	142.2982	132.2308	150.4931	136.8874	GO:0097159	organic cyclic compound binding	MF
+Gene_012387	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:0097159	organic cyclic compound binding	MF
+Gene_012458	sumo activating enzyme 2	0	1	0	0	0	0	0	-1	-1	69.15747	59.29143	55.24967	67.77219	74.26933	82.80401	GO:0097159	organic cyclic compound binding	MF
+Gene_012463	dead/deah box rna helicase	1	1	0	0	0	0	0	-1	-1	154.1607	115.0472	104.0954	133.8371	147.8796	172.5878	GO:0097159	organic cyclic compound binding	MF
+Gene_012560	hypothetical protein pbra 009641	0	1	0	0	0	0	0	-1	-1	27.65466	20.61644	19.04185	27.11091	35.03851	34.80642	GO:0097159	organic cyclic compound binding	MF
+Gene_012588	probable rna-binding protein 19	1	1	0	0	0	0	0	-1	-1	121.33697	102.31072	88.01698	118.08828	127.48497	127.71148	GO:0097159	organic cyclic compound binding	MF
+Gene_012610	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	0	1.680732	4.751127	4.490835	4.027574	1.418724	1.898259	GO:0097159	organic cyclic compound binding	MF
+Gene_012614	putative rpc11-dna-directed rna polymerase iii subunit c11	1	1	0	0	0	0	0	-1	0	64.77952	52.26174	48.03007	61.8921	77.11088	59.28339	GO:0097159	organic cyclic compound binding	MF
+Gene_012617	hypothetical protein pbra 008793	0	1	0	0	0	0	1	0	0	37.81613	30.49525	28.54609	26.81116	33.75996	29.93001	GO:0097159	organic cyclic compound binding	MF
+Gene_012688	hypothetical protein pbra 009598	0	1	0	0	0	0	0	-1	-1	17.6632	14.32953	11.78897	18.09256	23.27967	20.37642	GO:0097159	organic cyclic compound binding	MF
+Gene_012717	hypothetical protein pbra 009687	-1	-1	0	0	0	0	0	1	1	1.3486677	3.3773298	2.9147122	2.0461084	1.1310821	0.6099236	GO:0097159	organic cyclic compound binding	MF
+Gene_012759	rna cytidine acetyltransferase	1	1	0	0	0	0	0	-1	-1	153.9122	116.9025	109.6971	145.1201	153.3694	162.0962	GO:0097159	organic cyclic compound binding	MF

@@ -1,0 +1,5 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0043086	negative regulation of catalytic activity	BP
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0043086	negative regulation of catalytic activity	BP
+Gene_004020	hypothetical protein pbra 002438	-1	-1	0	0	0	0	0	1	1	7.401507	13.304903	15.286414	6.85277	4.300881	4.906458	GO:0043086	negative regulation of catalytic activity	BP
+Gene_010079	pyruvate dehydrogenase kinase	-1	-1	0	0	0	0	0	1	1	28.72902	41.37388	45.92887	27.80894	21.50997	21.67001	GO:0043086	negative regulation of catalytic activity	BP

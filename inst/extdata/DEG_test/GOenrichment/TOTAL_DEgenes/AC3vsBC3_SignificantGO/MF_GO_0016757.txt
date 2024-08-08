@@ -1,0 +1,51 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001267	hypothetical protein pbra 002787	0	0	0	0	0	0	0	1	1	25.71723	33.90564	35.44714	31.39438	23.62432	22.53389	GO:0016757	glycosyltransferase activity	MF
+Gene_001536	glycosyltransferase family 71	0	-1	0	0	0	0	0	1	1	19.8409	28.94377	37.60418	22.27634	16.00858	18.44971	GO:0016757	glycosyltransferase activity	MF
+Gene_001550	glycosyltransferase uncharacterized	-1	-1	0	1	0	0	0	1	1	6.11325	16.00697	15.794501	8.931318	2.757435	3.697015	GO:0016757	glycosyltransferase activity	MF
+Gene_001669	dolichyl-diphosphooligosaccharide-glycosyltransferase 48 kda subunit	1	0	0	0	0	0	0	-1	-1	278.2002	226.5313	246.3497	245.7154	272.4337	316.8693	GO:0016757	glycosyltransferase activity	MF
+Gene_001729	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:0016757	glycosyltransferase activity	MF
+Gene_001737	hypothetical protein pbra 003034	0	-1	0	0	0	0	0	1	1	1.5692648	2.6247965	2.9251011	1.3867075	1.017134	0.4288202	GO:0016757	glycosyltransferase activity	MF
+Gene_001898	class vii chitin synthase	-1	-1	0	1	0	0	-1	1	1	3.182056	9.505169	8.55407	7.091824	2.528459	2.718639	GO:0016757	glycosyltransferase activity	MF
+Gene_001928	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:0016757	glycosyltransferase activity	MF
+Gene_002282	beta-1;2-xylosyltransferase isoform	-1	-1	0	0	0	0	0	1	1	46.31803	69.17656	73.23799	56.50751	40.81875	43.9895	GO:0016757	glycosyltransferase activity	MF
+Gene_003031	hypothetical protein pbra 007505	-1	-1	0	1	0	0	0	1	1	4.851368	10.685913	10.87612	5.754067	2.89407	4.01759	GO:0016757	glycosyltransferase activity	MF
+Gene_003220	hypothetical protein pbra 007168	0	0	0	0	0	0	0	0	1	1.752093	2.9575704	2.0553928	1.7952705	1.7668433	0.8160092	GO:0016757	glycosyltransferase activity	MF
+Gene_003228	hypothetical protein pbra 007168	0	0	0	0	0	0	0	0	-1	9.675958	8.646674	7.776425	7.659932	10.177378	13.393354	GO:0016757	glycosyltransferase activity	MF
+Gene_003794	chitin synthase d	-1	-1	0	0	0	0	0	1	1	6.551407	19.182505	19.053731	10.920619	6.490185	5.29156	GO:0016757	glycosyltransferase activity	MF
+Gene_004051	wd domain containing	1	1	0	0	0	0	0	-1	-1	166.2589	129.5527	117.9402	157.1698	161.5631	170.7622	GO:0016757	glycosyltransferase activity	MF
+Gene_004348	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:0016757	glycosyltransferase activity	MF
+Gene_005473	sterol 3-beta-glucosyltransferase	-1	-1	0	1	0	0	-1	1	1	60.04585	108.66278	118.47896	90.4087	46.79523	64.37308	GO:0016757	glycosyltransferase activity	MF
+Gene_005860	dolichyl pyrophosphate man9 c2 alpha-1;3-glucosyltransferase-like	1	0	0	0	0	0	0	-1	-1	101.27651	86.60265	90.37734	102.91975	120.79607	115.40894	GO:0016757	glycosyltransferase activity	MF
+Gene_006122	udp-glucose:glyco glucosyltransferase	0	0	0	0	0	0	0	-1	-1	206.3519	180.1533	185.9786	211.8981	241.2885	224.7707	GO:0016757	glycosyltransferase activity	MF
+Gene_006148	hypothetical protein pbra 007307	-1	-1	0	1	0	0	0	1	1	0.9176302	3.1938089	2.844836	2.1671502	0.5903036	0.6161691	GO:0016757	glycosyltransferase activity	MF
+Gene_006160	hypothetical protein pbra 007315	-1	-1	0	1	0	0	0	1	1	2.426493	8.068273	6.894504	3.777801	1.659954	1.607036	GO:0016757	glycosyltransferase activity	MF
+Gene_006162	hypothetical protein pbra 003410	-1	-1	0	1	0	0	0	1	1	3.535295	9.497644	8.17717	5.231087	2.033748	3.153705	GO:0016757	glycosyltransferase activity	MF
+Gene_006164	duf563 domain-containing	-1	-1	0	0	0	0	0	1	1	2.6269766	6.0807841	6.1602659	2.4148193	0.9398134	1.0033581	GO:0016757	glycosyltransferase activity	MF
+Gene_006165	udp-d-xylose:l-fucose alpha-1;3-d-xylosyltransferase 1-like	-1	-1	0	1	0	0	0	1	1	2.2819498	7.6435396	7.1939852	4.3437861	0.8898513	2.4105543	GO:0016757	glycosyltransferase activity	MF
+Gene_006428	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:0016757	glycosyltransferase activity	MF
+Gene_006908	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0016757	glycosyltransferase activity	MF
+Gene_007632	hypothetical protein pbra 004097	-1	-1	0	1	0	0	0	1	1	3.228167	7.850165	7.549279	3.876628	1.092815	1.962997	GO:0016757	glycosyltransferase activity	MF
+Gene_007781	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	13.210096	38.853031	38.853111	26.554445	7.601252	12.167261	GO:0016757	glycosyltransferase activity	MF
+Gene_007814	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 1a-like	1	0	0	0	0	0	0	-1	-1	679.3603	543.1603	573.9172	606.7912	705.511	767.7845	GO:0016757	glycosyltransferase activity	MF
+Gene_007841	purine-nucleoside phosphorylase	0	-1	0	0	0	0	0	1	1	38.94862	65.25316	87.09052	46.81348	27.75674	29.43459	GO:0016757	glycosyltransferase activity	MF
+Gene_007934	[naegleria gruberi]	0	-1	0	0	0	0	0	1	1	16.64106	20.52024	23.9423	13.90124	10.44758	12.12772	GO:0016757	glycosyltransferase activity	MF
+Gene_007978	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:0016757	glycosyltransferase activity	MF
+Gene_007993	probable chitin synthase d	-1	-1	0	0	0	0	0	1	1	22.04859	49.07865	39.27697	26.53671	15.44271	14.08655	GO:0016757	glycosyltransferase activity	MF
+Gene_008000	probable chitin synthase d	-1	-1	0	1	0	0	0	1	1	22.38515	58.39152	47.73773	29.12021	13.04946	11.57815	GO:0016757	glycosyltransferase activity	MF
+Gene_008582	alpha 1;3 fucosyltransferase	-1	-1	0	0	0	0	0	1	1	6.281261	13.917527	13.053167	7.432231	3.369871	3.709506	GO:0016757	glycosyltransferase activity	MF
+Gene_008695	unidentified vitellogenin-linked transcript family member (uvt-5)	0	0	0	0	0	0	0	-1	-1	46.84612	40.48145	39.27961	50.23573	56.70379	56.47942	GO:0016757	glycosyltransferase activity	MF
+Gene_008714	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	1	0	0	0	1	1	1.691624	4.6504938	5.1347241	3.4042967	0.9784294	1.7340173	GO:0016757	glycosyltransferase activity	MF
+Gene_008862	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:0016757	glycosyltransferase activity	MF
+Gene_009633	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	0	0	0	0	1	1	0.9683343	2.3009084	2.1770199	0.9624252	0.4024094	0.3080846	GO:0016757	glycosyltransferase activity	MF
+Gene_009650	glycosyltransferase family 8	-1	-1	0	0	0	0	-1	1	1	8.192976	23.37801	20.725923	20.170917	9.404344	7.943585	GO:0016757	glycosyltransferase activity	MF
+Gene_009985	hypothetical protein pbra 005828	0	-1	0	0	0	0	0	1	1	40.4288	48.26277	55.72808	37.59539	30.76861	30.02785	GO:0016757	glycosyltransferase activity	MF
+Gene_010019	xylosyltransferase 2	-1	-1	0	1	0	0	0	1	1	13.706578	24.104098	25.649556	16.864515	9.732555	13.459967	GO:0016757	glycosyltransferase activity	MF
+Gene_010179	glycosyltransferase uncharacterized	0	0	0	0	0	0	0	-1	-1	8.82048	6.558639	6.213233	6.789599	10.333669	13.091515	GO:0016757	glycosyltransferase activity	MF
+Gene_010263	inositol phosphoceramide mannosyltransferase 3-like	0	0	0	0	0	0	0	1	1	0.5200272	1.23021651	0.76438281	0.30687885	0.13165448	0.06036781	GO:0016757	glycosyltransferase activity	MF
+Gene_010334	n-acetylglucosaminyl-phosphatidylinositol biosynthetic gpi1	0	0	0	0	0	0	0	0	-1	105.09104	97.09213	96.19288	104.25041	111.9548	120.90659	GO:0016757	glycosyltransferase activity	MF
+Gene_010491	family gt8 and family gt64	0	0	0	0	0	0	0	1	1	10.107052	11.85552	10.224605	6.77575	7.420046	5.485154	GO:0016757	glycosyltransferase activity	MF
+Gene_011505	glycosyltransferase uncharacterized	-1	-1	0	1	0	0	0	1	1	10.03787	24.150366	25.290975	14.817822	4.871872	8.466089	GO:0016757	glycosyltransferase activity	MF
+Gene_011605	alpha-(1;6)-fucosyltransferase-like isoform x1	0	0	0	0	0	0	0	0	-1	2.677741	2.342036	2.350591	3.507812	3.062482	4.973072	GO:0016757	glycosyltransferase activity	MF
+Gene_011777	dolichyl-diphosphooligosaccharide-protein glycosyltransferase subunit stt3a	0	0	0	0	0	0	0	0	-1	615.3233	524.721	569.4865	607.4229	615.2959	709.621	GO:0016757	glycosyltransferase activity	MF
+Gene_011946	queuine trna-ribosyltransferase	1	1	0	0	0	0	0	0	-1	79.8687	66.21623	61.16627	72.52891	73.95502	79.88553	GO:0016757	glycosyltransferase activity	MF
+Gene_012336	nicotinate phosphoribosyltransferase isoform x2	0	-1	0	0	0	0	0	1	1	53.20313	63.95999	70.55971	53.23738	47.29432	45.04073	GO:0016757	glycosyltransferase activity	MF

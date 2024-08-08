@@ -1,0 +1,10 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000991	hypothetical protein pbra 005258	-1	0	0	0	0	0	-1	0	0	3.83032	7.05539	6.563248	8.119058	9.198616	10.318754	GO:0004527	exonuclease activity	MF
+Gene_001689	dnase i	-1	-1	0	0	0	0	0	1	1	1.782361	4.859299	5.892586	3.533924	1.582457	1.346828	GO:0004527	exonuclease activity	MF
+Gene_002637	flap endonuclease 1	1	0	0	0	0	0	0	-1	-1	242.0454	199.6241	207.2958	248.0261	279.3684	268.55	GO:0004527	exonuclease activity	MF
+Gene_003493	exosome complex exonuclease rrp44	1	1	0	0	0	0	0	-1	-1	179.3742	142.2584	134.7472	170.4489	181.1019	195.5547	GO:0004527	exonuclease activity	MF
+Gene_007470	poly(a)-specific ribonuclease parn-like domain-containing 1	1	1	0	0	0	0	1	-1	-1	261.3242	206.4651	209.6455	209.7671	242.688	264.4054	GO:0004527	exonuclease activity	MF
+Gene_007722	dna polymerase	1	0	0	0	0	0	0	0	0	164.3992	131.8496	132.7385	140.3457	161.1728	164.1987	GO:0004527	exonuclease activity	MF
+Gene_010366	exosome complex exonuclease rrp6	-1	0	0	0	0	0	0	0	0	0.1815992	0.5939697	0.5276494	0.2422998	0.2552143	0.187349	GO:0004527	exonuclease activity	MF
+Gene_010488	xrn family 5-3 exonuclease	1	1	0	0	0	0	0	0	-1	67.66874	53.33873	50.24047	59.1532	59.83373	64.02957	GO:0004527	exonuclease activity	MF
+Gene_012783	hypothetical protein pbra 009702	-1	-1	0	0	0	0	0	1	1	3.006765	6.570029	6.550401	4.610663	2.642814	2.833129	GO:0004527	exonuclease activity	MF

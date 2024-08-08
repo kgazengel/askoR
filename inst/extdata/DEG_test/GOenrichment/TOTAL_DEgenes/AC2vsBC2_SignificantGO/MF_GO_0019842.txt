@@ -1,0 +1,32 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000062	2-oxoglutarate and iron-dependent oxygenase domain-containing 3-like	0	0	0	0	0	0	0	-1	0	76.71951	64.82437	62.36099	67.88936	81.38241	73.00773	GO:0019842	vitamin binding	MF
+Gene_000452	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0019842	vitamin binding	MF
+Gene_000453	proly 4-hydroxylase	-1	-1	0	0	0	0	0	1	1	16.20158	45.22108	41.72444	30.19788	17.29311	12.63978	GO:0019842	vitamin binding	MF
+Gene_000728	methionine synthase	0	0	0	0	0	0	0	-1	0	134.3211	121.0091	125.7816	126.9706	143.2537	148.1513	GO:0019842	vitamin binding	MF
+Gene_002613	kynureninase isoform x1	0	-1	0	0	0	0	0	1	1	11.14563	21.556208	24.463457	13.896851	7.013406	6.199165	GO:0019842	vitamin binding	MF
+Gene_004265	alanine transaminase	0	0	0	0	0	0	0	1	0	28.03825	29.96676	33.05419	26.411	21.54897	23.93068	GO:0019842	vitamin binding	MF
+Gene_004381	2-oxoglutarate mitochondrial-like	0	0	0	0	0	0	0	-1	0	366.8607	339.7615	366.7011	360.0419	395.791	408.1789	GO:0019842	vitamin binding	MF
+Gene_004541	2og-fe(ii) oxygenase family	0	0	0	0	0	0	0	-1	-1	182.1755	165.4017	165.4745	180.0911	197.5791	205.7361	GO:0019842	vitamin binding	MF
+Gene_004665	aspartate aminotransferase chloroplastic	1	0	0	0	0	0	0	-1	-1	296.5896	250.4308	263.3307	287.6339	303.3745	321.0846	GO:0019842	vitamin binding	MF
+Gene_005037	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:0019842	vitamin binding	MF
+Gene_005038	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:0019842	vitamin binding	MF
+Gene_005671	molybdenum cofactor sulfurase	0	0	0	0	0	0	0	1	1	44.38026	44.27528	49.95447	35.78602	35.12563	36.31861	GO:0019842	vitamin binding	MF
+Gene_005999	l-histidine n(alpha)-methyltransferase	0	0	0	0	0	0	0	-1	-1	172.7748	151.1647	154.9797	190.4436	214.0034	207.724	GO:0019842	vitamin binding	MF
+Gene_006167	cytochrome p450 71d11	-1	-1	0	1	0	0	0	1	0	5.742229	17.555433	13.916134	10.314655	3.463852	6.881947	GO:0019842	vitamin binding	MF
+Gene_006251	family pyridoxal phosphate enzyme	0	0	0	0	0	0	0	-1	0	188.119	156.0396	159.4609	159.8005	190.6564	161.6945	GO:0019842	vitamin binding	MF
+Gene_006361	alcohol acetyltransferase	-1	-1	0	0	0	0	0	1	0	0.2692293	0.8120929	0.8140892	0.3397221	0.3188999	0.2477168	GO:0019842	vitamin binding	MF
+Gene_007151	uncharacterized ph domain-containing	0	0	0	0	0	0	0	1	1	165.6356	181.6053	197.8719	157.7924	144.3175	138.6069	GO:0019842	vitamin binding	MF
+Gene_007152	serine palmitoyltransferase 2	0	-1	0	0	0	0	0	1	1	10.9033	17.49319	20.6387	13.66579	10.17711	10.24174	GO:0019842	vitamin binding	MF
+Gene_007153	long chain base biosynthesis 2b-like	-1	-1	0	0	0	0	0	1	1	7.077171	11.352061	14.871606	9.383588	5.796076	6.011816	GO:0019842	vitamin binding	MF
+Gene_007490	sphingosine-1-phosphate lyase	0	0	0	0	0	0	0	-1	0	109.8434	101.0975	104.8142	113.741	117.9179	124.2289	GO:0019842	vitamin binding	MF
+Gene_007828	tyrosine decarboxylase 1 isoform x1	0	0	0	0	0	0	0	-1	0	101.3825	97.52281	87.81412	106.06849	115.5539	106.17679	GO:0019842	vitamin binding	MF
+Gene_008204	prolyl 4-hydroxylase	0	1	0	0	0	0	0	-1	-1	62.2978	51.6933	47.32557	65.55203	72.7551	65.10788	GO:0019842	vitamin binding	MF
+Gene_008389	glycine hydroxymethyltransferase	0	0	0	0	0	0	0	-1	0	228.7562	206.7248	223.6628	236.9004	248.2964	236.6715	GO:0019842	vitamin binding	MF
+Gene_008894	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0019842	vitamin binding	MF
+Gene_009690	5-aminolevulinate synthase	0	0	0	0	0	0	0	-1	-1	412.4352	403.9691	414.2619	454.5974	464.5621	515.1343	GO:0019842	vitamin binding	MF
+Gene_009762	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0019842	vitamin binding	MF
+Gene_009805	aspartate aminotransferase family	0	0	0	0	0	0	-1	-1	-1	6.793327	5.283187	5.175865	12.400547	18.380445	20.599	GO:0019842	vitamin binding	MF
+Gene_010166	pyridoxal-dependent decarboxylase domain-containing 2 isoform x1	0	0	0	0	0	0	0	1	0	5.356981	11.453448	13.17452	6.43437	4.402191	6.652967	GO:0019842	vitamin binding	MF
+Gene_010645	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0019842	vitamin binding	MF
+Gene_011748	2og-fe(ii) oxygenase	1	0	0	0	0	0	0	-1	0	64.45596	46.19647	50.37047	65.34349	73.18353	64.11282	GO:0019842	vitamin binding	MF
+Gene_012387	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:0019842	vitamin binding	MF

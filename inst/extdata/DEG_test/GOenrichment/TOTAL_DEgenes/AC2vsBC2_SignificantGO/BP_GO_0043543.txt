@@ -1,0 +1,16 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000324	glycylpeptide n-tetradecanoyltransferase	1	1	0	0	0	0	0	-1	-1	211.9863	177.3582	172.6689	214.7104	227.9951	226.7649	GO:0043543	protein acylation	BP
+Gene_000568	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0043543	protein acylation	BP
+Gene_001763	probable s-acyltransferase 16	0	0	0	0	0	0	0	-1	0	87.27792	80.05077	81.35601	82.12331	97.20183	90.27297	GO:0043543	protein acylation	BP
+Gene_001845	transcriptional adapter 2b isoform x1	0	0	0	0	0	0	0	-1	0	175.3517	161.0355	166.4088	170.3526	198.1584	172.6856	GO:0043543	protein acylation	BP
+Gene_001856	n-alpha-acetyltransferase auxiliary subunit	1	1	0	0	0	0	1	-1	0	76.69973	57.72447	59.93541	61.78547	68.59022	70.62424	GO:0043543	protein acylation	BP
+Gene_003165	zf-dhhc-domain-containing [auricularia subglabra tfb-10046 ss5]	0	0	0	0	0	0	0	1	0	24.19248	28.01229	29.26972	21.63737	19.43722	21.8532	GO:0043543	protein acylation	BP
+Gene_003650	transcription elongation factor spt5-like	0	0	0	0	0	0	0	-1	-1	130.96	122.4427	114.8096	151.5119	173.4492	167.8217	GO:0043543	protein acylation	BP
+Gene_004168	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like	1	0	0	0	0	0	0	-1	0	258.2012	212.5475	233.2546	232.946	269.928	273.3253	GO:0043543	protein acylation	BP
+Gene_005990	inhibitor of growth 4 isoform x7	0	0	0	0	0	0	0	-1	0	78.43311	70.93687	71.44962	84.92026	93.20918	87.16923	GO:0043543	protein acylation	BP
+Gene_005995	transcriptional adapter ada2b-like isoform x1	0	0	0	0	0	0	0	-1	0	136.1116	131.4831	135.5871	140.5704	159.2984	133.3819	GO:0043543	protein acylation	BP
+Gene_008034	transcription-associated 1	0	0	0	0	0	0	0	-1	-1	267.8758	240.084	258.1006	298.3209	329.0911	330.0753	GO:0043543	protein acylation	BP
+Gene_008035	transformation transcription domain-associated-like	0	0	0	0	0	0	0	-1	0	245.5382	234.5065	237.0474	267.6305	301.8603	277.5135	GO:0043543	protein acylation	BP
+Gene_008108	n-alpha-acetyltransferase 30-like	1	0	0	0	0	0	0	-1	-1	69.39671	55.49056	57.32123	70.79337	84.72631	77.15233	GO:0043543	protein acylation	BP
+Gene_009539	alpha-tubulin n-acetyltransferase 1 isoform x6	-1	-1	0	1	0	0	0	1	1	2.973812	7.620084	8.616817	5.356966	1.311702	2.229451	GO:0043543	protein acylation	BP
+Gene_010612	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0043543	protein acylation	BP

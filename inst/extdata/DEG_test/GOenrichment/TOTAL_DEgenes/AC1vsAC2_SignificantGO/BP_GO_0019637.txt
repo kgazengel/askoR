@@ -1,0 +1,58 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000179	adenylate guanylate cyclase	-1	-1	0	1	0	0	-1	1	1	2.869299	9.657512	8.545919	6.490976	2.159597	3.118319	GO:0019637	organophosphate metabolic process	BP
+Gene_000507	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0019637	organophosphate metabolic process	BP
+Gene_000600	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0019637	organophosphate metabolic process	BP
+Gene_000938	acyl-coenzyme a oxidase peroxisomal-like	1	0	0	0	0	0	0	-1	0	146.4076	120.1247	129.9385	136.5351	156.8979	138.1073	GO:0019637	organophosphate metabolic process	BP
+Gene_001301	triosephosphate isomerase	1	0	0	0	0	0	0	-1	0	316.0756	262.2501	271.4667	294.1395	327.9799	334.453	GO:0019637	organophosphate metabolic process	BP
+Gene_001307	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:0019637	organophosphate metabolic process	BP
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0019637	organophosphate metabolic process	BP
+Gene_001332	phospholipid n-methyltransferase	1	0	0	0	0	0	0	0	0	50.17762	40.21673	42.66718	43.11035	46.81532	43.31921	GO:0019637	organophosphate metabolic process	BP
+Gene_001418	phosphatidylserine decarboxylase	1	1	0	0	0	0	0	0	0	68.82014	57.79797	54.74526	61.40261	67.00939	62.57241	GO:0019637	organophosphate metabolic process	BP
+Gene_001634	thymidylate synthase	1	0	0	0	0	0	0	-1	-1	138.7756	112.5356	120.0033	137.236	146.1223	155.5557	GO:0019637	organophosphate metabolic process	BP
+Gene_001678	hypothetical protein pbra 002984	1	0	0	0	0	0	0	-1	0	295.6701	233.5505	235.822	245.4815	299.8304	270.9167	GO:0019637	organophosphate metabolic process	BP
+Gene_001687	phosphatidylinositol 4-kinase alpha-like	-1	-1	0	1	0	0	0	1	1	3.768597	9.596969	7.547235	4.42557	2.019199	2.229451	GO:0019637	organophosphate metabolic process	BP
+Gene_001750	phosphatidylinositol 4-kinase alpha	-1	-1	0	0	0	0	0	1	1	4.162258	9.759075	8.434267	5.003037	2.997628	3.15995	GO:0019637	organophosphate metabolic process	BP
+Gene_001882	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0019637	organophosphate metabolic process	BP
+Gene_001887	adenylate kinase	1	1	0	0	0	0	0	-1	-1	213.8695	158.8456	165.8168	200.687	230.8222	228.6654	GO:0019637	organophosphate metabolic process	BP
+Gene_002062	glycerol-3-phosphate dehydrogenase	-1	-1	0	0	0	0	0	1	0	76.4915	102.58759	106.6372	100.73193	76.73397	80.41428	GO:0019637	organophosphate metabolic process	BP
+Gene_002268	probable phosphoglycerate kinase	1	0	0	0	0	0	0	-1	-1	206.1574	169.2614	176.9605	196.6996	212.4812	238.3139	GO:0019637	organophosphate metabolic process	BP
+Gene_002999	hypothetical protein pbra 002189	1	0	0	0	0	0	0	-1	0	51.4452	41.7196	42.80876	53.86317	64.64814	52.55965	GO:0019637	organophosphate metabolic process	BP
+Gene_003310	dctp deaminase	1	0	0	0	0	0	0	0	0	207.7154	171.9223	179.5466	182.33	188.6711	198.8	GO:0019637	organophosphate metabolic process	BP
+Gene_003636	saicar synthase	-1	-1	0	0	0	0	0	1	0	69.82043	89.23222	91.46412	80.92535	65.52437	73.46363	GO:0019637	organophosphate metabolic process	BP
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0019637	organophosphate metabolic process	BP
+Gene_004057	phosphoenolpyruvate phosphomutase	-1	0	0	1	0	0	-1	1	0	15.4447	34.37865	24.45492	34.44527	14.6578	17.01126	GO:0019637	organophosphate metabolic process	BP
+Gene_004168	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like	1	0	0	0	0	0	0	-1	0	258.2012	212.5475	233.2546	232.946	269.928	273.3253	GO:0019637	organophosphate metabolic process	BP
+Gene_004681	hypothetical protein pbra 001238	-1	-1	0	0	0	0	0	1	1	5.131526	12.572974	11.704493	8.338044	5.090336	3.957223	GO:0019637	organophosphate metabolic process	BP
+Gene_004814	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0019637	organophosphate metabolic process	BP
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0019637	organophosphate metabolic process	BP
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0019637	organophosphate metabolic process	BP
+Gene_004998	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0019637	organophosphate metabolic process	BP
+Gene_005037	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:0019637	organophosphate metabolic process	BP
+Gene_005038	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:0019637	organophosphate metabolic process	BP
+Gene_005083	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	0	1	1	5.242119	15.631916	13.96421	8.940509	4.076583	2.754024	GO:0019637	organophosphate metabolic process	BP
+Gene_005121	phosphatidylserine decarboxylase subunit beta	-1	-1	0	1	0	0	-1	1	1	4.39899	12.237919	11.162974	8.876964	2.711804	5.014703	GO:0019637	organophosphate metabolic process	BP
+Gene_005429	phosphonoacetaldehyde hydrolase-like	-1	0	0	0	0	0	-1	1	0	40.83606	62.47603	51.14546	67.67747	44.50938	41.38326	GO:0019637	organophosphate metabolic process	BP
+Gene_005615	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	-1	1	0	22.96513	41.43728	41.12095	36.3205	26.80193	28.51657	GO:0019637	organophosphate metabolic process	BP
+Gene_005755	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:0019637	organophosphate metabolic process	BP
+Gene_006335	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:0019637	organophosphate metabolic process	BP
+Gene_006336	s53301h+-exporting atpase (ec ) (clone haa1)-golden alga (heterosigma akashiwo) (fragment)	-1	0	0	0	0	0	-1	0	0	2.993991	13.680055	5.956964	19.667209	12.088225	5.424787	GO:0019637	organophosphate metabolic process	BP
+Gene_006562	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0019637	organophosphate metabolic process	BP
+Gene_006564	phosphoethanolamine-cytidyltransferase	-1	0	0	0	0	0	0	1	1	11.012476	25.195358	20.100411	13.807697	7.418446	6.209568	GO:0019637	organophosphate metabolic process	BP
+Gene_006598	glutamine-fructose-6-phosphate transaminase	-1	0	0	0	0	0	0	1	0	99.57143	150.09838	120.84414	132.05578	106.54003	113.13995	GO:0019637	organophosphate metabolic process	BP
+Gene_006620	sphingosine kinase 2 isoform x1	-1	-1	0	0	0	0	0	1	0	1.644415	3.841723	4.221195	1.997483	1.047047	1.994225	GO:0019637	organophosphate metabolic process	BP
+Gene_006637	adenylosuccinate lyase	1	1	0	0	0	0	0	-1	-1	126.1515	101.751	98.7969	105.9955	125.7071	129.8848	GO:0019637	organophosphate metabolic process	BP
+Gene_007018	thymidylate kinase	-1	-1	0	0	0	0	-1	0	0	89.3749	107.35327	115.08818	107.74335	93.93068	96.71154	GO:0019637	organophosphate metabolic process	BP
+Gene_007160	inositol-3-phosphate synthase 1-a-like	1	0	0	0	0	0	0	-1	-1	160.9577	126.8394	135.1943	159.6631	166.8915	179.0618	GO:0019637	organophosphate metabolic process	BP
+Gene_007405	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:0019637	organophosphate metabolic process	BP
+Gene_007542	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0019637	organophosphate metabolic process	BP
+Gene_007951	diphthine synthase	1	0	0	0	0	0	0	0	0	48.03258	36.86606	38.12161	39.98253	41.23499	46.62487	GO:0019637	organophosphate metabolic process	BP
+Gene_007960	hd domain-containing	-1	-1	0	1	0	0	0	1	1	5.586625	14.15925	15.252594	10.777098	4.090217	6.344882	GO:0019637	organophosphate metabolic process	BP
+Gene_008506	6-phosphofructo-2-kinase fructose-2;6-bisphosphatase isoform x5	-1	-1	0	0	0	0	0	1	1	7.017951	19.299932	15.954203	8.941371	4.792352	5.189561	GO:0019637	organophosphate metabolic process	BP
+Gene_008865	intraflagellar transport 57	-1	-1	0	1	0	0	0	1	1	14.925323	44.76304	44.936372	30.635745	9.276855	14.288468	GO:0019637	organophosphate metabolic process	BP
+Gene_009088	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:0019637	organophosphate metabolic process	BP
+Gene_009600	1-phosphatidylinositol-4-phosphate 5-kinase	-1	-1	0	0	0	0	-1	1	1	8.140904	17.556606	18.195213	15.769231	9.601167	8.511878	GO:0019637	organophosphate metabolic process	BP
+Gene_010063	f1 delta epsilon subunit	1	0	0	0	0	0	0	0	0	387.6815	330.921	335.1086	358.1922	379.2703	368.8003	GO:0019637	organophosphate metabolic process	BP
+Gene_010277	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:0019637	organophosphate metabolic process	BP
+Gene_010559	1-phosphatidylinositol 4;5-bisphosphate phosphodiesterase delta-4-like isoform x1	-1	-1	0	0	0	0	0	1	1	87.93731	112.94821	117.08348	96.91657	81.32484	88.40157	GO:0019637	organophosphate metabolic process	BP
+Gene_010892	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:0019637	organophosphate metabolic process	BP
+Gene_011751	inositol 5-phosphatase	-1	-1	0	0	0	0	0	1	0	0.6763417	2.6154217	1.6958165	1.0054939	0.6676242	0.7431503	GO:0019637	organophosphate metabolic process	BP

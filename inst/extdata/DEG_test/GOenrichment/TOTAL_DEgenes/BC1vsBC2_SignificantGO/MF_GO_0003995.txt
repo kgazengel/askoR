@@ -1,0 +1,6 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000334	isobutyryl-mitochondrial	0	-1	0	1	0	0	0	1	1	159.493	182.5625	210.5711	168.3657	130.3956	149.6064	GO:0003995	acyl-CoA dehydrogenase activity	MF
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0003995	acyl-CoA dehydrogenase activity	MF
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0003995	acyl-CoA dehydrogenase activity	MF
+Gene_011524	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	78.32657	129.04377	156.27271	88.87875	53.89099	57.10185	GO:0003995	acyl-CoA dehydrogenase activity	MF
+Gene_011525	acyl-dehydrogenase oxidase c-terminal	-1	-1	0	1	0	0	0	1	1	30.87866	48.62802	57.54647	30.70788	17.29464	21.58676	GO:0003995	acyl-CoA dehydrogenase activity	MF

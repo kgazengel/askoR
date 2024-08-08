@@ -1,0 +1,37 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000443	trna (uracil-5-)-methyltransferase	1	1	0	0	0	0	0	-1	-1	208.4949	170.3726	161.3259	205.2603	231.407	208.1174	GO:0008168	methyltransferase activity	MF
+Gene_000940	rrna 2-o-methyltransferase fibrillarin	1	1	0	0	0	0	0	0	0	463.0426	382.1217	380.9645	391.6197	415.3551	430.8481	GO:0008168	methyltransferase activity	MF
+Gene_001053	trna (cytosine(34)-c(5))-methyltransferase-like	1	1	0	0	0	0	0	-1	-1	94.06377	69.904	73.29008	78.32068	86.36095	100.69165	GO:0008168	methyltransferase activity	MF
+Gene_001251	trm112p-domain-containing	0	1	0	0	0	0	0	0	0	77.96856	65.50282	62.1499	68.78294	75.28685	64.73109	GO:0008168	methyltransferase activity	MF
+Gene_001772	n2;n2-dimethylguanosine trna methyltransferase	1	1	0	0	0	0	0	-1	-1	106.45326	87.66109	83.82837	104.02211	114.25444	125.40089	GO:0008168	methyltransferase activity	MF
+Gene_003772	arginine n-methyltransferase 3	1	1	0	0	0	0	0	0	0	77.97982	61.94966	57.16921	62.05016	58.84885	70.5259	GO:0008168	methyltransferase activity	MF
+Gene_004133	hypothetical protein pbra 002530	1	1	0	0	0	0	0	-1	0	87.83854	66.69267	65.81532	75.26925	83.65678	77.16065	GO:0008168	methyltransferase activity	MF
+Gene_004751	spermidine synthase	-1	-1	0	1	0	0	-1	1	1	2.973551	8.974004	9.205584	7.725097	2.823115	3.134968	GO:0008168	methyltransferase activity	MF
+Gene_004996	trna (guanine(37)-n1)-methyltransferase	0	1	0	0	0	0	1	0	0	100.33581	84.18007	77.20938	76.53344	90.31594	76.70267	GO:0008168	methyltransferase activity	MF
+Gene_005010	benzoic acid salicylic acid methyltransferase	-1	-1	0	0	0	0	0	1	1	53.86222	73.52145	79.29517	64.64442	46.36312	48.0841	GO:0008168	methyltransferase activity	MF
+Gene_005110	membrane occupation and recognition nexus morn1	-1	-1	0	1	0	0	-1	1	1	0.8477209	3.0623869	2.6647438	2.9896454	0.8724048	0.4350657	GO:0008168	methyltransferase activity	MF
+Gene_005276	probable 18s rrna (guanine-n(7))-methyltransferase	1	1	0	-1	0	0	0	-1	-1	139.6875	108.7096	103.5226	119.1205	148.2297	129.9097	GO:0008168	methyltransferase activity	MF
+Gene_005317	trna (adenine(58)-n(1))-methyltransferase catalytic subunit trmt61a-like	1	1	0	0	0	0	0	-1	-1	209.1064	166.1371	153.9037	182.4184	200.6272	191.5162	GO:0008168	methyltransferase activity	MF
+Gene_005924	trimethylguanosine synthase	0	1	0	0	0	0	0	-1	0	108.24088	89.07735	82.37873	98.13243	110.68264	100.60837	GO:0008168	methyltransferase activity	MF
+Gene_006167	cytochrome p450 71d11	-1	-1	0	1	0	0	0	1	0	5.742229	17.555433	13.916134	10.314655	3.463852	6.881947	GO:0008168	methyltransferase activity	MF
+Gene_006706	probable 28s rrna (cytosine(4447)-c(5))-methyltransferase	1	1	0	0	0	0	0	0	-1	192.2776	153.1862	136.9344	161.6797	173.0244	188.8434	GO:0008168	methyltransferase activity	MF
+Gene_006750	probable 28s rrna (cytosine-c(5))-methyltransferase	0	1	0	0	0	0	0	-1	-1	66.40549	59.16182	54.82798	68.476	72.80331	74.99364	GO:0008168	methyltransferase activity	MF
+Gene_006950	hypothetical protein pbra 004452	-1	-1	0	1	0	0	0	1	0	2.1222104	4.8729185	5.7605704	4.0803373	0.8685932	3.1974233	GO:0008168	methyltransferase activity	MF
+Gene_007102	family methyltransferase	-1	-1	0	0	0	0	0	1	1	88.71695	120.61983	156.94083	97.61477	71.7126	76.77349	GO:0008168	methyltransferase activity	MF
+Gene_007152	serine palmitoyltransferase 2	0	-1	0	0	0	0	0	1	1	10.9033	17.49319	20.6387	13.66579	10.17711	10.24174	GO:0008168	methyltransferase activity	MF
+Gene_008443	hypothetical protein pbra 006996	-1	-1	0	1	0	0	0	1	1	1.2808919	3.1671782	3.2311028	1.7891344	0.4274791	0.9117626	GO:0008168	methyltransferase activity	MF
+Gene_008458	sam-dependent methyltransferase	-1	-1	0	1	0	0	0	1	1	128.35946	176.46347	192.15989	135.43774	91.24156	96.84271	GO:0008168	methyltransferase activity	MF
+Gene_008593	trna (guanine-n(7)-)-methyltransferase	0	1	0	0	0	0	0	-1	0	171.7386	140.6659	131.894	166.1512	185.5186	152.4186	GO:0008168	methyltransferase activity	MF
+Gene_008619	probable s-adenosylmethionine-dependent methyltransferase at5g38100	1	1	0	0	0	0	1	0	0	8172.937	6072.219	6323.88	5946.777	6695.463	8065.529	GO:0008168	methyltransferase activity	MF
+Gene_008729	trna:m(4)x modification enzyme trm13 homolog	1	1	0	0	0	0	0	-1	-1	85.55756	72.32264	65.89561	73.73886	86.63454	85.6059	GO:0008168	methyltransferase activity	MF
+Gene_008735	arginine methyltransferase	1	1	0	0	0	0	1	-1	-1	112.27702	79.2152	82.62762	87.61852	104.63494	108.68519	GO:0008168	methyltransferase activity	MF
+Gene_009433	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0008168	methyltransferase activity	MF
+Gene_009870	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0008168	methyltransferase activity	MF
+Gene_010075	drev methyltransferase	0	-1	0	0	0	0	0	1	1	12.47173	17.65439	20.17379	13.25975	11.14984	12.34836	GO:0008168	methyltransferase activity	MF
+Gene_010311	arginine n-methyltransferase	1	1	0	0	0	0	0	-1	-1	228.7065	178.1137	172.926	237.679	263.3558	256.6179	GO:0008168	methyltransferase activity	MF
+Gene_010599	cobalamin-independent methionine synthase	0	-1	0	0	0	0	0	0	1	262.747	356.2638	420.5955	329.3093	265.3181	272.399	GO:0008168	methyltransferase activity	MF
+Gene_011330	sam-dependent methyltransferase	-1	-1	0	1	0	0	0	1	1	30.20278	60.10198	64.80861	43.88669	20.603	29.93834	GO:0008168	methyltransferase activity	MF
+Gene_011569	s-adenosyl-l-methionine-dependent methyltransferase	1	1	0	0	0	0	0	-1	-1	50.07168	33.57083	34.24676	45.04583	50.69041	54.52058	GO:0008168	methyltransferase activity	MF
+Gene_012329	pre-rrna processing protein ftsj3	0	1	0	0	0	0	0	0	0	255.0337	214.7083	189.036	203.8873	214.8909	235.2539	GO:0008168	methyltransferase activity	MF
+Gene_012548	lysine-specific demethylase 8 isoform x2	0	1	0	0	0	0	1	0	0	19.77763	15.70591	13.32654	13.96697	15.29774	17.76066	GO:0008168	methyltransferase activity	MF
+Gene_012612	hypothetical protein pbra 008788	1	1	0	0	0	0	0	-1	-1	162.8305	110.4448	115.8342	128.1482	144.7764	177.6441	GO:0008168	methyltransferase activity	MF

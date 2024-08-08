@@ -1,0 +1,46 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000135	phospholipid transporter	-1	-1	0	1	0	0	0	1	1	29.22189	51.79994	57.32736	41.47086	22.15862	23.31036	GO:0006812	cation transport	BP
+Gene_000136	phospholipid-transporting atpase ib-like isoform x2 [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	16.24209	28.26335	33.46063	21.65433	12.51139	14.35092	GO:0006812	cation transport	BP
+Gene_000515	voltage-gated hydrogen channel 1	-1	-1	0	1	0	0	0	1	1	1.4912057	4.8535892	5.6305988	2.5959914	0.7058573	1.5404228	GO:0006812	cation transport	BP
+Gene_000710	zinc transporter 2-like	0	0	0	0	0	0	0	1	1	47.09409	57.61487	59.10016	50.2113	42.59588	43.43994	GO:0006812	cation transport	BP
+Gene_000725	voltage-gated ion channel superfamily	0	0	0	0	0	0	0	-1	-1	9.51809	6.226092	6.644315	8.452647	11.548698	12.498241	GO:0006812	cation transport	BP
+Gene_001182	calcium-transporting atpase 3	0	0	0	0	0	0	0	1	1	194.1472	202.0619	216.2043	177.0016	161.8321	166.3963	GO:0006812	cation transport	BP
+Gene_001735	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	-1	-1	44.87312	42.91501	39.30489	55.98268	63.71599	55.2658	GO:0006812	cation transport	BP
+Gene_001738	zinc transporter	0	0	0	0	0	0	0	1	1	71.55559	79.63365	82.33469	68.89187	65.88406	58.11144	GO:0006812	cation transport	BP
+Gene_001774	calcium-activated potassium channel	-1	-1	0	0	0	0	0	0	1	53.58733	66.16163	70.05734	64.19164	62.02092	52.54509	GO:0006812	cation transport	BP
+Gene_001816	mfs transporter	-1	-1	0	1	0	0	0	1	1	5.229512	12.516127	14.268194	9.259751	3.300762	5.268665	GO:0006812	cation transport	BP
+Gene_002047	zinc transporter	-1	0	0	0	0	0	0	1	1	4.81761	7.743307	7.526871	3.91369	3.13218	3.522157	GO:0006812	cation transport	BP
+Gene_002255	magnesium and cobalt transporter	0	-1	0	0	0	0	0	1	1	60.33643	69.17953	77.32551	61.18105	53.45469	53.40482	GO:0006812	cation transport	BP
+Gene_003363	zinc transporter	0	1	0	0	0	0	0	-1	-1	93.14944	76.5389	71.74211	92.52691	98.35479	109.30974	GO:0006812	cation transport	BP
+Gene_003860	camkk kinase	0	-1	0	0	0	0	0	1	1	57.14417	72.0007	86.90549	54.99593	42.65141	47.71983	GO:0006812	cation transport	BP
+Gene_004189	phospholipid-transporting atpase 3 isoform x1	-1	-1	0	1	0	0	0	1	1	41.03667	88.27212	102.41368	70.90607	37.16891	36.8411	GO:0006812	cation transport	BP
+Gene_004312	hypothetical protein pbra 004727	0	0	0	0	0	0	0	-1	-1	116.95706	96.14684	97.15004	130.00389	154.1931	140.00571	GO:0006812	cation transport	BP
+Gene_004317	hypothetical protein bvrb 036760; partial	0	0	0	0	0	0	0	1	1	0.25681245	0.53104448	0.72567329	0.12617634	0.0193523	0.06036781	GO:0006812	cation transport	BP
+Gene_004682	heavy metal p-type atpase	-1	-1	0	0	0	0	0	1	1	17.01843	36.47515	31.45308	24.50637	17.05046	18.85146	GO:0006812	cation transport	BP
+Gene_004774	cation efflux pump	0	-1	0	0	0	0	0	1	1	28.32404	36.51389	40.2392	31.58262	27.62369	27.31337	GO:0006812	cation transport	BP
+Gene_004826	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0006812	cation transport	BP
+Gene_004845	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0006812	cation transport	BP
+Gene_004846	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	0	0	0	0	0	0	0	1	1	0.2266749	0.50379508	0.66649047	0.23899905	0.09485569	0	GO:0006812	cation transport	BP
+Gene_005056	probable phospholipid-transporting atpase ia isoform x1	-1	-1	0	1	0	0	0	1	1	8.489354	16.527777	19.630672	9.691109	4.241007	6.253287	GO:0006812	cation transport	BP
+Gene_005057	probable phospholipid-transporting atpase	-1	-1	0	1	0	0	0	1	1	20.41939	38.22152	48.99905	23.12764	11.42976	17.60663	GO:0006812	cation transport	BP
+Gene_005154	achain gfp-binding darpin fusion gc r11	-1	-1	0	1	0	0	0	1	1	0.4547094	1.5949021	1.7296356	0.7672834	0.1878056	0.689028	GO:0006812	cation transport	BP
+Gene_005171	sodium hydrogen exchanger variant 3	1	0	0	0	0	0	0	-1	-1	196.8744	164.2694	179.4473	195.7804	217.1351	228.8632	GO:0006812	cation transport	BP
+Gene_005374	mitochondrial substrate carrier family	1	1	0	0	0	0	0	-1	-1	105.50609	82.04959	81.19623	99.2233	115.2309	108.53533	GO:0006812	cation transport	BP
+Gene_005508	delta(3;5)-delta(2;4)-dienoyl-mitochondrial-like	0	0	0	0	0	0	1	1	1	88.08883	83.82133	95.92772	61.98491	57.18384	56.94156	GO:0006812	cation transport	BP
+Gene_005563	sec14 1 isoform x1	-1	-1	0	0	0	0	0	1	1	5.191866	11.893758	12.241924	6.811575	3.179197	4.042573	GO:0006812	cation transport	BP
+Gene_005790	probable magnesium transporter nipa8	-1	-1	0	1	0	0	0	1	1	22.46678	36.74247	45.52224	25.48248	14.7389	18.63912	GO:0006812	cation transport	BP
+Gene_005816	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0006812	cation transport	BP
+Gene_006448	hypothetical protein pbra 005057	-1	-1	0	1	0	0	0	1	1	3.765202	13.100949	10.355405	6.850463	2.03422	4.052976	GO:0006812	cation transport	BP
+Gene_006790	hypothetical protein pbra 005450; partial	0	0	0	0	0	0	0	0	1	244.7257	226.1021	245.651	204.7154	217.222	200.8046	GO:0006812	cation transport	BP
+Gene_006982	magnesium transporter nipa2	0	-1	0	0	0	0	0	0	1	35.89383	44.80374	53.14526	39.18316	34.00176	35.81902	GO:0006812	cation transport	BP
+Gene_007098	cop9 signalosome complex subunit 8-like	0	0	0	0	0	0	1	1	1	44.92749	43.32936	46.73561	33.28809	34.56386	33.68323	GO:0006812	cation transport	BP
+Gene_007621	ammonium transporter	-1	-1	0	1	0	0	0	1	1	9.585625	31.190839	28.563246	19.647184	8.559475	8.801226	GO:0006812	cation transport	BP
+Gene_008008	crp fnr family transcriptional regulator	0	0	0	0	0	0	0	1	1	0.7317639	1.1309077	0.878467	0.6137577	0.2071579	0.187349	GO:0006812	cation transport	BP
+Gene_009223	na+ h+ antiporter	0	0	0	0	0	0	0	-1	-1	166.5533	144.3987	147.2096	179.8164	198.2748	220.062	GO:0006812	cation transport	BP
+Gene_009625	magnesium-translocating p-type atpase	0	-1	0	0	0	0	0	1	1	78.29854	96.49205	109.86101	92.47156	74.66214	74.00693	GO:0006812	cation transport	BP
+Gene_009656	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:0006812	cation transport	BP
+Gene_010396	hypothetical protein pbra 006615	-1	-1	0	0	0	0	0	1	1	0.7849877	2.2764574	2.6178835	0.7284765	0.3600705	0.1811034	GO:0006812	cation transport	BP
+Gene_010557	phospholipid-transporting atpase 2 isoform x1	0	0	0	0	0	0	0	-1	-1	347.4971	305.4498	314.8901	360.9216	385.7597	393.626	GO:0006812	cation transport	BP
+Gene_011711	probable phospholipid-transporting atpase 7 isoform x1	-1	-1	0	1	0	0	0	1	1	3.745997	14.1124	11.74522	7.23172	2.751069	4.671233	GO:0006812	cation transport	BP
+Gene_011712	transmembrane protein	-1	-1	0	1	0	0	0	1	1	5.591478	15.988357	14.175275	8.006291	3.146298	5.456014	GO:0006812	cation transport	BP
+Gene_011784	pre-mrna cleavage complex ii protein clp1	-1	-1	0	1	0	0	0	1	1	2.155194	4.626919	4.753348	2.408559	1.042026	1.292706	GO:0006812	cation transport	BP

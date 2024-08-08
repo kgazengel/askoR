@@ -1,0 +1,7 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000456	elongation factor alpha	1	1	0	0	0	0	0	0	0	10181.05	8285.877	7956.99	8629.072	9568.859	9852.146	GO:0003746	translation elongation factor activity	MF
+Gene_002088	elongation factor tu	1	0	0	0	0	0	0	-1	-1	523.7827	405.0166	430.5992	485.0432	555.42	567.3816	GO:0003746	translation elongation factor activity	MF
+Gene_004696	eukaryotic translation initiation factor 5a-1-like	1	0	0	0	0	0	0	-1	-1	1192.277	912.3071	936.3317	1043.741	1190.7493	1239.1896	GO:0003746	translation elongation factor activity	MF
+Gene_004877	flagellar associated	1	0	0	0	0	0	1	0	0	563.2825	443.3984	448.8441	425.8419	479.4604	506.1748	GO:0003746	translation elongation factor activity	MF
+Gene_008776	elongation factor ts	1	1	0	0	0	0	0	-1	0	225.5681	173.0729	176.0718	188.5239	215.5862	215.7634	GO:0003746	translation elongation factor activity	MF
+Gene_012663	elongation factor 1-alpha	-1	0	0	0	0	0	0	0	0	19.62081	28.56868	21.95109	28.36918	21.40256	17.52543	GO:0003746	translation elongation factor activity	MF

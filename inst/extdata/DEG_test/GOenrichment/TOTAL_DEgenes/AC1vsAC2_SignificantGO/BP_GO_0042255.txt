@@ -1,0 +1,13 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0042255	ribosome assembly	BP
+Gene_002374	ribosome production factor 2 homolog	1	1	0	0	0	0	0	-1	0	278.3937	218.7487	207.3117	247.6753	261.4164	250.5145	GO:0042255	ribosome assembly	BP
+Gene_002519	mrna turnover 4 homolog	1	1	0	0	0	0	1	-1	0	191.0472	147.6175	141.0942	147.6701	177.5743	158.318	GO:0042255	ribosome assembly	BP
+Gene_004797	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0042255	ribosome assembly	BP
+Gene_006079	eukaryotic translation initiation factor 6	1	1	0	0	0	0	1	0	0	216.5792	170.6673	166.2071	169.9236	194.0349	186.3995	GO:0042255	ribosome assembly	BP
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0042255	ribosome assembly	BP
+Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0042255	ribosome assembly	BP
+Gene_008523	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0042255	ribosome assembly	BP
+Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0042255	ribosome assembly	BP
+Gene_009145	ribosome maturation sbds	1	1	0	0	0	0	0	0	0	100.68287	82.02277	74.78908	81.56813	81.25906	75.29547	GO:0042255	ribosome assembly	BP
+Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0042255	ribosome assembly	BP
+Gene_010516	60s ribosomal	1	0	0	0	0	0	0	0	-1	644.9048	492.9606	488.8513	528.6603	582.3058	683.23	GO:0042255	ribosome assembly	BP

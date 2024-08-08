@@ -2,11 +2,11 @@
 #'
 #' @description Genewise statistical tests for a given coefficient or contrast, with edgeR method.
 #'
-#' @param norm_GE, large DGEList with normalized counts and data description.
-#' @param data_list, list contain all data and metadata (DGEList, samples descritions, contrast, design and annotations).
-#' @param asko_list, list of data.frame contain condition, contrast and context informations made by asko3c.
-#' @param parameters, list that contains all arguments charged in Asko_start.
-#' @return SumMat, list (TestResults format class limma) contains for each contrast the significance expression (1/0/-1) for all gene.
+#' @param norm_GE large DGEList with normalized counts and data description.
+#' @param data_list list contain all data and metadata (DGEList, samples descritions, contrast, design and annotations).
+#' @param asko_list list of data.frame contain condition, contrast and context informations made by asko3c.
+#' @param parameters list that contains all arguments charged in Asko_start.
+#' @return list (TestResults format class limma) contains for each contrast the significance expression (1/0/-1) for all gene.
 #'
 #' @import edgeR
 #' @import limma
@@ -16,19 +16,24 @@
 #'     sum_table<-DEanalysis(norm_GE, data_list, asko_list, parameters)
 #' }
 #'
+#' @note Remember to read the Wiki section in \url{https://github.com/askomics/askoR/wiki}
 #' @export
 DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
   study_dir = paste0(parameters$dir_path,"/", parameters$analysis_name, "/")
-  image_dir = paste0(study_dir, "images/")
+  image_dir = paste0(study_dir, "DEanalysis/DEimages/")
+  table_dir = paste0(study_dir, "DEanalysis/DEtables/")
 
   # for image size
   nsamples <- ncol(data_list$dge$counts)
   sizeImg=15*nsamples
   if(sizeImg < 480){ sizeImg=480 }
 
+  # prevent error
+  if(parameters$glm=="qlf"){ parameters$LR = FALSE }
+
   # Checks Contrasts
   if(is.null(parameters$select_sample) & is.null(parameters$rm_sample)){
-    c1<-levels(data_list$samples$condition)
+    c1<-unique(data_list$samples$condition)
     len1<-length(c1)
     c2<-rownames(data_list$contrast)
     len2<-length(c2)
@@ -58,7 +63,7 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
   {
     normGEdisp <- estimateDisp(norm_GE, data_list$design)
   }
-  grDevices::png(paste0(image_dir, parameters$analysis_name, "_biological_coefficient_of_variation.png"), width=sizeImg, height=sizeImg)
+  grDevices::png(paste0(image_dir, "Biological_coefficient_of_variation.png"), width=sizeImg, height=sizeImg)
   plotBCV(normGEdisp)
   grDevices::dev.off()
 
@@ -74,23 +79,31 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
     grDevices::dev.off()
   }
 
+
+
   # data frame combine all status genes results for summary file
   sum<-data.frame(row.names = rownames(fit))
   sum2=list()
   # if only one contrast ask
   if(length(data_list$contrast)==1){
+
     contrast<-makeContrasts(contrasts = data_list$contrast, levels = data_list$design)
     colnames(contrast)<-colnames(data_list$contrast)
+
     # likelihood ratio tests for one or more coefficients in the linear model.
-    if(parameters$glm=="lrt"){
+    if(parameters$glm=="lrt" & parameters$threshold_logFC==0){
       glm_test<-glmLRT(fit, contrast=contrast)
     }
     # similar to glmLRT except that it replaces likelihood ratio tests with empirical Bayes quasi-likelihood F-tests
-    if(parameters$glm=="qlf"){
+    if(parameters$glm=="qlf" & parameters$threshold_logFC==0){
       glm_test<-glmQLFTest(fit, contrast=contrast)
     }
-    sum[,colnames(contrast)]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, lfc=parameters$threshold_logFC)
-    AskoStats(glm_test, fit, colnames(contrast), asko_list, normGEdisp, parameters)
+    if(parameters$threshold_logFC!=0){
+      glm_test<-glmTreat(fit, contrast=contrast, lfc=parameters$threshold_logFC)
+    }
+
+    sum[,colnames(contrast)]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, lfc=parameters$threshold_logFC, p.value=parameters$threshold_FDR)
+    AskoStats(glm_test, fit, colnames(contrast), asko_list, normGEdisp, data_list, parameters)
 
     # display grahes (volcano or/and MD)
     if(parameters$plotMD==TRUE) { plot_expr(glm_test, normGEdisp, sum, colnames(contrast), "MD", parameters) }
@@ -101,16 +114,19 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
   # for more than one contrast
   else{
     for (contrast in colnames(data_list$contrast)){
-      # likelihood ratio tests for one or more coefficients in the linear model.
-      if(parameters$glm=="lrt"){
+
+      if(parameters$glm=="lrt" & parameters$threshold_logFC==0){
         glm_test<-glmLRT(fit, contrast=data_list$contrast[,contrast])
       }
       # similar to glmLRT except that it replaces likelihood ratio tests with empirical Bayes quasi-likelihood F-tests
-      if(parameters$glm=="qlf"){
+      if(parameters$glm=="qlf" & parameters$threshold_logFC==0){
         glm_test<-glmQLFTest(fit, contrast=data_list$contrast[,contrast])
       }
-      sum[,contrast]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, lfc=parameters$threshold_logFC)
-      AskoStats(glm_test, fit, contrast, asko_list, normGEdisp, parameters)
+      if(parameters$threshold_logFC!=0){
+        glm_test<-glmTreat(fit, contrast=data_list$contrast[,contrast], lfc=parameters$threshold_logFC)
+      }
+      sum[,contrast]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, p.value=parameters$threshold_FDR)
+      AskoStats(glm_test, fit, contrast, asko_list, normGEdisp, data_list, parameters)
 
       # display grahes (volcano or/and MD)
       if(parameters$plotMD==TRUE) { plot_expr(glm_test, normGEdisp, sum, contrast, "MD", parameters) }
@@ -121,10 +137,8 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
   }
 
   # Create summary file with annotations (if available) and contrast value for each gene
-  #---------------------------------------------------------------------------------------
   cat("\nCreate Summary file\n\n")
-  ctime<-format(Sys.time(), "%d-%m-%Y_%Hh%Mm%Ss")
-  sumFile<-paste0(study_dir,parameters$analysis_name,"_summary_DE_",ctime,".csv")
+  sumFile<-paste0(table_dir,"Summary_DEresults.txt")
   if(is.null(data_list$annot)==FALSE)
   {
     rnames<-row.names(sum)                        # get Genes DE names

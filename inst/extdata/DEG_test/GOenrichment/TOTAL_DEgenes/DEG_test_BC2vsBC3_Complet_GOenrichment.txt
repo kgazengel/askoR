@@ -1,0 +1,26 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0090482	vitamin transmembrane transporter activity	12	1	0	0.0018	Inf	MF
+GO:0003674	molecular_function	6816	1	1	1.0000	1	MF
+GO:0005215	transporter activity	365	1	0.05	1.0000	20	MF
+GO:0022857	transmembrane transporter activity	310	1	0.05	1.0000	20	MF
+GO:0035461	vitamin transmembrane transport	12	1	0	0.0048	Inf	BP
+GO:0006979	response to oxidative stress	24	1	0.01	0.0096	100	BP
+GO:0045333	cellular respiration	91	1	0.04	0.0362	25	BP
+GO:0051180	vitamin transport	12	1	0	1.0000	Inf	BP
+GO:0006950	response to stress	255	1	0.1	1.0000	10	BP
+GO:0055085	transmembrane transport	358	1	0.14	1.0000	7.14285714285714	BP
+GO:0006091	generation of precursor metabolites and energy	168	1	0.07	1.0000	14.2857142857143	BP
+GO:0006810	transport	796	1	0.32	1.0000	3.125	BP
+GO:0015980	energy derivation by oxidation of organic compounds	95	1	0.04	1.0000	25	BP
+GO:0009987	cellular process	4052	2	1.63	1.0000	1.22699386503067	BP
+GO:0050896	response to stimulus	732	1	0.29	1.0000	3.44827586206897	BP
+GO:0051234	establishment of localization	805	1	0.32	1.0000	3.125	BP
+GO:0044237	cellular metabolic process	2738	1	1.1	1.0000	0.909090909090909	BP
+GO:0051179	localization	833	1	0.33	1.0000	3.03030303030303	BP
+GO:0008150	biological_process	4976	2	2	1.0000	1	BP
+GO:0008152	metabolic process	3516	1	1.41	1.0000	0.709219858156028	BP
+GO:0016021	integral component of membrane	2650	1	0.54	0.54	1.85185185185185	CC
+GO:0110165	cellular anatomical entity	4797	1	0.97	1.00	1.03092783505155	CC
+GO:0031224	intrinsic component of membrane	2651	1	0.54	1.00	1.85185185185185	CC
+GO:0005575	cellular_component	4927	1	1	1.00	1	CC
+GO:0016020	membrane	2972	1	0.6	1.00	1.66666666666667	CC

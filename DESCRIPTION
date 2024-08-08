@@ -13,6 +13,11 @@ Depends:
     edgeR,
     limma
 Imports:
+    corrplot,
+    cowplot,
+    viridis,
+    gghalves,
+    tidyverse,
     ggfortify,
     ggrepel,
     gplots,
@@ -35,10 +40,11 @@ Suggests:
     stats,
     knitr,
     rmarkdown,
-    BiocStyle
+    BiocStyle,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.2
 biocViews:
     RNASeq,
     Transcriptomics,
@@ -49,3 +55,4 @@ biocViews:
     MultipleComparison,
     FunctionalGenomics,
     Clustering
+Config/testthat/edition: 3

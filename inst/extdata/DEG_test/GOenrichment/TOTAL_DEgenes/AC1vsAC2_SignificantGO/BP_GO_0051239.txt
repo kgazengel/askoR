@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000755	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0051239	regulation of multicellular organismal process	BP
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0051239	regulation of multicellular organismal process	BP
+Gene_004897	e3 ubiquitin-ligase	-1	0	0	0	0	0	-1	0	0	4.539194	17.174443	5.250438	19.04664	9.98069	9.121801	GO:0051239	regulation of multicellular organismal process	BP
+Gene_006711	vasohibin-1 isoform x1	-1	0	0	0	0	0	0	1	0	0.16672431	0.77730152	0.50850177	0.46998778	0.05615109	0.06036781	GO:0051239	regulation of multicellular organismal process	BP
+Gene_008041	receptor of activated c kinase 1	1	1	0	0	0	0	1	0	0	1179.4315	886.3082	829.5828	779.1944	897.8791	1111.8112	GO:0051239	regulation of multicellular organismal process	BP
+Gene_009144	upf0468	1	1	0	0	0	0	0	0	0	80.10858	65.7401	64.28865	70.36441	72.88788	69.96228	GO:0051239	regulation of multicellular organismal process	BP
+Gene_009814	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0051239	regulation of multicellular organismal process	BP

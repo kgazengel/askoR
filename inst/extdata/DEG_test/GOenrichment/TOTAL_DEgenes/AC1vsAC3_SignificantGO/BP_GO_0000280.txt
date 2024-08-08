@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000386	dna mismatch repair	-1	-1	0	0	0	0	0	1	0	2.080952	6.558197	6.998006	4.719182	1.964257	3.0746	GO:0000280	nuclear division	BP
+Gene_002433	cystathionine beta-synthase	-1	-1	0	0	0	0	0	1	1	0.17914114	0.68833319	0.78353046	0.35889286	0.07550339	0	GO:0000280	nuclear division	BP
+Gene_005334	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0000280	nuclear division	BP
+Gene_005858	aldehyde dehydrogenase family 7 member a1	0	-1	0	0	0	0	0	0	0	170.6719	188.6398	209.9891	186.9436	174.9207	179.3615	GO:0000280	nuclear division	BP
+Gene_007561	eukaryotic rrna processing	0	1	0	0	0	0	0	-1	0	319.3465	253.8965	234.6795	277.5637	324.7958	282.4948	GO:0000280	nuclear division	BP
+Gene_008169	kinetochore ndc8	-1	-1	0	1	0	0	0	1	1	306.003	366.9228	383.7081	314.1915	262.1503	292.158	GO:0000280	nuclear division	BP
+Gene_008524	homologous-pairing 2 homolog	1	1	0	0	0	0	1	0	0	179.9831	146.1095	146.7545	139.3585	164.0365	160.6745	GO:0000280	nuclear division	BP

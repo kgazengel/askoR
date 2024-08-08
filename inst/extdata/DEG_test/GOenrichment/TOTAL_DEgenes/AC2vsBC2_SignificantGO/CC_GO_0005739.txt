@@ -1,0 +1,79 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000018	hypothetical protein baucodraft 44240; partial [baudoinia panamericana uamh 10762]	0	0	0	0	0	0	0	-1	0	47.0463	40.23597	37.87877	46.35287	50.34431	47.17445	GO:0005739	mitochondrion	CC
+Gene_000025	pentatricopeptide repeat-containing at5g43820	0	0	0	0	0	0	0	-1	-1	150.8237	127.8593	128.7866	151.0153	161.7357	177.7961	GO:0005739	mitochondrion	CC
+Gene_000096	hypothetical protein pbra 003803	1	0	0	0	0	0	0	-1	0	94.31982	76.39388	77.33444	83.21714	93.49721	83.55757	GO:0005739	mitochondrion	CC
+Gene_000114	mitochondrial import inner membrane translocase subunit tim21	0	0	0	0	0	0	0	-1	-1	56.44166	48.26565	43.8109	60.4412	69.25601	63.91719	GO:0005739	mitochondrion	CC
+Gene_000202	nadh-cytochrome b5 reductase 3-like	0	0	0	0	0	0	0	-1	0	647.2626	539.1876	564.2911	592.6979	648.2387	698.8985	GO:0005739	mitochondrion	CC
+Gene_000412	duf185-domain-containing [wallemia mellicola cbs ]	0	0	0	0	0	0	0	-1	0	103.49779	89.45954	90.28654	91.40375	107.39875	97.56293	GO:0005739	mitochondrion	CC
+Gene_000634	vacuolar sorting-associated 13	-1	-1	0	1	0	0	0	1	1	75.87985	116.62669	129.28545	105.90386	72.2416	67.6912	GO:0005739	mitochondrion	CC
+Gene_000905	mitochondrial presequence translocase subunit tim50	1	0	0	0	0	0	0	-1	0	318.1608	270.2805	272.3765	290.1036	325.0438	307.1625	GO:0005739	mitochondrion	CC
+Gene_001635	succinate dehydrogenase assembly factor mitochondrial	0	0	0	0	0	0	0	-1	-1	31.42026	26.22704	24.53759	29.83658	35.53685	32.92135	GO:0005739	mitochondrion	CC
+Gene_001731	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0005739	mitochondrion	CC
+Gene_001771	hypothetical protein pbra 003058	-1	0	0	0	0	0	0	1	0	35.15346	46.42804	40.30231	40.45013	34.08731	29.29095	GO:0005739	mitochondrion	CC
+Gene_002270	mitochondrial carrier (mc) family	-1	-1	0	1	0	0	0	1	1	50.77607	83.48509	81.04926	52.76412	35.41814	33.72487	GO:0005739	mitochondrion	CC
+Gene_002335	vacuolar sorting-associated 13	0	0	0	0	0	0	0	-1	0	169.3991	145.9434	155.7287	163.2159	184.7072	160.281	GO:0005739	mitochondrion	CC
+Gene_002637	flap endonuclease 1	1	0	0	0	0	0	0	-1	-1	242.0454	199.6241	207.2958	248.0261	279.3684	268.55	GO:0005739	mitochondrion	CC
+Gene_003118	nucleolar complex 2 homolog	1	1	0	0	0	0	0	-1	-1	290.4842	232.983	219.8808	252.6635	283.004	282.5053	GO:0005739	mitochondrion	CC
+Gene_003140	mitochondrial fission process 1	0	0	0	0	0	0	0	-1	0	10.84839	9.367194	7.729371	11.640792	14.09553	8.911558	GO:0005739	mitochondrion	CC
+Gene_003223	mitochondrial chaperone bcs1	0	0	0	0	0	0	0	-1	0	95.15294	97.97348	91.95583	109.00542	118.27545	106.97408	GO:0005739	mitochondrion	CC
+Gene_003478	solute carrier family 25 member 40 isoform x2	0	0	0	0	0	0	0	-1	-1	31.97147	29.08769	27.37709	33.53384	39.75199	45.69646	GO:0005739	mitochondrion	CC
+Gene_003818	mitochondrial pet127-domain-containing	1	0	0	0	0	0	0	-1	-1	242.3687	198.6756	202.4629	235.8924	254.4352	274.4452	GO:0005739	mitochondrion	CC
+Gene_003887	leucine zipper ef-hand transmembrane	0	0	0	0	0	0	0	-1	-1	365.3514	316.7654	326.8232	376.208	439.7454	418.8848	GO:0005739	mitochondrion	CC
+Gene_004168	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like	1	0	0	0	0	0	0	-1	0	258.2012	212.5475	233.2546	232.946	269.928	273.3253	GO:0005739	mitochondrion	CC
+Gene_004367	39s ribosomal mitochondrial	0	0	0	0	0	0	0	-1	0	98.94537	85.14733	86.61579	86.76052	99.79748	90.33336	GO:0005739	mitochondrion	CC
+Gene_004381	2-oxoglutarate mitochondrial-like	0	0	0	0	0	0	0	-1	0	366.8607	339.7615	366.7011	360.0419	395.791	408.1789	GO:0005739	mitochondrion	CC
+Gene_004442	aconitate hydratase	0	0	0	0	0	0	0	-1	-1	704.1032	640.1568	643.8127	725.3061	825.6605	811.7761	GO:0005739	mitochondrion	CC
+Gene_004781	mitochondrial 18 kda-domain-containing	0	0	0	0	0	0	0	-1	0	62.80328	51.85785	54.99222	65.25732	70.53975	69.22538	GO:0005739	mitochondrion	CC
+Gene_004849	mitochondrial tricarboxylate carrier (mtc) family	-1	-1	0	0	0	0	0	1	1	58.7741	69.65235	72.74775	56.66779	52.94329	49.24151	GO:0005739	mitochondrion	CC
+Gene_004914	1-pyrroline-5-carboxylate dehydrogenase	-1	-1	0	0	0	0	0	1	1	182.9921	224.1142	249.97	205.1894	167.929	178.9826	GO:0005739	mitochondrion	CC
+Gene_005118	heme peroxidase	0	0	0	0	0	0	0	1	1	250.9151	271.8968	307.2422	212.2804	177.3815	196.7954	GO:0005739	mitochondrion	CC
+Gene_005376	transferase mitochondrial isoform x1	0	0	0	0	0	0	0	-1	-1	91.10262	82.86114	78.64067	91.15656	98.89725	109.45958	GO:0005739	mitochondrion	CC
+Gene_005563	sec14 1 isoform x1	-1	-1	0	0	0	0	0	1	1	5.191866	11.893758	12.241924	6.811575	3.179197	4.042573	GO:0005739	mitochondrion	CC
+Gene_006043	5-demethoxyubiquinone mitochondrial	0	0	0	0	0	0	0	1	1	34.85735	51.76146	60.15082	32.01851	21.52656	31.44755	GO:0005739	mitochondrion	CC
+Gene_006290	iron donor	0	0	0	0	0	0	0	-1	0	40.25127	34.72069	35.14763	36.18951	43.30262	38.04429	GO:0005739	mitochondrion	CC
+Gene_006530	mitochondrial carrier	0	0	0	0	0	0	0	1	1	117.33778	117.53885	128.76388	98.79891	88.23469	84.40689	GO:0005739	mitochondrion	CC
+Gene_006652	glycine cleavage system t	-1	-1	0	1	0	0	0	1	1	66.80993	90.73551	111.08618	71.51501	52.10775	50.77569	GO:0005739	mitochondrion	CC
+Gene_006928	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0005739	mitochondrion	CC
+Gene_006944	metallo-dependent phosphatase	0	0	0	0	0	0	0	-1	-1	601.4512	558.7335	554.8868	644.5514	743.1455	686.9143	GO:0005739	mitochondrion	CC
+Gene_007027	acyl-coenzyme a thioesterase 13	-1	0	0	0	0	0	0	1	1	17.29619	25.77799	25.00172	21.2311	15.50947	13.42458	GO:0005739	mitochondrion	CC
+Gene_007071	[micromonas commoda]	0	0	0	0	0	0	0	-1	0	44.39653	34.96991	36.72936	38.28046	47.82381	43.42536	GO:0005739	mitochondrion	CC
+Gene_007150	mitochondrial import inner membrane translocase subunit tim16	0	0	0	0	0	0	0	-1	0	71.91263	61.89491	58.84386	74.41334	89.47392	70.01432	GO:0005739	mitochondrion	CC
+Gene_007320	ubiquinone menaquinone biosynthesis methyltransferase ubie	1	0	0	0	0	0	0	-1	-1	99.05459	83.19456	82.24666	116.69437	134.17282	124.03533	GO:0005739	mitochondrion	CC
+Gene_007679	hypothetical protein pbra 004128	0	0	0	0	0	0	0	-1	0	115.5348	103.482	105.1976	111.055	123.5202	108.1044	GO:0005739	mitochondrion	CC
+Gene_007810	4-hydroxybenzoate mitochondrial isoform x1	0	0	0	0	0	0	0	-1	0	87.44904	78.81632	80.03295	84.03012	94.46483	86.66132	GO:0005739	mitochondrion	CC
+Gene_007961	folate transporter chloroplastic isoform x2	1	1	0	0	0	0	0	-1	-1	185.8017	147.586	144.326	193.7185	227.8399	226.3944	GO:0005739	mitochondrion	CC
+Gene_008151	slowmo family	0	0	0	0	0	0	0	-1	0	95.51329	87.94743	87.80274	89.66905	105.76535	94.11362	GO:0005739	mitochondrion	CC
+Gene_008198	aspartyl glutamyl-trna(asn gln) amidotransferase subunit b	0	0	0	0	0	0	0	-1	0	122.9365	105.5161	108.498	118.805	127.6189	132.7616	GO:0005739	mitochondrion	CC
+Gene_008247	3-oxoacid-transferase	0	0	0	0	0	0	0	1	0	21.38399	32.29429	30.17626	19.98936	16.7249	17.31519	GO:0005739	mitochondrion	CC
+Gene_008459	membrane gtpase	0	0	0	0	0	0	0	-1	0	271.2839	243.3727	267.1865	295.8743	319.5076	308.6446	GO:0005739	mitochondrion	CC
+Gene_008587	mitochondrial import inner membrane subunit tim17 22	0	0	0	0	0	0	0	-1	0	40.12781	33.72285	32.89971	41.01787	45.89673	42.59063	GO:0005739	mitochondrion	CC
+Gene_008687	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0005739	mitochondrion	CC
+Gene_009244	bifunctional th2 mitochondrial-like	0	0	0	0	0	0	1	1	1	12.445782	13.604534	13.896572	7.750102	5.78749	4.964739	GO:0005739	mitochondrion	CC
+Gene_009253	mitochondrial pyruvate carrier 2-like	-1	-1	0	1	0	0	0	1	1	9.028079	17.612864	19.472961	10.331995	5.058735	6.103411	GO:0005739	mitochondrion	CC
+Gene_009484	glycine dehydrogenase (aminomethyl-transferring)	0	0	0	0	0	0	0	-1	0	193.3458	189.0335	188.5631	217.3992	229.5261	225.8365	GO:0005739	mitochondrion	CC
+Gene_009515	metal-dependent hydrolase	1	1	0	0	0	0	1	-1	-1	301.9619	246.897	233.0463	241.3329	278.7122	289.1812	GO:0005739	mitochondrion	CC
+Gene_009869	tigr00266 family	-1	-1	0	1	0	0	-1	1	1	3.16311	9.610668	12.567073	8.171014	2.269522	4.398534	GO:0005739	mitochondrion	CC
+Gene_009913	[micromonas commoda]	1	1	0	0	0	0	0	-1	-1	64.09639	52.68227	50.91727	55.73846	65.63136	67.3498	GO:0005739	mitochondrion	CC
+Gene_010075	drev methyltransferase	0	-1	0	0	0	0	0	1	1	12.47173	17.65439	20.17379	13.25975	11.14984	12.34836	GO:0005739	mitochondrion	CC
+Gene_010079	pyruvate dehydrogenase kinase	-1	-1	0	0	0	0	0	1	1	28.72902	41.37388	45.92887	27.80894	21.50997	21.67001	GO:0005739	mitochondrion	CC
+Gene_010105	rf-1 domain-domain-containing	0	0	0	0	0	0	0	1	0	7.771497	9.242038	8.143324	4.74155	5.141644	7.745833	GO:0005739	mitochondrion	CC
+Gene_010482	50s ribosomal l24	0	0	0	0	0	0	0	-1	0	165.1907	141.6759	143.7255	168.054	189.5663	169.6631	GO:0005739	mitochondrion	CC
+Gene_010592	elongation factor g-mitochondrial	0	0	0	0	0	0	0	-1	0	231.9692	209.7579	234.2667	225.5956	247.8455	232.248	GO:0005739	mitochondrion	CC
+Gene_010966	mitochondrial import inner membrane translocase subunit tim8	0	0	0	0	0	0	0	-1	0	46.98946	41.10034	40.06071	52.18872	52.24071	45.29262	GO:0005739	mitochondrion	CC
+Gene_011182	mitochondrial carrier	-1	-1	0	0	0	0	0	1	1	4.479307	8.241102	9.844058	5.504528	4.043849	4.144572	GO:0005739	mitochondrion	CC
+Gene_011400	lon protease homolog mitochondrial-like	-1	-1	0	0	0	0	0	1	0	7.30328	15.01375	12.959834	9.305585	6.419101	8.326616	GO:0005739	mitochondrion	CC
+Gene_011620	solute carrier family 25 member 44-like	1	1	0	0	0	0	0	-1	0	65.18703	50.79639	49.45937	60.35332	65.25538	61.8938	GO:0005739	mitochondrion	CC
+Gene_011715	hypothetical protein pbra 008213	0	-1	0	0	0	0	0	1	1	78.00769	113.52745	135.4697	86.29577	56.05955	57.845	GO:0005739	mitochondrion	CC
+Gene_011728	nadh dehydrogenase (ubiquinone) 1 beta subcomplex subunit 9	0	0	0	0	0	0	0	1	0	45.63705	57.62224	49.86844	44.88803	39.30201	40.55687	GO:0005739	mitochondrion	CC
+Gene_012114	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0005739	mitochondrion	CC
+Gene_012213	50s ribosomal protein l16	0	0	0	0	0	0	0	1	0	1.2062545	2.220118	1.4814911	0.7045786	0.3755225	0.4413113	GO:0005739	mitochondrion	CC
+Gene_012215	50s ribosomal protein l14	0	0	0	0	0	0	0	1	0	0.992321	2.1488305	1.5234609	0.7832998	0.4853588	0.5016791	GO:0005739	mitochondrion	CC
+Gene_012217	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:0005739	mitochondrion	CC
+Gene_012218	nadh dehydrogenase subunit 1 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.7870686	3.7087258	3.1233321	1.0324982	0.3188113	2.7623576	GO:0005739	mitochondrion	CC
+Gene_012219	nadh dehydrogenase subunit 4l (mitochondrion)	0	0	0	0	0	0	0	1	0	0.50165744	1.08933837	0.79168124	0.22108652	0.07359759	0.94923586	GO:0005739	mitochondrion	CC
+Gene_012220	group ii intron reverse transcriptase/maturase (mitochondrion)	0	0	0	0	0	0	0	1	0	0.8159624	2.3234955	1.6122911	1.1112195	0.3057365	2.6666041	GO:0005739	mitochondrion	CC
+Gene_012221	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0005739	mitochondrion	CC
+Gene_012222	cytochrome c oxidase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	1	0	4.584116	9.1937	6.160266	3.111469	1.038686	2.593745	GO:0005739	mitochondrion	CC
+Gene_012223	nadh dehydrogenase subunit 9 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.8976609	4.0625085	2.8737646	1.0656387	0.4703782	0.9492359	GO:0005739	mitochondrion	CC
+Gene_012224	cytochrome c oxidase subunit 3 (mitochondrion)	0	0	0	0	0	0	0	1	0	3.152285	6.195363	4.728895	2.122332	1.105398	2.5875	GO:0005739	mitochondrion	CC
+Gene_012225	atp synthase subunit alpha; mitochondrial	0	0	0	0	0	0	0	1	0	5.521466	8.288417	10.499661	3.271596	1.455291	2.708235	GO:0005739	mitochondrion	CC

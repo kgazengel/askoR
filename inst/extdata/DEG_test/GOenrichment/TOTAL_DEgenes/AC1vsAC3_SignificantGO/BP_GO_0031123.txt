@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001013	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0031123	RNA 3'-end processing	BP
+Gene_001014	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0031123	RNA 3'-end processing	BP
+Gene_001075	exosome component 4	1	1	0	0	0	0	0	-1	0	97.8271	77.73852	72.25188	87.74829	94.37448	91.4158	GO:0031123	RNA 3'-end processing	BP
+Gene_002138	exosome complex component rrp45	1	1	0	0	0	0	0	-1	-1	83.68556	69.09079	64.57462	86.12791	89.24331	95.41883	GO:0031123	RNA 3'-end processing	BP
+Gene_003988	exosome complex exonuclease mtr3	1	1	0	0	0	0	0	-1	0	84.17694	62.18546	63.64691	78.26428	85.07443	72.7288	GO:0031123	RNA 3'-end processing	BP
+Gene_005500	exosome complex exonuclease rrp4	1	1	0	0	0	0	0	0	0	127.4533	103.532	102.5325	111.5209	121.0667	118.0547	GO:0031123	RNA 3'-end processing	BP
+Gene_009731	clp1 homolog	1	1	0	0	0	0	0	-1	-1	162.3735	124.6755	128.5459	151.423	171.4274	165.6497	GO:0031123	RNA 3'-end processing	BP
+Gene_010616	exosome complex component rrp46-like	1	1	0	0	0	0	0	-1	-1	70.41004	53.64769	52.66892	66.73073	77.15213	70.24747	GO:0031123	RNA 3'-end processing	BP

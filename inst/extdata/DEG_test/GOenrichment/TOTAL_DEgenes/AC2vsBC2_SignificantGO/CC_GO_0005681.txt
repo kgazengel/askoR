@@ -1,0 +1,25 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000064	u2 small nuclear ribonucleo a	1	1	0	0	0	0	0	-1	0	221.6359	178.3827	177.9014	207.1945	234.6221	201.8829	GO:0005681	spliceosomal complex	CC
+Gene_000159	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0005681	spliceosomal complex	CC
+Gene_000898	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0005681	spliceosomal complex	CC
+Gene_001093	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0005681	spliceosomal complex	CC
+Gene_001188	u1 snrnp	0	0	0	0	0	0	0	-1	0	346.7332	308.3446	311.5014	347.671	388.1104	345.5232	GO:0005681	spliceosomal complex	CC
+Gene_003009	pre-mrna-processing 45	0	0	0	0	0	0	0	-1	-1	168.1372	149.7607	154.3013	183.5544	195.1311	192.7424	GO:0005681	spliceosomal complex	CC
+Gene_003065	pre-mrna-splicing factor 38b isoform x1 [tarenaya hassleriana]	0	0	0	0	0	0	0	-1	-1	150.4765	137.4409	140.4842	159.1499	165.1193	168.7846	GO:0005681	spliceosomal complex	CC
+Gene_003187	crooked neck 1	0	0	0	0	0	0	0	-1	0	355.735	306.7533	304.6716	339.7136	392.9204	354.5409	GO:0005681	spliceosomal complex	CC
+Gene_003955	rna-binding domain-containing	0	0	0	0	0	0	0	-1	0	54.64776	48.62305	49.06092	55.69621	65.14076	57.47029	GO:0005681	spliceosomal complex	CC
+Gene_004144	pre-mrna-splicing factor syf2	0	0	0	0	0	0	0	-1	0	189.993	167.8548	174.8215	186.7154	202.842	193.4501	GO:0005681	spliceosomal complex	CC
+Gene_004247	serine arginine-rich splicing factor rs41-like isoform x1	0	0	0	0	0	0	0	-1	-1	475.1278	417.9014	413.2707	480.2473	558.3148	505.3588	GO:0005681	spliceosomal complex	CC
+Gene_005766	u6 snrna-associated sm lsm3	0	0	0	0	0	0	0	-1	0	64.79962	55.5326	55.3695	63.22452	72.27103	63.3926	GO:0005681	spliceosomal complex	CC
+Gene_005793	pre-mrna-splicing factor 38a	0	0	0	0	0	0	0	-1	0	152.7832	128.5524	130.6271	143.1008	167.0138	160.0167	GO:0005681	spliceosomal complex	CC
+Gene_006525	peptidyl-prolyl cis-trans isomerase-like 1	1	1	0	-1	0	0	0	-1	0	93.10018	73.1022	70.33442	79.47601	103.33966	82.98303	GO:0005681	spliceosomal complex	CC
+Gene_006575	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	-1	-1	206.0204	181.7715	173.5683	214.8378	249.2601	267.0616	GO:0005681	spliceosomal complex	CC
+Gene_007000	intron-binding aquarius isoform x1	1	0	0	0	0	0	0	-1	-1	291.926	230.7932	245.2113	291.4351	333.9079	348.9912	GO:0005681	spliceosomal complex	CC
+Gene_007673	thioredoxin 4a isoform x1	0	0	0	0	0	0	0	-1	-1	180.3136	162.2709	155.0364	209.3976	220.0971	200.0843	GO:0005681	spliceosomal complex	CC
+Gene_008687	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0005681	spliceosomal complex	CC
+Gene_009535	sm lsm8	0	0	0	0	0	0	0	-1	0	20.80774	16.01217	15.81078	20.38557	21.07022	21.53471	GO:0005681	spliceosomal complex	CC
+Gene_009884	u4 small nuclear ribonucleo 27 kda	0	0	0	0	0	0	0	-1	0	40.62837	37.40941	35.77389	43.83611	52.24163	42.19511	GO:0005681	spliceosomal complex	CC
+Gene_012004	probable small nuclear ribonucleoprotein e	1	0	0	0	0	0	0	-1	0	175.3392	147.321	145.907	165.5531	183.7168	170.2106	GO:0005681	spliceosomal complex	CC
+Gene_012423	pre-mrna-processing-splicing factor 8	0	0	0	0	0	0	0	-1	-1	764.7051	666.0063	682.6663	880.4141	1027.2456	1021.484	GO:0005681	spliceosomal complex	CC
+Gene_012424	pre-mrna-processing-splicing factor 8-like	0	0	0	0	0	0	0	-1	-1	33.2376	28.30804	29.60017	39.58803	45.32551	41.14596	GO:0005681	spliceosomal complex	CC
+Gene_012569	protein bud31 homolog	0	0	0	0	0	0	0	-1	-1	84.55362	78.11654	71.78043	83.62651	93.15474	90.33544	GO:0005681	spliceosomal complex	CC

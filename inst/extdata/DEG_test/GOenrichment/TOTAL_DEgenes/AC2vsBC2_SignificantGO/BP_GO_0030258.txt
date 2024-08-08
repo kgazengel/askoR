@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000938	acyl-coenzyme a oxidase peroxisomal-like	1	0	0	0	0	0	0	-1	0	146.4076	120.1247	129.9385	136.5351	156.8979	138.1073	GO:0030258	lipid modification	BP
+Gene_001307	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:0030258	lipid modification	BP
+Gene_001308	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0030258	lipid modification	BP
+Gene_003641	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0030258	lipid modification	BP
+Gene_004066	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	4.655153	6.411008	7.053404	5.445913	3.400304	4.386043	GO:0030258	lipid modification	BP
+Gene_005473	sterol 3-beta-glucosyltransferase	-1	-1	0	1	0	0	-1	1	1	60.04585	108.66278	118.47896	90.4087	46.79523	64.37308	GO:0030258	lipid modification	BP
+Gene_006928	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0030258	lipid modification	BP
+Gene_011751	inositol 5-phosphatase	-1	-1	0	0	0	0	0	1	0	0.6763417	2.6154217	1.6958165	1.0054939	0.6676242	0.7431503	GO:0030258	lipid modification	BP

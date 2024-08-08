@@ -1,0 +1,52 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000157	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0003735	structural constituent of ribosome	MF
+Gene_000189	60s ribosomal l11-1	1	1	0	0	0	0	1	0	0	1289.4639	973.9467	979.6907	807.8441	922.3151	1022.5227	GO:0003735	structural constituent of ribosome	MF
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0003735	structural constituent of ribosome	MF
+Gene_000722	60s ribosomal l6	1	0	0	0	0	0	0	0	-1	710.381	549.9565	553.3166	550.3433	634.3333	732.434	GO:0003735	structural constituent of ribosome	MF
+Gene_000724	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0003735	structural constituent of ribosome	MF
+Gene_000933	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0003735	structural constituent of ribosome	MF
+Gene_000957	60s ribosomal l12	1	0	0	0	0	0	1	0	0	722.8675	535.9112	559.0357	503.9154	594.727	604.4435	GO:0003735	structural constituent of ribosome	MF
+Gene_001176	60s ribosomal l27a	1	0	0	0	0	0	0	0	0	1211.1456	925.5307	950.5628	940.8875	1091.2943	1115.0688	GO:0003735	structural constituent of ribosome	MF
+Gene_001193	ribosomal l22e	1	0	0	0	0	0	0	0	0	563.8406	430.6701	446.4992	458.8442	515.8686	546.4569	GO:0003735	structural constituent of ribosome	MF
+Gene_001811	60s ribosomal l30	1	0	0	0	0	0	0	-1	0	697.3216	529.4646	553.133	573.3418	662.8779	638.2411	GO:0003735	structural constituent of ribosome	MF
+Gene_001820	40s ribosomal s7	1	1	0	0	0	0	1	0	0	1108.8226	867.6296	840.5388	781.9588	919.8004	971.6368	GO:0003735	structural constituent of ribosome	MF
+Gene_002010	60s ribosomal l14	1	1	0	0	0	0	1	0	0	890.7516	714.003	693.4431	655.2516	760.3536	761.7436	GO:0003735	structural constituent of ribosome	MF
+Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0003735	structural constituent of ribosome	MF
+Gene_002412	40s ribosomal s2	1	0	0	0	0	0	1	0	0	1363.8403	1043.2078	1051.5785	915.3255	1045.4547	1231.5916	GO:0003735	structural constituent of ribosome	MF
+Gene_002448	60s ribosomal l16	1	1	0	0	0	0	0	0	0	777.2253	598.5204	585.5306	600.668	686.7111	767.6639	GO:0003735	structural constituent of ribosome	MF
+Gene_002642	40s ribosomal s24-1	1	0	0	0	0	0	1	0	0	632.3782	498.5319	484.6473	464.6018	521.8295	546.9733	GO:0003735	structural constituent of ribosome	MF
+Gene_002754	ribosomal s6	1	1	0	0	0	0	1	0	0	1026.6998	776.5053	772.7651	757.9029	874.3324	929.3376	GO:0003735	structural constituent of ribosome	MF
+Gene_002951	40s ribosomal s3a	1	0	0	0	0	0	1	0	0	1340.0833	1027.2643	1072.2097	910.3755	1070.8749	1174.05	GO:0003735	structural constituent of ribosome	MF
+Gene_003071	40s ribosomal s17-4-like	1	0	0	0	0	0	1	0	0	599.8295	465.9144	488.9862	435.391	496.228	501.0915	GO:0003735	structural constituent of ribosome	MF
+Gene_003193	40s ribosomal s12	1	1	0	0	0	0	1	0	0	1056.2266	795.3678	764.385	744.6902	870.9743	927.7743	GO:0003735	structural constituent of ribosome	MF
+Gene_004290	ribosomal l34	1	0	0	0	0	0	0	0	0	504.888	391.5894	390.267	422.5149	463.4461	473.5534	GO:0003735	structural constituent of ribosome	MF
+Gene_004355	40s ribosomal s20-1	1	0	0	0	0	0	1	0	0	717.7286	545.9548	542.2422	532.0657	611.641	616.9022	GO:0003735	structural constituent of ribosome	MF
+Gene_004387	40s ribosomal s4	1	0	0	0	0	0	0	-1	-1	1253.7372	941.2434	964.4036	1020.0461	1204.4856	1326.2256	GO:0003735	structural constituent of ribosome	MF
+Gene_004465	40s ribosomal s16	1	1	0	0	0	0	0	-1	-1	829.8134	606.7166	642.914	691.4177	798.9459	908.1483	GO:0003735	structural constituent of ribosome	MF
+Gene_004538	50s ribosomal l21	1	0	0	0	0	0	0	-1	0	77.31094	64.69869	63.67496	69.45105	85.09037	69.21706	GO:0003735	structural constituent of ribosome	MF
+Gene_004797	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0003735	structural constituent of ribosome	MF
+Gene_004931	60s ribosomal l28	1	0	0	0	0	0	0	-1	0	722.7167	570.8907	563.2471	626.2768	728.1734	706.4591	GO:0003735	structural constituent of ribosome	MF
+Gene_005078	ubiquitin-60s ribosomal l40	1	0	0	0	0	0	1	0	0	912.8001	701.8858	709.9254	641.273	734.0211	735.9145	GO:0003735	structural constituent of ribosome	MF
+Gene_005240	60s ribosomal l32-1	1	0	0	0	0	0	1	0	0	1140.6876	894.067	903.7116	795.5149	939.9341	881.0202	GO:0003735	structural constituent of ribosome	MF
+Gene_005526	40s ribosomal s13-2	1	1	0	0	0	0	0	0	-1	799.3971	621.8932	604.7639	667.9955	744.3109	782.8849	GO:0003735	structural constituent of ribosome	MF
+Gene_005823	50s ribosomal l13	1	1	0	0	0	0	0	-1	-1	128.8731	103.6831	103.9578	131.4341	141.0924	138.9774	GO:0003735	structural constituent of ribosome	MF
+Gene_006307	40s ribosomal s18	1	0	0	0	0	0	0	-1	-1	1350.335	1008.468	1024.815	1142.608	1309.961	1410.149	GO:0003735	structural constituent of ribosome	MF
+Gene_006709	60s ribosomal l1-b	1	1	0	0	0	0	1	0	0	2135.617	1603.686	1623.836	1661.999	1949.173	2056.016	GO:0003735	structural constituent of ribosome	MF
+Gene_006968	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0003735	structural constituent of ribosome	MF
+Gene_007089	60s ribosomal l33-a	1	0	0	0	0	0	0	0	0	986.809	746.6474	767.763	768.4518	887.0558	887.1425	GO:0003735	structural constituent of ribosome	MF
+Gene_007327	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0003735	structural constituent of ribosome	MF
+Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0003735	structural constituent of ribosome	MF
+Gene_008011	60s ribosomal l9-like	1	1	0	0	0	0	0	0	-1	1041.5844	798.2073	794.0062	848.2562	966.7744	1073.8022	GO:0003735	structural constituent of ribosome	MF
+Gene_008704	60s ribosomal l18a-2	1	1	0	0	0	0	1	0	0	830.9152	639.7874	652.0151	646.4914	730.4165	732.6359	GO:0003735	structural constituent of ribosome	MF
+Gene_009125	ribosomal l44	1	0	0	0	0	0	1	0	0	1053.9071	808.7909	848.864	688.2026	795.472	781.4049	GO:0003735	structural constituent of ribosome	MF
+Gene_010516	60s ribosomal	1	0	0	0	0	0	0	0	-1	644.9048	492.9606	488.8513	528.6603	582.3058	683.23	GO:0003735	structural constituent of ribosome	MF
+Gene_010714	ribosomal rps9	1	1	0	0	0	0	1	0	0	1000.3437	740.9802	747.6835	764.3451	893.7219	977.9837	GO:0003735	structural constituent of ribosome	MF
+Gene_011043	60s ribosomal l21-1-like	1	1	0	0	0	0	0	0	0	824.3928	644.121	612.4455	628.8476	717.3133	819.0558	GO:0003735	structural constituent of ribosome	MF
+Gene_011098	60s ribosomal l3	1	1	0	0	0	0	1	0	-1	1912.52	1475.484	1432.938	1455.18	1693.828	1856.851	GO:0003735	structural constituent of ribosome	MF
+Gene_011315	40s ribosomal s23	1	1	0	0	0	0	1	0	0	882.9078	685.5058	681.8266	645.3305	754.2785	718.6993	GO:0003735	structural constituent of ribosome	MF
+Gene_011786	40s ribosomal protein s11	1	0	0	0	0	0	0	-1	0	857.7058	656.0985	678.6174	702.9493	819.4689	855.0557	GO:0003735	structural constituent of ribosome	MF
+Gene_012005	large subunit ribosomal protein 31	1	0	0	0	0	0	1	0	0	759.787	588.1812	613.6175	539.9209	627.8456	569.0117	GO:0003735	structural constituent of ribosome	MF
+Gene_012021	40s ribosomal protein s27	1	0	0	0	0	0	1	0	0	465.5914	354.4684	364.8241	356.5893	414.6402	395.6536	GO:0003735	structural constituent of ribosome	MF
+Gene_012060	40s ribosomal protein s8	1	1	0	0	0	0	1	0	0	1098.3878	877.0724	859.9193	874.4064	995.3703	1019.0214	GO:0003735	structural constituent of ribosome	MF
+Gene_012190	60s ribosomal protein l26-1	1	0	0	0	0	0	1	0	0	1094.5218	849.4155	872.7906	795.6336	923.2722	927.6078	GO:0003735	structural constituent of ribosome	MF
+Gene_012265	50s ribosomal protein l6	-1	-1	0	0	0	0	0	1	0	0.5757723	1.5452283	1.5638006	0.5795098	0.5184346	0.8160092	GO:0003735	structural constituent of ribosome	MF

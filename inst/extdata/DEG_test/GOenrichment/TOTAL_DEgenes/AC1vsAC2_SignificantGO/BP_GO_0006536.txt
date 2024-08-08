@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001008	glutamate decarboxylase	-1	0	0	0	0	0	-1	0	0	16.62348	97.86657	31.40894	140.09158	93.56884	45.85879	GO:0006536	glutamate metabolic process	BP
+Gene_001071	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	0	1	1	4.074015	13.814866	14.729836	8.628308	2.641498	3.944732	GO:0006536	glutamate metabolic process	BP
+Gene_001072	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	-1	1	1	2.670501	9.145025	11.156066	7.130975	1.783897	3.522157	GO:0006536	glutamate metabolic process	BP
+Gene_001731	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0006536	glutamate metabolic process	BP
+Gene_004665	aspartate aminotransferase chloroplastic	1	0	0	0	0	0	0	-1	-1	296.5896	250.4308	263.3307	287.6339	303.3745	321.0846	GO:0006536	glutamate metabolic process	BP
+Gene_004914	1-pyrroline-5-carboxylate dehydrogenase	-1	-1	0	0	0	0	0	1	1	182.9921	224.1142	249.97	205.1894	167.929	178.9826	GO:0006536	glutamate metabolic process	BP
+Gene_010392	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0006536	glutamate metabolic process	BP

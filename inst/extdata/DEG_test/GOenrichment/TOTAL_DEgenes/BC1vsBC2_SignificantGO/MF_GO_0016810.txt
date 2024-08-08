@@ -1,0 +1,11 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000702	cobalamin biosynthesis	-1	-1	0	1	0	0	0	1	1	23.83247	53.68007	50.6019	34.68957	16.81625	21.33903	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_001005	hypothetical protein pbra 002551	-1	-1	0	1	0	0	0	1	1	79.12848	231.13929	206.90605	155.2295	46.97663	83.24116	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_002954	hypothetical protein pbra 002230	-1	-1	0	1	0	0	0	1	1	112.22132	321.36558	322.17652	225.21746	76.52894	98.09165	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_004148	hypothetical protein pbra 002542	-1	-1	0	1	0	0	-1	1	1	9.350602	26.810018	24.360396	20.475047	8.182655	8.42237	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_004744	alkaline ceramidase	-1	-1	0	1	0	0	0	1	0	0.8789568	3.0169331	3.8699903	2.0728821	0.6689699	1.5279318	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_004745	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	1	0.7761273	2.3450105	2.9173645	1.7003603	0.4854474	0.5558013	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_004746	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	0	0.8661522	2.5396234	3.00089	2.1098147	0.5941152	1.1178482	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_006892	tandem-95 repeat	-1	-1	0	1	0	0	0	1	0	2.9837095	8.5951612	9.1423957	4.9440124	0.9579087	3.2557036	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_010937	polysaccharide deacetylase family	-1	-1	0	1	0	0	0	1	1	15.821103	32.832785	28.286974	18.326698	9.004437	11.919545	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
+Gene_012346	hypothetical protein pbra 008942	-1	-1	0	1	0	0	0	1	1	39.94824	109.62399	97.46427	67.47583	28.30955	30.02785	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	MF
