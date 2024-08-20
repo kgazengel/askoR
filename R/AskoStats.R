@@ -74,10 +74,15 @@ AskoStats <- function (glm_test, fit, contrast, ASKOlist, dge, data_list, parame
     ASKO_stat$Test_id<-paste(contrasko, rownames(ASKO_stat), sep = "_")
   }
 
-
   # adding table "stat.table" to the ASKOlist and DETable
   ASKOlist$stat.table<-ASKO_stat[,c("Test_id",colp,"contrast","gene",cola,colb,"PValue",colg,colc,cold,cole,colf)]
   DETable$stat.table<-ASKO_stat[,c("gene","contrast2",colp,colg,colc,"PValue",cola,colb,colf,cold,cole)]
+
+  grDevices::png(paste0(image_dir, contrast, "_Pval_Plot.png"),width=1000,height=500)
+  graphics::par(mfrow = c(1,2))
+  graphics::hist(ASKO_stat[,"PValue"], breaks=50, xlab = "p-value", main = "Raw p-values", xlim = c(0, 1))
+  graphics::hist(ASKO_stat[,"FDR"], breaks=50, xlab = "p-value", main = "Adjusted p-values", xlim = c(0, 1))
+  grDevices::dev.off()
 
   # Norm Mean Counts in DEtables
   #allElem<-rownames(which(data_list$contrast[contrast]!=0,arr.ind=TRUE)) #changé par la ligne suivante le 201220022 car allElem contenait les nom des conditions à la place des noms des contextes !!! Or il faut des noms de contexte pour que la fonction NormCountsMean fonctionne correctement

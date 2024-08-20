@@ -98,7 +98,7 @@ Asko_start <- function(){
                           help="Mean counts in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--dclust"), type="character", default="euclidean", dest="distcluts",
                           help="The distance measure to be used : euclidean, maximum, manhattan, canberra, binary or minkowski [default= %default]", metavar="character"),
-    optparse::make_option(c("--hclust"), type="character", default="complete", dest="hclust",
+    optparse::make_option(c("--hclust"), type="character", default="ward.D", dest="hclust",
                           help="The agglomeration method to be used : ward.D, ward.D2, single, complete, average, mcquitty, median or centroid [default= %default]", metavar="character"),
     optparse::make_option(c("--hm"), type="logical", default=TRUE, dest="heatmap",
                           help="generation of the expression heatmap [default= %default]", metavar="logical"),
@@ -120,11 +120,11 @@ Asko_start <- function(){
                           help="the significant threshold used to filter p-values [default=%default]", metavar="double"),
     optparse::make_option(c("--GO_min_num_genes"), type="integer", default="10", dest="GO_min_num_genes",
                           help="the minimum number of genes for each GO terms [default=%default]", metavar="integer"),
-    optparse::make_option(c("--GO_min_sig_genes"), type="integer", default="0", dest="GO_min_sig_genes",
+    optparse::make_option(c("--GO_min_sig_genes"), type="integer", default="1", dest="GO_min_sig_genes",
                           help="the minimum number of significant gene(s) behind the enriched GO-term [default=%default]", metavar="integer"),
     optparse::make_option(c("--GO_max_top_terms"), type="integer", default="10", dest="GO_max_top_terms",
                           help="the maximum number of GO terms plot [default=%default]", metavar="integer"),
-    optparse::make_option(c("--GO_algo"), type="character", default="weight01", dest="GO_algo",
+    optparse::make_option(c("--GOalgo"), type="character", default="weight01", dest="GO_algo",
                           help="algorithms which are accessible via the runTest function: shown by the whichAlgorithms() function, [default=%default]", metavar="character"),
     optparse::make_option(c("--GO_stats"), type="character", default="fisher", dest="GO_stats",
                           help = "statistical tests which are accessible via the runTest function: shown by the whichTests() function, [default=%default]", metavar = "character"),
@@ -1156,8 +1156,8 @@ GEcorr <- function(asko_norm, parameters){
   grDevices::dev.off()
 
   # hierarchical clustering
-  #mat.dist <- stats::dist(t(asko_norm$counts), method = parameters$distcluts) CENE SONT PAS LES COMPTAGES NORMALISES !!! => ERREUR !
-  mat.dist <- stats::dist(t(edgeR::cpm(asko_norm)), method = parameters$distcluts)
+  # mat.dist <- stats::dist(t(edgeR::cpm(asko_norm)), method = parameters$distcluts)
+  mat.dist <- stats::dist(t(lcpm), method = parameters$distcluts)
   clustering <- stats::hclust(mat.dist, method=parameters$hclust)
   grDevices::png(paste0(image_dir, parameters$analysis_name, "_hclust.png"), width=sizeImg, height=sizeImg)
   graphics::par(oma=c(1,1,1,1))
@@ -1424,10 +1424,15 @@ AskoStats <- function (glm_test, fit, contrast, ASKOlist, dge, data_list, parame
     ASKO_stat$Test_id<-paste(contrasko, rownames(ASKO_stat), sep = "_")
   }
 
-
   # adding table "stat.table" to the ASKOlist and DETable
   ASKOlist$stat.table<-ASKO_stat[,c("Test_id",colp,"contrast","gene",cola,colb,"PValue",colg,colc,cold,cole,colf)]
   DETable$stat.table<-ASKO_stat[,c("gene","contrast2",colp,colg,colc,"PValue",cola,colb,colf,cold,cole)]
+
+  grDevices::png(paste0(image_dir, contrast, "_Pval_Plot.png"),width=1000,height=500)
+  graphics::par(mfrow = c(1,2))
+  graphics::hist(ASKO_stat[,"PValue"], breaks=50, xlab = "p-value", main = "Raw p-values", xlim = c(0, 1))
+  graphics::hist(ASKO_stat[,"FDR"], breaks=50, xlab = "p-value", main = "Adjusted p-values", xlim = c(0, 1))
+  grDevices::dev.off()
 
   # Norm Mean Counts in DEtables
   #allElem<-rownames(which(data_list$contrast[contrast]!=0,arr.ind=TRUE)) #changé par la ligne suivante le 201220022 car allElem contenait les nom des conditions à la place des noms des contextes !!! Or il faut des noms de contexte pour que la fonction NormCountsMean fonctionne correctement
@@ -2793,52 +2798,52 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
             axis.title.y=element_text(size=12))
     ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_ScaledExpression_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height=10)
 
-    # if (is.null(list) == TRUE){
-    #   # Genes of each contrast in cluster and significance (Chi2) of enrichment of the cluster in each contrast
-    #   FileForContrast$ExpectedProportion[FileForContrast$cluster==clustered] = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
-    #   proportion = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
-    #   pr=1-proportion
-    #
-    #   for (a in which(FileForContrast$cluster==clustered)){
-    #     b=FileForContrast$GenesOfContrastInCluster[a]
-    #     d=FileForContrast$TotalGenesInContrast[a] - FileForContrast$GenesOfContrastInCluster[a]
-    #     obs1=c(b,d)
-    #     obs2=FileForContrast$GenesOfContrastInCluster[a]/FileForContrast$TotalGenesInContrast[a]
-    #     proba=c(proportion,pr)
-    #     if (stats::chisq.test(obs1,p=proba)$p.value<0.001 & obs2>=proportion) {
-    #       FileForContrast$ChiTest[a]<-"***"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #     else if (stats::chisq.test(obs1,p=proba)$p.value>=0.001 & stats::chisq.test(obs1,p=proba)$p.value<0.01  & obs2>=proportion){
-    #       FileForContrast$ChiTest[a]<-"**"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #     else if (stats::chisq.test(obs1,p=proba)$p.value>=0.01 & stats::chisq.test(obs1,p=proba)$p.value<0.05  & obs2>=proportion){
-    #       FileForContrast$ChiTest[a]<-"*"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #   }
-    #
-    #   TabTempo<-FileForContrast[FileForContrast$cluster==clustered,]
-    #   ggplot2::ggplot(TabTempo, aes(x=TabTempo$contrast, y=TabTempo$GenesOfContrastInCluster)) +
-    #     coord_flip()+
-    #     geom_col(fill=GoCoul[clustered])+
-    #     theme_classic()+
-    #     geom_text(aes(label=TabTempo$ObservedProportion), position=position_stack(0.5),color="black")+
-    #     scale_y_reverse()+
-    #     labs(title = paste0("DE Genes in contrasts for cluster ",clustered, "\n (",length(which(GeneToClusters[,2]==clustered))," genes in the cluster)"), x="Contrasts", y="Number of genes") +
-    #     scale_x_discrete(position = "top")+
-    #     theme(
-    #       axis.text.y = element_text(face="bold",size=10),
-    #       axis.text.x = element_text(face="bold",size=10),
-    #       axis.title.x=element_text(face="bold",size=12),
-    #       axis.title.y=element_blank(),
-    #       legend.title = element_text(size=12,face="bold"),
-    #       plot.title = element_text(face="bold",size=15),
-    #       legend.text = element_text(size=12),
-    #       panel.background = element_rect(colour = "black", size=0.5, fill=NA))
-    #   ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_GenesInContrasts_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height = 8)
-    # }
+    if (is.null(list) == TRUE){
+      # Genes of each contrast in cluster and significance (Chi2) of enrichment of the cluster in each contrast
+      FileForContrast$ExpectedProportion[FileForContrast$cluster==clustered] = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
+      proportion = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
+      pr=1-proportion
+
+      for (a in which(FileForContrast$cluster==clustered)){
+        b=FileForContrast$GenesOfContrastInCluster[a]
+        d=FileForContrast$TotalGenesInContrast[a] - FileForContrast$GenesOfContrastInCluster[a]
+        obs1=c(b,d)
+        obs2=FileForContrast$GenesOfContrastInCluster[a]/FileForContrast$TotalGenesInContrast[a]
+        proba=c(proportion,pr)
+        if (stats::chisq.test(obs1,p=proba)$p.value<0.001 & obs2>=proportion) {
+          FileForContrast$ChiTest[a]<-"***"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+        else if (stats::chisq.test(obs1,p=proba)$p.value>=0.001 & stats::chisq.test(obs1,p=proba)$p.value<0.01  & obs2>=proportion){
+          FileForContrast$ChiTest[a]<-"**"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+        else if (stats::chisq.test(obs1,p=proba)$p.value>=0.01 & stats::chisq.test(obs1,p=proba)$p.value<0.05  & obs2>=proportion){
+          FileForContrast$ChiTest[a]<-"*"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+      }
+
+      TabTempo<-FileForContrast[FileForContrast$cluster==clustered,]
+      ggplot2::ggplot(TabTempo, aes(x=TabTempo$contrast, y=TabTempo$GenesOfContrastInCluster)) +
+        coord_flip()+
+        geom_col(fill=GoCoul[clustered])+
+        theme_classic()+
+        geom_text(aes(label=TabTempo$ObservedProportion), position=position_stack(0.5),color="black")+
+        scale_y_reverse()+
+        labs(title = paste0("DE Genes in contrasts for cluster ",clustered, "\n (",length(which(GeneToClusters[,2]==clustered))," genes in the cluster)"), x="Contrasts", y="Number of genes") +
+        scale_x_discrete(position = "top")+
+        theme(
+          axis.text.y = element_text(face="bold",size=10),
+          axis.text.x = element_text(face="bold",size=10),
+          axis.title.x=element_text(face="bold",size=12),
+          axis.title.y=element_blank(),
+          legend.title = element_text(size=12,face="bold"),
+          plot.title = element_text(face="bold",size=15),
+          legend.text = element_text(size=12),
+          panel.background = element_rect(colour = "black", size=0.5, fill=NA))
+      ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_GenesInContrasts_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height = 8)
+    }
 
 
     # GO enrichment in the cluster for MF, CC, and BP category (if annotation file is provided)

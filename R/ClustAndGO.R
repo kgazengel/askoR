@@ -348,52 +348,52 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
             axis.title.y=element_text(size=12))
     ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_ScaledExpression_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height=10)
 
-    # if (is.null(list) == TRUE){
-    #   # Genes of each contrast in cluster and significance (Chi2) of enrichment of the cluster in each contrast
-    #   FileForContrast$ExpectedProportion[FileForContrast$cluster==clustered] = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
-    #   proportion = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
-    #   pr=1-proportion
-    #
-    #   for (a in which(FileForContrast$cluster==clustered)){
-    #     b=FileForContrast$GenesOfContrastInCluster[a]
-    #     d=FileForContrast$TotalGenesInContrast[a] - FileForContrast$GenesOfContrastInCluster[a]
-    #     obs1=c(b,d)
-    #     obs2=FileForContrast$GenesOfContrastInCluster[a]/FileForContrast$TotalGenesInContrast[a]
-    #     proba=c(proportion,pr)
-    #     if (stats::chisq.test(obs1,p=proba)$p.value<0.001 & obs2>=proportion) {
-    #       FileForContrast$ChiTest[a]<-"***"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #     else if (stats::chisq.test(obs1,p=proba)$p.value>=0.001 & stats::chisq.test(obs1,p=proba)$p.value<0.01  & obs2>=proportion){
-    #       FileForContrast$ChiTest[a]<-"**"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #     else if (stats::chisq.test(obs1,p=proba)$p.value>=0.01 & stats::chisq.test(obs1,p=proba)$p.value<0.05  & obs2>=proportion){
-    #       FileForContrast$ChiTest[a]<-"*"
-    #       FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
-    #     }
-    #   }
-    #
-    #   TabTempo<-FileForContrast[FileForContrast$cluster==clustered,]
-    #   ggplot2::ggplot(TabTempo, aes(x=TabTempo$contrast, y=TabTempo$GenesOfContrastInCluster)) +
-    #     coord_flip()+
-    #     geom_col(fill=GoCoul[clustered])+
-    #     theme_classic()+
-    #     geom_text(aes(label=TabTempo$ObservedProportion), position=position_stack(0.5),color="black")+
-    #     scale_y_reverse()+
-    #     labs(title = paste0("DE Genes in contrasts for cluster ",clustered, "\n (",length(which(GeneToClusters[,2]==clustered))," genes in the cluster)"), x="Contrasts", y="Number of genes") +
-    #     scale_x_discrete(position = "top")+
-    #     theme(
-    #       axis.text.y = element_text(face="bold",size=10),
-    #       axis.text.x = element_text(face="bold",size=10),
-    #       axis.title.x=element_text(face="bold",size=12),
-    #       axis.title.y=element_blank(),
-    #       legend.title = element_text(size=12,face="bold"),
-    #       plot.title = element_text(face="bold",size=15),
-    #       legend.text = element_text(size=12),
-    #       panel.background = element_rect(colour = "black", size=0.5, fill=NA))
-    #   ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_GenesInContrasts_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height = 8)
-    # }
+    if (is.null(list) == TRUE){
+      # Genes of each contrast in cluster and significance (Chi2) of enrichment of the cluster in each contrast
+      FileForContrast$ExpectedProportion[FileForContrast$cluster==clustered] = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
+      proportion = length(which(GeneToClusters[,2]==clustered)) / nrow(resDEG3)
+      pr=1-proportion
+
+      for (a in which(FileForContrast$cluster==clustered)){
+        b=FileForContrast$GenesOfContrastInCluster[a]
+        d=FileForContrast$TotalGenesInContrast[a] - FileForContrast$GenesOfContrastInCluster[a]
+        obs1=c(b,d)
+        obs2=FileForContrast$GenesOfContrastInCluster[a]/FileForContrast$TotalGenesInContrast[a]
+        proba=c(proportion,pr)
+        if (stats::chisq.test(obs1,p=proba)$p.value<0.001 & obs2>=proportion) {
+          FileForContrast$ChiTest[a]<-"***"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+        else if (stats::chisq.test(obs1,p=proba)$p.value>=0.001 & stats::chisq.test(obs1,p=proba)$p.value<0.01  & obs2>=proportion){
+          FileForContrast$ChiTest[a]<-"**"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+        else if (stats::chisq.test(obs1,p=proba)$p.value>=0.01 & stats::chisq.test(obs1,p=proba)$p.value<0.05  & obs2>=proportion){
+          FileForContrast$ChiTest[a]<-"*"
+          FileForContrast$ObservedProportion[a]<-paste0(FileForContrast$ObservedProportion[a],FileForContrast$ChiTest[a])
+        }
+      }
+
+      TabTempo<-FileForContrast[FileForContrast$cluster==clustered,]
+      ggplot2::ggplot(TabTempo, aes(x=TabTempo$contrast, y=TabTempo$GenesOfContrastInCluster)) +
+        coord_flip()+
+        geom_col(fill=GoCoul[clustered])+
+        theme_classic()+
+        geom_text(aes(label=TabTempo$ObservedProportion), position=position_stack(0.5),color="black")+
+        scale_y_reverse()+
+        labs(title = paste0("DE Genes in contrasts for cluster ",clustered, "\n (",length(which(GeneToClusters[,2]==clustered))," genes in the cluster)"), x="Contrasts", y="Number of genes") +
+        scale_x_discrete(position = "top")+
+        theme(
+          axis.text.y = element_text(face="bold",size=10),
+          axis.text.x = element_text(face="bold",size=10),
+          axis.title.x=element_text(face="bold",size=12),
+          axis.title.y=element_blank(),
+          legend.title = element_text(size=12,face="bold"),
+          plot.title = element_text(face="bold",size=15),
+          legend.text = element_text(size=12),
+          panel.background = element_rect(colour = "black", size=0.5, fill=NA))
+      ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_GenesInContrasts_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered,".png"),width=10, height = 8)
+    }
 
 
     # GO enrichment in the cluster for MF, CC, and BP category (if annotation file is provided)
@@ -584,3 +584,4 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
   }
   return(clust)
 }
+
