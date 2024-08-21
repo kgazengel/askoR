@@ -1,0 +1,15 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000513	1	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0004540	ribonuclease activity	MF
+Gene_000625	1	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0004540	ribonuclease activity	MF
+Gene_000672	1	rna polymerase ii-associated 3	0	0	0	0	0	0	0	-1	-1	43.46364	37.36991	36.53584	51.19642	55.44022	54.94107	GO:0004540	ribonuclease activity	MF
+Gene_001512	1	poly(a)-specific ribonuclease	0	0	0	0	0	0	0	-1	-1	146.663	140.6672	142.7093	163.013	171.2736	186.6494	GO:0004540	ribonuclease activity	MF
+Gene_004670	1	ribonuclease 3	1	0	0	0	0	0	0	-1	0	127.1319	102.1603	104.7429	111.0499	130.5249	127.1848	GO:0004540	ribonuclease activity	MF
+Gene_005528	1	dis3-like exonuclease 1 isoform x2	0	0	0	0	0	0	-1	-1	0	94.084	89.91906	97.58314	121.7843	125.83008	118.3753	GO:0004540	ribonuclease activity	MF
+Gene_005690	1	php domain	0	0	0	0	0	0	0	-1	-1	44.0516	37.91218	35.76002	41.74524	47.12627	48.25065	GO:0004540	ribonuclease activity	MF
+Gene_005730	1	rnase h domain	1	0	0	0	0	0	0	-1	0	174.081	144.9786	148.7201	164.9952	190.2316	183.5456	GO:0004540	ribonuclease activity	MF
+Gene_006357	1	trna-splicing endonuclease subunit sen34-like isoform x2	0	0	0	0	0	0	0	0	-1	32.10494	28.98369	24.8949	30.1546	34.67576	37.05134	GO:0004540	ribonuclease activity	MF
+Gene_007470	1	poly(a)-specific ribonuclease parn-like domain-containing 1	1	1	0	0	0	0	1	-1	-1	261.3242	206.4651	209.6455	209.7671	242.688	264.4054	GO:0004540	ribonuclease activity	MF
+Gene_008374	1	ribonuclease iii	0	0	0	0	0	0	0	0	-1	112.54078	95.66564	83.6971	95.65298	110.24169	119.85746	GO:0004540	ribonuclease activity	MF
+Gene_011634	1	zinc cchc-type	0	0	0	0	0	0	0	-1	-1	318.1788	303.4983	293.3615	383.585	417.5555	390.6951	GO:0004540	ribonuclease activity	MF
+Gene_012445	1	endoribonuclease/protein kinase [micromonas commoda]	0	0	0	0	0	0	0	-1	0	132.5017	115.2784	119.4698	126.4005	147.6637	140.6615	GO:0004540	ribonuclease activity	MF
+Gene_012464	1	trna-splicing endonuclease subunit sen2-1-like isoform x1	0	0	0	0	0	0	0	-1	-1	37.50331	33.93478	32.1883	38.02402	43.07859	44.31007	GO:0004540	ribonuclease activity	MF

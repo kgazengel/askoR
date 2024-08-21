@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000075	6	long chain polyunsaturated fatty acid elongation enzyme	0	0	0	0	0	0	1	0	0	41.57221	34.67887	35.85863	32.52405	37.4583	36.73494	GO:0016746	acyltransferase activity	MF
+Gene_000213	6	glutamine cyclotransferase	0	0	0	0	0	0	0	0	0	62.28983	65.42835	68.19717	65.86571	63.25296	61.97082	GO:0016746	acyltransferase activity	MF
+Gene_000286	6	lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase mitochondrial	0	0	0	0	0	0	0	0	1	100.78487	108.25636	120.59285	99.95683	96.53783	91.61771	GO:0016746	acyltransferase activity	MF
+Gene_000303	6	diacylglycerol o-acyltransferase 1-like isoform x1	0	0	0	0	0	0	0	0	0	82.57645	88.86473	84.71097	89.85809	97.56705	87.79579	GO:0016746	acyltransferase activity	MF
+Gene_000573	6	probable 1-acyl-sn-glycerol-3-phosphate acyltransferase 4 isoform x2	-1	-1	0	0	0	0	-1	0	0	56.91619	76.24617	79.53718	82.56157	71.32405	69.15045	GO:0016746	acyltransferase activity	MF
+Gene_001036	6	gns1 sur4 family	0	0	0	0	0	0	0	0	0	86.2684	99.59893	95.81899	99.63734	90.25031	72.12303	GO:0016746	acyltransferase activity	MF

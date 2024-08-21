@@ -1,0 +1,11 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001644	1	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0006289	nucleotide-excision repair	BP
+Gene_002489	1	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0006289	nucleotide-excision repair	BP
+Gene_003540	1	transcription factor tfiih complex subunit tfb2	0	0	0	0	0	0	0	-1	0	185.4546	169.9437	169.3498	182.9785	219.8874	194.1766	GO:0006289	nucleotide-excision repair	BP
+Gene_005518	1	dna polymerase delta catalytic subunit	0	0	0	0	0	0	0	-1	-1	394.7527	337.0054	348.2828	390.9705	428.0883	436.25	GO:0006289	nucleotide-excision repair	BP
+Gene_006377	1	dna repair uvh3	0	0	0	0	0	0	0	-1	-1	55.34853	57.09913	54.49999	66.81335	72.36823	69.92064	GO:0006289	nucleotide-excision repair	BP
+Gene_006378	1	dna repair uvh3 isoform x2	0	0	0	0	0	0	-1	0	0	36.47961	38.80589	38.32375	49.05929	46.9308	47.17859	GO:0006289	nucleotide-excision repair	BP
+Gene_007367	1	general transcription factor iih	0	1	0	0	0	0	0	-1	-1	176.1936	150.5639	139.0866	166.1844	181.8328	185.9104	GO:0006289	nucleotide-excision repair	BP
+Gene_010066	1	hypothetical protein pbra 005883	0	0	0	0	0	0	0	-1	0	22.63057	19.37124	18.73709	23.21104	26.57141	23.77456	GO:0006289	nucleotide-excision repair	BP
+Gene_011699	1	dna repair helicase	0	0	0	0	0	0	0	-1	0	269.0265	228.0939	234.0571	271.9257	316.9593	268.7393	GO:0006289	nucleotide-excision repair	BP
+Gene_011988	1	cdk-activating kinase assembly factor	1	1	0	0	0	0	0	0	0	65.96724	55.14676	52.67663	58.12117	65.25109	65.48049	GO:0006289	nucleotide-excision repair	BP

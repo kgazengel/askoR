@@ -1,0 +1,402 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000066	1	peroxisome assembly factor	1	0	0	0	0	0	0	-1	0	98.04797	80.12653	89.34571	93.77104	95.52745	103.59971	GO:0000166	nucleotide binding	MF
+Gene_000076	1	serine threonine kinase	1	1	0	0	0	0	0	-1	-1	128.98429	100.79848	98.53502	120.74153	132.10107	128.83352	GO:0000166	nucleotide binding	MF
+Gene_000095	1	s-adenosyl-l-methionine-dependent trna 4-demethylwyosine synthase	0	0	0	0	0	0	0	-1	0	97.72597	92.02689	94.49104	98.33816	109.60407	107.72553	GO:0000166	nucleotide binding	MF
+Gene_000098	1	tata-binding-associated factor 172-like	0	0	0	0	0	0	0	-1	0	284.5189	250.038	261.8777	278.9662	329.3884	313.678	GO:0000166	nucleotide binding	MF
+Gene_000126	1	kinesin family member 3b motor	0	0	0	0	0	0	0	-1	0	2.7785	3.209777	2.395822	4.177889	5.196627	2.591658	GO:0000166	nucleotide binding	MF
+Gene_000175	1	dna repair	0	0	0	0	0	0	0	-1	-1	157.1903	145.9892	141.3774	179.5229	184.6883	191.204	GO:0000166	nucleotide binding	MF
+Gene_000229	1	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0000166	nucleotide binding	MF
+Gene_000322	1	nadph-dependent diflavin oxidoreductase 1-like	1	0	0	0	0	0	0	-1	0	67.45497	53.68434	56.22067	54.75354	66.26483	63.26144	GO:0000166	nucleotide binding	MF
+Gene_000358	1	kinesin heavy	0	0	0	0	0	0	0	-1	-1	50.7503	43.70998	45.38205	56.43452	64.48223	63.88593	GO:0000166	nucleotide binding	MF
+Gene_000420	1	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0000166	nucleotide binding	MF
+Gene_000447	1	splicing factor u2af small subunit b	0	0	0	0	0	0	0	-1	0	256.1132	224.6879	222.0729	255.7248	278.6687	257.2362	GO:0000166	nucleotide binding	MF
+Gene_000456	1	elongation factor alpha	1	1	0	0	0	0	0	0	0	10181.05	8285.877	7956.99	8629.072	9568.859	9852.146	GO:0000166	nucleotide binding	MF
+Gene_000500	1	serine arginine-rich splicing factor 2-like	1	1	0	0	0	0	0	-1	-1	209.7441	169.3129	163.7056	184.542	200.1094	211.1526	GO:0000166	nucleotide binding	MF
+Gene_000507	1	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0000166	nucleotide binding	MF
+Gene_000560	1	isoleucine-trna ligase	0	0	0	0	0	0	0	0	-1	201.9037	171.7386	174.0932	196.3182	207.2894	237.8705	GO:0000166	nucleotide binding	MF
+Gene_000606	1	ubiquitin-conjugating enzyme catalytic (ubcc) domain	0	0	0	0	0	0	0	-1	0	92.77242	82.58199	89.20963	103.17347	104.18637	101.49101	GO:0000166	nucleotide binding	MF
+Gene_000620	1	atp-dependent metalloprotease	0	0	0	0	0	0	0	-1	0	227.8736	197.4454	204.3173	215.9885	242.5252	243.899	GO:0000166	nucleotide binding	MF
+Gene_000637	1	chorismate mutase	0	0	0	0	0	0	0	-1	0	67.52125	56.90338	63.4766	68.15071	71.99279	70.5514	GO:0000166	nucleotide binding	MF
+Gene_000649	1	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0000166	nucleotide binding	MF
+Gene_000661	1	gpn-loop gtpase 2	0	1	0	0	0	0	0	0	0	143.4144	126.2097	115.4374	123.1497	140.8049	123.1631	GO:0000166	nucleotide binding	MF
+Gene_000700	1	gtp-binding yptc4	0	0	0	0	0	0	0	-1	0	184.1282	177.8063	186.3292	202.05	218.7814	195.1488	GO:0000166	nucleotide binding	MF
+Gene_000719	1	3-phosphoshikimate 1-carboxyvinyltransferase	0	0	0	0	0	0	0	-1	0	283.0898	277.9638	281.8086	294.0452	323.0963	318.6991	GO:0000166	nucleotide binding	MF
+Gene_000744	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0000166	nucleotide binding	MF
+Gene_000758	1	dna ligase 1-like isoform x2	0	0	0	0	0	0	0	-1	0	338.8028	297.2515	317.5809	328.8895	366.9113	342.2706	GO:0000166	nucleotide binding	MF
+Gene_000759	1	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0000166	nucleotide binding	MF
+Gene_000760	1	kinase 2	0	0	0	0	0	0	0	0	-1	22.01819	23.78803	19.82826	28.72344	27.73389	28.85588	GO:0000166	nucleotide binding	MF
+Gene_000810	1	p-loop containing nucleoside triphosphate hydrolase	1	0	0	0	0	0	1	0	0	741.0018	615.8963	617.6885	615.1305	542.7683	640.377	GO:0000166	nucleotide binding	MF
+Gene_000823	1	ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0	0	0	-1	477.5516	434.2584	458.3589	502.4871	522.8118	596.9142	GO:0000166	nucleotide binding	MF
+Gene_000903	1	t-complex 1 subunit zeta	0	0	0	0	0	0	0	-1	-1	1099.67	901.0812	929.468	1036.3356	1134.9273	1241.7917	GO:0000166	nucleotide binding	MF
+Gene_000938	1	acyl-coenzyme a oxidase peroxisomal-like	1	0	0	0	0	0	0	-1	0	146.4076	120.1247	129.9385	136.5351	156.8979	138.1073	GO:0000166	nucleotide binding	MF
+Gene_000946	1	dynein heavy chain axonemal-like	0	0	0	0	0	0	0	-1	0	86.07783	88.62974	101.51231	109.7435	118.39342	105.1422	GO:0000166	nucleotide binding	MF
+Gene_000961	1	dna helicase	0	0	0	0	0	0	0	-1	0	294.8804	270.3242	292.2753	299.2011	317.6125	308.4823	GO:0000166	nucleotide binding	MF
+Gene_000964	1	interferon-double-stranded rna-activated kinase isoform x1	0	0	0	0	0	0	0	-1	0	220.7964	208.813	224.0779	234.0028	263.684	233.2867	GO:0000166	nucleotide binding	MF
+Gene_000982	1	dead-box atp-dependent rna helicase 29	1	1	0	0	0	0	0	-1	-1	152.1166	117.0285	110.6009	142.7345	151.9854	146.0092	GO:0000166	nucleotide binding	MF
+Gene_001016	1	serine threonine-kinase atr	0	0	0	0	0	0	0	-1	0	228.569	190.7936	210.3716	220.7148	253.7526	244.819	GO:0000166	nucleotide binding	MF
+Gene_001067	1	hypothetical protein pbra 002611	0	0	0	0	0	0	0	-1	0	98.53642	94.00716	100.89128	106.34708	109.64346	102.03846	GO:0000166	nucleotide binding	MF
+Gene_001081	1	atp-dependent rna helicase dbp2-a	0	0	0	0	0	0	0	0	-1	1278.329	1032.751	1039.625	1118.679	1218.554	1431.449	GO:0000166	nucleotide binding	MF
+Gene_001092	1	splicing factor u2af-associated 2	0	1	0	0	0	0	0	-1	0	150.9401	127.75	121.2134	140.949	160.9631	143.7194	GO:0000166	nucleotide binding	MF
+Gene_001093	1	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0000166	nucleotide binding	MF
+Gene_001188	1	u1 snrnp	0	0	0	0	0	0	0	-1	0	346.7332	308.3446	311.5014	347.671	388.1104	345.5232	GO:0000166	nucleotide binding	MF
+Gene_001260	1	glutamyl-trna synthetase	0	0	0	0	0	0	0	-1	-1	566.4172	480.0115	497.5015	595.8558	656.4157	666.766	GO:0000166	nucleotide binding	MF
+Gene_001294	1	serine-trna ligase	1	1	0	0	0	0	0	-1	-1	533.8233	409.2717	405.6851	454.6443	528.438	538.7901	GO:0000166	nucleotide binding	MF
+Gene_001346	1	fad-binding	0	0	0	0	0	0	0	-1	0	86.67617	79.2341	78.02588	96.84916	100.43985	91.20347	GO:0000166	nucleotide binding	MF
+Gene_001426	1	atp-dependent chaperone	0	0	0	0	0	0	0	-1	-1	388.6241	354.4963	344.3268	374.241	426.0299	414.6217	GO:0000166	nucleotide binding	MF
+Gene_001434	1	atp-dependent dna helicase q1	0	0	0	0	0	0	0	-1	-1	165.5527	150.5682	150.6677	187.7322	219.7581	193.1795	GO:0000166	nucleotide binding	MF
+Gene_001459	1	atpase family aaa domain-containing 5	0	0	0	0	0	0	0	0	-1	102.92411	87.58853	90.92084	97.8907	105.16477	119.98235	GO:0000166	nucleotide binding	MF
+Gene_001495	1	atp-binding cassette sub-family a member 5-like isoform x1	0	0	0	0	0	0	0	-1	-1	272.5163	238.3215	251.9166	289.8265	331.7347	319.4942	GO:0000166	nucleotide binding	MF
+Gene_001501	1	hypothetical protein pbra 005267	0	0	0	0	0	0	0	-1	-1	829.8038	711.3636	725.4258	836.9254	933.6178	979.8073	GO:0000166	nucleotide binding	MF
+Gene_001518	1	atp-dependent dna helicase q-like 4a	0	0	0	0	0	0	0	-1	-1	130.1874	111.8279	114.4696	134.5268	151.424	145.9135	GO:0000166	nucleotide binding	MF
+Gene_001578	1	hsp70	0	1	0	-1	0	0	0	-1	-1	2565.978	2201.392	1874.301	2524.906	3187.673	2840.821	GO:0000166	nucleotide binding	MF
+Gene_001581	1	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	-1	-1	220.1977	178.7816	169.9087	208.2993	232.2573	252.7273	GO:0000166	nucleotide binding	MF
+Gene_001626	1	heat shock 80	0	0	0	0	0	0	0	-1	0	5082.849	4371.106	4143.771	4650.994	5708.457	5095.585	GO:0000166	nucleotide binding	MF
+Gene_001644	1	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0000166	nucleotide binding	MF
+Gene_001654	1	acyl-binding domain-containing 6 isoform x1	0	0	0	0	0	0	0	-1	0	30.31308	26.37864	25.11616	31.71122	36.47796	32.50711	GO:0000166	nucleotide binding	MF
+Gene_001700	1	dynein heavy cytoplasmic	0	0	0	0	0	0	0	-1	0	293.1125	260.7656	278.281	328.8841	385.5559	356.7558	GO:0000166	nucleotide binding	MF
+Gene_001702	1	dynein heavy cytoplasmic	0	0	0	0	0	0	0	-1	0	643.2565	557.8513	579.2008	688.7587	827.5117	732.6482	GO:0000166	nucleotide binding	MF
+Gene_001707	1	dead deah box rna helicase	0	0	0	0	0	0	0	-1	0	242.0006	213.0082	225.1149	223.1306	252.5408	240.891	GO:0000166	nucleotide binding	MF
+Gene_001721	1	probable cell division control nda4	0	0	0	0	0	0	0	-1	0	461.7326	408.2226	426.6747	463.5843	490.7864	489.3966	GO:0000166	nucleotide binding	MF
+Gene_001728	1	ribosome biogenesis bms1 homolog	1	1	0	0	0	0	0	0	0	370.5235	290.1477	277.7039	320.552	334.7161	336.4555	GO:0000166	nucleotide binding	MF
+Gene_001731	1	aspartyl glutamyl-trna amidotransferase subunit a	1	0	0	0	0	0	0	-1	0	164.6836	137.0164	140.7181	157.3923	171.0032	164.1883	GO:0000166	nucleotide binding	MF
+Gene_001776	1	pantothenate kinase 3	0	0	0	-1	0	0	0	-1	0	115.0648	103.4463	102.125	101.1001	121.5538	116.0272	GO:0000166	nucleotide binding	MF
+Gene_001804	1	arsenite-antimonite ( ) efflux family	0	0	0	0	0	0	0	-1	0	177.2711	148.5146	151.5462	164.5008	180.0604	180.0359	GO:0000166	nucleotide binding	MF
+Gene_001807	1	deah box polypeptide 37	1	1	0	0	0	0	0	0	-1	75.91911	59.56618	51.86456	63.86008	69.17693	72.60389	GO:0000166	nucleotide binding	MF
+Gene_001839	1	calcium calmodulin dependent kinase	1	1	0	0	0	0	0	-1	-1	191.4005	139.681	138.3468	158.5899	192.3665	193.8123	GO:0000166	nucleotide binding	MF
+Gene_001879	1	dead-box atp-dependent rna helicase 39	1	1	0	0	0	0	0	-1	-1	226.5321	183.5995	178.1792	210.0146	234.254	250.0232	GO:0000166	nucleotide binding	MF
+Gene_001882	1	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0000166	nucleotide binding	MF
+Gene_001887	1	adenylate kinase	1	1	0	0	0	0	0	-1	-1	213.8695	158.8456	165.8168	200.687	230.8222	228.6654	GO:0000166	nucleotide binding	MF
+Gene_001910	1	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0000166	nucleotide binding	MF
+Gene_001919	1	developmentally-regulated gtp-binding 2	0	0	0	0	0	0	0	-1	-1	85.54348	72.01101	74.0948	87.41838	99.92897	95.66862	GO:0000166	nucleotide binding	MF
+Gene_001927	1	dead (asp-glu-ala-asp) box polypeptide 10	1	1	0	0	0	0	1	0	-1	195.6827	163.026	151.7405	159.633	173.0137	183.479	GO:0000166	nucleotide binding	MF
+Gene_001949	1	rab gtpase ypt5	0	0	0	0	0	0	0	-1	0	38.73808	38.93695	36.60876	46.47708	49.87135	46.69564	GO:0000166	nucleotide binding	MF
+Gene_002006	1	dead-box atp-dependent rna helicase 28	1	1	0	0	0	0	0	0	0	133.86545	106.41599	98.26485	119.23155	120.46202	119.32867	GO:0000166	nucleotide binding	MF
+Gene_002060	1	agc kinase	1	0	0	0	0	0	0	-1	-1	1332.441	949.596	1048.48	1153.937	1333.973	1608.568	GO:0000166	nucleotide binding	MF
+Gene_002088	1	elongation factor tu	1	0	0	0	0	0	0	-1	-1	523.7827	405.0166	430.5992	485.0432	555.42	567.3816	GO:0000166	nucleotide binding	MF
+Gene_002095	1	dna topoisomerase ii	0	0	0	0	0	0	0	-1	-1	591.7513	564.5343	595.3706	681.1753	740.4055	743.2106	GO:0000166	nucleotide binding	MF
+Gene_002096	1	elav 3 isoform x6	1	0	0	0	0	0	0	-1	0	30.55974	23.53708	23.6791	30.15208	33.86699	30.02785	GO:0000166	nucleotide binding	MF
+Gene_002139	1	related to human gtp-binding mmr1	1	1	0	0	0	0	0	-1	-1	414.4649	339.6519	333.6813	378.3758	444.3302	428.9642	GO:0000166	nucleotide binding	MF
+Gene_002203	1	alkyldihydroxyacetonephosphate peroxisomal	0	0	0	0	0	0	0	-1	0	91.77514	84.94446	84.00724	92.7592	99.9077	95.933	GO:0000166	nucleotide binding	MF
+Gene_002231	1	eukaryotic translation initiation factor 2 gamma	0	0	0	0	0	0	0	-1	-1	350.6763	301.2976	293.2374	339.0927	381.4158	402.3462	GO:0000166	nucleotide binding	MF
+Gene_002245	1	atp-dependent rna helicase	0	0	0	0	0	0	0	-1	0	447.0886	418.658	420.7661	457.3951	493.8368	471.7942	GO:0000166	nucleotide binding	MF
+Gene_002268	1	probable phosphoglycerate kinase	1	0	0	0	0	0	0	-1	-1	206.1574	169.2614	176.9605	196.6996	212.4812	238.3139	GO:0000166	nucleotide binding	MF
+Gene_002269	1	phosphoglycerate kinase	0	0	0	0	0	0	0	-1	0	88.18496	75.42251	76.28688	79.49194	92.41213	95.01915	GO:0000166	nucleotide binding	MF
+Gene_002298	1	dead deah box rna	0	0	0	0	0	0	0	-1	0	214.4114	201.9356	215.8866	228.4308	257.9679	233.9507	GO:0000166	nucleotide binding	MF
+Gene_002300	1	adenylate kinase	0	0	0	0	0	0	0	-1	0	113.09753	97.8363	94.27183	97.14678	118.24498	93.9346	GO:0000166	nucleotide binding	MF
+Gene_002305	1	abc transporter c family member 2	1	1	0	0	0	0	0	-1	-1	164.2066	132.9492	131.6824	152.7858	177.4672	180.2795	GO:0000166	nucleotide binding	MF
+Gene_002357	1	phenylalanine-trna ligase beta subunit	1	0	0	0	0	0	0	-1	-1	266.3495	210.5162	221.5473	254.5193	266.1183	300.3326	GO:0000166	nucleotide binding	MF
+Gene_002373	1	cytosolic fe-s cluster assembly factor nbp35	1	0	0	0	0	0	0	-1	0	84.99911	70.38455	70.64448	74.96533	82.98998	79.85846	GO:0000166	nucleotide binding	MF
+Gene_002383	1	tyrosine-trna ligase	0	0	0	0	0	0	0	-1	0	119.1196	101.4001	100.0544	125.7505	139.2985	122.9799	GO:0000166	nucleotide binding	MF
+Gene_002384	1	tyrosine-trna ligase	1	0	0	0	0	0	0	-1	0	64.17287	51.79736	51.08595	60.41504	71.32124	61.58779	GO:0000166	nucleotide binding	MF
+Gene_002416	1	atp-dependent rna helicase has1	1	1	0	0	0	0	0	-1	-1	194.4527	153.556	149.1646	183.9015	190.2593	184.8883	GO:0000166	nucleotide binding	MF
+Gene_002424	1	dna helicase mcm8	0	0	0	0	0	0	0	-1	0	160.6941	153.561	149.6316	175.2123	183.6679	175.8289	GO:0000166	nucleotide binding	MF
+Gene_002466	1	cmgc mapk kinase	1	0	0	0	0	0	0	-1	-1	176.1643	144.293	146.054	161.7713	190.6848	186.4489	GO:0000166	nucleotide binding	MF
+Gene_002483	1	atp-dependent rna helicase	0	0	0	0	0	0	0	-1	0	233.4682	219.4332	226.5862	255.4754	268.789	256.2016	GO:0000166	nucleotide binding	MF
+Gene_002518	1	heat shock hsp10	1	1	0	0	0	0	0	-1	0	666.5423	497.9945	487.6515	562.0477	688.4057	623.5155	GO:0000166	nucleotide binding	MF
+Gene_002642	1	40s ribosomal s24-1	1	0	0	0	0	0	1	0	0	632.3782	498.5319	484.6473	464.6018	521.8295	546.9733	GO:0000166	nucleotide binding	MF
+Gene_002734	1	trna-dihydrouridine(20) synthase [nad(p)+]-like	1	1	0	0	0	0	0	-1	-1	84.60322	69.87414	66.67464	79.42111	92.54741	85.03137	GO:0000166	nucleotide binding	MF
+Gene_002756	1	g-subunit alpha 1	0	0	0	0	0	0	0	-1	0	22.80941	21.75163	21.29875	25.02395	27.96536	24.8029	GO:0000166	nucleotide binding	MF
+Gene_002847	1	dnaj homolog	0	0	0	0	0	0	0	-1	-1	834.588	697.2882	677.3964	843.1584	1043.7415	919.9158	GO:0000166	nucleotide binding	MF
+Gene_002947	1	atp-dependent (s)-nad(p)h-hydrate dehydratase isoform x3	0	0	0	0	0	0	0	-1	0	83.19544	75.20438	71.85094	79.81059	91.08814	83.87605	GO:0000166	nucleotide binding	MF
+Gene_002948	1	dna-directed rna polymerase ii subunit 4-like	0	0	0	0	0	0	0	-1	0	107.83813	92.96722	95.9872	103.73317	120.17588	92.36297	GO:0000166	nucleotide binding	MF
+Gene_003034	1	serine threonine kinase	0	0	0	-1	0	0	0	-1	-1	596.0434	511.8054	515.1218	655.595	818.0484	735.8227	GO:0000166	nucleotide binding	MF
+Gene_003074	1	replication factor c subunit 5	0	0	0	0	0	0	0	-1	-1	161.0282	151.6827	141.6312	171.9778	183.3707	184.4407	GO:0000166	nucleotide binding	MF
+Gene_003099	1	hypothetical protein pbra 003560	0	0	0	0	0	0	0	-1	0	534.0859	499.6549	497.6324	570.4449	581.8812	576.4848	GO:0000166	nucleotide binding	MF
+Gene_003109	1	sperm motility kinase w isoform x1	-1	0	0	0	0	0	-1	0	0	0.02625657	0.38839765	0.03055874	0.70790111	0.83024304	0.43506572	GO:0000166	nucleotide binding	MF
+Gene_003112	1	cbl-interacting serine threonine-kinase 3-like	0	0	0	0	0	0	0	-1	0	4.566217	3.803658	3.346817	5.622526	7.581089	6.028465	GO:0000166	nucleotide binding	MF
+Gene_003223	1	mitochondrial chaperone bcs1	0	0	0	0	0	0	0	-1	0	95.15294	97.97348	91.95583	109.00542	118.27545	106.97408	GO:0000166	nucleotide binding	MF
+Gene_003234	1	ribosomal rna-processing 7 homolog a	0	1	0	0	0	0	0	0	0	65.44957	54.4195	51.37894	65.54028	62.63654	63.07618	GO:0000166	nucleotide binding	MF
+Gene_003296	1	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	-1	168.5506	130.5591	120.5944	138.6273	158.2392	161.9838	GO:0000166	nucleotide binding	MF
+Gene_003362	1	cysteinyl-trna synthetase	1	0	0	0	0	0	0	-1	-1	307.405	255.2744	257.4809	334.8239	377.5204	392.8455	GO:0000166	nucleotide binding	MF
+Gene_003379	1	methionine-trna mitochondrial-like isoform x1	1	0	0	0	0	0	0	-1	0	129.0932	101.0104	109.383	115.7648	122.7101	132.0934	GO:0000166	nucleotide binding	MF
+Gene_003395	1	u2 small nuclear ribonucleo b	0	0	0	0	0	0	0	-1	0	331.8923	291.5255	275.6126	316.8144	353.2626	317.7914	GO:0000166	nucleotide binding	MF
+Gene_003420	1	probable pre-mrna-splicing factor atp-dependent rna helicase deah5	0	0	0	0	0	0	0	-1	-1	232.0916	212.9695	214.1601	249.6207	284.3735	270.2465	GO:0000166	nucleotide binding	MF
+Gene_003437	1	dead box rna helicase	1	1	0	0	0	0	0	-1	-1	95.26215	71.88412	68.83494	87.1695	86.81845	98.08959	GO:0000166	nucleotide binding	MF
+Gene_003514	1	dead-box atp-dependent rna helicase 18-like isoform x1	1	1	0	0	0	0	1	0	0	94.31984	75.27832	64.77389	76.75291	82.70415	78.22644	GO:0000166	nucleotide binding	MF
+Gene_003559	1	hypothetical protein pbra 004300	0	0	0	0	0	0	0	-1	0	170.6426	152.4039	145.2042	172.1126	194.7571	181.0455	GO:0000166	nucleotide binding	MF
+Gene_003590	1	probable atp-dependent rna helicase ddx47	1	1	0	0	0	0	0	-1	-1	193.0124	147.5788	138.2783	160.1766	186.9464	188.2959	GO:0000166	nucleotide binding	MF
+Gene_003631	1	peptidyl-prolyl cis-trans isomerase cyp59 isoform x1	0	0	0	0	0	0	0	-1	-1	118.1835	102.5431	102.284	123.7379	141.9024	151.7109	GO:0000166	nucleotide binding	MF
+Gene_003652	1	aurora kinase c	0	0	0	0	0	0	0	-1	-1	238.4055	215.6913	220.6957	262.0071	299.6882	283.8167	GO:0000166	nucleotide binding	MF
+Gene_003653	1	serine threonine kinase	0	0	0	0	0	0	0	-1	-1	331.0516	308.5116	298.9293	346.7973	415.2266	380.9509	GO:0000166	nucleotide binding	MF
+Gene_003673	1	u-box domain-containing 50 isoform x2	0	0	0	0	0	0	0	-1	0	38.60583	32.80876	33.74276	42.45743	48.80099	38.98104	GO:0000166	nucleotide binding	MF
+Gene_003699	1	t-complex alpha subunit	0	0	0	0	0	0	0	0	-1	593.125	487.2574	482.186	526.976	588.4651	699.5501	GO:0000166	nucleotide binding	MF
+Gene_003738	1	probable atp-dependent rna helicase ddx60	0	0	0	0	0	0	0	-1	-1	499.9069	460.782	459.614	519.231	551.5405	564.917	GO:0000166	nucleotide binding	MF
+Gene_003749	1	chromo domain-containing	0	0	0	0	0	0	0	-1	-1	271.561	256.2273	260.1928	308.3471	327.4727	315.7389	GO:0000166	nucleotide binding	MF
+Gene_003751	1	snf2 family n-terminal domain-domain-containing	0	0	0	0	0	0	0	-1	-1	88.11237	78.76673	76.87365	87.07122	103.7655	101.05384	GO:0000166	nucleotide binding	MF
+Gene_003773	1	tyrosyl-trna synthetase	1	0	0	0	0	0	0	-1	-1	375.6924	300.7143	306.424	333.957	380.273	402.9832	GO:0000166	nucleotide binding	MF
+Gene_003842	1	snf2 family nterminal domain containing	0	0	0	0	0	0	0	-1	-1	273.8026	246.4761	243.5866	271.3616	310.7303	311.7317	GO:0000166	nucleotide binding	MF
+Gene_003858	1	d-box atp-dependent rna helicase d 1 isoform x2	0	0	0	0	0	0	0	-1	-1	281.9792	240.9559	244.0953	300.7307	341.4468	367.8677	GO:0000166	nucleotide binding	MF
+Gene_003955	1	rna-binding domain-containing	0	0	0	0	0	0	0	-1	0	54.64776	48.62305	49.06092	55.69621	65.14076	57.47029	GO:0000166	nucleotide binding	MF
+Gene_004041	1	vacuolar sorting-associated 4b isoform x2	0	0	0	0	0	0	0	-1	0	241.7675	214.9582	235.2516	240.0466	263.6949	257.2112	GO:0000166	nucleotide binding	MF
+Gene_004046	1	dynamin-related gtpase	0	0	0	0	0	0	0	-1	-1	30.68524	22.24549	25.48488	33.63348	44.48375	51.88521	GO:0000166	nucleotide binding	MF
+Gene_004141	1	tubulin gamma chain [micromonas commoda]	0	0	0	0	0	0	0	-1	0	27.31392	25.02262	27.60816	30.04299	32.39174	29.81343	GO:0000166	nucleotide binding	MF
+Gene_004142	1	tubulin gamma chain [micromonas commoda]	0	0	0	0	0	0	0	-1	0	125.2968	109.5898	114.8001	124.8044	134.1426	134.5477	GO:0000166	nucleotide binding	MF
+Gene_004158	1	snf2 super family [micromonas commoda]	0	0	0	0	0	0	0	0	-1	172.6422	168.6751	155.6251	184.3762	193.1649	188.5312	GO:0000166	nucleotide binding	MF
+Gene_004171	1	atp-dependent 6-phosphofructokinase 6-like	0	0	0	0	0	0	0	-1	0	421.1867	375.7307	399.483	395.3863	442.8947	407.0194	GO:0000166	nucleotide binding	MF
+Gene_004173	1	probable atp-dependent rna helicase cg8611	0	1	0	0	0	0	0	-1	-1	160.485	132.709	120.1683	165.6616	197.5409	186.7638	GO:0000166	nucleotide binding	MF
+Gene_004181	1	kynurenine 3-monooxygenase	0	0	0	0	0	0	0	-1	0	100.94915	89.34099	92.21422	107.72123	110.04783	110.54618	GO:0000166	nucleotide binding	MF
+Gene_004211	1	kynurenine 3-monooxygenase and related flavo monooxygenase	1	0	0	0	0	0	0	-1	0	82.03062	66.63254	67.24268	79.67473	83.21364	79.90216	GO:0000166	nucleotide binding	MF
+Gene_004247	1	serine arginine-rich splicing factor rs41-like isoform x1	0	0	0	0	0	0	0	-1	-1	475.1278	417.9014	413.2707	480.2473	558.3148	505.3588	GO:0000166	nucleotide binding	MF
+Gene_004270	1	trna modification gtpase mitochondrial	1	0	0	0	0	0	0	0	0	60.77955	48.9908	49.59142	53.48359	57.55935	59.12311	GO:0000166	nucleotide binding	MF
+Gene_004272	1	eukaryotic peptide chain release factor gtp-binding subunit erf3a-like isoform x1	1	0	0	0	0	0	0	-1	-1	550.9606	477.6519	480.91	512.2554	577.8999	597.78	GO:0000166	nucleotide binding	MF
+Gene_004286	1	kinesin kin-14i	0	0	0	0	0	0	0	-1	-1	129.1297	117.895	121.5063	123.6791	146.4678	148.3053	GO:0000166	nucleotide binding	MF
+Gene_004335	1	atp-dependent protease atpase subunit	1	0	0	0	0	0	1	0	0	173.7353	140.1616	151.4891	139.8893	158.2928	151.5673	GO:0000166	nucleotide binding	MF
+Gene_004379	1	adp-ribosylation factor isoform 1	0	0	0	0	0	0	0	-1	0	64.31864	55.3351	53.48014	65.69486	74.26921	66.96679	GO:0000166	nucleotide binding	MF
+Gene_004479	1	asparagine-trna cytoplasmic	1	0	0	0	0	0	0	-1	-1	473.832	353.6498	370.8573	485.0185	559.2368	597.8113	GO:0000166	nucleotide binding	MF
+Gene_004482	1	raf-related map kinase kinase kinase	0	0	0	0	0	0	-1	-1	-1	42.62782	34.77481	36.41684	57.47661	67.92652	61.47955	GO:0000166	nucleotide binding	MF
+Gene_004490	1	serine threonine kinase domain	0	0	0	0	0	0	0	-1	-1	39.89134	30.11851	34.76077	52.54632	57.78595	69.81867	GO:0000166	nucleotide binding	MF
+Gene_004493	1	hypothetical protein pbra 001076	0	0	0	0	0	0	0	-1	0	21.71612	19.1401	20.53846	24.06591	26.38331	25.79377	GO:0000166	nucleotide binding	MF
+Gene_004494	1	atp-dependent dna helicase q-like 5	0	0	0	0	0	0	0	-1	-1	173.5379	152.2448	155.6793	183.4087	210.6071	198.1276	GO:0000166	nucleotide binding	MF
+Gene_004511	1	serine threonine	1	0	0	0	0	0	0	-1	-1	172.6349	123.7684	130.0571	178.053	238.5059	236.4695	GO:0000166	nucleotide binding	MF
+Gene_004522	1	probable atp-dependent rna helicase dhx35 isoform x1	0	0	0	0	0	0	0	-1	0	146.9132	136.2382	139.5251	148.1163	159.2494	157.5354	GO:0000166	nucleotide binding	MF
+Gene_004543	1	peroxisome biosynthesis	0	0	0	0	0	0	-1	0	0	146.2755	170.4358	155.0519	195.5215	181.5504	160.5225	GO:0000166	nucleotide binding	MF
+Gene_004568	1	ribosome biogenesis gtpase	0	0	0	0	0	0	0	-1	0	348.9664	313.2296	320.4147	357.8274	390.0939	393.6698	GO:0000166	nucleotide binding	MF
+Gene_004571	1	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0000166	nucleotide binding	MF
+Gene_004583	1	cohesin complex subunit psm1	0	0	0	0	0	0	0	-1	0	1460.953	1245.483	1317.507	1459.285	1695.594	1577.171	GO:0000166	nucleotide binding	MF
+Gene_004727	1	kinesin kif3b-like	0	0	0	0	0	0	0	0	-1	3.808982	3.053639	2.86683	3.698999	4.011116	7.252487	GO:0000166	nucleotide binding	MF
+Gene_004806	1	helicase ski2w-like	0	0	0	0	0	0	0	-1	-1	267.8198	225.4783	237.2863	272.396	322.7264	308.4885	GO:0000166	nucleotide binding	MF
+Gene_004816	1	agc pdk1 kinase [kwoniella bestiolae cbs 10118]	0	0	0	0	0	0	0	-1	0	57.41712	48.99479	51.20492	54.50488	60.19636	59.17099	GO:0000166	nucleotide binding	MF
+Gene_004843	1	ubiquitin-conjugating enzyme e2	0	0	0	0	0	0	0	-1	-1	154.2891	141.2154	135.6343	164.3698	180.7734	168.1705	GO:0000166	nucleotide binding	MF
+Gene_004845	1	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	1	1	0	0	0	0	0	-1	-1	75.10577	61.06927	58.87793	74.31557	79.92722	77.84433	GO:0000166	nucleotide binding	MF
+Gene_004857	1	abc transporter e family member 2	1	1	0	0	0	0	0	-1	-1	389.226	302.9321	302.5792	374.4369	468.2251	472.6643	GO:0000166	nucleotide binding	MF
+Gene_004895	1	signal recognition particle 54 kda 1	0	0	0	0	0	0	0	-1	-1	242.4037	216.5547	207.5464	241.1804	269.0896	276.1896	GO:0000166	nucleotide binding	MF
+Gene_004898	1	adp-ribosylation factor-like	0	0	0	0	0	0	0	-1	0	57.98942	46.15422	44.20656	57.5617	72.331	56.2546	GO:0000166	nucleotide binding	MF
+Gene_004916	1	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0000166	nucleotide binding	MF
+Gene_004924	1	dna repair rad51 homolog 3-like isoform x1	0	0	0	0	0	0	0	-1	0	30.45432	25.59914	26.55364	27.98691	34.16685	31.80767	GO:0000166	nucleotide binding	MF
+Gene_004984	1	alanine-trna ligase	1	0	0	0	0	0	0	-1	-1	406.0457	339.3033	341.2607	401.511	440.4367	449.7488	GO:0000166	nucleotide binding	MF
+Gene_004987	1	ataxia-telangiectasia mutated	0	0	0	0	0	0	0	-1	0	162.9799	142.3109	159.3044	157.7139	176.1886	173.7181	GO:0000166	nucleotide binding	MF
+Gene_004988	1	hypothetical protein pbra 000316	0	0	0	0	0	0	0	-1	0	184.7546	162.4798	172.4716	168.1376	210.7782	185.1942	GO:0000166	nucleotide binding	MF
+Gene_005040	1	cmgc cdk kinase	1	0	0	0	0	0	0	-1	0	119.85032	101.53246	99.97332	113.13353	127.22736	121.85791	GO:0000166	nucleotide binding	MF
+Gene_005075	1	actin	1	0	0	0	0	0	0	-1	-1	211.8743	144.9633	164.5367	201.3894	248.9654	342.1425	GO:0000166	nucleotide binding	MF
+Gene_005089	1	atp-binding subfamily b (mdr tap) member 10	0	0	0	0	0	0	0	-1	0	264.528	254.1587	273.1448	300.5656	304.9013	263.8828	GO:0000166	nucleotide binding	MF
+Gene_005091	1	iq and aaa domain-containing	0	0	0	0	0	0	-1	-1	0	4.732563	7.064556	5.815167	10.268316	11.396712	7.59387	GO:0000166	nucleotide binding	MF
+Gene_005125	1	cmgc mapk kinase	0	0	0	0	0	0	0	-1	0	236.6644	210.5399	216.8856	228.2902	249.8811	229.3774	GO:0000166	nucleotide binding	MF
+Gene_005127	1	d-box atp-dependent rna helicase d 14	0	0	0	0	0	0	0	-1	0	256.9356	225.9825	260.4121	280.1287	316.5922	310.3183	GO:0000166	nucleotide binding	MF
+Gene_005160	1	gtp-binding	1	0	0	0	0	0	0	-1	-1	91.60036	71.17719	72.94575	89.88298	102.35447	98.03756	GO:0000166	nucleotide binding	MF
+Gene_005161	1	gtp-binding	1	1	0	0	0	0	0	-1	-1	118.90794	87.54733	87.96976	104.65004	122.7646	125.03451	GO:0000166	nucleotide binding	MF
+Gene_005162	1	gtp-binding variant 2	1	1	0	0	0	0	0	-1	-1	90.12675	68.19331	69.5957	79.26314	98.13439	96.48463	GO:0000166	nucleotide binding	MF
+Gene_005201	1	hypothetical protein pbra 000134	0	0	0	0	0	0	1	0	0	86.27325	70.72434	70.25078	61.73408	72.34199	84.67543	GO:0000166	nucleotide binding	MF
+Gene_005207	1	hypothetical protein pbra 000131	0	0	0	0	0	0	0	-1	0	14.35367	12.50495	13.68551	15.34269	18.77634	16.42424	GO:0000166	nucleotide binding	MF
+Gene_005255	1	tp53-regulating kinase	1	1	0	0	0	0	0	-1	-1	49.00732	39.46025	37.2994	44.27898	51.09265	51.19618	GO:0000166	nucleotide binding	MF
+Gene_005284	1	3-phosphoinositide-dependent kinase 2-like	1	0	0	0	0	0	0	-1	0	123.4303	103.5722	107.776	117.6519	129.1095	123.9541	GO:0000166	nucleotide binding	MF
+Gene_005328	1	nuclear cap-binding subunit 2	0	0	0	0	0	0	0	-1	0	176.4192	153.8209	151.3684	166.7819	189.2267	177.6962	GO:0000166	nucleotide binding	MF
+Gene_005387	1	nucleotide exchange factor	1	1	0	0	0	0	0	-1	-1	178.4194	142.3589	136.3175	174.4968	195.2977	213.688	GO:0000166	nucleotide binding	MF
+Gene_005395	1	arginine serine-rich splicing factor 1	0	1	0	0	0	0	0	0	-1	175.4404	144.8504	135.1962	150.0066	173.6255	176.9385	GO:0000166	nucleotide binding	MF
+Gene_005440	1	atpase aaa	1	1	0	0	0	0	0	-1	-1	1042.1159	752.8354	764.5194	862.6685	924.8243	1163.1821	GO:0000166	nucleotide binding	MF
+Gene_005451	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	0	347.5044	303.6071	314.5572	356.7304	371.6622	363.2922	GO:0000166	nucleotide binding	MF
+Gene_005470	1	dna repair xrcc3 homolog	0	0	0	0	0	0	0	-1	0	141.0381	130.3026	128.7842	140.8515	159.5654	154.1381	GO:0000166	nucleotide binding	MF
+Gene_005480	1	metal abc transporter permease	0	0	0	0	0	0	1	0	0	132.0912	121.6734	126.2817	109.0363	119.0191	117.2241	GO:0000166	nucleotide binding	MF
+Gene_005518	1	dna polymerase delta catalytic subunit	0	0	0	0	0	0	0	-1	-1	394.7527	337.0054	348.2828	390.9705	428.0883	436.25	GO:0000166	nucleotide binding	MF
+Gene_005531	1	replication factor c subunit 1	0	0	0	0	0	0	0	-1	0	258.7619	231.9453	230.1416	256.473	284.7837	270.0903	GO:0000166	nucleotide binding	MF
+Gene_005554	1	gtp-binding	1	0	0	0	0	0	0	-1	0	72.15035	57.06236	60.14849	63.11519	72.30964	75.1019	GO:0000166	nucleotide binding	MF
+Gene_005569	1	dual specificity tyrosine-phosphorylation-regulated kinase 2 3 4	0	0	0	0	0	0	0	-1	0	24.79288	21.05243	21.09462	25.40862	28.20363	26.90744	GO:0000166	nucleotide binding	MF
+Gene_005577	1	t-complex 1 subunit beta	0	0	0	0	0	0	0	-1	-1	604.7461	523.6717	515.6332	594.7333	686.7452	741.9201	GO:0000166	nucleotide binding	MF
+Gene_005578	1	glutamate-trna ligase	1	0	0	0	0	0	0	-1	-1	105.69497	84.50922	90.46621	104.709	118.3958	127.29101	GO:0000166	nucleotide binding	MF
+Gene_005624	1	cbr-klp-related	0	0	0	0	0	0	0	-1	0	60.47042	55.9622	57.1599	73.51603	90.90602	73.02229	GO:0000166	nucleotide binding	MF
+Gene_005752	1	atp-dependent dna helicase q-like 3	0	0	0	0	0	0	0	-1	0	72.21088	61.99123	61.17774	73.0673	80.85288	72.28124	GO:0000166	nucleotide binding	MF
+Gene_005821	1	lysine-trna ligase isoform x2	1	1	0	0	0	0	0	0	-1	279.5477	211.2864	203.1541	235.1486	246.3479	261.8928	GO:0000166	nucleotide binding	MF
+Gene_005847	1	threonine-trna cytoplasmic isoform x1	1	0	0	0	0	0	0	-1	-1	652.9964	507.9539	532.813	597.4069	662.4911	719.5214	GO:0000166	nucleotide binding	MF
+Gene_005874	1	phosphatidylinositide phosphatase sac1like	0	0	0	0	0	0	0	-1	0	53.15998	45.35002	44.02727	51.51639	56.98714	50.77569	GO:0000166	nucleotide binding	MF
+Gene_005911	1	nucleotide-alpha-beta plait	1	1	0	0	0	0	0	-1	-1	287.6679	230.3059	219.8404	276.5274	322.1287	295.9195	GO:0000166	nucleotide binding	MF
+Gene_005931	1	prolyl-trna synthetase ( )	1	1	0	0	0	0	0	-1	-1	640.4133	492.8115	505.935	612.0846	699.2832	749.6471	GO:0000166	nucleotide binding	MF
+Gene_005966	1	t-complex 1 subunit epsilon	1	1	0	0	0	0	0	-1	-1	637.4178	532.8514	522.6237	628.4955	693.8034	727.438	GO:0000166	nucleotide binding	MF
+Gene_006014	1	spermatogenesis-associated 5	0	0	0	0	0	0	0	-1	0	80.63045	70.01689	75.47889	85.22838	86.53518	84.53177	GO:0000166	nucleotide binding	MF
+Gene_006018	1	polynucleotide 5-hydroxyl-kinase nol9	1	1	0	0	0	0	0	0	0	137.9811	110.8372	107.8074	126.212	129.0056	129.3706	GO:0000166	nucleotide binding	MF
+Gene_006039	1	leucine-trna cytoplasmic isoform x2	1	0	0	0	0	0	0	-1	-1	483.7841	395.8129	404.4109	479.9591	559.1742	567.086	GO:0000166	nucleotide binding	MF
+Gene_006040	1	leucine-trna cytoplasmic-like	0	0	0	0	0	0	0	-1	0	17.0821	14.35694	15.71543	16.80275	20.93164	15.06909	GO:0000166	nucleotide binding	MF
+Gene_006068	1	dead-box helicase family	1	1	0	0	0	0	0	0	-1	52.28426	41.49695	37.68893	40.73065	46.14032	52.54301	GO:0000166	nucleotide binding	MF
+Gene_006077	1	peptidase s16	0	0	0	0	0	0	0	-1	0	73.82963	63.82759	70.33483	73.74941	81.99987	72.11677	GO:0000166	nucleotide binding	MF
+Gene_006080	1	valyl-trna synthetase	0	0	0	0	0	0	0	-1	0	534.4807	462.8078	503.9944	551.9798	577.731	600.0615	GO:0000166	nucleotide binding	MF
+Gene_006081	1	valyl-trna synthetase	0	0	0	0	0	0	0	-1	0	146.4715	126.9094	144.9447	156.7661	159.029	169.0157	GO:0000166	nucleotide binding	MF
+Gene_006134	1	cyclin-dependent kinase 7	0	0	0	0	0	0	0	-1	-1	84.6501	72.88239	71.43124	83.36767	97.29587	98.20201	GO:0000166	nucleotide binding	MF
+Gene_006136	1	camk camk1 kinase	-1	0	0	0	0	0	-1	0	0	63.26938	85.67076	72.06488	104.64385	89.86261	78.98833	GO:0000166	nucleotide binding	MF
+Gene_006137	1	camk camk1 kinase	-1	0	0	0	0	0	-1	0	0	70.94711	96.47344	76.76565	108.71989	99.82805	91.84671	GO:0000166	nucleotide binding	MF
+Gene_006179	1	guanine nucleotide-binding-like 3	1	1	0	0	0	0	0	-1	-1	236.1354	179.9556	169.3449	206.8794	227.4492	238.7386	GO:0000166	nucleotide binding	MF
+Gene_006201	1	dna replication licensing factor cdc19 (cell division control 19)	0	0	0	0	0	0	0	-1	0	494.3528	452.4587	499.3279	542.7015	539.9918	537.0728	GO:0000166	nucleotide binding	MF
+Gene_006214	1	atp-binding cassette sub-family g member 2-like	0	0	0	0	0	0	0	0	-1	192.815	162.3638	159.3333	174.2501	173.0815	199.2913	GO:0000166	nucleotide binding	MF
+Gene_006231	1	ribosome biogenesis gtp-binding	0	0	0	0	0	0	0	-1	0	79.38696	67.83333	67.479	74.01125	91.77702	86.04215	GO:0000166	nucleotide binding	MF
+Gene_006233	1	mki67 fha domain-interacting nucleolar phospho	1	1	0	0	0	0	0	0	0	130.2402	106.09168	96.22515	113.62421	116.21046	113.08584	GO:0000166	nucleotide binding	MF
+Gene_006250	1	rna-binding 26 isoform x4	0	0	0	0	0	0	0	-1	-1	277.103	245.8961	233.9904	287.7644	319.7853	313.4908	GO:0000166	nucleotide binding	MF
+Gene_006284	1	pre-mrna-splicing factor atp-dependent rna helicase	1	1	0	0	0	0	0	-1	-1	268.174	206.0997	196.7074	232.3652	247.5654	259.7778	GO:0000166	nucleotide binding	MF
+Gene_006289	1	structural maintenance of chromosomes 2-1-like	0	0	0	0	0	0	0	-1	0	360.7601	323.5102	350.3597	371.7449	400.317	394.2443	GO:0000166	nucleotide binding	MF
+Gene_006316	1	glycyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	141.8776	112.7339	111.4243	118.9396	138.5452	144.3002	GO:0000166	nucleotide binding	MF
+Gene_006323	1	delta l-pyrroline-5-carboxylate synthetase	0	1	0	0	0	0	0	-1	0	95.42909	85.04328	78.81999	92.43295	101.34768	90.48323	GO:0000166	nucleotide binding	MF
+Gene_006349	1	ras-related rhn1	0	0	0	0	0	0	0	-1	0	259.1253	262.9875	267.4399	306.5305	327.3649	297.2871	GO:0000166	nucleotide binding	MF
+Gene_006385	1	dna replication licensing factor mcm4	1	0	0	0	0	0	0	0	0	234.8307	200.6037	215.9769	206.2122	217.2645	229.929	GO:0000166	nucleotide binding	MF
+Gene_006398	1	serine threonine kinase agc	1	0	0	0	0	0	0	-1	-1	713.3058	514.6239	531.4256	638.2958	788.0458	902.2926	GO:0000166	nucleotide binding	MF
+Gene_006411	1	elongation factor 2	1	1	0	0	0	0	0	-1	-1	3145.814	2423.944	2433.899	2736.199	3229.08	3500.354	GO:0000166	nucleotide binding	MF
+Gene_006459	1	wee1 kinase	0	0	0	0	0	0	0	-1	0	186.2679	165.3058	178.7897	187.6332	212.7928	197.6197	GO:0000166	nucleotide binding	MF
+Gene_006563	1	dna polymerase epsilon catalytic subunit a [wallemia mellicola cbs ]	0	0	0	0	0	0	0	-1	0	437.7034	394.7959	439.4554	445.3714	503.7481	471.2967	GO:0000166	nucleotide binding	MF
+Gene_006573	1	glutathione-disulfide reductase	0	0	0	0	0	0	0	-1	0	283.0157	244.027	254.8659	282.7821	299.3307	303.8111	GO:0000166	nucleotide binding	MF
+Gene_006575	1	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	-1	-1	206.0204	181.7715	173.5683	214.8378	249.2601	267.0616	GO:0000166	nucleotide binding	MF
+Gene_006656	1	tryptophan-trna cytoplasmic	0	0	0	0	0	0	0	-1	-1	205.595	176.7505	174.7248	198.2962	205.7645	229.2837	GO:0000166	nucleotide binding	MF
+Gene_006662	1	chromosomal serine threonine-kinase jil-1 isoform x1	0	0	0	0	0	0	0	-1	0	181.4751	164.6898	168.9391	183.5742	201.9087	199.9595	GO:0000166	nucleotide binding	MF
+Gene_006751	1	nuclear poly(a) polymerase 4-like	0	0	0	0	0	0	0	0	-1	136.6797	136.3568	122.7119	151.0114	157.3162	156.3634	GO:0000166	nucleotide binding	MF
+Gene_006777	1	acetyl-carboxylase	0	0	0	0	0	0	0	-1	0	296.6256	251.484	287.6254	302.0155	333.6995	348.9892	GO:0000166	nucleotide binding	MF
+Gene_006779	1	acetyl-carboxylase	0	0	0	0	0	0	0	-1	0	348.6568	304.0416	321.8105	352.2929	386.5652	383.3968	GO:0000166	nucleotide binding	MF
+Gene_006785	1	multidrug resistance-associated 4 isoform x1	0	0	0	0	0	0	-1	-1	0	143.1045	159.4277	155.4822	210.4459	199.9663	177.8002	GO:0000166	nucleotide binding	MF
+Gene_006935	1	rna recognition motif domain containing	0	0	0	0	0	0	-1	-1	-1	104.90033	93.50181	106.19672	133.41798	144.84795	137.99076	GO:0000166	nucleotide binding	MF
+Gene_006952	1	rac serine-threonine	0	0	0	0	0	0	0	-1	0	76.15782	61.38688	59.26436	72.83032	89.19675	77.2314	GO:0000166	nucleotide binding	MF
+Gene_006979	1	cell cycle dependent kinase c	0	0	0	0	0	0	0	-1	0	191.975	189.1664	190.6592	222.3489	230.9386	204.8118	GO:0000166	nucleotide binding	MF
+Gene_007016	1	ubiquitin-conjugating enzyme e2 d	0	0	0	0	0	0	0	-1	-1	313.8837	302.1358	313.7797	373.0291	385.5256	397.1837	GO:0000166	nucleotide binding	MF
+Gene_007038	1	rna-binding 34-like isoform x1	1	1	0	0	0	0	0	-1	-1	104.73381	87.87927	81.37228	99.60851	115.03175	110.61489	GO:0000166	nucleotide binding	MF
+Gene_007055	1	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0000166	nucleotide binding	MF
+Gene_007056	1	eukaryotic translation initiation factor 3 subunit b-like	0	0	0	0	0	0	0	-1	0	24.86984	20.41755	21.62592	24.81432	28.19578	28.25013	GO:0000166	nucleotide binding	MF
+Gene_007075	1	leucine-trna ligase	0	0	0	0	0	0	0	-1	0	230.0764	198.9008	205.1286	218.1515	238.4961	244.5485	GO:0000166	nucleotide binding	MF
+Gene_007077	1	cyclin-dependent kinase g-2	1	0	0	0	0	0	0	-1	0	98.85036	85.09574	88.43096	89.43129	101.44085	103.18338	GO:0000166	nucleotide binding	MF
+Gene_007109	1	pre-rrna-processing esf2-like	1	0	0	0	0	0	0	-1	0	125.07258	97.30442	98.65725	107.89145	133.71666	116.05632	GO:0000166	nucleotide binding	MF
+Gene_007161	1	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	-1	0	204.708	173.9074	174.1288	194.5977	225.2572	212.5118	GO:0000166	nucleotide binding	MF
+Gene_007190	1	large subunit gtpase 1	1	0	0	0	0	0	0	-1	-1	166.7527	131.9865	130.9442	168.796	177.0482	198.3149	GO:0000166	nucleotide binding	MF
+Gene_007230	1	abc transporter atp-binding	0	0	0	0	0	0	1	0	0	2.7050341	1.583943	1.9386563	0.8431953	0.9932328	2.254433	GO:0000166	nucleotide binding	MF
+Gene_007248	1	guanine nucleotide-binding alpha-1 subunit	0	0	0	0	0	0	-1	-1	-1	0.7488356	0.5596204	0.7594923	2.3403162	2.7577371	2.3314498	GO:0000166	nucleotide binding	MF
+Gene_007337	1	atypical group	0	0	0	0	0	0	0	-1	0	446.6208	397.029	436.7643	433.9432	492.5864	478.7761	GO:0000166	nucleotide binding	MF
+Gene_007425	1	camp-dependent kinase regulatory subunit	0	0	0	0	0	0	0	-1	0	411.2186	396.5206	425.9726	450.6918	470.2843	465.899	GO:0000166	nucleotide binding	MF
+Gene_007502	1	hypothetical protein pbra 004001	0	0	0	0	0	0	0	-1	0	266.1893	259.6163	269.3055	334.125	357.5232	323.6533	GO:0000166	nucleotide binding	MF
+Gene_007503	1	serine threonine-kinase smg1 isoform x2	0	0	0	0	0	0	-1	-1	0	165.3643	154.4336	167.7791	209.8491	217.8103	200.9191	GO:0000166	nucleotide binding	MF
+Gene_007570	1	lupus la	1	1	0	0	0	0	0	0	-1	479.9688	386.3284	359.2576	393.13	448.5116	459.6186	GO:0000166	nucleotide binding	MF
+Gene_007572	1	atp-dependent rna helicase dbp8	0	1	0	0	0	0	0	0	-1	85.6027	72.32239	68.98489	77.61996	84.06213	93.14773	GO:0000166	nucleotide binding	MF
+Gene_007599	1	casein kinase ii subunit alpha-like isoform x1	0	0	0	0	0	0	0	-1	-1	395.6505	329.9838	324.4257	373.9679	435.0043	428.1232	GO:0000166	nucleotide binding	MF
+Gene_007614	1	acyl-binding	0	0	0	0	0	0	0	-1	0	166.5406	133.9312	137.7763	158.1503	172.3492	162.063	GO:0000166	nucleotide binding	MF
+Gene_007649	1	nuc091 domain-domain-containing	1	1	0	0	0	0	0	-1	-1	178.8531	133.2813	132.8258	163.9282	179.0794	185.4524	GO:0000166	nucleotide binding	MF
+Gene_007653	1	guanine nucleotide-binding g(k) subunit alpha-like	0	1	0	0	0	0	0	0	0	14.406311	12.160744	9.965878	10.481608	13.344944	11.576074	GO:0000166	nucleotide binding	MF
+Gene_007737	1	gtp-binding	1	1	0	0	0	0	0	-1	-1	263.0303	206.0364	205.4619	246.2271	297.1397	268.883	GO:0000166	nucleotide binding	MF
+Gene_007738	1	probable trna(his) guanylyltransferase	1	1	0	0	0	0	0	-1	0	99.82515	80.47603	77.68647	85.62294	99.27612	90.44783	GO:0000166	nucleotide binding	MF
+Gene_007763	1	swi snf-related matrix-associated actin-dependent regulator of chromatin subfamily a 1	0	0	0	0	0	0	0	-1	0	122.4979	105.9287	110.3229	117.5933	129.7447	130.68	GO:0000166	nucleotide binding	MF
+Gene_007785	1	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0000166	nucleotide binding	MF
+Gene_007795	1	serine threonine kinase	1	0	0	0	0	0	0	-1	0	37.37584	29.24069	29.55292	31.4921	40.27236	36.91187	GO:0000166	nucleotide binding	MF
+Gene_007799	1	calcium calmodulin-dependent kinase kinase 1-like isoform x2	0	0	0	0	0	0	-1	-1	-1	139.4159	122.8725	112.7697	179.8053	193.2782	155.4953	GO:0000166	nucleotide binding	MF
+Gene_007803	1	dna mismatch repair msh6	0	0	0	0	0	0	0	-1	0	589.0568	506.7006	534.101	592.5821	663.7434	661.1808	GO:0000166	nucleotide binding	MF
+Gene_007843	1	dead deah box rna helicase	1	1	0	0	0	0	0	-1	-1	197.7274	158.4711	149.0732	201.981	231.5991	235.459	GO:0000166	nucleotide binding	MF
+Gene_007878	1	atp-binding cassette (abc) superfamily	1	1	0	0	0	0	0	0	0	17.15772	12.09054	11.38747	11.57886	15.31155	14.17814	GO:0000166	nucleotide binding	MF
+Gene_007890	1	unconventional myosin-viia isoform x2	0	0	0	0	0	0	0	-1	0	127.4378	122.805	130.5329	139.086	148.7419	148.1908	GO:0000166	nucleotide binding	MF
+Gene_007939	1	hypothetical protein pbra 006797	1	1	0	0	0	0	0	-1	-1	191.7885	153.7508	142.6291	179.7735	194.0504	193.4252	GO:0000166	nucleotide binding	MF
+Gene_008042	1	zinc finger ccch domain-containing 49-like	0	0	0	0	0	0	0	-1	-1	179.3751	154.0538	156.3633	192.1713	232.5646	197.9642	GO:0000166	nucleotide binding	MF
+Gene_008085	1	g alpha i subunit	0	0	0	0	0	0	0	-1	0	38.56057	31.61371	35.03355	39.14887	41.12311	40.80874	GO:0000166	nucleotide binding	MF
+Gene_008086	1	agc grk bark kinase	0	0	0	0	0	0	0	-1	0	37.92218	37.09986	41.22114	43.01776	48.00984	38.91443	GO:0000166	nucleotide binding	MF
+Gene_008090	1	rna-binding 39	0	0	0	0	0	0	-1	0	0	171.9967	184.6123	173.9727	204.7466	199.6588	196.735	GO:0000166	nucleotide binding	MF
+Gene_008107	1	chromodomain-helicase-dna-binding 7 isoform x1	0	0	0	0	0	0	-1	-1	-1	647.3868	632.922	634.4581	784.6153	814.2792	802.1567	GO:0000166	nucleotide binding	MF
+Gene_008121	1	hypothetical protein pbra 001895	0	0	0	0	0	0	0	-1	0	36.56143	35.18007	32.2091	40.05105	45.25539	41.64763	GO:0000166	nucleotide binding	MF
+Gene_008155	1	mitotic checkpoint serine threonine-kinase bub1 beta	0	0	0	0	0	0	0	-1	0	282.5004	264.6943	278.065	301.2284	321.1698	333.4933	GO:0000166	nucleotide binding	MF
+Gene_008198	1	aspartyl glutamyl-trna(asn gln) amidotransferase subunit b	0	0	0	0	0	0	0	-1	0	122.9365	105.5161	108.498	118.805	127.6189	132.7616	GO:0000166	nucleotide binding	MF
+Gene_008228	1	poly(a) rna polymerase gld2	0	0	0	0	0	0	0	-1	0	48.28486	42.22163	46.28615	54.96669	63.72619	55.40527	GO:0000166	nucleotide binding	MF
+Gene_008230	1	terminal uridylyltransferase 7	0	0	0	0	0	0	0	-1	-1	133.7928	124.2637	127.1003	140.1158	153.7906	156.9712	GO:0000166	nucleotide binding	MF
+Gene_008231	1	rad3-like dna-binding helicase	0	0	0	0	0	0	0	-1	0	108.9453	108.2735	116.7811	129.2116	133.3332	127.9301	GO:0000166	nucleotide binding	MF
+Gene_008364	1	snf2 family helicase	0	0	0	0	0	0	0	-1	-1	237.1593	211.5355	210.1146	237.917	274.4203	290.4781	GO:0000166	nucleotide binding	MF
+Gene_008370	1	atp-dependent rna	0	0	0	0	0	0	-1	-1	-1	142.405	145.3266	144.3227	183.5986	190.3256	197.7009	GO:0000166	nucleotide binding	MF
+Gene_008376	1	heat shock 70 kda 17	1	0	0	0	0	0	0	-1	-1	818.0415	650.2924	644.0324	741.4525	885.3424	941.8795	GO:0000166	nucleotide binding	MF
+Gene_008377	1	hypothetical protein pbra 008714	0	0	0	0	0	0	0	-1	0	69.94669	57.42517	60.85013	81.18038	86.54382	81.77985	GO:0000166	nucleotide binding	MF
+Gene_008427	1	manganese-transporting atpase 13a1	0	0	0	0	0	0	-1	0	0	146.3002	164.4735	173.1769	177.2739	167.4715	181.4661	GO:0000166	nucleotide binding	MF
+Gene_008434	1	p-loop containing nucleoside triphosphate hydrolase	1	1	0	-1	0	0	0	-1	0	100.83121	82.77548	80.42126	86.77983	104.22014	93.62236	GO:0000166	nucleotide binding	MF
+Gene_008459	1	membrane gtpase	0	0	0	0	0	0	0	-1	0	271.2839	243.3727	267.1865	295.8743	319.5076	308.6446	GO:0000166	nucleotide binding	MF
+Gene_008474	1	tubulin beta	0	0	0	0	0	0	0	-1	0	73.17467	70.3763	74.36345	87.12251	100.98679	71.17082	GO:0000166	nucleotide binding	MF
+Gene_008495	1	probable atp-dependent rna helicase ddx46	0	0	0	0	0	0	0	-1	-1	288.3198	269.2253	261.6923	319.0985	343.2846	322.7208	GO:0000166	nucleotide binding	MF
+Gene_008607	1	scy1 kinase	0	0	0	0	0	0	0	-1	0	220.2623	197.9304	205.4464	219.5708	242.7574	227.0604	GO:0000166	nucleotide binding	MF
+Gene_008610	1	snf2-family atp dependent chromatin remodeling factor snf21	0	0	0	0	0	0	0	-1	0	201.2085	190.2259	193.8897	229.1802	255.1915	238.8905	GO:0000166	nucleotide binding	MF
+Gene_008611	1	hypothetical protein pbra 000450; partial	0	0	0	0	0	0	0	-1	0	56.26324	53.288	53.41573	67.86892	74.32341	65.29731	GO:0000166	nucleotide binding	MF
+Gene_008613	1	abc transporter	0	0	0	0	0	0	0	-1	-1	190.4893	172.409	178.121	229.0138	254.8958	261.0726	GO:0000166	nucleotide binding	MF
+Gene_008614	1	helicase cterminal domain containing	0	0	0	0	0	0	0	-1	-1	125.3116	110.4121	110.4049	131.0172	157.1267	145.4201	GO:0000166	nucleotide binding	MF
+Gene_008648	1	cell division cycle 48	0	0	0	0	0	0	0	-1	-1	1035.0954	887.7999	944.7579	1086.1968	1214.2564	1280.1502	GO:0000166	nucleotide binding	MF
+Gene_008656	1	heat shock hsp90	1	1	0	0	0	0	0	-1	-1	653.7856	510.5939	497.98	587.4838	698.0807	726.114	GO:0000166	nucleotide binding	MF
+Gene_008702	1	[naegleria gruberi]	0	0	0	0	0	0	0	-1	0	103.97617	85.93523	93.49401	97.37336	119.20838	117.71334	GO:0000166	nucleotide binding	MF
+Gene_008717	1	elongation factor-like gtpase 1	1	1	0	0	0	0	0	-1	-1	196.7948	159.3451	155.4149	207.5152	228.9621	229.2671	GO:0000166	nucleotide binding	MF
+Gene_008718	1	ccr4-not transcription complex subunit 4	0	0	0	0	0	0	0	-1	-1	137.4484	130.8453	130.8415	162.6167	170.152	174.8069	GO:0000166	nucleotide binding	MF
+Gene_008724	1	t-complex 1	1	0	0	0	0	0	0	-1	-1	812.5433	672.7667	679.4957	777.6111	850.4637	884.509	GO:0000166	nucleotide binding	MF
+Gene_008764	1	dead-domain-containing [cutaneotrichosporon oleaginosum]	1	0	0	0	0	0	0	-1	-1	1480.922	1220.242	1212.977	1470.77	1570.161	1704.618	GO:0000166	nucleotide binding	MF
+Gene_008786	1	hypothetical protein pbra 002047	0	0	0	0	0	0	0	-1	0	280.2354	287.8557	286.8717	293.6564	346.7402	302.4433	GO:0000166	nucleotide binding	MF
+Gene_008832	1	t7-like mitochondrial dna helicase	0	0	0	0	0	0	0	-1	0	123.4081	112.1019	110.6147	122.5319	133.5541	132.6658	GO:0000166	nucleotide binding	MF
+Gene_008875	1	adenylyltransferase and sulfurtransferase mocs3	0	0	0	0	0	0	0	-1	0	98.48184	82.42727	79.8187	93.27447	100.09496	99.35105	GO:0000166	nucleotide binding	MF
+Gene_008888	1	atp-dependent rna helicase dbp5	1	0	0	0	0	0	0	-1	-1	425.2202	359.7442	374.5309	468.6373	534.3791	557.8269	GO:0000166	nucleotide binding	MF
+Gene_008913	1	methionyl-trna synthetase	1	0	0	0	0	0	0	0	-1	488.3208	407.1885	410.5476	438.4716	470.1946	510.3069	GO:0000166	nucleotide binding	MF
+Gene_009016	1	hypothetical protein pbra 009200	1	0	0	0	0	0	0	-1	-1	69.51524	48.77262	51.49258	75.15689	88.67903	100.86651	GO:0000166	nucleotide binding	MF
+Gene_009212	1	proline-trna ligase	0	0	0	0	0	0	0	-1	-1	66.89033	60.483	58.46083	70.11844	86.00763	77.52701	GO:0000166	nucleotide binding	MF
+Gene_009213	1	molecular chaperone	1	1	0	0	0	0	0	-1	-1	1216.1435	941.9226	907.3838	1140.1666	1314.1488	1359.4653	GO:0000166	nucleotide binding	MF
+Gene_009296	1	heat shock cytosolic	1	1	0	0	0	0	1	0	0	346.5134	258.7689	254.8939	255.0614	227.859	299.1565	GO:0000166	nucleotide binding	MF
+Gene_009315	1	pc12g11630 [penicillium rubens wisconsin 54-1255]	1	0	0	0	0	0	0	-1	-1	154.6537	128.392	131.5207	154.7196	164.1623	165.8932	GO:0000166	nucleotide binding	MF
+Gene_009350	1	ribosomal s6 kinase alpha-5 isoform x2	1	1	0	0	0	0	0	-1	-1	217.5494	171.6981	173.5261	199.7401	246.0197	254.9567	GO:0000166	nucleotide binding	MF
+Gene_009376	1	dna polymerase	0	0	0	0	0	0	0	-1	0	365.7402	299.5355	320.266	333.0067	378.5278	379.0295	GO:0000166	nucleotide binding	MF
+Gene_009377	1	hypothetical protein pbra 006300	0	0	0	0	0	0	0	-1	0	55.55781	48.93409	48.64854	50.25666	59.88222	60.09109	GO:0000166	nucleotide binding	MF
+Gene_009378	1	aaa family atpase	0	0	0	0	0	0	1	0	0	222.2057	195.5789	196.8854	175.598	207.2504	215.4657	GO:0000166	nucleotide binding	MF
+Gene_009407	1	calcium atpase	0	0	0	0	0	0	0	-1	0	47.57861	43.94175	42.49112	46.71614	53.23745	50.2074	GO:0000166	nucleotide binding	MF
+Gene_009481	1	probable atp-dependent rna helicase ddx56	1	1	0	0	0	0	0	-1	-1	210.0514	167.7117	152.381	189.3695	203.6484	200.765	GO:0000166	nucleotide binding	MF
+Gene_009498	1	gtpase era	0	0	0	-1	0	0	0	0	0	120.917	104.33569	99.04706	98.95885	122.323	119.23085	GO:0000166	nucleotide binding	MF
+Gene_009530	1	structural maintenance of chromosomes flexible hinge domain-containing 1	0	0	0	0	0	0	0	-1	-1	381.8874	324.3931	326.4416	374.0368	442.3956	434.0788	GO:0000166	nucleotide binding	MF
+Gene_009532	1	rna binding	1	0	0	0	0	0	0	0	0	317.8377	267.3551	266.9875	273.9159	309.0128	305.3827	GO:0000166	nucleotide binding	MF
+Gene_009544	1	ubiquitin-conjugating enzyme e2-ubiquitin ligase	0	0	0	0	0	0	-1	-1	0	89.06435	86.90125	92.39227	109.94856	110.99741	103.80581	GO:0000166	nucleotide binding	MF
+Gene_009547	1	calcium-transporting atpase sarcoplasmic endoplasmic reticulum type-like isoform x7	0	0	0	0	0	0	0	-1	0	817.0687	751.8162	807.5953	853.0471	882.3383	942.9536	GO:0000166	nucleotide binding	MF
+Gene_009608	1	u2 snrnp-associated surp motif-containing	0	0	0	0	0	0	0	-1	0	222.986	195.9763	190.2966	200.9744	233.4844	204.2809	GO:0000166	nucleotide binding	MF
+Gene_009644	1	peptidyl-prolyl cis-trans isomerase e	0	0	0	0	0	0	1	0	0	74.00519	62.66069	59.27735	58.20687	63.79905	53.17791	GO:0000166	nucleotide binding	MF
+Gene_009715	1	t-complex 1 subunit eta	1	1	0	0	0	0	0	-1	-1	1054.7146	835.9996	797.271	955.571	1100.6836	1189.4547	GO:0000166	nucleotide binding	MF
+Gene_009731	1	clp1 homolog	1	1	0	0	0	0	0	-1	-1	162.3735	124.6755	128.5459	151.423	171.4274	165.6497	GO:0000166	nucleotide binding	MF
+Gene_009751	1	leucine-rich repeat domain-containing	1	0	0	0	0	0	0	-1	-1	1.2453872	0.484908	0.7851606	1.5928851	1.9036048	2.2960642	GO:0000166	nucleotide binding	MF
+Gene_009807	1	superkiller viralicidic activity 2-like 2	1	1	0	0	0	0	0	-1	-1	339.3375	267.7458	257.8492	312.4984	345.0771	335.3855	GO:0000166	nucleotide binding	MF
+Gene_009833	1	hypothetical protein pbra 005706	0	0	0	0	0	0	0	-1	-1	7.666532	6.271761	5.862829	10.624011	12.533493	10.360385	GO:0000166	nucleotide binding	MF
+Gene_009885	1	agc pka kinase	1	0	0	0	0	0	-1	-1	-1	251.7783	197.6905	211.7593	319.1257	378.2326	363.0289	GO:0000166	nucleotide binding	MF
+Gene_009898	1	helicase iv	1	0	0	0	0	0	0	-1	0	227.6221	181.1281	192.0273	201.4048	223.948	229.3378	GO:0000166	nucleotide binding	MF
+Gene_009942	1	arm repeat-containing	0	0	0	0	0	0	0	-1	0	224.7622	218.1846	233.4102	256.4862	270.5846	272.9609	GO:0000166	nucleotide binding	MF
+Gene_009965	1	hypothetical protein pbra 005814	0	0	0	0	0	0	0	-1	0	58.58122	54.96918	63.17262	64.47628	68.31042	65.93845	GO:0000166	nucleotide binding	MF
+Gene_009970	1	aaa family cdc48 subfamily	0	0	0	0	0	0	0	0	-1	45.98703	36.97902	36.51949	37.71935	46.67329	51.04839	GO:0000166	nucleotide binding	MF
+Gene_010011	1	heat shock 91	1	0	0	-1	0	0	0	-1	-1	842.8334	686.716	683.1204	909.6674	1145.515	1087.4576	GO:0000166	nucleotide binding	MF
+Gene_010072	1	fanconi anemia group j	1	0	0	0	0	0	0	-1	-1	85.40648	69.52665	72.47433	83.33967	98.68401	100.70206	GO:0000166	nucleotide binding	MF
+Gene_010119	1	asparaginyl-trna synthetase	1	0	0	0	0	0	0	-1	0	120.12686	97.52626	100.38277	105.17983	122.49663	115.25072	GO:0000166	nucleotide binding	MF
+Gene_010303	1	serine threonine-kinase mph1	0	0	0	0	0	0	0	-1	-1	1036.8589	840.4866	856.8328	1128.7159	1344.5651	1313.648	GO:0000166	nucleotide binding	MF
+Gene_010392	1	carbamoyl-phosphate large subunit	1	0	0	0	0	0	0	-1	-1	792.7391	631.0354	648.5343	912.7236	1100.1475	1004.1415	GO:0000166	nucleotide binding	MF
+Gene_010413	1	dead deah box rna	1	1	0	0	0	0	0	0	0	90.46923	71.45952	64.13903	71.01099	70.35397	83.99888	GO:0000166	nucleotide binding	MF
+Gene_010423	1	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	0	209.3327	172.1119	186.6762	218.34	247.337	238.5731	GO:0000166	nucleotide binding	MF
+Gene_010424	1	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	-1	251.6439	212.7431	219.3053	261.5417	310.5978	302.0999	GO:0000166	nucleotide binding	MF
+Gene_010425	1	hypothetical protein pbra 006636	0	0	0	0	0	0	0	-1	0	21.72516	19.00814	18.47712	21.85079	27.65828	25.76879	GO:0000166	nucleotide binding	MF
+Gene_010479	1	kinase-like domain-containing	0	0	0	0	0	0	0	-1	0	60.42037	46.86913	46.98823	71.15889	85.8902	69.30861	GO:0000166	nucleotide binding	MF
+Gene_010480	1	interferon-double-stranded rna-activated kinase isoform x1	0	0	0	0	0	0	0	-1	0	0.477085	0.3020824	0.5374304	0.8218095	0.7757319	0.4225746	GO:0000166	nucleotide binding	MF
+Gene_010556	1	28 kda ribonucleo	1	1	0	0	0	0	1	0	0	1200.7321	893.1892	811.1531	778.8721	845.3749	905.3527	GO:0000166	nucleotide binding	MF
+Gene_010557	1	phospholipid-transporting atpase 2 isoform x1	0	0	0	0	0	0	0	-1	-1	347.4971	305.4498	314.8901	360.9216	385.7597	393.626	GO:0000166	nucleotide binding	MF
+Gene_010592	1	elongation factor g-mitochondrial	0	0	0	0	0	0	0	-1	0	231.9692	209.7579	234.2667	225.5956	247.8455	232.248	GO:0000166	nucleotide binding	MF
+Gene_010636	1	chromosomal serine threonine-kinase jil-1 isoform x1	1	0	0	0	0	0	0	-1	-1	79.13321	48.09412	53.97148	82.37956	102.84336	132.71168	GO:0000166	nucleotide binding	MF
+Gene_010761	1	heat shock 90	1	0	0	0	0	0	0	-1	-1	900.6578	729.7311	750.7113	789.639	929.0536	977.8859	GO:0000166	nucleotide binding	MF
+Gene_010922	1	abc transporter transmembrane region 2-domain-containing	0	1	0	0	0	0	1	0	0	43.74195	34.41292	29.43517	30.01892	36.63105	34.08083	GO:0000166	nucleotide binding	MF
+Gene_011023	1	calcineurinlike phosphoesterase	0	0	0	0	0	0	1	0	0	84.19627	70.99988	68.93435	65.38047	73.45478	82.52091	GO:0000166	nucleotide binding	MF
+Gene_011321	1	alkylated dna repair alkb 8	0	0	0	0	0	0	0	0	-1	68.12139	55.50577	50.97466	54.17247	54.64058	72.8558	GO:0000166	nucleotide binding	MF
+Gene_011337	1	dead deah box rna helicase	1	0	0	0	0	0	0	-1	-1	92.9483	75.9694	77.0871	86.92399	94.16607	96.8739	GO:0000166	nucleotide binding	MF
+Gene_011338	1	dead deah box rna helicase	0	1	0	0	0	0	0	0	-1	252.5687	220.5707	192.9133	223.23	244.9042	253.2852	GO:0000166	nucleotide binding	MF
+Gene_011340	1	swi snf-related matrix-associated actin-dependent regulator of chromatin subfamily a-like	0	-1	0	0	0	0	-1	0	0	116.5745	128.2173	138.6759	147.2069	130.6857	131.6084	GO:0000166	nucleotide binding	MF
+Gene_011371	1	abc transporter	0	0	0	0	0	0	0	-1	0	67.50453	61.67004	59.50393	70.13329	74.39205	74.56197	GO:0000166	nucleotide binding	MF
+Gene_011438	1	arginine-trna ligase	1	1	0	0	0	0	0	-1	-1	327.8552	263.2239	251.2182	299.1615	354.6968	373.101	GO:0000166	nucleotide binding	MF
+Gene_011530	1	hypothetical protein pbra 004403	0	0	0	0	0	0	0	-1	-1	64.61985	52.81496	51.73824	57.74639	68.94914	76.15938	GO:0000166	nucleotide binding	MF
+Gene_011538	1	ubiquitin-activating emzyme e1	0	0	0	0	0	0	0	-1	-1	692.7351	622.3932	615.5449	765.9985	876.4234	834.0747	GO:0000166	nucleotide binding	MF
+Gene_011629	1	ras gtpase	1	0	0	0	0	0	0	-1	0	78.83841	62.82124	67.0267	73.44945	81.58915	76.93583	GO:0000166	nucleotide binding	MF
+Gene_011656	1	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0000166	nucleotide binding	MF
+Gene_011658	1	ras-like gtp-binding ypt1	0	0	0	0	0	0	0	-1	-1	502.1298	457.1632	483.2474	511.4362	543.1627	585.3651	GO:0000166	nucleotide binding	MF
+Gene_011671	1	serine threonine kinase	0	0	0	0	0	0	0	-1	-1	1.1020753	0.5914369	0.9073956	1.2415329	1.82819	2.6103943	GO:0000166	nucleotide binding	MF
+Gene_011675	1	hypothetical protein pbra 008180	0	0	0	0	0	0	-1	-1	0	87.68852	88.88326	92.2586	108.03267	106.73557	108.95374	GO:0000166	nucleotide binding	MF
+Gene_011676	1	wnk kinase	0	0	0	0	0	0	0	-1	0	218.7617	214.0714	230.6482	257.9412	263.2413	265.9208	GO:0000166	nucleotide binding	MF
+Gene_011697	1	aspartate-trna ligase	1	0	0	0	0	0	0	-1	-1	136.2052	106.0651	114.2361	128.0225	137.3221	150.4307	GO:0000166	nucleotide binding	MF
+Gene_011699	1	dna repair helicase	0	0	0	0	0	0	0	-1	0	269.0265	228.0939	234.0571	271.9257	316.9593	268.7393	GO:0000166	nucleotide binding	MF
+Gene_011737	1	ras-related protein rac1	0	0	0	0	0	0	0	-1	-1	204.278	189.4139	203.0623	232.6947	238.2588	251.1151	GO:0000166	nucleotide binding	MF
+Gene_011742	1	glycyl-trna synthetase	1	1	0	0	0	0	0	0	-1	413.9107	343.0444	330.7584	356.084	384.2083	438.7918	GO:0000166	nucleotide binding	MF
+Gene_011773	1	glutamine-trna ligase	0	0	0	0	0	0	0	-1	-1	164.0526	132.1397	130.2966	157.7838	168.5078	188.9996	GO:0000166	nucleotide binding	MF
+Gene_011778	1	trna-splicing ligase rtcb homolog	0	0	0	0	0	0	0	-1	0	249.5549	235.391	242.8134	248.5621	272.285	261.0081	GO:0000166	nucleotide binding	MF
+Gene_011815	1	atp-dependent rna helicase eif4a	0	1	0	0	0	0	0	0	-1	1257.3676	1077.9213	994.7062	1113.8109	1200.6001	1255.5617	GO:0000166	nucleotide binding	MF
+Gene_011818	1	trna-dihydrouridine synthase	1	1	0	0	0	0	0	-1	-1	67.8456	52.54997	50.13821	66.97693	74.89818	82.67078	GO:0000166	nucleotide binding	MF
+Gene_011893	1	deah-box rna helicase prp16	0	0	0	0	0	0	0	-1	0	360.0428	352.4071	355.8361	373.5781	403.0244	375.4615	GO:0000166	nucleotide binding	MF
+Gene_011913	1	dexh-box atp-dependent rna helicase dexh12-like	0	0	0	0	0	0	0	-1	-1	460.3986	403.8993	400.1908	465.5217	563.2662	553.4575	GO:0000166	nucleotide binding	MF
+Gene_012037	1	gtp-binding nuclear protein gsp1 ran	1	1	0	0	0	0	0	-1	-1	985.9285	812.8093	779.7704	932.0556	1056.023	1069.0311	GO:0000166	nucleotide binding	MF
+Gene_012069	1	abcf/ef-3b transporter-like protein	1	1	0	0	0	0	0	-1	-1	589.7162	482.6212	468.5087	577.1641	625.3838	657.0363	GO:0000166	nucleotide binding	MF
+Gene_012114	1	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0000166	nucleotide binding	MF
+Gene_012115	1	pkinase-domain-containing protein	0	0	0	0	0	0	0	-1	0	54.03086	44.75572	50.97264	53.50398	56.77662	64.55208	GO:0000166	nucleotide binding	MF
+Gene_012147	1	chaperonin cpn60-2; mitochondrial	1	1	0	0	0	0	0	-1	-1	3052.061	2234.621	2031.438	2425.531	3086.734	3046.567	GO:0000166	nucleotide binding	MF
+Gene_012165	1	ubiquitin-activating enzyme e1 c	0	0	0	0	0	0	0	-1	-1	219.2459	185.8852	177.2733	209.5386	248.0817	252.9719	GO:0000166	nucleotide binding	MF
+Gene_012205	1	tryptophan-trna ligase	1	1	0	0	0	0	0	-1	-1	182.8972	146.378	142.16	171.9264	196.0012	196.0793	GO:0000166	nucleotide binding	MF
+Gene_012293	1	gtpase obge	1	1	0	0	0	0	0	-1	0	110.15838	92.49857	86.73064	99.44483	116.03826	107.11146	GO:0000166	nucleotide binding	MF
+Gene_012364	1	translation initiation factor aif-2	0	0	0	0	0	0	0	0	-1	449.1654	415.173	371.1611	458.1855	517.0548	538.7777	GO:0000166	nucleotide binding	MF
+Gene_012392	1	abc transporter family protein	0	0	0	0	0	0	0	-1	-1	339.0438	293.8593	305.8444	374.9839	426.8931	449.0293	GO:0000166	nucleotide binding	MF
+Gene_012398	1	aurora kinase b-like	0	0	0	0	0	0	0	-1	0	236.0772	207.5462	200.8092	234.5896	265.1121	243.6284	GO:0000166	nucleotide binding	MF
+Gene_012445	1	endoribonuclease/protein kinase [micromonas commoda]	0	0	0	0	0	0	0	-1	0	132.5017	115.2784	119.4698	126.4005	147.6637	140.6615	GO:0000166	nucleotide binding	MF
+Gene_012458	1	sumo activating enzyme 2	0	1	0	0	0	0	0	-1	-1	69.15747	59.29143	55.24967	67.77219	74.26933	82.80401	GO:0000166	nucleotide binding	MF
+Gene_012459	1	sumo-activating enzyme subunit 2	0	0	0	0	0	0	0	0	-1	63.18828	57.1263	54.87601	62.11635	68.41988	77.49373	GO:0000166	nucleotide binding	MF
+Gene_012463	1	dead/deah box rna helicase	1	1	0	0	0	0	0	-1	-1	154.1607	115.0472	104.0954	133.8371	147.8796	172.5878	GO:0000166	nucleotide binding	MF
+Gene_012477	1	pek/gcn2 protein kinase	0	0	0	0	0	0	0	-1	0	223.4047	199.7588	206.2262	231.084	249.9137	241.6529	GO:0000166	nucleotide binding	MF
+Gene_012522	1	glutamate synthase [nadh]; amyloplastic isoform x1	0	0	0	0	0	0	-1	-1	0	333.0574	358.9436	346.289	445.3691	433.329	375.8945	GO:0000166	nucleotide binding	MF
+Gene_012544	1	p-loop containing nucleoside triphosphate hydrolase protein	0	0	0	0	0	0	0	-1	-1	133.4081	108.2978	108.5269	154.8992	196.3686	173.3309	GO:0000166	nucleotide binding	MF
+Gene_012551	1	agc/grk/bark protein kinase	0	0	0	0	0	0	0	-1	0	7.795419	6.776256	7.479182	9.310148	10.606725	11.049413	GO:0000166	nucleotide binding	MF
+Gene_012588	1	probable rna-binding protein 19	1	1	0	0	0	0	0	-1	-1	121.33697	102.31072	88.01698	118.08828	127.48497	127.71148	GO:0000166	nucleotide binding	MF
+Gene_012617	1	hypothetical protein pbra 008793	0	1	0	0	0	0	1	0	0	37.81613	30.49525	28.54609	26.81116	33.75996	29.93001	GO:0000166	nucleotide binding	MF
+Gene_012686	1	ribosome biogenesis gtpase der	1	0	0	0	0	0	0	-1	-1	133.2054	103.0756	107.1725	119.1247	133.4221	143.8589	GO:0000166	nucleotide binding	MF
+Gene_012759	1	rna cytidine acetyltransferase	1	1	0	0	0	0	0	-1	-1	153.9122	116.9025	109.6971	145.1201	153.3694	162.0962	GO:0000166	nucleotide binding	MF

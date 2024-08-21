@@ -1,0 +1,14 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001727	2	neuropathy target esterase isoform x5	0	0	0	0	0	0	0	0	1	114.101	110.3431	119.1313	106.1155	102.779	85.787	GO:0016042	lipid catabolic process	BP
+Gene_001840	2	patatin family	0	0	0	0	0	0	0	1	1	36.70306	39.0159	48.66938	35.97461	29.70284	31.8722	GO:0016042	lipid catabolic process	BP
+Gene_003641	2	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0016042	lipid catabolic process	BP
+Gene_004066	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	4.655153	6.411008	7.053404	5.445913	3.400304	4.386043	GO:0016042	lipid catabolic process	BP
+Gene_006928	2	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0016042	lipid catabolic process	BP
+Gene_008247	2	3-oxoacid-transferase	0	0	0	0	0	0	0	1	0	21.38399	32.29429	30.17626	19.98936	16.7249	17.31519	GO:0016042	lipid catabolic process	BP
+Gene_008975	2	lipase 4	-1	0	0	0	0	0	0	1	0	17.88684	26.84347	24.30981	19.56845	15.28895	20.26906	GO:0016042	lipid catabolic process	BP
+Gene_008976	2	patatin-domain-containing	0	0	0	0	0	0	0	1	0	7.306829	9.854982	8.421225	8.202372	5.98941	8.053918	GO:0016042	lipid catabolic process	BP
+Gene_008977	2	patatin family phospholipase	0	0	0	0	0	0	0	1	1	3.235281	4.468506	4.754149	3.127576	2.311909	1.915121	GO:0016042	lipid catabolic process	BP
+Gene_010559	2	1-phosphatidylinositol 4;5-bisphosphate phosphodiesterase delta-4-like isoform x1	-1	-1	0	0	0	0	0	1	1	87.93731	112.94821	117.08348	96.91657	81.32484	88.40157	GO:0016042	lipid catabolic process	BP
+Gene_011099	2	gastric triacylglycerol lipase-like	0	-1	0	0	0	0	0	0	0	26.18819	33.42929	39.69403	34.94752	27.11368	31.2144	GO:0016042	lipid catabolic process	BP
+Gene_011163	2	patatin-like phospholipase domain-containing	0	0	0	0	0	0	0	1	0	33.50347	39.31591	42.17133	33.90241	28.06318	32.08453	GO:0016042	lipid catabolic process	BP
+Gene_011164	2	patatin-like phospholipase domain-containing	-1	0	0	0	0	0	0	1	1	32.48935	42.06988	42.25159	33.31485	30.32308	26.17263	GO:0016042	lipid catabolic process	BP

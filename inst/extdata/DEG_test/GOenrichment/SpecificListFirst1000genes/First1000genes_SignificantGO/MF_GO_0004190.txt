@@ -1,0 +1,9 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000090	dna damage-inducible 1	-1	-1	0	1	0	0	0	1	1	16.457651	36.98219	40.418929	26.299206	9.531715	13.601527	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000091	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000596	hypothetical protein pbra 001667	0	0	0	0	0	0	0	0	0	8.561588	8.501056	8.497551	10.143635	8.859804	7.756245	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000685	hypothetical protein pbra 001745	0	0	0	0	0	0	0	0	0	12.478577	11.005926	7.927783	8.00813	8.930633	10.366631	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000686	hypothetical protein pbra 001745	0	0	0	0	0	0	0	0	0	7.200378	6.482094	4.79938	4.844086	6.702282	5.980588	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000687	erythrocyte membrane-associated antigen	0	0	0	0	0	0	0	0	0	16.52924	13.93006	12.82903	11.40186	13.68954	14.93378	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_000857	lysosomal aspartic protease-like	0	0	0	0	0	0	0	0	0	106.42925	106.67171	115.95242	101.43081	97.02317	95.74981	GO:0004190	aspartic-type endopeptidase activity	MF
+Gene_001032	signal peptide peptidase-like 3	0	0	0	0	0	0	0	0	1	309.6943	370.8984	383.5065	318.3536	300.1655	281.6435	GO:0004190	aspartic-type endopeptidase activity	MF

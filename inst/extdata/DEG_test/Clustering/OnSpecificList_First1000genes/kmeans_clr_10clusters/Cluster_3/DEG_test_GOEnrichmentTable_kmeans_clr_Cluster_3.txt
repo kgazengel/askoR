@@ -1,0 +1,43 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0003690	double-stranded DNA binding	19	1	0	0.0028	Inf	MF
+GO:0005524	ATP binding	866	1	0.13	0.1271	7.69230769230769	MF
+GO:0003674	molecular_function	6816	1	1	1.0000	1	MF
+GO:0003676	nucleic acid binding	1279	1	0.19	1.0000	5.26315789473684	MF
+GO:0003677	DNA binding	382	1	0.06	1.0000	16.6666666666667	MF
+GO:0005488	binding	4823	1	0.71	1.0000	1.40845070422535	MF
+GO:1901265	nucleoside phosphate binding	1254	1	0.18	1.0000	5.55555555555556	MF
+GO:0000166	nucleotide binding	1254	1	0.18	1.0000	5.55555555555556	MF
+GO:0032553	ribonucleotide binding	1054	1	0.15	1.0000	6.66666666666667	MF
+GO:0097367	carbohydrate derivative binding	1105	1	0.16	1.0000	6.25	MF
+GO:0032555	purine ribonucleotide binding	1040	1	0.15	1.0000	6.66666666666667	MF
+GO:0035639	purine ribonucleoside triphosphate binding	1030	1	0.15	1.0000	6.66666666666667	MF
+GO:0032559	adenyl ribonucleotide binding	877	1	0.13	1.0000	7.69230769230769	MF
+GO:0017076	purine nucleotide binding	1044	1	0.15	1.0000	6.66666666666667	MF
+GO:0097159	organic cyclic compound binding	2378	1	0.35	1.0000	2.85714285714286	MF
+GO:0043167	ion binding	2296	1	0.34	1.0000	2.94117647058824	MF
+GO:1901363	heterocyclic compound binding	2378	1	0.35	1.0000	2.85714285714286	MF
+GO:0036094	small molecule binding	1326	1	0.19	1.0000	5.26315789473684	MF
+GO:0043168	anion binding	1167	1	0.17	1.0000	5.88235294117647	MF
+GO:0030554	adenyl nucleotide binding	878	1	0.13	1.0000	7.69230769230769	MF
+GO:0006281	DNA repair	142	1	0.03	0.029	33.3333333333333	BP
+GO:0006950	response to stress	255	1	0.05	1.000	20	BP
+GO:0006139	nucleobase-containing compound metabolic process	1381	1	0.28	1.000	3.57142857142857	BP
+GO:0006807	nitrogen compound metabolic process	2804	1	0.56	1.000	1.78571428571429	BP
+GO:0090304	nucleic acid metabolic process	1159	1	0.23	1.000	4.34782608695652	BP
+GO:0043170	macromolecule metabolic process	2409	1	0.48	1.000	2.08333333333333	BP
+GO:0006974	cellular response to DNA damage stimulus	153	1	0.03	1.000	33.3333333333333	BP
+GO:0034641	cellular nitrogen compound metabolic process	1682	1	0.34	1.000	2.94117647058824	BP
+GO:0051716	cellular response to stimulus	640	1	0.13	1.000	7.69230769230769	BP
+GO:0006259	DNA metabolic process	472	1	0.09	1.000	11.1111111111111	BP
+GO:0009987	cellular process	4052	1	0.81	1.000	1.23456790123457	BP
+GO:0050896	response to stimulus	732	1	0.15	1.000	6.66666666666667	BP
+GO:0044260	cellular macromolecule metabolic process	1057	1	0.21	1.000	4.76190476190476	BP
+GO:1901360	organic cyclic compound metabolic process	1505	1	0.3	1.000	3.33333333333333	BP
+GO:0033554	cellular response to stress	192	1	0.04	1.000	25	BP
+GO:0044237	cellular metabolic process	2738	1	0.55	1.000	1.81818181818182	BP
+GO:0046483	heterocycle metabolic process	1465	1	0.29	1.000	3.44827586206897	BP
+GO:0044238	primary metabolic process	3004	1	0.6	1.000	1.66666666666667	BP
+GO:0008150	biological_process	4976	1	1	1.000	1	BP
+GO:0006725	cellular aromatic compound metabolic process	1480	1	0.3	1.000	3.33333333333333	BP
+GO:0071704	organic substance metabolic process	3152	1	0.63	1.000	1.58730158730159	BP
+GO:0008152	metabolic process	3516	1	0.71	1.000	1.40845070422535	BP

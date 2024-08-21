@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000028	6	vacuolar sorting-associated 51 homolog	0	0	0	0	0	0	0	0	0	182.6798	189.4296	199.5069	178.2768	170.1441	182.5381	GO:0035023	regulation of Rho protein signal transduction	BP
+Gene_000602	6	hypothetical protein pbra 001673	0	0	0	0	0	0	0	0	0	5.059475	7.183597	6.674072	6.473181	5.620459	5.437278	GO:0035023	regulation of Rho protein signal transduction	BP
+Gene_000603	6	hypothetical protein pbra 001673	0	0	0	0	0	0	0	0	0	3.760997	4.751499	4.672668	3.767451	4.086974	5.237438	GO:0035023	regulation of Rho protein signal transduction	BP

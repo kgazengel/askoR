@@ -1,0 +1,5 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_004618	2	acyl-binding	0	0	0	0	0	0	0	1	1	51.39843	73.73464	92.53318	60.11742	41.93421	44.50993	GO:1901681	sulfur compound binding	MF
+Gene_005037	2	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:1901681	sulfur compound binding	MF
+Gene_005038	2	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:1901681	sulfur compound binding	MF
+Gene_012387	2	oxoglutarate dehydrogenase (succinyl-transferring); e1 component	-1	-1	0	1	0	0	0	1	1	27.62629	41.17265	50.29634	31.83203	20.59085	25.81875	GO:1901681	sulfur compound binding	MF

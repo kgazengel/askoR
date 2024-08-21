@@ -1,0 +1,38 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000092	NOT DE	n-glycosylase dna lyase	0	0	0	0	0	0	0	0	0	67.45921	60.84416	62.74438	61.65406	69.30226	67.33731	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000565	NOT DE	dna polymerase kappa	0	0	0	0	0	0	0	0	0	58.55148	57.14779	60.92799	60.34794	60.8762	55.71129	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000618	NOT DE	dna topoisomerase 1 beta	0	0	0	0	0	0	0	0	0	274.8023	255.3956	246.7443	248.0292	292.0969	259.6071	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000846	NOT DE	related to exo1-exonuclease which interacts with msh2p	0	0	0	0	0	0	0	0	0	9.822578	11.421319	12.987493	7.448636	6.985286	10.556067	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_001088	NOT DE	dna repair rad51 homolog 4 isoform x3	0	0	0	0	0	0	0	0	0	54.16459	48.75927	45.26385	48.06899	52.27801	53.16751	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_001960	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	218.8189	191.35	202.4419	198.6934	221.1511	226.5963	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_002914	NOT DE	ruvb-like 2	0	0	0	0	0	0	0	0	0	231.2006	231.2174	216.5591	205.3176	202.0308	246.1472	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_003072	NOT DE	dna-directed polymerase	0	0	0	0	0	0	0	0	0	27.25708	24.0347	22.46203	25.62821	27.6145	27.76093	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_003408	NOT DE	pogo transposable element with krab domain	0	0	0	0	0	0	0	0	0	13.669212	10.885019	9.979721	11.145244	13.127131	12.342119	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_003737	NOT DE	dna topoisomerase	0	0	0	0	0	0	0	0	0	59.96332	58.98232	62.05317	56.34835	60.17572	74.80006	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_004810	NOT DE	replication factor c subunit 2	0	0	0	0	0	0	0	0	0	90.61685	84.44837	92.09196	94.51289	97.01464	100.22329	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_004815	NOT DE	dna repair rad51 homolog a	0	0	0	0	0	0	0	0	0	86.58318	79.65046	81.28387	86.79288	94.07352	91.49701	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_004925	NOT DE	dna repair rad51 homolog 3 isoform x1	0	0	0	0	0	0	0	0	0	30.16712	26.12747	26.54424	25.94608	29.77453	32.50502	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_005003	NOT DE	structure-specific endonuclease subunit slx1	0	0	0	0	0	0	0	0	0	63.82858	64.22182	64.52292	59.65045	71.57313	56.62512	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_005710	NOT DE	nad-dependent dna ligase	0	0	0	0	0	0	0	0	0	17.34082	18.13464	13.9328	13.89537	14.19138	18.05003	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_006045	NOT DE	endonuclease iii 1	0	0	0	0	0	0	0	0	0	20.16839	21.69704	19.83436	19.58566	19.33045	18.25402	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_006046	NOT DE	endonuclease iii 1	0	0	0	0	0	0	0	0	0	32.36906	31.52339	32.96696	33.96014	33.01064	29.85299	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_006319	NOT DE	hypothetical protein pbra 004964	0	0	0	0	0	0	0	0	0	37.70088	32.34409	32.78729	38.00574	38.01729	35.65872	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007031	NOT DE	dna topoisomerase ii	0	0	0	0	0	0	0	0	0	166.7798	157.4845	170.9242	163.0466	164.3807	164.8128	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007155	NOT DE	dna replication licensing factor mcm6	0	0	0	0	0	0	0	0	0	317.5996	299.4949	316.2131	336.5405	331.2398	358.4628	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007295	NOT DE	exonuclease chloroplastic	0	0	0	0	0	0	0	0	0	62.89239	64.61212	55.51738	68.18944	68.22731	62.93462	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007441	NOT DE	dna polymerase delta subunit 4	0	0	0	0	0	0	0	0	0	13.96177	16.96054	15.12992	14.57484	13.53734	12.30049	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007950	NOT DE	nad-dependent dna ligase	0	0	0	0	0	0	0	0	0	68.79334	63.00922	65.12825	56.1377	56.71986	67.8765	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007983	NOT DE	uracil-dna glycosylase	0	0	0	0	0	0	0	0	0	96.43628	100.26295	112.60801	110.97024	103.67173	113.96636	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_007985	NOT DE	uracil-dna glycosylase	0	0	0	0	0	0	0	0	0	15.45634	15.55012	17.26005	13.75125	15.91432	16.64074	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_008317	NOT DE	rna-directed dna polymerase (reverse transcriptase) domain containing	0	0	0	0	0	0	0	0	0	0.2958258	0.4375091	0.4103049	0.6318308	0.1934344	0.3746979	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_008381	NOT DE	hypothetical protein pbra 009607	0	0	0	0	0	0	0	0	0	9.025157	7.519304	7.51546	7.475007	8.626408	7.749991	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_009270	NOT DE	dna ligase 4	0	0	0	0	0	0	0	0	0	285.0119	295.8105	304.9692	293.228	311.2693	275.9834	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_009845	NOT DE	exodeoxyribonuclease 1	0	0	0	0	0	0	0	0	0	168.7159	144.5235	156.4579	152.0032	165.3352	165.1625	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_009976	NOT DE	dna polymerase alpha subunit b-like	0	0	0	0	0	0	0	0	0	77.56931	67.18453	72.75428	74.66644	79.63721	78.88423	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_009977	NOT DE	hypothetical protein pbra 005822	0	0	0	0	0	0	0	0	0	26.95065	22.47616	24.48178	24.84601	25.38073	27.00737	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_010660	NOT DE	pas domain s-box	0	0	0	0	0	0	0	0	0	1.650977	2.542651	2.629929	1.99425	2.077344	2.33145	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_010686	NOT DE	hypothetical protein pbra 004193	0	0	0	0	0	0	0	0	0	0.4004489	0.6359812	0.3475573	0.9970181	0.7252096	1.178216	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_011492	NOT DE	dna replication licensing factor mcm3	0	0	0	0	0	0	0	0	0	336.2906	338.9721	373.8074	344.5081	331.125	341.0935	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_012041	NOT DE	dna polymerase epsilon; subunit b	0	0	0	0	0	0	0	0	0	71.15745	62.94691	72.42244	58.99304	62.51356	77.48538	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_012127	NOT DE	pogo transposable element with krab domain	0	0	0	0	0	0	0	0	0	9.388063	8.442356	7.825938	7.032198	9.215831	8.772086	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_012167	NOT DE	dna replication licensing factor mcm7	0	0	0	0	0	0	0	0	0	143.1572	135.9264	124.186	135.334	142.0694	161.8278	GO:0140097	catalytic activity, acting on DNA	MF

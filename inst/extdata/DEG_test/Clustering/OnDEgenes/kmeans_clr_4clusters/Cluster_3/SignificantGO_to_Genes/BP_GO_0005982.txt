@@ -1,0 +1,5 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_005113	3	alpha-amylase amy3	-1	-1	0	1	0	0	0	1	1	88.955	267.31055	254.38275	178.76983	54.61683	83.37124	GO:0005982	starch metabolic process	BP
+Gene_006908	3	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0005982	starch metabolic process	BP
+Gene_007317	3	trehalase isoform x1	-1	-1	0	0	0	0	0	1	1	7.699191	21.887706	19.285961	11.812678	5.846433	6.827825	GO:0005982	starch metabolic process	BP
+Gene_007405	3	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:0005982	starch metabolic process	BP

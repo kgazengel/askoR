@@ -1,0 +1,23 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	1	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0002181	cytoplasmic translation	BP
+Gene_000165	1	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0002181	cytoplasmic translation	BP
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0002181	cytoplasmic translation	BP
+Gene_000638	1	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0002181	cytoplasmic translation	BP
+Gene_001176	1	60s ribosomal l27a	1	0	0	0	0	0	0	0	0	1211.1456	925.5307	950.5628	940.8875	1091.2943	1115.0688	GO:0002181	cytoplasmic translation	BP
+Gene_001432	1	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0002181	cytoplasmic translation	BP
+Gene_001575	1	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0002181	cytoplasmic translation	BP
+Gene_001811	1	60s ribosomal l30	1	0	0	0	0	0	0	-1	0	697.3216	529.4646	553.133	573.3418	662.8779	638.2411	GO:0002181	cytoplasmic translation	BP
+Gene_001820	1	40s ribosomal s7	1	1	0	0	0	0	1	0	0	1108.8226	867.6296	840.5388	781.9588	919.8004	971.6368	GO:0002181	cytoplasmic translation	BP
+Gene_002231	1	eukaryotic translation initiation factor 2 gamma	0	0	0	0	0	0	0	-1	-1	350.6763	301.2976	293.2374	339.0927	381.4158	402.3462	GO:0002181	cytoplasmic translation	BP
+Gene_002598	1	diphthamide biosynthesis 1	0	1	0	0	0	0	0	-1	-1	62.68551	53.82108	50.88182	57.31366	68.47958	71.13843	GO:0002181	cytoplasmic translation	BP
+Gene_002951	1	40s ribosomal s3a	1	0	0	0	0	0	1	0	0	1340.0833	1027.2643	1072.2097	910.3755	1070.8749	1174.05	GO:0002181	cytoplasmic translation	BP
+Gene_004571	1	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0002181	cytoplasmic translation	BP
+Gene_005526	1	40s ribosomal s13-2	1	1	0	0	0	0	0	0	-1	799.3971	621.8932	604.7639	667.9955	744.3109	782.8849	GO:0002181	cytoplasmic translation	BP
+Gene_006983	1	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0002181	cytoplasmic translation	BP
+Gene_007055	1	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0002181	cytoplasmic translation	BP
+Gene_007056	1	eukaryotic translation initiation factor 3 subunit b-like	0	0	0	0	0	0	0	-1	0	24.86984	20.41755	21.62592	24.81432	28.19578	28.25013	GO:0002181	cytoplasmic translation	BP
+Gene_007060	1	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0002181	cytoplasmic translation	BP
+Gene_007089	1	60s ribosomal l33-a	1	0	0	0	0	0	0	0	0	986.809	746.6474	767.763	768.4518	887.0558	887.1425	GO:0002181	cytoplasmic translation	BP
+Gene_007951	1	diphthine synthase	1	0	0	0	0	0	0	0	0	48.03258	36.86606	38.12161	39.98253	41.23499	46.62487	GO:0002181	cytoplasmic translation	BP
+Gene_009905	1	diphthamide biosynthesis	0	0	0	0	0	0	0	-1	0	38.46361	33.14361	33.56142	41.03143	45.24736	41.90368	GO:0002181	cytoplasmic translation	BP
+Gene_009906	1	diphthamide biosynthesis 2	0	0	0	0	0	0	0	0	-1	33.82663	32.15176	29.12795	35.95386	37.76235	38.43148	GO:0002181	cytoplasmic translation	BP

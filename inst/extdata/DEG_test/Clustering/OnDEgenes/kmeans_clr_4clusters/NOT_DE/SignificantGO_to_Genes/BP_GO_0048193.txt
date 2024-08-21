@@ -1,0 +1,26 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000148	NOT DE	transport particle component	0	0	0	0	0	0	0	0	0	16.82467	14.86546	16.67209	13.85404	14.82496	20.56465	GO:0048193	Golgi vesicle transport	BP
+Gene_000335	NOT DE	vesicle coat complex copii subunit sec24 subunit sfb2	0	0	0	0	0	0	0	0	0	215.9179	206.0003	235.0928	240.559	241.0545	260.9269	GO:0048193	Golgi vesicle transport	BP
+Gene_000714	NOT DE	ras-related rabh1e	0	0	0	0	0	0	0	0	0	30.95405	31.4535	34.76954	33.23058	32.90389	27.18223	GO:0048193	Golgi vesicle transport	BP
+Gene_000858	NOT DE	sys1 homolog	0	0	0	0	0	0	0	0	0	47.29055	44.83196	46.04743	49.38416	53.88955	47.12031	GO:0048193	Golgi vesicle transport	BP
+Gene_000973	NOT DE	general vesicular transport factor p115-like	0	0	0	0	0	0	0	0	0	145.8083	136.9879	146.0635	159.572	162.8357	181.5306	GO:0048193	Golgi vesicle transport	BP
+Gene_001183	NOT DE	trafficking particle complex subunit 5	0	0	0	0	0	0	0	0	0	43.02511	39.51857	39.71072	39.3303	43.8261	38.34613	GO:0048193	Golgi vesicle transport	BP
+Gene_001697	NOT DE	er to golgi transport-related	0	0	0	0	0	0	0	0	0	299.2049	270.7804	286.8687	286.6718	302.3669	322.523	GO:0048193	Golgi vesicle transport	BP
+Gene_001966	NOT DE	golgi snap receptor complex member 1-2	0	0	0	0	0	0	0	0	0	35.45392	32.4541	33.38744	30.04404	30.7417	30.07781	GO:0048193	Golgi vesicle transport	BP
+Gene_003087	NOT DE	casp isoform x1	0	0	0	0	0	0	0	0	0	188.3269	180.1547	183.1156	161.6565	187.4532	169.534	GO:0048193	Golgi vesicle transport	BP
+Gene_003707	NOT DE	copii coat	0	0	0	0	0	0	0	0	0	199.2255	196.5386	197.9631	217.7887	237.3845	282.8426	GO:0048193	Golgi vesicle transport	BP
+Gene_003815	NOT DE	hypothetical protein pbra 006877	0	0	0	0	0	0	0	0	0	58.64922	76.8215	81.78276	52.94202	46.23942	62.07284	GO:0048193	Golgi vesicle transport	BP
+Gene_004492	NOT DE	rer1 family	0	0	0	0	0	0	0	0	0	98.12234	97.08556	102.37155	87.9809	85.26316	91.24305	GO:0048193	Golgi vesicle transport	BP
+Gene_004557	NOT DE	exocyst complex subunit 2	0	0	0	0	0	0	0	0	0	146.4029	147.7827	147.9162	151.0406	158.961	140.7905	GO:0048193	Golgi vesicle transport	BP
+Gene_004558	NOT DE	exocyst complex component sec5 [rhodotorula toruloides np11]	0	0	0	0	0	0	0	0	0	29.17848	28.88472	29.67842	29.21781	30.38433	26.93867	GO:0048193	Golgi vesicle transport	BP
+Gene_004974	NOT DE	conserved oligomeric golgi complex subunit 5	0	0	0	0	0	0	0	0	0	206.2367	190.8593	195.5254	206.2281	217.5277	219.1148	GO:0048193	Golgi vesicle transport	BP
+Gene_005608	NOT DE	rad50-interacting 1	0	0	0	0	0	0	0	0	0	118.204	110.745	116.2025	114.2506	111.9589	121.5457	GO:0048193	Golgi vesicle transport	BP
+Gene_006885	NOT DE	sec13 homolog	0	0	0	0	0	0	0	0	0	127.6437	123.1914	128.5245	111.4402	114.6613	123.3276	GO:0048193	Golgi vesicle transport	BP
+Gene_007039	NOT DE	conserved oligomeric golgi complex subunit 6	0	0	0	0	0	0	0	0	0	100.31413	100.00467	100.04624	93.36012	93.30073	100.87902	GO:0048193	Golgi vesicle transport	BP
+Gene_007144	NOT DE	trafficking particle complex subunit	0	0	0	0	0	0	0	0	0	112.0303	107.8722	125.4195	117.581	113.5814	115.9148	GO:0048193	Golgi vesicle transport	BP
+Gene_007401	NOT DE	conserved oligomeric golgi complex subunit 4-like	0	0	0	0	0	0	0	0	0	240.1626	237.7649	253.256	221.3025	216.5603	215.4948	GO:0048193	Golgi vesicle transport	BP
+Gene_009389	NOT DE	vacuolar sorting-associated 53 homolog	0	0	0	0	0	0	0	0	0	10.236527	11.372059	11.994968	9.4753	8.864434	12.633555	GO:0048193	Golgi vesicle transport	BP
+Gene_009453	NOT DE	coatomer subunit delta	0	0	0	0	0	0	0	0	0	276.5798	291.6824	320.6485	290.7848	269.0336	294.4811	GO:0048193	Golgi vesicle transport	BP
+Gene_010572	NOT DE	trafficking particle complex subunit 2	0	0	0	0	0	0	0	0	0	91.68251	84.57072	86.75745	71.87454	82.17985	85.73289	GO:0048193	Golgi vesicle transport	BP
+Gene_011342	NOT DE	golgi snap receptor complex member 2	0	0	0	0	0	0	0	0	0	21.86068	25.40326	26.15472	20.25689	19.38447	21.50348	GO:0048193	Golgi vesicle transport	BP
+Gene_012440	NOT DE	coatomer subunit beta'-1 isoform x1	0	0	0	0	0	0	0	0	0	388.2232	385.4714	387.9838	433.6245	468.2183	497.6172	GO:0048193	Golgi vesicle transport	BP

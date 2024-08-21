@@ -1,0 +1,55 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0008237	metallopeptidase activity	53	1	0.02	0.023	50	MF
+GO:0046873	metal ion transmembrane transporter activity	76	1	0.03	0.033	33.3333333333333	MF
+GO:0008270	zinc ion binding	548	1	0.24	0.222	4.16666666666667	MF
+GO:0003676	nucleic acid binding	1279	1	0.56	0.464	1.78571428571429	MF
+GO:0003674	molecular_function	6816	3	3	1.000	1	MF
+GO:0140096	catalytic activity, acting on a protein	907	1	0.4	1.000	2.5	MF
+GO:0008324	cation transmembrane transporter activity	149	1	0.07	1.000	14.2857142857143	MF
+GO:0008233	peptidase activity	265	1	0.12	1.000	8.33333333333333	MF
+GO:0005488	binding	4823	2	2.12	1.000	0.943396226415094	MF
+GO:0015075	ion transmembrane transporter activity	193	1	0.08	1.000	12.5	MF
+GO:0005215	transporter activity	365	1	0.16	1.000	6.25	MF
+GO:0022890	inorganic cation transmembrane transporter activity	138	1	0.06	1.000	16.6666666666667	MF
+GO:0046872	metal ion binding	1257	1	0.55	1.000	1.81818181818182	MF
+GO:0016787	hydrolase activity	1190	1	0.52	1.000	1.92307692307692	MF
+GO:0097159	organic cyclic compound binding	2378	1	1.05	1.000	0.952380952380952	MF
+GO:0043167	ion binding	2296	1	1.01	1.000	0.99009900990099	MF
+GO:1901363	heterocyclic compound binding	2378	1	1.05	1.000	0.952380952380952	MF
+GO:0003824	catalytic activity	3233	1	1.42	1.000	0.704225352112676	MF
+GO:0022857	transmembrane transporter activity	310	1	0.14	1.000	7.14285714285714	MF
+GO:0043169	cation binding	1261	1	0.56	1.000	1.78571428571429	MF
+GO:0046914	transition metal ion binding	628	1	0.28	1.000	3.57142857142857	MF
+GO:0015318	inorganic molecular entity transmembrane transporter activity	175	1	0.08	1.000	12.5	MF
+GO:0030001	metal ion transport	105	1	0.06	0.062	16.6666666666667	BP
+GO:0015074	DNA integration	240	1	0.14	0.138	7.14285714285714	BP
+GO:0055085	transmembrane transport	358	1	0.22	0.201	4.54545454545455	BP
+GO:0006508	proteolysis	386	1	0.23	0.215	4.34782608695652	BP
+GO:0044237	cellular metabolic process	2738	2	1.65	0.449	1.21212121212121	BP
+GO:0051179	localization	833	1	0.5	1.000	2	BP
+GO:0051234	establishment of localization	805	1	0.49	1.000	2.04081632653061	BP
+GO:0006259	DNA metabolic process	472	1	0.28	1.000	3.57142857142857	BP
+GO:0044238	primary metabolic process	3004	2	1.81	1.000	1.10497237569061	BP
+GO:0034641	cellular nitrogen compound metabolic process	1682	1	1.01	1.000	0.99009900990099	BP
+GO:0006810	transport	796	1	0.48	1.000	2.08333333333333	BP
+GO:0006811	ion transport	220	1	0.13	1.000	7.69230769230769	BP
+GO:0006812	cation transport	155	1	0.09	1.000	11.1111111111111	BP
+GO:1901564	organonitrogen compound metabolic process	1785	1	1.08	1.000	0.925925925925926	BP
+GO:1901360	organic cyclic compound metabolic process	1505	1	0.91	1.000	1.0989010989011	BP
+GO:0019538	protein metabolic process	1350	1	0.81	1.000	1.23456790123457	BP
+GO:0006139	nucleobase-containing compound metabolic process	1381	1	0.83	1.000	1.20481927710843	BP
+GO:0009987	cellular process	4052	3	2.44	1.000	1.22950819672131	BP
+GO:0008150	biological_process	4976	3	3	1.000	1	BP
+GO:0008152	metabolic process	3516	2	2.12	1.000	0.943396226415094	BP
+GO:0071704	organic substance metabolic process	3152	2	1.9	1.000	1.05263157894737	BP
+GO:0006725	cellular aromatic compound metabolic process	1480	1	0.89	1.000	1.12359550561798	BP
+GO:0044260	cellular macromolecule metabolic process	1057	1	0.64	1.000	1.5625	BP
+GO:0043170	macromolecule metabolic process	2409	2	1.45	1.000	1.37931034482759	BP
+GO:0006807	nitrogen compound metabolic process	2804	2	1.69	1.000	1.18343195266272	BP
+GO:0090304	nucleic acid metabolic process	1159	1	0.7	1.000	1.42857142857143	BP
+GO:0046483	heterocycle metabolic process	1465	1	0.88	1.000	1.13636363636364	BP
+GO:0016021	integral component of membrane	2650	2	1.08	0.29	1.85185185185185	CC
+GO:0110165	cellular anatomical entity	4797	2	1.95	1.00	1.02564102564103	CC
+GO:0031224	intrinsic component of membrane	2651	2	1.08	1.00	1.85185185185185	CC
+GO:0005575	cellular_component	4927	2	2	1.00	1	CC
+GO:0016020	membrane	2972	2	1.21	1.00	1.65289256198347	CC

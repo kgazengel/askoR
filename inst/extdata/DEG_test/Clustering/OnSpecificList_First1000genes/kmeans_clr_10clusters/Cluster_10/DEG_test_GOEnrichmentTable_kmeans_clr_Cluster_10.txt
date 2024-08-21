@@ -1,0 +1,11 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0016740	transferase activity	1226	1	0.18	0.18	5.55555555555556	MF
+GO:0005488	binding	4823	1	0.71	0.71	1.40845070422535	MF
+GO:0003674	molecular_function	6816	1	1	1.00	1	MF
+GO:0003824	catalytic activity	3233	1	0.47	1.00	2.12765957446809	MF
+GO:0043170	macromolecule metabolic process	2409	1	0.48	0.48	2.08333333333333	BP
+GO:0006807	nitrogen compound metabolic process	2804	1	0.56	0.56	1.78571428571429	BP
+GO:0044238	primary metabolic process	3004	1	0.6	0.60	1.66666666666667	BP
+GO:0008150	biological_process	4976	1	1	1.00	1	BP
+GO:0071704	organic substance metabolic process	3152	1	0.63	1.00	1.58730158730159	BP
+GO:0008152	metabolic process	3516	1	0.71	1.00	1.40845070422535	BP

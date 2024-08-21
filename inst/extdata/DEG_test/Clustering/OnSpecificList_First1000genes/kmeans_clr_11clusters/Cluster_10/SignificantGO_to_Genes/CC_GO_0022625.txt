@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000157	10	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_000275	10	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0022625	cytosolic large ribosomal subunit	CC
+Gene_000724	10	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0022625	cytosolic large ribosomal subunit	CC

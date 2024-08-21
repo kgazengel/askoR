@@ -1,0 +1,52 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000163	2	g-coupled receptor kinase 7b-like	0	0	0	0	0	0	0	1	0	0.3004652	0.6309157	0.5936574	0.2064747	0.149101	0.1269811	GO:0006468	protein phosphorylation	BP
+Gene_000267	2	cmgc mapk kinase	0	-1	0	0	0	0	0	0	1	35.68453	45.49657	50.85537	43.19143	37.02378	34.9801	GO:0006468	protein phosphorylation	BP
+Gene_000333	2	mitogen activated kinase 7	0	0	0	0	0	0	0	1	1	10.452408	14.532259	14.964912	11.396358	8.60073	8.434861	GO:0006468	protein phosphorylation	BP
+Gene_000474	2	casein kinase i	0	0	0	0	0	0	0	0	1	169.7984	179.2767	192.8575	163.6507	165.6191	141.5461	GO:0006468	protein phosphorylation	BP
+Gene_000869	2	atp gtp-binding	0	0	0	0	0	0	0	1	1	0.8102091	1.9226746	1.7891229	0.5733737	0.4504658	0.3684524	GO:0006468	protein phosphorylation	BP
+Gene_001059	2	leucine rich repeat family	0	-1	0	0	0	0	-1	0	1	161.2324	181.0712	203.9237	194.7425	164.7653	163.085	GO:0006468	protein phosphorylation	BP
+Gene_001125	2	hypothetical protein pbra 002666	-1	-1	0	1	0	0	0	1	1	9.461245	17.886693	18.806802	14.12274	8.28517	8.886576	GO:0006468	protein phosphorylation	BP
+Gene_001146	2	mitogen-activated kinase kinase 1	0	0	0	0	0	0	1	1	1	27.20442	30.0601	24.35056	15.39177	14.09333	11.60313	GO:0006468	protein phosphorylation	BP
+Gene_001351	2	extracellular response kinase	-1	0	0	0	0	0	0	1	0	0.2805477	0.8972582	0.8849876	0.6612128	0.2807555	0.3080846	GO:0006468	protein phosphorylation	BP
+Gene_001442	2	calcium calmodulin-dependent kinase type iv-like	-1	0	0	1	0	0	0	1	0	0.2855271	1.1892096	0.82224	0.5798069	0.0387046	0.1811034	GO:0006468	protein phosphorylation	BP
+Gene_001660	2	serine threonine-kinase nek4-like isoform x1	0	0	0	0	0	0	0	1	1	8.530614	12.936479	12.857989	9.998274	7.382893	6.482267	GO:0006468	protein phosphorylation	BP
+Gene_001803	2	camk camkl kinase	0	0	0	0	0	0	0	1	0	3.186649	5.230143	4.913878	3.583422	2.170206	3.026723	GO:0006468	protein phosphorylation	BP
+Gene_002484	2	serine threonine-kinase 3 isoform x1	0	0	0	0	0	0	0	0	1	174.5782	179.8131	195.943	163.4427	160.0675	155.4766	GO:0006468	protein phosphorylation	BP
+Gene_002786	2	cmgc dyrk dyrk1 kinase	0	0	0	0	0	0	0	1	1	24.09249	32.07946	36.93192	24.28516	18.862	17.93761	GO:0006468	protein phosphorylation	BP
+Gene_003030	2	serine threonine-kinase sty46-like isoform x1	-1	0	0	1	0	0	0	1	0	50.86712	66.24065	59.87799	61.07806	40.8617	48.48587	GO:0006468	protein phosphorylation	BP
+Gene_003637	2	serine threonine-kinase nek1-like	-1	-1	0	0	0	0	0	1	0	21.18614	29.8181	29.09291	25.98075	22.78309	20.71661	GO:0006468	protein phosphorylation	BP
+Gene_003860	2	camkk kinase	0	-1	0	0	0	0	0	1	1	57.14417	72.0007	86.90549	54.99593	42.65141	47.71983	GO:0006468	protein phosphorylation	BP
+Gene_004593	2	achain the crystal structure of dyrk1a with a bound pyrido[2;3-d]pyrimidine inhibitor	0	0	0	0	0	0	0	1	1	1.1656456	2.0699197	1.6652578	0.8793175	0.5996554	0.2414712	GO:0006468	protein phosphorylation	BP
+Gene_004756	2	cmgc mapk kinase	-1	0	0	0	0	0	0	1	0	15.20902	21.12383	17.02459	19.06799	15.04058	14.59655	GO:0006468	protein phosphorylation	BP
+Gene_004900	2	map kinase kinase	-1	0	0	0	0	0	0	1	0	30.2878	41.67952	39.58685	34.15116	28.65873	27.88791	GO:0006468	protein phosphorylation	BP
+Gene_005007	2	tkl kinase	-1	0	0	0	0	0	0	0	1	28.32183	45.20136	43.70825	42.27445	39.02419	26.13931	GO:0006468	protein phosphorylation	BP
+Gene_005090	2	serine threonine-kinase 26	-1	-1	0	0	0	0	0	1	1	94.76466	132.94393	143.20089	110.9481	82.00645	83.44932	GO:0006468	protein phosphorylation	BP
+Gene_005132	2	cmgc cdkl kinase	0	0	0	0	0	0	-1	0	0	0.3316379	0.8104445	0.82224	1.1783585	0.8292398	0.301839	GO:0006468	protein phosphorylation	BP
+Gene_005688	2	serine threonine-kinase ulk4 isoform x1	0	-1	0	0	0	0	0	0	1	145.5945	166.7979	196.8484	159.6288	156.1618	141.7231	GO:0006468	protein phosphorylation	BP
+Gene_005784	2	adp-ribosylation factor gtpase-activating agd7	0	-1	0	1	0	0	0	1	1	35.06131	45.3183	59.61722	41.00798	27.65064	27.30297	GO:0006468	protein phosphorylation	BP
+Gene_006417	2	sperm motility kinase x-like	-1	0	0	0	0	0	0	1	0	0.11278824	0.55873606	0.32025884	0.13184277	0.07740919	0	GO:0006468	protein phosphorylation	BP
+Gene_006667	2	cmgc mapk erk7 kinase	0	0	0	0	0	0	0	1	0	0.6047482	1.3335048	1.3645608	0.8978462	0.3363464	0.301839	GO:0006468	protein phosphorylation	BP
+Gene_006788	2	agc pka kinase	-1	-1	0	0	0	0	0	1	1	100.23701	129.66729	151.84777	122.02959	96.87235	101.60135	GO:0006468	protein phosphorylation	BP
+Gene_006861	2	agc grk bark kinase	-1	0	0	0	0	0	0	0	0	12.0165	17.45234	16.59635	15.45858	12.82616	13.27262	GO:0006468	protein phosphorylation	BP
+Gene_006971	2	agc pka kinase	0	0	0	0	0	0	0	1	1	0.6250535	1.3518857	1.2904021	0.4715649	0.4000321	0.1269811	GO:0006468	protein phosphorylation	BP
+Gene_007079	2	peptidase c1	-1	0	0	0	0	0	0	1	1	0.5437624	1.2269759	1.1954655	0.5204247	0.2109695	0.1811034	GO:0006468	protein phosphorylation	BP
+Gene_007154	2	calmodulin-domain kinase	0	-1	0	0	0	0	0	1	1	0.7210929	1.2795044	2.0258563	0.7198283	0.3656992	0.5558013	GO:0006468	protein phosphorylation	BP
+Gene_007784	2	dual specificity catalytic domain containing	0	0	0	0	0	0	0	1	0	4.777222	4.90002	5.082559	3.896926	2.880022	4.687882	GO:0006468	protein phosphorylation	BP
+Gene_007798	2	sperm motility kinase w	-1	0	0	1	0	0	-1	0	0	9.933622	17.443111	15.107266	21.434292	11.876945	10.742513	GO:0006468	protein phosphorylation	BP
+Gene_007929	2	serine threonine-kinase ttk mps1	0	0	0	0	0	0	0	1	1	20.39623	24.0645	24.13135	22.09552	19.07412	17.47965	GO:0006468	protein phosphorylation	BP
+Gene_007931	2	wd repeat-containing 67	-1	-1	0	0	0	0	-1	1	1	62.67711	98.58997	106.51	92.90955	66.97093	59.85167	GO:0006468	protein phosphorylation	BP
+Gene_008689	2	kinase-like domain-containing	-1	-1	0	1	0	0	-1	1	1	91.51423	131.48462	144.75361	139.09517	98.0325	110.71897	GO:0006468	protein phosphorylation	BP
+Gene_008690	2	map kinase kinase kinase	-1	-1	0	1	0	0	-1	1	1	51.07666	70.36132	81.50355	77.10422	52.27219	57.81167	GO:0006468	protein phosphorylation	BP
+Gene_009080	2	agc kinase	0	0	0	0	0	0	0	1	0	7.959883	8.55322	7.972625	8.352872	5.958506	6.66337	GO:0006468	protein phosphorylation	BP
+Gene_009584	2	snf1-related kinase catalytic subunit alpha kin10	0	0	0	0	0	0	0	1	1	0.5447976	1.0215242	1.2068766	0.6926514	0.1335603	0.1269811	GO:0006468	protein phosphorylation	BP
+Gene_009613	2	cbl-interacting kinase 24	0	-1	0	0	0	0	0	1	1	0.548354	0.9355308	1.4415656	0.4517563	0.346347	0.3684524	GO:0006468	protein phosphorylation	BP
+Gene_009964	2	cyclin 6	0	0	0	0	0	0	0	0	1	55.66241	57.82821	65.23638	53.55562	50.44188	46.09197	GO:0006468	protein phosphorylation	BP
+Gene_010398	2	agc kinase	-1	-1	0	0	0	0	0	1	1	8.500675	13.122722	13.577142	9.918192	7.315484	7.371135	GO:0006468	protein phosphorylation	BP
+Gene_010476	2	kinase domain-containing [mitosporidium daphniae]	0	0	0	0	0	0	0	0	1	3.628742	4.435345	5.811907	4.415754	3.935625	2.518799	GO:0006468	protein phosphorylation	BP
+Gene_010594	2	cell division control 6 homolog	0	0	0	0	0	0	1	0	0	19.65076	19.2245	20.9626	13.43266	15.21108	16.89262	GO:0006468	protein phosphorylation	BP
+Gene_010991	2	crinkler (crn) family	-1	0	0	0	0	0	-1	0	0	24.10018	37.74968	27.84735	39.78847	32.31557	29.94041	GO:0006468	protein phosphorylation	BP
+Gene_011626	2	agc kinase	-1	-1	0	1	0	0	0	1	1	73.82065	91.36808	108.33708	87.19519	67.78898	74.70846	GO:0006468	protein phosphorylation	BP
+Gene_011631	2	serine threonine kinase	0	-1	0	0	0	0	0	0	0	91.34218	109.51984	117.40775	108.92197	107.31772	103.66217	GO:0006468	protein phosphorylation	BP
+Gene_011755	2	putative nima-related kinase	-1	-1	0	1	0	0	-1	1	0	6.176686	11.692208	11.118987	12.407394	6.313842	6.494758	GO:0006468	protein phosphorylation	BP
+Gene_011931	2	predicted protein	0	0	0	0	0	0	0	1	0	129.91	183.5333	168.0421	147.9498	117.8514	138.8005	GO:0006468	protein phosphorylation	BP
+Gene_012283	2	crinkler (crn)	-1	0	0	0	0	0	-1	0	0	30.79471	49.99637	40.86222	54.59538	40.87108	36.33317	GO:0006468	protein phosphorylation	BP

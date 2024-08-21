@@ -1,0 +1,36 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000090	3	dna damage-inducible 1	-1	-1	0	1	0	0	0	1	1	16.457651	36.98219	40.418929	26.299206	9.531715	13.601527	GO:0006508	proteolysis	BP
+Gene_000091	3	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0006508	proteolysis	BP
+Gene_001094	3	androglobin-like isoform x3	-1	0	0	0	0	0	0	1	1	3.763069	7.726012	5.834315	3.334348	1.829487	2.525044	GO:0006508	proteolysis	BP
+Gene_001754	3	calpain-type cysteine protease dek1	-1	0	0	1	0	0	0	1	1	6.057372	11.40526	10.852884	6.841825	2.985899	4.427674	GO:0006508	proteolysis	BP
+Gene_001828	3	dipeptidyl peptidase 1	-1	0	0	1	0	0	0	1	0	3.4058866	7.8593478	5.9223166	3.6754751	0.9442738	2.556272	GO:0006508	proteolysis	BP
+Gene_002022	3	metalloprotease family	-1	-1	0	1	0	0	0	1	1	2.728833	5.583187	6.635777	4.881139	2.023659	2.664517	GO:0006508	proteolysis	BP
+Gene_002039	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0006508	proteolysis	BP
+Gene_002345	3	cytosolic carboxypeptidase 4	-1	-1	0	1	0	0	-1	1	0	15.39711	48.55255	40.40628	38.42752	16.84255	19.29484	GO:0006508	proteolysis	BP
+Gene_002592	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0006508	proteolysis	BP
+Gene_003446	3	ubiquitin carboxyl-terminal hydrolase 2-like	-1	-1	0	0	0	0	0	1	1	1.513132	4.929653	4.727679	3.025254	1.133248	0.978376	GO:0006508	proteolysis	BP
+Gene_003949	3	papain family cysteine protease	-1	-1	0	1	0	0	0	1	1	8.05044	18.61455	26.145637	15.925169	6.515371	7.560572	GO:0006508	proteolysis	BP
+Gene_004020	3	hypothetical protein pbra 002438	-1	-1	0	0	0	0	0	1	1	7.401507	13.304903	15.286414	6.85277	4.300881	4.906458	GO:0006508	proteolysis	BP
+Gene_004230	3	ataxin-3 homolog	-1	-1	0	1	0	0	0	1	1	1.6241727	5.1223521	4.8580652	3.5774149	0.8498896	0.9846215	GO:0006508	proteolysis	BP
+Gene_004264	3	zinc c3hc4 type (ring finger) domain containing	-1	-1	0	1	0	0	0	1	1	2.7119589	7.0991144	8.5956254	4.1723904	0.8243484	1.6861406	GO:0006508	proteolysis	BP
+Gene_004452	3	cathepsin z ase	-1	-1	0	0	0	0	0	1	1	52.94628	94.14057	103.70566	72.31938	44.15468	44.75347	GO:0006508	proteolysis	BP
+Gene_004530	3	vm3e1 echoc ame: full=zinc metallo ase-disintegrin-like eoc1 ame: full=snake venom metallo ase short=svmp flags: precursor	-1	-1	0	0	0	0	-1	1	0	11.46007	35.17709	26.11285	27.86571	15.09649	11.47823	GO:0006508	proteolysis	BP
+Gene_004697	3	endopeptidase la	-1	-1	0	1	0	0	0	1	1	25.15552	61.53665	71.50269	41.29092	14.73395	23.02517	GO:0006508	proteolysis	BP
+Gene_005157	3	flagellar associated	-1	-1	0	1	0	0	0	1	1	1.835199	5.376168	5.227202	3.393305	0.710229	1.800631	GO:0006508	proteolysis	BP
+Gene_005525	3	[micromonas commoda]	0	0	0	0	0	0	0	1	0	1.3049516	2.751089	2.322077	2.0843397	0.6639012	0.9367448	GO:0006508	proteolysis	BP
+Gene_006106	3	xylem cysteine ase 1	-1	-1	0	1	0	0	0	1	1	8.361505	18.691003	16.319692	11.837933	7.111489	9.321641	GO:0006508	proteolysis	BP
+Gene_006502	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.501317	2.25509	2.970726	GO:0006508	proteolysis	BP
+Gene_007421	3	physa phypo ame: full=physarolisin ame: full=physaropepsin contains: ame: full=physarolisin heavy chain contains: ame: full=physarolisin light chain flags: precursor	-1	-1	0	1	0	0	0	1	1	61.09631	122.86577	171.22375	98.66882	38.86156	46.71649	GO:0006508	proteolysis	BP
+Gene_007794	3	hypothetical protein pbra 005368	-1	0	0	0	0	0	0	1	0	15.33507	38.80098	26.71215	27.30304	17.09462	16.76979	GO:0006508	proteolysis	BP
+Gene_007920	3	cysteine ase cot44-like	0	-1	0	0	0	0	0	1	1	194.7179	292.9664	422.0094	240.2831	139.5616	142.3935	GO:0006508	proteolysis	BP
+Gene_009363	3	lysosomal aspartic protease	-1	-1	0	1	0	0	0	1	1	11.866213	27.49142	30.026805	17.235758	6.269078	10.670557	GO:0006508	proteolysis	BP
+Gene_009971	3	hypothetical protein pbra 005819	-1	0	0	0	0	0	0	1	1	4.374742	14.489367	10.218913	8.496091	4.847471	3.122477	GO:0006508	proteolysis	BP
+Gene_010483	3	lysosomal aspartic protease	-1	-1	0	0	0	0	0	1	1	79.7444	231.52482	212.52926	186.20373	105.70701	75.02687	GO:0006508	proteolysis	BP
+Gene_010543	3	probable serine carboxypeptidase cpvl	-1	-1	0	1	0	0	0	1	1	1.924638	6.0000405	5.8339006	2.6854034	0.7950842	0.4954335	GO:0006508	proteolysis	BP
+Gene_010544	3	peptidase s10	-1	-1	0	0	0	0	0	1	1	5.525503	10.117979	11.807166	6.935834	4.678369	3.026723	GO:0006508	proteolysis	BP
+Gene_011298	3	s-phase kinase-associated 1a	-1	-1	0	0	0	0	0	1	1	25.20935	48.38412	43.82722	35.3499	20.03182	19.95057	GO:0006508	proteolysis	BP
+Gene_011454	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.469969	7.48349	7.33612	6.4195	2.2365	2.933256	GO:0006508	proteolysis	BP
+Gene_011865	3	nad(p)-binding protein	0	-1	0	1	0	0	0	1	1	44.91815	62.01468	86.74617	41.59504	21.99485	29.99664	GO:0006508	proteolysis	BP
+Gene_012489	3	rhomboid-like protein 4	-1	-1	0	0	0	0	0	1	1	1.1244508	3.6877871	2.5889549	2.4263246	1.2743427	0.3684524	GO:0006508	proteolysis	BP
+Gene_012542	3	subtilisin-like serine peptidase	-1	-1	0	0	0	0	-1	1	0	1.328687	3.77296	4.447346	3.467893	1.21884	1.686141	GO:0006508	proteolysis	BP
+Gene_012610	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	0	1.680732	4.751127	4.490835	4.027574	1.418724	1.898259	GO:0006508	proteolysis	BP

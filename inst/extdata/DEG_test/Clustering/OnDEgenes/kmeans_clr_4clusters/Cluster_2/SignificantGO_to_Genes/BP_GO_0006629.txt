@@ -1,0 +1,47 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000842	2	hydroxymethylglutaryl-degradative	0	0	0	0	0	0	0	1	0	63.19185	68.17785	70.79005	60.5476	53.95633	62.10665	GO:0006629	lipid metabolic process	BP
+Gene_001727	2	neuropathy target esterase isoform x5	0	0	0	0	0	0	0	0	1	114.101	110.3431	119.1313	106.1155	102.779	85.787	GO:0006629	lipid metabolic process	BP
+Gene_001840	2	patatin family	0	0	0	0	0	0	0	1	1	36.70306	39.0159	48.66938	35.97461	29.70284	31.8722	GO:0006629	lipid metabolic process	BP
+Gene_001971	2	acylglycerol lipase	0	0	0	0	0	0	0	1	0	14.59768	20.55405	21.24291	14.10277	11.25604	14.4092	GO:0006629	lipid metabolic process	BP
+Gene_002016	2	phosphatidylinositol synthase	0	0	0	0	0	0	1	0	0	33.17068	30.74632	32.99791	25.61986	26.68839	29.29719	GO:0006629	lipid metabolic process	BP
+Gene_002055	2	farnesyl pyrophosphate synthase	0	0	0	0	0	0	0	1	1	68.07541	74.85628	84.40008	67.48849	55.08573	60.52199	GO:0006629	lipid metabolic process	BP
+Gene_002062	2	glycerol-3-phosphate dehydrogenase	-1	-1	0	0	0	0	0	1	0	76.4915	102.58759	106.6372	100.73193	76.73397	80.41428	GO:0006629	lipid metabolic process	BP
+Gene_002198	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	1	44.05302	52.82204	60.31195	36.18611	30.54178	36.9556	GO:0006629	lipid metabolic process	BP
+Gene_002478	2	diphosphomevalonate decarboxylase	0	0	0	0	0	0	0	1	0	44.92831	49.17834	54.0554	38.03443	32.75226	45.90879	GO:0006629	lipid metabolic process	BP
+Gene_003337	2	fam151b isoform x1	0	0	0	0	0	0	0	1	1	6.651228	8.227659	9.065845	5.815627	5.479312	4.293535	GO:0006629	lipid metabolic process	BP
+Gene_003369	2	steroid dehydrogenase	0	0	0	0	0	0	0	1	1	3.244852	4.323206	6.214449	1.847922	1.43535	1.359319	GO:0006629	lipid metabolic process	BP
+Gene_003636	2	saicar synthase	-1	-1	0	0	0	0	0	1	0	69.82043	89.23222	91.46412	80.92535	65.52437	73.46363	GO:0006629	lipid metabolic process	BP
+Gene_003641	2	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0006629	lipid metabolic process	BP
+Gene_003908	2	pentatricopeptide repeat-containing at1g63330-like isoform x1	0	0	0	0	0	0	1	1	0	43.20581	38.90539	37.55036	28.39588	29.0128	28.5582	GO:0006629	lipid metabolic process	BP
+Gene_004066	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	4.655153	6.411008	7.053404	5.445913	3.400304	4.386043	GO:0006629	lipid metabolic process	BP
+Gene_004372	2	fatty acid elongase	0	0	0	0	0	0	1	1	0	120.14845	97.99323	104.0144	80.2312	77.43804	91.21598	GO:0006629	lipid metabolic process	BP
+Gene_004395	2	dihydroxyacetone phosphate acyltransferase	-1	-1	0	0	0	0	0	1	1	116.25397	162.3197	179.7017	124.40214	95.19455	91.66559	GO:0006629	lipid metabolic process	BP
+Gene_004976	2	1-phosphatidylinositol-3-phosphate 5-kinase fab1a isoform x1	0	0	0	0	0	0	0	1	1	178.8277	194.9476	212.49	164.2194	142.4862	141.2152	GO:0006629	lipid metabolic process	BP
+Gene_005032	2	gluconolactonase	0	0	0	0	0	0	1	1	0	130.3528	122.0671	129.0308	101.9426	103.1006	110.7356	GO:0006629	lipid metabolic process	BP
+Gene_005615	2	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	-1	1	0	22.96513	41.43728	41.12095	36.3205	26.80193	28.51657	GO:0006629	lipid metabolic process	BP
+Gene_006265	2	peroxisomal 2;4-dienoyl-reductase isoform x2	0	0	0	0	0	0	0	0	1	89.91175	94.40189	101.15569	88.70696	82.09768	82.87271	GO:0006629	lipid metabolic process	BP
+Gene_006928	2	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0006629	lipid metabolic process	BP
+Gene_006948	2	class i sam-dependent methyltransferase	0	0	0	0	0	0	0	0	1	7.712904	8.898439	10.744518	7.536264	6.497413	3.341054	GO:0006629	lipid metabolic process	BP
+Gene_006949	2	class i sam-dependent methyltransferase	0	0	0	0	0	0	0	1	0	2.252783	3.591453	4.100591	2.611241	1.862652	2.429291	GO:0006629	lipid metabolic process	BP
+Gene_007141	2	coiled-coil and c2 domain-containing 2a isoform x3	0	0	0	0	0	0	0	1	0	5.998906	8.593664	8.296532	6.037863	4.464019	5.395646	GO:0006629	lipid metabolic process	BP
+Gene_007159	2	peptidylprolyl isomerase	0	0	0	0	0	0	0	1	1	72.92764	78.62618	85.34091	59.77291	61.15238	58.67349	GO:0006629	lipid metabolic process	BP
+Gene_007167	2	triacylglycerol lipase triacylglycerol lipase	0	0	0	0	0	0	0	1	0	0.5685961	0.9229233	0.82224	0.3931408	0.2027861	0.3143301	GO:0006629	lipid metabolic process	BP
+Gene_007381	2	class 3	-1	0	0	0	0	0	0	1	0	11.127525	16.165482	14.573341	11.149379	9.169223	11.401217	GO:0006629	lipid metabolic process	BP
+Gene_007596	2	tafazzin isoform x2	0	-1	0	0	0	0	0	1	1	35.8292	42.78171	47.12268	33.47575	27.39564	30.17981	GO:0006629	lipid metabolic process	BP
+Gene_007724	2	inositol polyphosphate 5-phosphatase k	0	0	0	0	0	0	0	0	1	3.040292	3.957031	4.208983	2.536782	2.549068	1.619527	GO:0006629	lipid metabolic process	BP
+Gene_007963	2	2-isopropylmalate synthase	0	0	0	0	0	0	1	0	1	6.333315	6.506085	6.692806	3.064234	4.305655	1.781894	GO:0006629	lipid metabolic process	BP
+Gene_008247	2	3-oxoacid-transferase	0	0	0	0	0	0	0	1	0	21.38399	32.29429	30.17626	19.98936	16.7249	17.31519	GO:0006629	lipid metabolic process	BP
+Gene_008393	2	beta-hexosaminidase subunit beta-like	-1	0	0	0	0	0	-1	0	0	0.156441	0.6572808	0.6066986	0.8917579	0.6095673	0.3684524	GO:0006629	lipid metabolic process	BP
+Gene_008956	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	0	230.8349	257.5443	270.6161	220.191	201.1301	219.2897	GO:0006629	lipid metabolic process	BP
+Gene_008975	2	lipase 4	-1	0	0	0	0	0	0	1	0	17.88684	26.84347	24.30981	19.56845	15.28895	20.26906	GO:0006629	lipid metabolic process	BP
+Gene_008976	2	patatin-domain-containing	0	0	0	0	0	0	0	1	0	7.306829	9.854982	8.421225	8.202372	5.98941	8.053918	GO:0006629	lipid metabolic process	BP
+Gene_008977	2	patatin family phospholipase	0	0	0	0	0	0	0	1	1	3.235281	4.468506	4.754149	3.127576	2.311909	1.915121	GO:0006629	lipid metabolic process	BP
+Gene_009840	2	lipase family	-1	0	0	0	0	0	0	1	0	10.73101	19.419984	14.085617	12.928169	8.211359	9.359115	GO:0006629	lipid metabolic process	BP
+Gene_009934	2	gpi ethanolamine phosphate transferase 3 isoform x2	0	0	0	0	0	0	0	1	1	126.0064	137.2416	154.6017	129.0373	111.3405	118.1005	GO:0006629	lipid metabolic process	BP
+Gene_010559	2	1-phosphatidylinositol 4;5-bisphosphate phosphodiesterase delta-4-like isoform x1	-1	-1	0	0	0	0	0	1	1	87.93731	112.94821	117.08348	96.91657	81.32484	88.40157	GO:0006629	lipid metabolic process	BP
+Gene_011054	2	[micromonas commoda]	0	0	0	0	0	0	1	1	1	3.3091349	3.4126322	3.1577457	0.516805	0.4044038	0.4288202	GO:0006629	lipid metabolic process	BP
+Gene_011099	2	gastric triacylglycerol lipase-like	0	-1	0	0	0	0	0	0	0	26.18819	33.42929	39.69403	34.94752	27.11368	31.2144	GO:0006629	lipid metabolic process	BP
+Gene_011163	2	patatin-like phospholipase domain-containing	0	0	0	0	0	0	0	1	0	33.50347	39.31591	42.17133	33.90241	28.06318	32.08453	GO:0006629	lipid metabolic process	BP
+Gene_011164	2	patatin-like phospholipase domain-containing	-1	0	0	0	0	0	0	1	1	32.48935	42.06988	42.25159	33.31485	30.32308	26.17263	GO:0006629	lipid metabolic process	BP
+Gene_011734	2	sn1-specific diacylglycerol lipase beta	-1	-1	0	0	0	0	0	1	0	3.406534	6.188382	6.080001	3.397695	2.330476	3.528402	GO:0006629	lipid metabolic process	BP
+Gene_011751	2	inositol 5-phosphatase	-1	-1	0	0	0	0	0	1	0	0.6763417	2.6154217	1.6958165	1.0054939	0.6676242	0.7431503	GO:0006629	lipid metabolic process	BP

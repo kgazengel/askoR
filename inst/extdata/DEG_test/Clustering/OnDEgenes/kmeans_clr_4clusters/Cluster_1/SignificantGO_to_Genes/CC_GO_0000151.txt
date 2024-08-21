@@ -1,0 +1,11 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000205	1	hypothetical protein pbra 003713	0	0	0	0	0	0	0	-1	0	75.02605	63.16674	69.89115	77.25596	89.51151	84.59213	GO:0000151	ubiquitin ligase complex	CC
+Gene_000206	1	ubiquitin conjugation factor e4	0	0	0	0	0	0	0	-1	0	191.4389	165.4206	170.1488	188.5929	217.1456	201.2188	GO:0000151	ubiquitin ligase complex	CC
+Gene_001812	1	cullin-3a-like	0	0	0	0	0	0	0	-1	0	316.1575	277.8771	300.8563	296.1098	346.5106	342.0031	GO:0000151	ubiquitin ligase complex	CC
+Gene_004508	1	wd40 repeat	1	1	0	0	0	0	0	-1	-1	146.3221	113.6998	101.6084	127.0875	136.2984	141.9417	GO:0000151	ubiquitin ligase complex	CC
+Gene_004878	1	ubiquitin conjugation factor e4 b	0	0	0	0	0	0	0	-1	0	109.03926	97.56978	104.95603	114.694	125.89008	116.36856	GO:0000151	ubiquitin ligase complex	CC
+Gene_004879	1	ubiquitin conjugation factor e4 a isoform x1	0	0	0	0	0	0	0	-1	0	39.72194	37.70868	41.15104	44.16702	46.6317	46.63319	GO:0000151	ubiquitin ligase complex	CC
+Gene_007298	1	cullin-1-like isoform x5	0	0	0	0	0	0	0	-1	-1	303.9007	273.3847	255.567	308.37	330.5156	352.0555	GO:0000151	ubiquitin ligase complex	CC
+Gene_009319	1	anaphase-promoting complex subunit	0	0	0	0	0	0	0	-1	0	157.3277	146.5699	149.9298	177.4155	186.2063	181.7887	GO:0000151	ubiquitin ligase complex	CC
+Gene_009320	1	anaphase-promoting complex subunit 1	0	0	0	0	0	0	0	-1	0	23.05566	21.19144	24.18351	25.76798	28.56739	28.70392	GO:0000151	ubiquitin ligase complex	CC
+Gene_009621	1	erad-associated e3 ubiquitin-ligase hrd1b-like	0	0	0	0	0	0	0	-1	0	128.9159	122.4828	135.7957	135.7693	147.3397	151.0843	GO:0000151	ubiquitin ligase complex	CC

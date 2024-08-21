@@ -1,0 +1,75 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000223	2	sucrose gph family	-1	0	0	0	0	0	-1	0	0	131.3887	190.1954	161.1965	212.8061	169.0937	136.24	GO:0055085	transmembrane transport	BP
+Gene_000257	2	atp-binding cassette (abc) superfamily	-1	-1	0	0	0	0	0	0	1	48.84399	73.09943	74.60824	61.11385	57.08318	50.12203	GO:0055085	transmembrane transport	BP
+Gene_000258	2	hypothetical protein pbra 003670	-1	-1	0	0	0	0	0	1	0	3.697553	6.939173	7.244106	4.956285	2.614011	3.769874	GO:0055085	transmembrane transport	BP
+Gene_000710	2	zinc transporter 2-like	0	0	0	0	0	0	0	1	1	47.09409	57.61487	59.10016	50.2113	42.59588	43.43994	GO:0055085	transmembrane transport	BP
+Gene_000748	2	major facilitator superfamily domain-containing	-1	-1	0	1	0	0	0	1	0	0.68319337	1.90644057	1.76182447	0.76839087	0.09485569	0.74939582	GO:0055085	transmembrane transport	BP
+Gene_001388	2	mfs-type transporter slc18b1-like	-1	0	0	0	0	0	-1	0	0	22.453	29.88572	29.75625	36.30113	27.1275	30.89589	GO:0055085	transmembrane transport	BP
+Gene_001567	2	amino olyamineorganocation (apc) family putati	-1	-1	0	0	0	0	0	1	1	61.43128	90.86657	106.44412	75.61162	52.88684	58.41745	GO:0055085	transmembrane transport	BP
+Gene_001608	2	plastidic glucose transporter 4	-1	-1	0	0	0	0	0	1	1	73.40698	111.87849	139.01382	94.44439	58.32061	70.68882	GO:0055085	transmembrane transport	BP
+Gene_001738	2	zinc transporter	0	0	0	0	0	0	0	1	1	71.55559	79.63365	82.33469	68.89187	65.88406	58.11144	GO:0055085	transmembrane transport	BP
+Gene_002047	2	zinc transporter	-1	0	0	0	0	0	0	1	1	4.81761	7.743307	7.526871	3.91369	3.13218	3.522157	GO:0055085	transmembrane transport	BP
+Gene_002124	2	mitochondrial coenzyme a transporter slc25a42-like	0	0	0	0	0	0	1	0	0	36.36501	35.58415	36.01792	26.0628	29.00037	31.43505	GO:0055085	transmembrane transport	BP
+Gene_002255	2	magnesium and cobalt transporter	0	-1	0	0	0	0	0	1	1	60.33643	69.17953	77.32551	61.18105	53.45469	53.40482	GO:0055085	transmembrane transport	BP
+Gene_002256	2	magnesium and cobalt transport	0	0	0	0	0	0	0	1	0	19.43314	21.83358	23.25003	18.4533	14.86108	18.16452	GO:0055085	transmembrane transport	BP
+Gene_002280	2	mitochondrial iron import	0	-1	0	0	0	0	0	1	1	350.5777	424.249	466.7242	412.026	342.652	301.9688	GO:0055085	transmembrane transport	BP
+Gene_002364	2	major facilitator superfamily mfs-1 domain containing	-1	-1	0	0	0	0	0	1	1	21.90122	37.05194	37.05741	29.15336	20.8969	19.52591	GO:0055085	transmembrane transport	BP
+Gene_002575	2	calmodulin-binding domain and two pore domain potassium channel domain and potassium calcium-sk family-containing	0	-1	0	0	0	0	-1	0	0	1.424916	2.887778	3.90707	3.325704	2.416588	3.118319	GO:0055085	transmembrane transport	BP
+Gene_002625	2	aquaporin pip2-2-like	0	0	0	0	0	0	0	1	1	3.177789	5.393944	4.260733	2.8581	1.807581	1.298952	GO:0055085	transmembrane transport	BP
+Gene_003860	2	camkk kinase	0	-1	0	0	0	0	0	1	1	57.14417	72.0007	86.90549	54.99593	42.65141	47.71983	GO:0055085	transmembrane transport	BP
+Gene_004064	2	ion transporter	0	0	0	0	0	0	0	1	0	4.837142	7.895603	7.358992	4.172688	3.205217	4.966826	GO:0055085	transmembrane transport	BP
+Gene_004229	2	mitochondrial substrate carrier family	0	0	0	0	0	0	0	0	1	78.23936	80.25753	86.8342	69.56114	71.31713	58.93785	GO:0055085	transmembrane transport	BP
+Gene_004415	2	cyclic nucleotide-binding	0	0	0	1	0	0	0	1	0	1.673903	2.457514	2.299255	2.372096	1.125625	2.121206	GO:0055085	transmembrane transport	BP
+Gene_004774	2	cation efflux pump	0	-1	0	0	0	0	0	1	1	28.32404	36.51389	40.2392	31.58262	27.62369	27.31337	GO:0055085	transmembrane transport	BP
+Gene_004788	2	hypothetical protein pbra 001317; partial	0	0	0	0	0	0	0	1	1	60.7947	67.11435	65.51307	46.57611	45.95192	42.51151	GO:0055085	transmembrane transport	BP
+Gene_004846	2	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	0	0	0	0	0	0	0	1	1	0.2266749	0.50379508	0.66649047	0.23899905	0.09485569	0	GO:0055085	transmembrane transport	BP
+Gene_004849	2	mitochondrial tricarboxylate carrier (mtc) family	-1	-1	0	0	0	0	0	1	1	58.7741	69.65235	72.74775	56.66779	52.94329	49.24151	GO:0055085	transmembrane transport	BP
+Gene_004907	2	hypothetical protein pbra 000373	-1	-1	0	0	0	0	0	1	0	0.5473189	1.7498597	1.7198546	0.7768666	0.1934344	1.7589995	GO:0055085	transmembrane transport	BP
+Gene_005133	2	sodium hydrogen exchanger 8-like isoform x1	-1	0	0	0	0	0	0	1	0	0.26179183	0.66069785	0.44412397	0.27403557	0.08113218	0.24771676	GO:0055085	transmembrane transport	BP
+Gene_005154	2	achain gfp-binding darpin fusion gc r11	-1	-1	0	1	0	0	0	1	1	0.4547094	1.5949021	1.7296356	0.7672834	0.1878056	0.689028	GO:0055085	transmembrane transport	BP
+Gene_005373	2	ankyrin repeat and sterile alpha motif domain-containing 1b-like	0	-1	0	0	0	0	0	0	0	4.317303	5.855986	7.060339	5.517904	4.313101	4.621269	GO:0055085	transmembrane transport	BP
+Gene_005403	2	atp-binding cassette sub-family a member 3	-1	-1	0	1	0	0	0	1	1	0.33306084	0.86005435	0.97666386	0.74151117	0.08113218	0.06036781	GO:0055085	transmembrane transport	BP
+Gene_005571	2	related to carrier mitochondrial	0	-1	0	0	0	0	0	1	1	7.987699	11.07229	14.511421	7.850041	5.657524	5.341524	GO:0055085	transmembrane transport	BP
+Gene_005589	2	hypothetical protein pbra 000824	0	0	0	0	0	0	0	1	1	3.738748	5.301817	5.652593	4.063932	2.785361	2.264837	GO:0055085	transmembrane transport	BP
+Gene_005590	2	hypothetical protein pbra 000824	-1	-1	0	0	0	0	0	0	1	0.8640819	1.8345015	2.6822613	1.0454082	1.0402093	0.5433103	GO:0055085	transmembrane transport	BP
+Gene_005685	2	sh3 domain-containing	-1	-1	0	0	0	0	0	0	0	58.53664	76.96892	76.89029	71.0693	64.84287	67.69329	GO:0055085	transmembrane transport	BP
+Gene_005763	2	amino acid permease	0	0	0	0	0	0	1	1	1	1.082221	1.3138537	1.7585642	0.3912665	0.3981263	0.5016791	GO:0055085	transmembrane transport	BP
+Gene_006086	2	shaker-related potassium channel tsha2-like	0	0	0	0	0	0	0	1	0	4.410947	5.413258	5.610209	3.42108	2.951212	2.826883	GO:0055085	transmembrane transport	BP
+Gene_006355	2	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	1	0	7.974238	8.8723	8.680754	6.070409	5.087447	5.129193	GO:0055085	transmembrane transport	BP
+Gene_006356	2	abc transporter a family	0	0	0	0	0	0	0	1	1	19.88378	26.41559	26.83765	17.94553	14.02747	16.56788	GO:0055085	transmembrane transport	BP
+Gene_006530	2	mitochondrial carrier	0	0	0	0	0	0	0	1	1	117.33778	117.53885	128.76388	98.79891	88.23469	84.40689	GO:0055085	transmembrane transport	BP
+Gene_006617	2	phosphate abc transporter substrate-binding	-1	0	0	0	0	0	0	0	0	0.7048583	1.6489025	0.8768368	0.7691576	1.0132338	0.3746979	GO:0055085	transmembrane transport	BP
+Gene_006790	2	hypothetical protein pbra 005450; partial	0	0	0	0	0	0	0	0	1	244.7257	226.1021	245.651	204.7154	217.222	200.8046	GO:0055085	transmembrane transport	BP
+Gene_006982	2	magnesium transporter nipa2	0	-1	0	0	0	0	0	0	1	35.89383	44.80374	53.14526	39.18316	34.00176	35.81902	GO:0055085	transmembrane transport	BP
+Gene_007098	2	cop9 signalosome complex subunit 8-like	0	0	0	0	0	0	1	1	1	44.92749	43.32936	46.73561	33.28809	34.56386	33.68323	GO:0055085	transmembrane transport	BP
+Gene_007156	2	zinc iron permease	0	0	0	0	0	0	0	1	0	0.5182798	0.987939	0.5036113	0.2624056	0.3749624	0.2477168	GO:0055085	transmembrane transport	BP
+Gene_007239	2	probable ascorbate-specific transmembrane electron transporter 1	0	0	0	0	0	0	0	0	1	6.008151	7.080935	8.008074	7.062226	6.285412	4.192448	GO:0055085	transmembrane transport	BP
+Gene_007275	2	ca2 :cation antiporter family	0	0	0	0	0	0	0	1	0	0.278722	0.6900895	0.5289756	0.2954908	0.1172707	0.4581099	GO:0055085	transmembrane transport	BP
+Gene_007341	2	unc93 3	0	0	0	0	0	0	0	1	1	38.9279	42.14674	48.90324	39.63803	32.59705	32.30518	GO:0055085	transmembrane transport	BP
+Gene_007383	2	mitochondrial carrier	0	0	0	0	0	0	0	1	0	16.72487	23.94033	22.58465	18.59989	14.84159	18.06667	GO:0055085	transmembrane transport	BP
+Gene_007822	2	magnesium transporter nipa2	0	0	0	0	0	0	0	1	0	38.94821	43.97909	45.15147	40.76046	30.78709	40.08848	GO:0055085	transmembrane transport	BP
+Gene_008008	2	crp fnr family transcriptional regulator	0	0	0	0	0	0	0	1	1	0.7317639	1.1309077	0.878467	0.6137577	0.2071579	0.187349	GO:0055085	transmembrane transport	BP
+Gene_008114	2	arsenic transporter	0	0	0	0	0	0	0	1	0	0.4569063	0.7039156	0.4987208	0.332651	0.2184155	0.187349	GO:0055085	transmembrane transport	BP
+Gene_008150	2	mitochondrial carrier yel006n	0	0	0	0	0	0	0	0	1	4.725387	5.436737	4.856823	2.720763	3.875485	2.096224	GO:0055085	transmembrane transport	BP
+Gene_008181	2	cyclic nucleotide-binding	0	-1	0	0	0	0	0	0	0	0.1653014	0.5054435	1.0846417	0.6981454	0.2864729	0.2477168	GO:0055085	transmembrane transport	BP
+Gene_008687	2	heat shock	-1	0	0	0	0	0	0	1	0	0.5161146	3.9841113	1.0296306	1.2179062	0.3920161	0.3080846	GO:0055085	transmembrane transport	BP
+Gene_009088	2	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:0055085	transmembrane transport	BP
+Gene_009243	2	zinc induced facilitator-like 1-like isoform x1	0	0	0	0	0	0	1	1	0	75.87365	70.77391	73.27535	52.08125	52.61963	58.18847	GO:0055085	transmembrane transport	BP
+Gene_009295	2	mfs-type transporter slc18b1-like	-1	-1	0	0	0	0	0	1	0	2.276779	4.405966	4.657997	3.015077	1.828839	2.53129	GO:0055085	transmembrane transport	BP
+Gene_009307	2	mfs-type transporter slc18b1-like	-1	0	0	1	0	0	0	1	0	0.4683869	1.4285684	1.2260243	0.9154398	0.2127867	0.7972726	GO:0055085	transmembrane transport	BP
+Gene_009589	2	adp-ribose pyrophosphatase	-1	0	0	0	0	0	0	0	0	1.298937	3.855355	2.700193	2.654013	1.804949	1.419687	GO:0055085	transmembrane transport	BP
+Gene_009603	2	hypothetical protein pbra 006058	0	-1	0	1	0	0	0	1	1	0.38447558	0.75125835	1.13923851	0.49622959	0.0193523	0.06036781	GO:0055085	transmembrane transport	BP
+Gene_009625	2	magnesium-translocating p-type atpase	0	-1	0	0	0	0	0	1	1	78.29854	96.49205	109.86101	92.47156	74.66214	74.00693	GO:0055085	transmembrane transport	BP
+Gene_009626	2	magnesium-transporting p-type 1	0	0	0	0	0	0	0	1	0	21.76324	27.60382	30.00623	25.90936	20.53032	21.62422	GO:0055085	transmembrane transport	BP
+Gene_009627	2	hypothetical protein pbra 006078	0	0	0	0	0	0	0	1	0	4.699445	6.16791	5.963872	5.66372	3.304102	3.58877	GO:0055085	transmembrane transport	BP
+Gene_009778	2	abc transporter g family member 24 q9mag3	0	0	0	1	0	0	0	1	0	0.6597826	1.3262847	1.1938354	1.5593997	0.4774413	0.5620469	GO:0055085	transmembrane transport	BP
+Gene_009959	2	phosphate abc transporter substrate-binding	0	0	0	0	0	0	0	1	0	1.2003747	2.2862102	2.0010294	1.3785289	0.7351215	1.3114427	GO:0055085	transmembrane transport	BP
+Gene_010683	2	na-k-2cl cotransporter 1	0	0	0	0	0	0	0	1	0	21.95263	29.68121	30.7769	23.79998	18.8114	18.92431	GO:0055085	transmembrane transport	BP
+Gene_010684	2	solute carrier family 12 member 1	-1	-1	0	0	0	0	0	1	1	13.78049	22.13437	23.22478	15.04791	11.91083	12.61691	GO:0055085	transmembrane transport	BP
+Gene_011038	2	cyclic nucleotide-binding	0	-1	0	0	0	0	0	1	1	15.50548	18.78727	21.11498	17.04667	14.78743	14.46957	GO:0055085	transmembrane transport	BP
+Gene_011096	2	amino acid transporter	-1	0	0	0	0	0	0	1	1	31.63718	44.79609	43.31549	34.77653	31.58394	27.33835	GO:0055085	transmembrane transport	BP
+Gene_011133	2	multidrug resistance 1 isoform x2	0	0	0	0	0	0	0	1	1	99.28108	111.68815	111.82205	86.97033	77.99205	77.3001	GO:0055085	transmembrane transport	BP
+Gene_011383	2	abc transporter	0	-1	0	0	0	0	0	0	0	0.4132535	0.7903512	1.0394115	0.3988072	0.347604	0.6827825	GO:0055085	transmembrane transport	BP
+Gene_011509	2	hypothetical protein pbra 004415	-1	0	0	0	0	0	0	1	0	0.2379933	1.1764818	0.7721194	0.5377211	0.1510068	0.3746979	GO:0055085	transmembrane transport	BP
+Gene_011799	2	amino acid permease	-1	-1	0	0	0	0	-1	1	0	70.70581	96.00991	92.75732	93.09618	78.52625	86.15131	GO:0055085	transmembrane transport	BP
+Gene_012220	2	group ii intron reverse transcriptase/maturase (mitochondrion)	0	0	0	0	0	0	0	1	0	0.8159624	2.3234955	1.6122911	1.1112195	0.3057365	2.6666041	GO:0055085	transmembrane transport	BP

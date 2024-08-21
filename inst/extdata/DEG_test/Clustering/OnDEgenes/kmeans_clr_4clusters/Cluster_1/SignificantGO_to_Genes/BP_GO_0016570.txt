@@ -1,0 +1,26 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000023	1	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0016570	histone modification	BP
+Gene_000146	1	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0016570	histone modification	BP
+Gene_000147	1	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0016570	histone modification	BP
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0016570	histone modification	BP
+Gene_000744	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0016570	histone modification	BP
+Gene_000956	1	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0016570	histone modification	BP
+Gene_001282	1	histone deacetylase 5-like isoform x1	1	0	0	0	0	0	0	-1	-1	156.1084	129.283	131.7313	159.3881	182.7106	179.6841	GO:0016570	histone modification	BP
+Gene_001845	1	transcriptional adapter 2b isoform x1	0	0	0	0	0	0	0	-1	0	175.3517	161.0355	166.4088	170.3526	198.1584	172.6856	GO:0016570	histone modification	BP
+Gene_002009	1	histone deacetylase 1 2	0	0	0	0	0	0	0	-1	0	177.5155	154.9951	163.1158	179.7468	190.0792	180.4939	GO:0016570	histone modification	BP
+Gene_003504	1	histone-lysine n-methyltransferase	0	0	0	0	0	0	0	-1	-1	153.4117	145.353	151.9878	176.1659	176.2144	180.752	GO:0016570	histone modification	BP
+Gene_003650	1	transcription elongation factor spt5-like	0	0	0	0	0	0	0	-1	-1	130.96	122.4427	114.8096	151.5119	173.4492	167.8217	GO:0016570	histone modification	BP
+Gene_003801	1	wd repeat-containing 5	0	0	0	0	0	0	1	0	0	142.5597	123.3269	120.1218	115.1901	134.0726	122.345	GO:0016570	histone modification	BP
+Gene_004843	1	ubiquitin-conjugating enzyme e2	0	0	0	0	0	0	0	-1	-1	154.2891	141.2154	135.6343	164.3698	180.7734	168.1705	GO:0016570	histone modification	BP
+Gene_005170	1	e3 ubiquitin-ligase bre1	0	0	0	0	0	0	0	-1	0	109.71514	100.49449	99.53039	116.03444	122.86738	122.39078	GO:0016570	histone modification	BP
+Gene_005547	1	rna polymerase-associated ctr9 homolog	0	0	0	0	0	0	0	-1	0	524.0732	474.6751	474.5205	526.1708	585.7911	550.0498	GO:0016570	histone modification	BP
+Gene_005990	1	inhibitor of growth 4 isoform x7	0	0	0	0	0	0	0	-1	0	78.43311	70.93687	71.44962	84.92026	93.20918	87.16923	GO:0016570	histone modification	BP
+Gene_005995	1	transcriptional adapter ada2b-like isoform x1	0	0	0	0	0	0	0	-1	0	136.1116	131.4831	135.5871	140.5704	159.2984	133.3819	GO:0016570	histone modification	BP
+Gene_008034	1	transcription-associated 1	0	0	0	0	0	0	0	-1	-1	267.8758	240.084	258.1006	298.3209	329.0911	330.0753	GO:0016570	histone modification	BP
+Gene_008035	1	transformation transcription domain-associated-like	0	0	0	0	0	0	0	-1	0	245.5382	234.5065	237.0474	267.6305	301.8603	277.5135	GO:0016570	histone modification	BP
+Gene_008642	1	peptidylprolyl cis-trans fkbp-type domain containing	1	1	0	0	0	0	0	-1	-1	633.0662	474.3173	434.3093	536.1849	608.995	598.7114	GO:0016570	histone modification	BP
+Gene_008712	1	transcription and mrna export factor	0	0	0	0	0	0	0	-1	0	35.26391	32.44958	33.33776	39.15133	40.68772	33.4709	GO:0016570	histone modification	BP
+Gene_010612	1	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0016570	histone modification	BP
+Gene_011106	1	ubiquitin carboxyl-terminal hydrolase 16-like isoform x1	0	0	0	0	0	0	0	0	-1	137.1426	132.8404	123.7122	141.2744	147.3562	153.2492	GO:0016570	histone modification	BP
+Gene_011720	1	set domain-containing protein	1	0	0	0	0	0	0	-1	0	98.21107	81.69361	86.20302	90.55298	94.90001	98.55589	GO:0016570	histone modification	BP
+Gene_012568	1	histone-lysine n-methyltransferase nsd2-like isoform x1	0	0	0	0	0	0	0	-1	0	127.2553	116.4447	112.9083	127.3031	134.0007	131.7707	GO:0016570	histone modification	BP

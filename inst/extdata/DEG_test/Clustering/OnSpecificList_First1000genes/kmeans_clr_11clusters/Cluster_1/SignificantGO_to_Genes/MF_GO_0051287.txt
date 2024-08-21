@@ -1,0 +1,3 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000490	1	nad-dependent malic enzyme	0	0	0	0	0	0	0	0	0	8.287705	7.627201	7.239603	7.467888	7.361376	7.387784	GO:0051287	NAD binding	MF
+Gene_000910	1	nad-dependent glycerol-3-phosphate dehydrogenase	0	0	0	0	0	0	0	0	0	4.286265	4.525859	3.458857	3.263087	4.914614	4.900213	GO:0051287	NAD binding	MF

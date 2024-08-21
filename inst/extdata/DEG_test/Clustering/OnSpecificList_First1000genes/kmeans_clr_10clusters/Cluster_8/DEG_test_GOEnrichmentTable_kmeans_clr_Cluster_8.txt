@@ -1,0 +1,4 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0005515	protein binding	1872	1	0.27	0.27	3.7037037037037	MF
+GO:0003674	molecular_function	6816	1	1	1.00	1	MF
+GO:0005488	binding	4823	1	0.71	1.00	1.40845070422535	MF

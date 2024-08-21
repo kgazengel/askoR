@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000103	rna helicase	0	0	0	0	0	0	0	-1	-1	437.5212	363.6226	359.5996	497.3491	596	567.6648	GO:0008408	3'-5' exonuclease activity	MF
+Gene_000300	hypothetical protein pbra 003626	0	0	0	0	0	0	0	0	0	77.56606	79.86307	75.07471	84.2237	79.94389	82.52192	GO:0008408	3'-5' exonuclease activity	MF
+Gene_000420	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0008408	3'-5' exonuclease activity	MF
+Gene_000591	hypothetical protein bvrb 022380; partial	0	0	0	0	0	0	0	0	0	37.17364	38.5684	37.26431	32.1635	31.894	37.21164	GO:0008408	3'-5' exonuclease activity	MF
+Gene_000969	exonuclease mut-7 homolog	0	0	0	0	0	0	0	0	0	81.77457	100.35775	93.47901	99.50697	89.20706	80.19358	GO:0008408	3'-5' exonuclease activity	MF
+Gene_000991	hypothetical protein pbra 005258	-1	0	0	0	0	0	-1	0	0	3.83032	7.05539	6.563248	8.119058	9.198616	10.318754	GO:0008408	3'-5' exonuclease activity	MF
+Gene_001069	3-5 exonuclease	0	0	0	0	0	0	0	-1	-1	83.59128	69.77786	67.68346	71.92068	87.46543	88.28708	GO:0008408	3'-5' exonuclease activity	MF

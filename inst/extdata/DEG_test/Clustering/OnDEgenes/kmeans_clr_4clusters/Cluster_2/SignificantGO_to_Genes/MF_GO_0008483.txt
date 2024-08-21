@@ -1,0 +1,8 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000600	2	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0008483	transaminase activity	MF
+Gene_003771	2	phosphoserine transaminase	0	-1	0	0	0	0	0	1	1	55.40347	66.28545	73.52968	58.88059	47.19487	49.0958	GO:0008483	transaminase activity	MF
+Gene_005222	2	branched-chain amino acid aminotransferase	0	0	0	0	0	0	0	1	0	12.914852	13.249181	16.817998	9.284981	7.431291	10.870397	GO:0008483	transaminase activity	MF
+Gene_005223	2	branched-chain amino acid aminotransferase ii	0	0	0	0	0	0	0	1	0	7.153556	7.825206	9.853424	5.560675	3.863147	6.513495	GO:0008483	transaminase activity	MF
+Gene_006598	2	glutamine-fructose-6-phosphate transaminase	-1	0	0	0	0	0	0	1	0	99.57143	150.09838	120.84414	132.05578	106.54003	113.13995	GO:0008483	transaminase activity	MF
+Gene_006652	2	glycine cleavage system t	-1	-1	0	1	0	0	0	1	1	66.80993	90.73551	111.08618	71.51501	52.10775	50.77569	GO:0008483	transaminase activity	MF
+Gene_009421	2	alanine-glyoxylate aminotransferase family	0	-1	0	0	0	0	0	0	1	177.0068	197.2933	220.6061	183.022	170.1228	178.4726	GO:0008483	transaminase activity	MF

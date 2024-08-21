@@ -1,0 +1,16 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000472	2	kinesin-ii 95 kda subunit-like	0	0	0	0	0	0	0	1	1	61.07472	57.31422	61.51267	50.48833	46.7112	44.61816	GO:0008017	microtubule binding	MF
+Gene_002083	2	myosin head (motor domain) domain containing	-1	-1	0	0	0	0	-1	0	0	0.09506752	0.80328064	0.8576892	1.18572675	0.43739103	0.12073561	GO:0008017	microtubule binding	MF
+Gene_002731	2	unconventional myosin-ie-like	-1	-1	0	0	0	0	0	1	1	0.15889909	0.67622407	0.97666386	0.11910524	0.09294988	0.18734896	GO:0008017	microtubule binding	MF
+Gene_003179	2	myosin viia	-1	0	0	0	0	0	0	1	0	33.90393	48.42396	45.91984	38.04067	29.38053	32.9505	GO:0008017	microtubule binding	MF
+Gene_004049	2	[micromonas commoda]	0	-1	0	0	0	0	0	0	0	69.19155	79.60844	95.605	85.64917	73.68217	84.48808	GO:0008017	microtubule binding	MF
+Gene_004654	2	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	1	0	130.0677	143.6956	149.2323	120.1077	119.9202	121.6809	GO:0008017	microtubule binding	MF
+Gene_005527	2	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	1	276.4771	292.395	305.5412	256.9588	260.7147	238.0849	GO:0008017	microtubule binding	MF
+Gene_006174	2	kinesin kifc3 isoform x7	0	0	0	0	0	0	0	1	0	5.638552	7.675252	6.989026	6.129197	5.344253	6.43439	GO:0008017	microtubule binding	MF
+Gene_006266	2	hypothetical protein pbra 004927	0	0	0	0	0	0	0	1	0	78.50532	81.5167	91.78275	70.11781	64.15422	71.63593	GO:0008017	microtubule binding	MF
+Gene_006267	2	hypothetical protein pbra 004927	0	0	0	0	0	0	0	1	1	88.81425	97.91052	104.64436	83.04423	67.99856	77.55615	GO:0008017	microtubule binding	MF
+Gene_007419	2	motor domain-containing	0	0	0	0	0	0	0	0	1	103.52027	106.60867	114.78622	95.36889	97.9765	92.66479	GO:0008017	microtubule binding	MF
+Gene_009194	2	hypothetical protein pbra 008603	-1	0	0	0	0	0	0	1	0	1.093603	2.524243	2.06639	1.172692	1.032586	1.498792	GO:0008017	microtubule binding	MF
+Gene_009863	2	microtubule-associated rp eb family member 1-like isoform x2	0	0	0	0	0	0	0	1	1	0.36927618	0.47230048	0.37159539	0.09742235	0	0	GO:0008017	microtubule binding	MF
+Gene_010005	2	subpellicular microtubule	0	0	0	0	0	0	0	1	1	0.7456037	1.6983358	2.0254421	0.8444275	0.1878056	0.4288202	GO:0008017	microtubule binding	MF
+Gene_011900	2	hypothetical protein pbra 008770; partial	0	0	0	1	0	0	0	0	0	0.5874152	0.879143	1.0426718	1.273863	0.3761661	0.4288202	GO:0008017	microtubule binding	MF

@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000842	2	hydroxymethylglutaryl-degradative	0	0	0	0	0	0	0	1	0	63.19185	68.17785	70.79005	60.5476	53.95633	62.10665	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_001598	2	serine threonine kinase	0	0	0	0	0	0	0	0	1	59.07818	64.11639	73.82101	60.64383	54.44759	55.50938	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_002198	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	1	44.05302	52.82204	60.31195	36.18611	30.54178	36.9556	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_004019	2	nad(p)-dependent oxidoreductase	0	0	0	0	0	0	0	1	1	16.63511	22.07534	23.91094	16.40705	11.92929	12.48784	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_004433	2	malate cytoplasmic	-1	-1	0	0	0	0	0	1	1	182.5081	227.6623	270.0265	214.6488	174.782	160.761	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_004814	2	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_008040	2	isocitrate dehydrogenase (nadp)	0	-1	0	0	0	0	0	0	0	172.4747	189.8132	210.9438	183.3516	171.0611	178.9577	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_008346	2	bifunctional aspartate kinase homoserine dehydrogenase	-1	-1	0	0	0	0	0	1	0	117.1156	135.763	144.6451	131.5649	111.44	122.1806	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_008956	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	0	230.8349	257.5443	270.6161	220.191	201.1301	219.2897	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_009482	2	gdp-l-fucose synthetase	0	-1	0	0	0	0	0	1	1	187.5291	214.9001	249.1159	170.2561	144.8793	159.8481	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF
+Gene_011645	2	d-3-phosphoglycerate dehydrogenase	-1	-1	0	0	0	0	0	1	1	132.9882	173.3641	198.8229	147.6166	116.8456	135.0827	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF

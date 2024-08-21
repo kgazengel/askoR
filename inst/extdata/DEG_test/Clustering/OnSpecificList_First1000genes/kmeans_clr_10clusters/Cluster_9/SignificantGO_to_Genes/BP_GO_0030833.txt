@@ -1,0 +1,2 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000013	9	actin-related 2 3 complex subunit 4	0	0	0	0	0	0	0	0	-1	88.0616	90.17634	94.48038	98.01579	99.69626	117.68629	GO:0030833	regulation of actin filament polymerization	BP

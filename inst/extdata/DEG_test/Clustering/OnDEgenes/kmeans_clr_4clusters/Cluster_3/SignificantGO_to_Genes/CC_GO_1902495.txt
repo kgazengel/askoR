@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000309	3	voltage-gated ion channel	0	-1	0	0	0	0	0	1	0	2.231442	4.195827	5.09234	2.355265	1.251739	2.610394	GO:1902495	transmembrane transporter complex	CC
+Gene_005816	3	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:1902495	transmembrane transporter complex	CC
+Gene_009957	3	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:1902495	transmembrane transporter complex	CC
+Gene_009958	3	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	-1	1	1	15.92027	46.67115	42.50716	33.09745	12.22081	17.16219	GO:1902495	transmembrane transporter complex	CC
+Gene_011906	3	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:1902495	transmembrane transporter complex	CC
+Gene_012217	3	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:1902495	transmembrane transporter complex	CC

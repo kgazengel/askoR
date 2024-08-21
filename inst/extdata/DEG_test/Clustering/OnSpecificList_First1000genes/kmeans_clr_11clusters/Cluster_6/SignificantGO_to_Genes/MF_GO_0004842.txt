@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000042	6	hypothetical protein pbra 003855	0	0	0	0	0	0	0	0	0	88.62538	92.20561	91.90253	93.55073	98.96328	89.26128	GO:0004842	ubiquitin-protein transferase activity	MF
+Gene_000406	6	e3 ubiquitin-ligase ttc3 isoform x2	0	0	0	0	0	0	0	0	0	0.4706827	1.0894586	0.8017656	0.8736511	0.5852832	0.8035181	GO:0004842	ubiquitin-protein transferase activity	MF
+Gene_000851	6	ubiquitin ligase	0	0	0	0	0	0	0	0	0	266.6436	278.4383	297.4667	282.7953	269.4163	245.1729	GO:0004842	ubiquitin-protein transferase activity	MF
+Gene_000852	6	hypothetical protein pbra 005153	0	0	0	0	0	0	0	0	0	80.87792	87.76522	88.71334	84.62496	77.44606	74.62727	GO:0004842	ubiquitin-protein transferase activity	MF
+Gene_000853	6	hypothetical protein pbra 005153	0	0	0	0	0	0	0	0	0	83.11494	86.99694	89.18432	85.68235	81.69834	81.78815	GO:0004842	ubiquitin-protein transferase activity	MF

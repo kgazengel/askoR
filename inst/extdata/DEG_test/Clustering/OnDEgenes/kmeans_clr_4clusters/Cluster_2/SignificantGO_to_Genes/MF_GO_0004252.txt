@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001841	2	hypothetical protein pbra 003122	0	0	0	0	0	0	0	0	1	162.4719	163.8208	176.1457	150.9953	147.3277	140.2202	GO:0004252	serine-type endopeptidase activity	MF
+Gene_002569	2	rhomboid 15 isoform x2	0	0	0	0	0	0	0	1	1	4.861588	8.44821	9.059311	8.369105	4.657877	4.21743	GO:0004252	serine-type endopeptidase activity	MF
+Gene_003551	2	atp-binding cassette superfamily [micromonas commoda]	-1	-1	0	1	0	0	-1	1	1	76.02173	128.47036	123.08757	120.62703	83.44534	81.57999	GO:0004252	serine-type endopeptidase activity	MF
+Gene_003577	2	hypothetical protein pbra 004316	0	0	0	0	0	0	0	1	0	43.51145	50.2467	50.21892	46.86583	40.37017	40.93779	GO:0004252	serine-type endopeptidase activity	MF
+Gene_004065	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	2.400102	3.738787	4.107525	3.03501	2.004307	3.47428	GO:0004252	serine-type endopeptidase activity	MF
+Gene_004066	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	4.655153	6.411008	7.053404	5.445913	3.400304	4.386043	GO:0004252	serine-type endopeptidase activity	MF
+Gene_004532	2	mitochondrial substrate carrier family	0	0	0	0	0	0	0	1	0	9.721032	12.456855	11.765998	8.356797	8.175894	8.590982	GO:0004252	serine-type endopeptidase activity	MF
+Gene_004964	2	acylamino-acid-releasing enzyme-like	0	-1	0	0	0	0	0	1	1	61.45617	70.48036	81.497	63.99686	54.4405	60.74473	GO:0004252	serine-type endopeptidase activity	MF
+Gene_007388	2	subtilisin-like serine peptidase	-1	-1	0	0	0	0	0	1	1	0.23165428	0.7970089	0.72730344	0.16200141	0.03679879	0	GO:0004252	serine-type endopeptidase activity	MF
+Gene_008061	2	rhomboid 1	-1	-1	0	1	0	0	0	1	1	88.75495	109.12668	117.92	98.37707	77.1272	81.24692	GO:0004252	serine-type endopeptidase activity	MF
+Gene_011400	2	lon protease homolog mitochondrial-like	-1	-1	0	0	0	0	0	1	0	7.30328	15.01375	12.959834	9.305585	6.419101	8.326616	GO:0004252	serine-type endopeptidase activity	MF

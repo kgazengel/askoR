@@ -1,0 +1,10 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000956	1	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0008170	N-methyltransferase activity	MF
+Gene_001772	1	n2;n2-dimethylguanosine trna methyltransferase	1	1	0	0	0	0	0	-1	-1	106.45326	87.66109	83.82837	104.02211	114.25444	125.40089	GO:0008170	N-methyltransferase activity	MF
+Gene_003495	1	dimethyladenosine transferase	0	0	0	0	0	0	0	-1	-1	122.86011	106.68277	98.51098	124.1654	148.11814	132.99262	GO:0008170	N-methyltransferase activity	MF
+Gene_003504	1	histone-lysine n-methyltransferase	0	0	0	0	0	0	0	-1	-1	153.4117	145.353	151.9878	176.1659	176.2144	180.752	GO:0008170	N-methyltransferase activity	MF
+Gene_003665	1	hypothetical protein pbra 004375	0	0	0	-1	0	0	0	-1	-1	23.6619	19.13232	17.98291	23.70882	32.73674	29.012	GO:0008170	N-methyltransferase activity	MF
+Gene_009870	1	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0008170	N-methyltransferase activity	MF
+Gene_010311	1	arginine n-methyltransferase	1	1	0	0	0	0	0	-1	-1	228.7065	178.1137	172.926	237.679	263.3558	256.6179	GO:0008170	N-methyltransferase activity	MF
+Gene_011720	1	set domain-containing protein	1	0	0	0	0	0	0	-1	0	98.21107	81.69361	86.20302	90.55298	94.90001	98.55589	GO:0008170	N-methyltransferase activity	MF
+Gene_012568	1	histone-lysine n-methyltransferase nsd2-like isoform x1	0	0	0	0	0	0	0	-1	0	127.2553	116.4447	112.9083	127.3031	134.0007	131.7707	GO:0008170	N-methyltransferase activity	MF

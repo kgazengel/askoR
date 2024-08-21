@@ -1,0 +1,31 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001461	NOT DE	hypothetical protein pbra 008297	0	0	0	0	0	0	0	0	0	78.66897	79.95325	81.20805	78.30565	70.53954	70.37654	GO:0031301	integral component of organelle membrane	CC
+Gene_001788	NOT DE	mitochondrial rho gtpase 1-like	0	0	0	0	0	0	0	0	0	208.6194	213.0345	223.3887	210.188	199.1591	196.2603	GO:0031301	integral component of organelle membrane	CC
+Gene_002156	NOT DE	peroxisome biogenesis factor 10-like	0	0	0	0	0	0	0	0	0	39.87624	39.48487	41.52789	34.66004	35.29254	34.9572	GO:0031301	integral component of organelle membrane	CC
+Gene_002411	NOT DE	snare associated golgi	0	0	0	0	0	0	0	0	0	69.68325	57.99445	54.43318	60.51399	70.38398	60.38666	GO:0031301	integral component of organelle membrane	CC
+Gene_002852	NOT DE	hypothetical protein pbra 002306	0	0	0	0	0	0	0	0	0	37.74152	37.55269	41.19824	32.94193	34.08334	41.44156	GO:0031301	integral component of organelle membrane	CC
+Gene_002903	NOT DE	lipid phosphate phosphatase chloroplastic-like	0	0	0	0	0	0	0	0	0	18.26043	17.03036	18.83692	15.1556	16.82809	13.23099	GO:0031301	integral component of organelle membrane	CC
+Gene_003087	NOT DE	casp isoform x1	0	0	0	0	0	0	0	0	0	188.3269	180.1547	183.1156	161.6565	187.4532	169.534	GO:0031301	integral component of organelle membrane	CC
+Gene_003962	NOT DE	ring zinc finger-containing	0	0	0	0	0	0	0	0	0	7.119922	6.745596	8.686887	7.494053	7.571572	9.856619	GO:0031301	integral component of organelle membrane	CC
+Gene_003963	NOT DE	pex12 amino terminal region-domain-containing	0	0	0	0	0	0	0	0	0	32.59406	28.21955	28.93849	30.23246	36.80021	33.5375	GO:0031301	integral component of organelle membrane	CC
+Gene_004069	NOT DE	gdp-man:man(3) c(2)-pp-dol alpha-1;2-mannosyltransferase	0	0	0	0	0	0	0	0	0	115.8762	114.4492	111.6395	112.2206	111.5958	112.1803	GO:0031301	integral component of organelle membrane	CC
+Gene_004185	NOT DE	alpha-1;3 1;6-mannosyltransferase	0	0	0	0	0	0	0	0	0	20.57065	19.16586	17.99758	17.50545	18.92698	18.51423	GO:0031301	integral component of organelle membrane	CC
+Gene_004186	NOT DE	alpha-1;3 1;6-mannosyltransferase alg2	0	0	0	0	0	0	0	0	0	96.85422	89.5098	95.05334	95.90722	97.86101	98.27484	GO:0031301	integral component of organelle membrane	CC
+Gene_004187	NOT DE	alpha-1;3 1;6-mannosyltransferase alg2	0	0	0	0	0	0	0	0	0	14.04099	13.64876	14.76852	16.84462	14.63624	15.20232	GO:0031301	integral component of organelle membrane	CC
+Gene_004534	NOT DE	unc-50 family	0	0	0	0	0	0	0	0	0	70.71821	65.50656	70.58988	69.3509	71.73835	76.2322	GO:0031301	integral component of organelle membrane	CC
+Gene_004871	NOT DE	gpi transamidase	0	0	0	0	0	0	0	0	0	184.378	183.8396	205.5328	201.958	193.8412	193.7561	GO:0031301	integral component of organelle membrane	CC
+Gene_005035	NOT DE	atp-binding cassette sub-family d member 2-like	0	0	0	0	0	0	0	0	0	93.39564	87.33591	91.85078	101.12377	100.84021	100.58134	GO:0031301	integral component of organelle membrane	CC
+Gene_005036	NOT DE	atp-binding cassette sub-family d member 2	0	0	0	0	0	0	0	0	0	169.1333	163.7196	174.1463	176.7236	181.5359	183.8995	GO:0031301	integral component of organelle membrane	CC
+Gene_008068	NOT DE	gpi transamidase subunit pig-u	0	0	0	0	0	0	0	0	0	116.9669	116.3347	132.4856	123.4288	110.7875	117.3719	GO:0031301	integral component of organelle membrane	CC
+Gene_008202	NOT DE	store-operated calcium entry-associated regulatory factor-like	0	0	0	0	0	0	0	0	0	62.72056	54.17197	54.90049	55.58644	56.01211	64.13159	GO:0031301	integral component of organelle membrane	CC
+Gene_009757	NOT DE	peroxisomal biogenesis factor 3-like	0	0	0	0	0	0	0	0	0	77.85834	74.85239	78.33058	68.96836	65.38199	77.33759	GO:0031301	integral component of organelle membrane	CC
+Gene_009790	NOT DE	transmembrane and coiled-coil domain-containing 1	0	0	0	0	0	0	0	0	0	89.29018	85.92203	97.58198	86.9948	87.92478	77.27512	GO:0031301	integral component of organelle membrane	CC
+Gene_010083	NOT DE	hig1 domain family member mitochondrial	0	0	0	0	0	0	0	0	0	36.0546	32.60954	30.15429	31.10684	36.5194	32.10743	GO:0031301	integral component of organelle membrane	CC
+Gene_010339	NOT DE	glycosylphosphatidylinositol transamidase	0	0	0	0	0	0	0	0	0	82.52205	89.4486	95.37391	86.96534	82.03058	94.13861	GO:0031301	integral component of organelle membrane	CC
+Gene_010374	NOT DE	cytochrome c oxidase assembly mitochondrial-like	0	0	0	0	0	0	0	0	0	59.04138	54.83315	57.46173	51.75925	58.09947	54.3936	GO:0031301	integral component of organelle membrane	CC
+Gene_010546	NOT DE	gpi16 gpi transamidase component	0	0	0	0	0	0	0	0	0	194.5867	196.5531	218.7823	222.1598	213.8495	211.9935	GO:0031301	integral component of organelle membrane	CC
+Gene_010750	NOT DE	rab5-interacting 2	0	0	0	0	0	0	0	0	0	14.555	12.33322	12.82494	13.44693	14.38135	12.44621	GO:0031301	integral component of organelle membrane	CC
+Gene_011766	NOT DE	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	0	0	57.41252	57.50656	57.93884	55.36202	57.78516	61.12985	GO:0031301	integral component of organelle membrane	CC
+Gene_012059	NOT DE	gpi8p	0	0	0	0	0	0	0	0	0	201.1477	188.3203	191.2329	171.4739	197.0356	185.7709	GO:0031301	integral component of organelle membrane	CC
+Gene_012657	NOT DE	gpi mannosyltransferase 2	0	0	0	0	0	0	0	0	0	41.63883	44.70111	47.96241	45.95312	42.07747	43.52947	GO:0031301	integral component of organelle membrane	CC
+Gene_012807	NOT DE	hypothetical protein pbra 009678	0	0	0	0	0	0	0	0	0	4.633908	6.270074	6.648792	3.998294	4.048221	5.195806	GO:0031301	integral component of organelle membrane	CC

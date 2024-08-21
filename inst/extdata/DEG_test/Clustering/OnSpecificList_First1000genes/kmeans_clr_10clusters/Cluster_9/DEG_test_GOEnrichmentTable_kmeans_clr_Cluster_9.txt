@@ -1,0 +1,92 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0003779	actin binding	43	1	0.01	0.013	100	MF
+GO:0003777	microtubule motor activity	68	1	0.02	0.020	50	MF
+GO:0016887	ATP hydrolysis activity	109	1	0.03	0.032	33.3333333333333	MF
+GO:0005198	structural molecule activity	167	1	0.05	0.048	20	MF
+GO:0005524	ATP binding	866	1	0.25	0.238	4	MF
+GO:0140657	ATP-dependent activity	265	1	0.08	1.000	12.5	MF
+GO:0003824	catalytic activity	3233	1	0.95	1.000	1.05263157894737	MF
+GO:0097367	carbohydrate derivative binding	1105	1	0.32	1.000	3.125	MF
+GO:0017111	ribonucleoside triphosphate phosphatase activity	220	1	0.06	1.000	16.6666666666667	MF
+GO:0008092	cytoskeletal protein binding	118	1	0.03	1.000	33.3333333333333	MF
+GO:0003674	molecular_function	6816	2	2	1.000	1	MF
+GO:0097159	organic cyclic compound binding	2378	1	0.7	1.000	1.42857142857143	MF
+GO:0016817	hydrolase activity, acting on acid anhydrides	245	1	0.07	1.000	14.2857142857143	MF
+GO:0003774	cytoskeletal motor activity	78	1	0.02	1.000	50	MF
+GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	243	1	0.07	1.000	14.2857142857143	MF
+GO:1901363	heterocyclic compound binding	2378	1	0.7	1.000	1.42857142857143	MF
+GO:1901265	nucleoside phosphate binding	1254	1	0.37	1.000	2.7027027027027	MF
+GO:0000166	nucleotide binding	1254	1	0.37	1.000	2.7027027027027	MF
+GO:0043167	ion binding	2296	1	0.67	1.000	1.49253731343284	MF
+GO:0043168	anion binding	1167	1	0.34	1.000	2.94117647058824	MF
+GO:0016787	hydrolase activity	1190	1	0.35	1.000	2.85714285714286	MF
+GO:0016462	pyrophosphatase activity	235	1	0.07	1.000	14.2857142857143	MF
+GO:0032553	ribonucleotide binding	1054	1	0.31	1.000	3.2258064516129	MF
+GO:0005515	protein binding	1872	1	0.55	1.000	1.81818181818182	MF
+GO:0032555	purine ribonucleotide binding	1040	1	0.31	1.000	3.2258064516129	MF
+GO:0035639	purine ribonucleoside triphosphate binding	1030	1	0.3	1.000	3.33333333333333	MF
+GO:0005488	binding	4823	2	1.42	1.000	1.40845070422535	MF
+GO:0017076	purine nucleotide binding	1044	1	0.31	1.000	3.2258064516129	MF
+GO:0032559	adenyl ribonucleotide binding	877	1	0.26	1.000	3.84615384615385	MF
+GO:0030554	adenyl nucleotide binding	878	1	0.26	1.000	3.84615384615385	MF
+GO:0036094	small molecule binding	1326	1	0.39	1.000	2.56410256410256	MF
+GO:0030833	regulation of actin filament polymerization	13	1	0.01	0.0052	100	BP
+GO:0007018	microtubule-based movement	96	1	0.04	0.0382	25	BP
+GO:0008154	actin polymerization or depolymerization	17	1	0.01	1.0000	100	BP
+GO:0030029	actin filament-based process	39	1	0.02	1.0000	50	BP
+GO:0090066	regulation of anatomical structure size	16	1	0.01	1.0000	100	BP
+GO:0030036	actin cytoskeleton organization	37	1	0.01	1.0000	100	BP
+GO:0110053	regulation of actin filament organization	14	1	0.01	1.0000	100	BP
+GO:0032535	regulation of cellular component size	16	1	0.01	1.0000	100	BP
+GO:0022607	cellular component assembly	247	1	0.1	1.0000	10	BP
+GO:0097435	supramolecular fiber organization	36	1	0.01	1.0000	100	BP
+GO:0043933	protein-containing complex organization	168	1	0.07	1.0000	14.2857142857143	BP
+GO:0051493	regulation of cytoskeleton organization	23	1	0.01	1.0000	100	BP
+GO:0044085	cellular component biogenesis	455	1	0.18	1.0000	5.55555555555556	BP
+GO:0009987	cellular process	4052	2	1.63	1.0000	1.22699386503067	BP
+GO:0044087	regulation of cellular component biogenesis	25	1	0.01	1.0000	100	BP
+GO:0032970	regulation of actin filament-based process	16	1	0.01	1.0000	100	BP
+GO:0065003	protein-containing complex assembly	156	1	0.06	1.0000	16.6666666666667	BP
+GO:0043254	regulation of protein-containing complex assembly	19	1	0.01	1.0000	100	BP
+GO:0007010	cytoskeleton organization	111	1	0.04	1.0000	25	BP
+GO:0033043	regulation of organelle organization	43	1	0.02	1.0000	50	BP
+GO:0065007	biological regulation	1095	1	0.44	1.0000	2.27272727272727	BP
+GO:0065008	regulation of biological quality	135	1	0.05	1.0000	20	BP
+GO:0007015	actin filament organization	25	1	0.01	1.0000	100	BP
+GO:0071840	cellular component organization or biogenesis	708	1	0.28	1.0000	3.57142857142857	BP
+GO:0007017	microtubule-based process	165	1	0.07	1.0000	14.2857142857143	BP
+GO:0030041	actin filament polymerization	14	1	0.01	1.0000	100	BP
+GO:0030832	regulation of actin filament length	13	1	0.01	1.0000	100	BP
+GO:0032271	regulation of protein polymerization	13	1	0.01	1.0000	100	BP
+GO:0006996	organelle organization	338	1	0.14	1.0000	7.14285714285714	BP
+GO:1902903	regulation of supramolecular fiber organization	14	1	0.01	1.0000	100	BP
+GO:0032956	regulation of actin cytoskeleton organization	16	1	0.01	1.0000	100	BP
+GO:0051258	protein polymerization	25	1	0.01	1.0000	100	BP
+GO:0008064	regulation of actin polymerization or depolymerization	13	1	0.01	1.0000	100	BP
+GO:0008150	biological_process	4976	2	2	1.0000	1	BP
+GO:0050789	regulation of biological process	998	1	0.4	1.0000	2.5	BP
+GO:0016043	cellular component organization	507	1	0.2	1.0000	5	BP
+GO:0051128	regulation of cellular component organization	69	1	0.03	1.0000	33.3333333333333	BP
+GO:0050794	regulation of cellular process	936	1	0.38	1.0000	2.63157894736842	BP
+GO:0005938	cell cortex	24	1	0.01	0.0097	100	CC
+GO:0030286	dynein complex	31	1	0.01	0.0125	100	CC
+GO:0015629	actin cytoskeleton	41	1	0.02	0.0166	50	CC
+GO:0005874	microtubule	94	1	0.04	0.0378	25	CC
+GO:0032991	protein-containing complex	1065	2	0.43	0.1376	4.65116279069767	CC
+GO:0005622	intracellular anatomical structure	2228	2	0.9	1.0000	2.22222222222222	CC
+GO:0110165	cellular anatomical entity	4797	2	1.95	1.0000	1.02564102564103	CC
+GO:1902494	catalytic complex	431	1	0.17	1.0000	5.88235294117647	CC
+GO:0005737	cytoplasm	1020	1	0.41	1.0000	2.4390243902439	CC
+GO:0043232	intracellular non-membrane-bounded organelle	646	2	0.26	1.0000	7.69230769230769	CC
+GO:0099080	supramolecular complex	115	1	0.05	1.0000	20	CC
+GO:0099081	supramolecular polymer	97	1	0.04	1.0000	25	CC
+GO:0015630	microtubule cytoskeleton	160	1	0.06	1.0000	16.6666666666667	CC
+GO:0099512	supramolecular fiber	97	1	0.04	1.0000	25	CC
+GO:0071944	cell periphery	120	1	0.05	1.0000	20	CC
+GO:0099513	polymeric cytoskeletal fiber	96	1	0.04	1.0000	25	CC
+GO:0005575	cellular_component	4927	2	2	1.0000	1	CC
+GO:0043226	organelle	1796	2	0.73	1.0000	2.73972602739726	CC
+GO:0005856	cytoskeleton	222	2	0.09	1.0000	22.2222222222222	CC
+GO:0043228	non-membrane-bounded organelle	646	2	0.26	1.0000	7.69230769230769	CC
+GO:0005875	microtubule associated complex	49	1	0.02	1.0000	50	CC
+GO:0043229	intracellular organelle	1730	2	0.7	1.0000	2.85714285714286	CC

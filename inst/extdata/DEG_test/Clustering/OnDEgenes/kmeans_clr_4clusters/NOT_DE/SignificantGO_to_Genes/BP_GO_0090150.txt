@@ -1,0 +1,13 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000276	NOT DE	mitochondrial inner membrane oxa1l	0	0	0	0	0	0	0	0	0	45.30183	41.97053	43.7616	47.27394	50.1981	46.77684	GO:0090150	establishment of protein localization to membrane	BP
+Gene_000277	NOT DE	mitochondrial inner membrane oxa1-like	0	0	0	0	0	0	0	0	0	117.7285	107.0859	113.99	114.7257	118.6375	132.2037	GO:0090150	establishment of protein localization to membrane	BP
+Gene_000450	NOT DE	signal recognition particle 14 kda-like	0	0	0	0	0	0	0	0	0	36.82697	36.43112	37.45752	40.39855	38.79844	35.09876	GO:0090150	establishment of protein localization to membrane	BP
+Gene_001374	NOT DE	signal recognition particle 68 kda	0	0	0	0	0	0	0	0	0	132.4717	113.4535	115.2244	107.7266	122.1388	143.5134	GO:0090150	establishment of protein localization to membrane	BP
+Gene_002210	NOT DE	hypothetical protein pbra 003447	0	0	0	0	0	0	0	0	0	17.89343	17.8256	16.05889	17.15483	19.34016	15.07534	GO:0090150	establishment of protein localization to membrane	BP
+Gene_003266	NOT DE	mitochondrial translocase (mpt) family	0	0	0	0	0	0	0	0	0	69.20762	60.48434	60.91984	65.78966	73.96807	62.89509	GO:0090150	establishment of protein localization to membrane	BP
+Gene_005621	NOT DE	signal recognition particle 19 kda	0	0	0	0	0	0	0	0	0	71.28866	67.04639	68.04574	64.23117	67.81208	59.84546	GO:0090150	establishment of protein localization to membrane	BP
+Gene_010039	NOT DE	oxa1 family membrane insertase	0	0	0	0	0	0	0	0	0	25.20238	21.06594	23.04753	23.55609	25.43459	27.84628	GO:0090150	establishment of protein localization to membrane	BP
+Gene_010040	NOT DE	hypothetical protein pbra 005863	0	0	0	0	0	0	0	0	0	22.52043	17.80374	16.9504	16.5046	19.09603	17.54417	GO:0090150	establishment of protein localization to membrane	BP
+Gene_010142	NOT DE	signal recognition particle subunit srp72	0	0	0	0	0	0	0	0	0	137.7755	127.744	127.8338	131.0682	143.9377	176.0267	GO:0090150	establishment of protein localization to membrane	BP
+Gene_010701	NOT DE	signal recognition particle receptor subunit alpha homolog	0	0	0	0	0	0	0	0	0	121.5782	114.90542	126.13181	91.95496	95.58494	120.56106	GO:0090150	establishment of protein localization to membrane	BP
+Gene_011939	NOT DE	mitochondrial import inner membrane translocase subunit tim9	0	0	0	0	0	0	0	0	0	52.05948	45.14506	42.13254	44.16266	50.85264	47.48044	GO:0090150	establishment of protein localization to membrane	BP

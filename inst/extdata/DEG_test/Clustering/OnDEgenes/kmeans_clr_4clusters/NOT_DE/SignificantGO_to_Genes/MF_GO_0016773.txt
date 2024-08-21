@@ -1,0 +1,152 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000040	NOT DE	dual specificity catalytic domain containing	0	0	0	0	0	0	0	0	0	1.883831	1.48098	1.052039	1.188411	1.76697	1.552914	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000134	NOT DE	calcium calmodulin-dependent kinase kinase 1-like isoform x2	0	0	0	0	0	0	0	0	0	42.03007	36.95322	37.18573	37.40646	39.60912	36.02509	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000184	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	75.74056	71.88927	75.33712	85.62161	80.1899	75.25384	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000459	NOT DE	inorganic polyphosphate kinase	0	0	0	0	0	0	0	0	0	69.07863	63.03984	63.3951	59.46822	63.87208	60.65729	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000477	NOT DE	serine threonine-kinase orb6	0	0	0	0	0	0	0	0	0	3.926947	3.995094	3.57866	2.675652	3.741453	2.518799	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000518	NOT DE	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000547	NOT DE	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	0	0	8.825714	8.613276	9.45409	6.482592	6.461352	6.409408	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000548	NOT DE	inositol pentakisphosphate 2-kinase	0	0	0	0	0	0	0	0	0	61.07396	56.42205	57.15451	59.21895	61.99667	60.18268	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000651	NOT DE	sphingosine kinase	0	0	0	0	0	0	0	0	0	4.679626	7.640925	6.462206	8.819662	7.62909	4.500533	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000657	NOT DE	riboflavin kinase	0	0	0	0	0	0	0	0	0	22.14923	22.74704	23.91705	21.35231	20.91083	19.84648	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000754	NOT DE	[micromonas commoda]	0	0	0	0	0	0	0	0	0	60.74975	62.87067	65.54181	48.75342	52.03697	57.07477	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000769	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	38.68038	34.85523	33.0264	34.48199	39.83511	42.67001	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000792	NOT DE	hypothetical protein pbra 005179; partial	0	0	0	0	0	0	0	0	0	8.030964	8.832374	7.213284	7.637017	9.513473	10.474984	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000818	NOT DE	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	12.340694	9.005186	9.0605	10.010681	10.618071	12.004895	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000882	NOT DE	cmgc family kinase	0	0	0	0	0	0	0	0	0	21.10483	20.57675	18.22808	20.52874	21.92939	23.4735	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001103	NOT DE	u6 snrna-associated sm lsm5	0	0	0	0	0	0	0	0	0	55.97281	55.10414	55.76108	48.99013	51.42565	46.94754	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001237	NOT DE	hypothetical protein pbra 002756	0	0	0	0	0	0	0	0	0	97.10972	100.2723	108.23891	105.80758	102.43514	103.29164	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001261	NOT DE	sperm motility kinase z-like	0	0	0	0	0	0	0	0	0	39.04282	35.18522	32.69235	32.01325	36.4882	34.62205	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001358	NOT DE	hypothetical protein pbra 002871	0	0	0	0	0	0	0	0	0	19.69479	18.43945	16.91741	15.99708	16.24113	17.93969	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001394	NOT DE	serine threonine kinase osk1	0	0	0	0	0	0	0	0	0	217.1816	207.3903	203.1031	224.1369	234.0857	218.8358	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001725	NOT DE	ste ste20 fray kinase	0	0	0	0	0	0	0	0	0	112.9741	112.4379	111.9826	108.4137	108.2686	107.3488	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001950	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	0.9378723	1.5961084	0.9685131	1.1569728	1.0302974	1.3593194	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001958	NOT DE	serine threonine-kinase sty8-like isoform x1	0	0	0	0	0	0	0	0	0	62.89006	64.32353	68.00256	64.57933	70.01751	58.41535	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002008	NOT DE	2 ;5-phosphodiesterase 12-like	0	0	0	0	0	0	0	0	0	19.16067	18.25685	21.10562	17.56244	17.70154	15.50831	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002056	NOT DE	phosphatidylinositol phosphate kinase pipk5	0	0	0	0	0	0	0	0	0	17.60461	18.88486	20.65458	17.17263	18.1269	16.78437	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002057	NOT DE	1-phosphatidylinositol-4-phosphate 5-kinase	0	0	0	0	0	0	0	0	0	56.70602	60.9867	61.85776	56.18399	54.62766	50.93388	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002159	NOT DE	nad kinase-like isoform x9	0	0	0	0	0	0	0	0	0	79.10132	76.54917	73.71295	65.35712	74.43593	86.1055	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002328	NOT DE	casein kinase 1	0	0	0	0	0	0	0	0	0	363.2177	348.2844	350.1966	407.2639	395.8245	395.9909	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002380	NOT DE	serine threonine-kinase ht1	0	0	0	0	0	0	0	0	0	49.61233	40.93363	40.08801	40.62717	48.17397	46.88506	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002389	NOT DE	ulk ulk kinase	0	0	0	0	0	0	0	0	0	112.4002	108.6871	110.6233	123.0922	121.447	113.9851	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002415	NOT DE	calcium-dependent kinase 3	0	0	0	0	0	0	0	0	0	2.971542	2.335965	1.950067	1.622233	1.777619	2.864357	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002831	NOT DE	kinase domain	0	0	0	0	0	0	0	0	0	0.3717975	0.4614616	0.5292796	0.4517563	0.5978382	0.5620469	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_002834	NOT DE	serine threonine-kinase ccrp1 (macronuclear)	0	0	0	0	0	0	0	0	0	95.4399	95.90453	102.35936	82.31705	83.43312	88.13096	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003035	NOT DE	rho guanine nucleotide exchange	0	0	0	0	0	0	0	0	0	31.1797	33.98099	32.71269	35.99762	40.12028	39.9948	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003111	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	5.488638	5.480196	4.283141	4.976822	3.151367	2.652025	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003134	NOT DE	serine threonine-active site	0	0	0	0	0	0	0	0	0	49.10409	45.6118	49.51684	52.8338	52.68385	52.15166	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003186	NOT DE	phosphatidylinositol 3-root isoform	0	0	0	0	0	0	0	0	0	117.5779	106.0559	109.7069	111.8165	119.6041	109.9925	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003231	NOT DE	1-phosphatidylinositol-3-phosphate 5-kinase fab1	0	0	0	0	0	0	0	0	0	174.5105	167.2663	177.967	161.9544	169.932	163.4806	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003268	NOT DE	cgmp-dependent isozyme 2 forms cd4 t1 t3a t3b	0	0	0	0	0	0	0	0	0	19.87606	19.56081	18.9665	19.98144	21.64588	18.32062	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003294	NOT DE	glycoside hydrolase	0	0	0	0	0	0	0	0	0	14.97052	17.56955	16.57555	14.05101	14.53494	15.6457	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003295	NOT DE	kinase-like domain	0	0	0	0	0	0	0	0	0	89.94289	95.19498	95.93344	93.56349	96.96693	86.6842	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003693	NOT DE	hypothetical protein pbra 005781	0	0	0	0	0	0	0	0	0	15.87392	15.08468	14.72166	18.88398	17.59724	17.20071	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_003929	NOT DE	cmgc mapk kinase	0	0	0	0	0	0	0	0	0	159.0851	145.6958	142.5906	147.2941	163.1549	174.657	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004128	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	0.2678064	0.393085	0.1882429	0.5862837	0.6514348	0.689028	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004157	NOT DE	dephospho-kinase	0	0	0	0	0	0	0	0	0	54.29289	56.54176	57.80196	53.35771	54.824	53.67336	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004159	NOT DE	carbon catabolite-derepressing kinase	0	0	0	0	0	0	0	0	0	28.80002	33.96815	33.10185	31.33128	28.41216	23.46439	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004420	NOT DE	choline ethanolamine kinase isoform x1	0	0	0	0	0	0	0	0	0	19.16876	17.04902	16.13062	16.5069	15.86635	16.81976	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004476	NOT DE	agc family kinase	0	0	0	0	0	0	0	0	0	22.30159	21.07416	23.62815	22.24175	24.51934	22.1363	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004491	NOT DE	kinase domain	0	0	0	0	0	0	0	0	0	8.522078	7.42326	10.504137	11.004809	10.09655	17.088299	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004537	NOT DE	dual specificity tyrosine-phosphorylation-regulated kinase 4-like isoform x5	0	0	0	0	0	0	0	0	0	4.066441	3.338924	3.219277	3.597737	2.885846	2.477168	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004563	NOT DE	cyclin-dependent kinase 10	0	0	0	0	0	0	0	0	0	41.5427	34.89108	39.37618	39.41592	42.07554	42.12434	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004574	NOT DE	mevalonate kinase	0	0	0	0	0	0	0	0	0	26.765	25.13324	22.83603	23.29007	26.4079	25.35246	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004768	NOT DE	camk camk1 kinase	0	0	0	0	0	0	0	0	0	83.76967	93.32815	100.26468	87.3588	83.02549	83.69702	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004773	NOT DE	adenylyl	0	0	0	0	0	0	0	0	0	81.24587	68.33169	70.69618	71.36021	78.55164	82.38559	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004812	NOT DE	glycerol kinase	0	0	0	0	0	0	0	0	0	105.7003	111.3165	108.9389	117.0691	111.5173	115.6129	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_004948	NOT DE	serine threonine-kinase rio1-like	0	0	0	0	0	0	0	0	0	161.923	145.4619	146.6324	163.1223	163.0387	166.1409	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005213	NOT DE	cell division control 2 homolog a isoform x1	0	0	0	0	0	0	0	0	0	271.1846	242.5925	243.5986	233.5289	261.8521	249.915	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005233	NOT DE	iksa dicdi ame: full=probable serine threonine-kinase iksa ame: full=ira1 kinase suppressor a	0	0	0	0	0	0	0	0	0	140.3549	132.1576	134.3705	142.5794	149.2864	140.2597	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005268	NOT DE	serine threonine-kinase 16	0	0	0	0	0	0	0	0	0	60.80764	68.69685	73.05746	66.01962	59.57271	61.66897	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005719	NOT DE	membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase	0	0	0	0	0	0	0	0	0	118.9813	114.884	121.3173	130.0188	130.4736	133.8878	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005727	NOT DE	probable serine threonine-kinase ddb g0271682	0	0	0	0	0	0	0	0	0	34.27709	34.87085	35.64271	39.44	38.64149	34.52214	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005728	NOT DE	hypothetical protein pbra 000717	0	0	0	0	0	0	0	0	0	13.3241	14.44325	14.50974	10.04766	9.32932	12.14021	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_005803	NOT DE	kinase	0	0	0	0	0	0	0	0	0	22.40054	26.46029	28.95562	29.0982	25.42678	26.4932	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006180	NOT DE	mitogen-activated kinase kinase 3	0	0	0	0	0	0	0	0	0	132.6171	115.3214	119.3162	116.1517	108.4644	116.5226	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006187	NOT DE	abc transporter	0	0	0	0	0	0	0	0	0	16.62059	20.68355	19.21139	22.54833	18.60877	17.77655	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006359	NOT DE	kinase 1	0	0	0	0	0	0	0	0	0	138.4876	117.2993	129.82	130.7351	135.2883	148.7758	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006453	NOT DE	hypothetical protein pbra 005062	0	0	0	0	0	0	0	0	0	73.65742	81.06458	90.12968	91.37221	81.12327	82.15451	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006454	NOT DE	serine threonine-kinase	0	0	0	0	0	0	0	0	0	187.2399	206.9369	219.1972	229.1657	213.7584	205.0283	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006455	NOT DE	hypothetical protein pbra 005062	0	0	0	0	0	0	0	0	0	35.09103	38.84548	39.4479	43.83227	39.49654	35.70658	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006456	NOT DE	hypothetical protein pbra 005062	0	0	0	0	0	0	0	0	0	28.63523	31.31815	33.12954	35.51949	33.82688	31.0437	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006553	NOT DE	signal transduction histidine kinase	0	0	0	0	0	0	0	0	0	0.4817083	0.5373482	0.7625192	0.5179562	0.6009327	0.4923108	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006792	NOT DE	agc pka kinase	0	0	0	0	0	0	0	0	0	69.29775	75.28821	74.42727	83.74086	77.71965	73.78002	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006913	NOT DE	hypothetical protein pbra 009107	0	0	0	0	0	0	0	0	0	88.41406	90.20732	89.06745	85.87072	90.10137	85.63295	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006934	NOT DE	cyclin-dependent kinase c-2-like	0	0	0	0	0	0	0	0	0	36.2999	36.18979	32.52279	40.36115	49.40137	47.26602	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006951	NOT DE	serine threonine aurora kinase	0	0	0	0	0	0	0	0	0	187.6296	185.9115	187.6119	186.6101	193.7953	179.8319	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006954	NOT DE	adenylyl cyclase class-3 4 guanylyl cyclase	0	0	0	0	0	0	0	0	0	6.726926	11.331063	7.377725	7.873604	6.143975	5.449769	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006961	NOT DE	camk kinase	0	0	0	0	0	0	0	0	0	47.02811	50.49269	49.45006	55.23869	60.13823	51.77487	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_006977	NOT DE	heme oxygenase 1	0	0	0	0	0	0	0	0	0	318.2976	369.8393	410.7986	369.869	339.7324	359.106	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007029	NOT DE	calcium calmodulin dependent kinase	0	0	0	0	0	0	0	0	0	0.9428517	0.6606979	0.6580352	0.5208943	0.8142592	0.7369047	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007287	NOT DE	cell division control	0	0	0	0	0	0	0	0	0	33.22844	35.42513	36.10355	31.97576	30.41202	31.66818	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007379	NOT DE	hypothetical protein pbra 003919; partial	0	0	0	0	0	0	0	0	0	18.40709	17.44882	16.6001	18.58481	16.63076	16.73722	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007403	NOT DE	pfkb-type carbohydrate kinase family	0	0	0	0	0	0	0	0	0	17.74307	16.83597	17.16188	19.12081	20.8313	17.00295	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007416	NOT DE	6-phosphofructokinase	0	0	0	0	0	0	0	0	0	290.2302	248.4657	248.4	249.437	283.8565	273.1067	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007464	NOT DE	phosphatidylinositol-4;5-diphosphate 3-kinase	0	0	0	0	0	0	0	0	0	56.12351	51.15182	48.79202	47.96624	46.57144	47.10573	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007504	NOT DE	phosphatidylinositol 3-kinase	0	0	0	0	0	0	0	0	0	94.56596	89.56666	95.63923	91.3641	95.86611	98.91808	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007628	NOT DE	kinase-like domain-containing	0	0	0	0	0	0	0	0	0	51.60471	54.26312	52.86319	53.89076	53.0775	57.17054	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007867	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	51.72751	49.14142	51.04804	43.89349	42.16896	47.14738	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007868	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	24.35273	24.7761	27.18523	26.24934	24.4238	25.84374	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007914	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	0.3291799	0.3607061	0.4730526	0.4417034	0.6345484	0.3622068	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_007930	NOT DE	serine threonine-active site	0	0	0	0	0	0	0	0	0	154.8629	162.2996	173.9516	158.6996	152.5168	159.4172	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008045	NOT DE	serine threonine-kinase afc2 isoform x1	0	0	0	0	0	0	0	0	0	132.1978	143.0955	143.2044	144.3278	131.6097	132.5097	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008138	NOT DE	abc1 kinase family	0	0	0	0	0	0	0	0	0	59.41169	53.01236	52.94879	48.85105	53.59679	53.99601	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008159	NOT DE	kae1-associated kinase bud32	0	0	0	0	0	0	0	0	0	12.58805	13.81062	12.88309	14.49787	13.01496	13.32897	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008162	NOT DE	atp binding	0	0	0	0	0	0	0	0	0	101.8961	107.1535	106.2318	110.8089	107.1364	101.2037	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008233	NOT DE	calcium calmodulin-dependent kinase kinase 1-like isoform x1	0	0	0	0	0	0	0	0	0	1.673129	1.74883	1.633069	1.298231	1.378639	1.927612	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008437	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	67.56981	59.11459	59.58408	61.14325	63.94455	67.34149	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008562	NOT DE	cyclin-g-associated kinase-like	0	0	0	0	0	0	0	0	0	73.02977	76.81506	75.00139	79.91347	83.79708	76.13022	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008604	NOT DE	cmgc kinase	0	0	0	0	0	0	0	0	0	25.04879	23.94563	22.29213	22.4697	25.26216	20.13999	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008605	NOT DE	phosphatase 1l	0	0	0	0	0	0	0	0	0	25.71685	25.78562	27.24513	24.99106	26.09159	22.87736	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008819	NOT DE	glycerate kinase	0	0	0	0	0	0	0	0	0	7.962344	8.203017	7.930629	5.889112	5.021896	6.386514	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_008996	NOT DE	hypothetical protein pbra 009184	0	0	0	0	0	0	0	0	0	47.29117	38.7968	36.63522	37.26202	40.64027	39.20701	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009020	NOT DE	rna-dependent dna polymerase	0	0	0	0	0	0	0	0	0	4.477821	5.812463	5.903583	5.631687	5.13801	4.386043	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009027	NOT DE	ribosomal s6 kinase alpha-3	0	0	0	0	0	0	0	0	0	0.6761437	0.69163	0.4665319	0.5622133	0.5105171	0.3080846	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009035	NOT DE	hypothetical protein pbra 000523	0	0	0	0	0	0	0	0	0	0.2943874	0.3851008	0.3748557	0.4560181	0.5509503	0.301839	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009369	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	75.08539	84.27816	81.58702	78.87199	74.08148	75.18309	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009398	NOT DE	agc kinase	0	0	0	0	0	0	0	0	0	60.28448	55.9113	56.11709	66.88298	74.01517	75.9658	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009435	NOT DE	tkl drk kinase	0	0	0	0	0	0	0	0	0	0.2004183	0.4031598	0.3797462	0.3741426	0.1622644	0.301839	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009442	NOT DE	agc pka kinase	0	0	0	0	0	0	0	0	0	573.8213	575.9397	601.0962	512.7991	494.197	494.4801	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009446	NOT DE	ste ste11 cdc15 kinase	0	0	0	0	0	0	0	0	0	162.5439	162.3532	181.0063	161.3319	148.961	146.9855	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009518	NOT DE	serine threonine	0	0	0	0	0	0	0	0	0	194.251	185.8859	174.1937	192.796	183.1771	209.726	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009520	NOT DE	hypothetical protein pbra 003919; partial	0	0	0	0	0	0	0	0	0	26.05123	22.51038	23.38944	25.69155	24.29605	29.07477	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009780	NOT DE	kinase	0	0	0	0	0	0	0	0	0	70.56936	87.84682	94.19844	88.66258	69.84373	74.12768	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_009928	NOT DE	serine threonine	0	0	0	0	0	0	0	0	0	109.18837	107.7872	98.52992	112.84436	103.98689	116.88424	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010018	NOT DE	ha-tagged kinase domain of mitogen-activated kinase kinase kinase	0	0	0	0	0	0	0	0	0	0.29904231	0.25252878	0.44249381	0.34977502	0.37323385	0.06036781	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010102	NOT DE	pyruvate kinase	0	0	0	0	0	0	0	0	0	543.6906	500.5852	536.0405	524.8046	545.9765	571.1744	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010158	NOT DE	inositol polyphosphate multikinase	0	0	0	0	0	0	0	0	0	37.9886	34.74872	36.7807	39.46619	39.16825	43.04651	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010327	NOT DE	kinase domain containing	0	0	0	0	0	0	0	0	0	0.4994606	0.8968161	0.6951145	1.0177618	0.5435043	0.5558013	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010355	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	45.5206	39.91948	38.17516	41.93772	50.11583	52.82015	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010365	NOT DE	hypothetical protein pbra 006592	0	0	0	0	0	0	0	0	0	97.06958	87.51283	89.17963	73.62664	88.86368	111.03542	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010437	NOT DE	dna-dependent kinase catalytic subunit-like	0	0	0	0	0	0	0	0	0	1.2039	1.549473	1.48109	2.203366	1.25386	1.652834	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010461	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	47.9888	42.51676	47.59446	46.48607	48.73904	47.63656	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010515	NOT DE	elongation factor 2 kinase	0	0	0	0	0	0	0	0	0	9.317476	11.308773	9.219013	8.384186	8.700694	5.853607	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010539	NOT DE	serine threonine-kinase 24	0	0	0	0	0	0	0	0	0	205.7573	192.5495	193.1114	184.7287	200.4423	218.0761	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010660	NOT DE	pas domain s-box	0	0	0	0	0	0	0	0	0	1.650977	2.542651	2.629929	1.99425	2.077344	2.33145	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010743	NOT DE	camk kinase	0	0	0	0	0	0	0	0	0	109.55767	96.21384	100.49435	113.42988	116.10266	122.81965	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010755	NOT DE	fast kinase domain-containing 3	0	0	0	0	0	0	0	0	0	37.45315	34.16874	35.12553	28.29383	32.42572	38.20668	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010816	NOT DE	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	8.50285	6.544057	8.020165	8.085456	7.232251	8.406906	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010817	NOT DE	hypothetical protein pbra 009152	0	0	0	0	0	0	0	0	0	5.958511	4.808973	4.512845	6.00256	6.035001	5.974365	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010818	NOT DE	hypothetical protein pbra 009152	0	0	0	0	0	0	0	0	0	5.96383	4.815263	4.512845	6.00256	6.028615	5.974365	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010839	NOT DE	hypothetical protein pbra 008345; partial	0	0	0	0	0	0	0	0	0	51.44935	46.5184	45.36323	49.19423	50.91126	52.35152	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010840	NOT DE	atp-nad kinase-like domain-containing	0	0	0	0	0	0	0	0	0	10.144067	11.830815	13.595407	7.702782	9.178402	11.3242	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010844	NOT DE	sphingosine kinase 2 isoform x1	0	0	0	0	0	0	0	0	0	2.946843	2.706867	2.632141	3.679564	4.297343	3.2453	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010848	NOT DE	catalytic domain-containing	0	0	0	0	0	0	0	0	0	61.23742	76.60493	69.2038	64.2441	51.23902	61.42544	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010862	NOT DE	kinase domain containing (macronuclear)	0	0	0	0	0	0	0	0	0	50.74494	49.02178	50.33618	47.23632	51.53822	44.34546	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_010863	NOT DE	kinase domain containing (macronuclear)	0	0	0	0	0	0	0	0	0	62.96161	58.24906	61.03956	57.69748	61.29108	63.56121	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_011195	NOT DE	hamp domain-containing	0	0	0	0	0	0	0	0	0	22.47609	21.37041	22.01296	17.29919	21.90765	26.72011	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_011227	NOT DE	cmgc family kinase	0	0	0	0	0	0	0	0	0	14.00787	14.19539	12.78647	11.53417	12.71096	14.31828	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_011451	NOT DE	tyrosine kinase	0	0	0	0	0	0	0	0	0	0.1865786	0.5070919	0.2253223	0.8001267	0.7894554	0.1715281	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_011585	NOT DE	hypothetical protein pbra 009026; partial	0	0	0	0	0	0	0	0	0	4.452408	4.633255	4.146636	5.213434	4.132403	3.544016	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_011766	NOT DE	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	0	0	57.41252	57.50656	57.93884	55.36202	57.78516	61.12985	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012051	NOT DE	serine/threonine-protein kinase nek2-like	0	0	0	0	0	0	0	0	0	10.3587	10.435283	10.430753	6.697839	7.103914	10.460314	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012052	NOT DE	g protein-coupled receptor kinase 1	0	0	0	0	0	0	0	0	0	203.9109	201.077	206.3998	216.6282	212.0747	218.8838	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012094	NOT DE	aarf/abc1/ubib kinase family protein	0	0	0	0	0	0	0	0	0	0.5937543	0.5688108	0.3732255	0.686985	0.945265	1.0574804	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012354	NOT DE	hypothetical protein pbra 008936	0	0	0	0	0	0	0	0	0	77.33905	81.48285	80.9383	78.52612	78.81926	69.7229	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012369	NOT DE	serine/threonine-protein kinase tousled isoform x1	0	0	0	0	0	0	0	0	0	149.482	145.0618	141.0529	154.3528	168.9142	176.9385	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012465	NOT DE	predicted protein [micromonas commoda]	0	0	0	0	0	0	0	0	0	267.1469	315.0664	320.9422	315.7573	280.409	292.4286	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012559	NOT DE	serine/threonine protein kinase	0	0	0	0	0	0	0	0	0	88.32711	90.41744	80.37605	93.91545	86.77316	87.50823	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012684	NOT DE	hypothetical protein pbra 009621	0	0	0	0	0	0	0	0	0	0.5760968	0.345622	0.3830065	0.1635785	0.4854474	0.2414712	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012685	NOT DE	predicted protein	0	0	0	0	0	0	0	0	0	5.591666	5.696696	4.578534	3.778568	5.270744	4.01759	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012713	NOT DE	abc transporter	0	0	0	0	0	0	0	0	0	10.97718	12.58652	11.06417	15.03335	13.26311	14.58329	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_012742	NOT DE	hypothetical protein pbra 003919; partial	0	0	0	0	0	0	0	0	0	11.385859	9.826334	10.602799	9.991697	10.896308	9.273492	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF

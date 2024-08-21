@@ -1,0 +1,2 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001008	9	glutamate decarboxylase	-1	0	0	0	0	0	-1	0	0	16.62348	97.86657	31.40894	140.09158	93.56884	45.85879	GO:0030170	pyridoxal phosphate binding	MF

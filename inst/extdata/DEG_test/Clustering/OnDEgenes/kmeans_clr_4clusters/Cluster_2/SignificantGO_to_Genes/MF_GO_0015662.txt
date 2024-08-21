@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_004846	2	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	0	0	0	0	0	0	0	1	1	0.2266749	0.50379508	0.66649047	0.23899905	0.09485569	0	GO:0015662	P-type ion transporter activity	MF
+Gene_009088	2	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:0015662	P-type ion transporter activity	MF
+Gene_009625	2	magnesium-translocating p-type atpase	0	-1	0	0	0	0	0	1	1	78.29854	96.49205	109.86101	92.47156	74.66214	74.00693	GO:0015662	P-type ion transporter activity	MF
+Gene_009626	2	magnesium-transporting p-type 1	0	0	0	0	0	0	0	1	0	21.76324	27.60382	30.00623	25.90936	20.53032	21.62422	GO:0015662	P-type ion transporter activity	MF
+Gene_009627	2	hypothetical protein pbra 006078	0	0	0	0	0	0	0	1	0	4.699445	6.16791	5.963872	5.66372	3.304102	3.58877	GO:0015662	P-type ion transporter activity	MF

@@ -1,0 +1,17 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000256	NOT DE	phosphoribosylpyrophosphate synthetase	0	0	0	0	0	0	0	0	0	91.76803	78.16748	82.2988	79.35265	86.21169	87.15674	GO:0009116	nucleoside metabolic process	BP
+Gene_000458	NOT DE	thioredoxin domain-containing plp3b	0	0	0	0	0	0	0	0	0	65.66748	62.03023	65.55946	65.75327	58.95929	67.89937	GO:0009116	nucleoside metabolic process	BP
+Gene_000518	NOT DE	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0009116	nucleoside metabolic process	BP
+Gene_001632	NOT DE	phosducin isoform x1	0	0	0	0	0	0	0	0	0	100.01519	109.48358	117.81278	106.14344	96.06468	96.76983	GO:0009116	nucleoside metabolic process	BP
+Gene_002462	NOT DE	uridine kinase	0	0	0	0	0	0	0	0	0	124.7928	113.1382	113.2237	108.5555	128.4095	116.0513	GO:0009116	nucleoside metabolic process	BP
+Gene_002805	NOT DE	nucleoside hydrolase	0	0	0	0	0	0	0	0	0	133.771	120.209	133.952	129.2659	132.5653	127.1078	GO:0009116	nucleoside metabolic process	BP
+Gene_003258	NOT DE	hypoxanthine phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	67.48098	63.02143	63.6583	65.48	72.90148	62.77434	GO:0009116	nucleoside metabolic process	BP
+Gene_003944	NOT DE	uracil phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	10.794527	10.782858	12.214986	8.417451	8.572674	9.003153	GO:0009116	nucleoside metabolic process	BP
+Gene_005944	NOT DE	hypoxanthine phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	53.09342	43.87531	41.18934	47.04057	50.04397	52.88856	GO:0009116	nucleoside metabolic process	BP
+Gene_006321	NOT DE	s-adenosyl-l-homocysteine hydrolase	0	0	0	0	0	0	0	0	0	2048.412	1839.632	2012.404	1724.451	1707.163	2011.591	GO:0009116	nucleoside metabolic process	BP
+Gene_006993	NOT DE	ribose-phosphate pyrophosphokinase	0	0	0	0	0	0	0	0	0	106.4193	100.826	104.7991	104.3201	107.5551	107.9899	GO:0009116	nucleoside metabolic process	BP
+Gene_007134	NOT DE	uridine 5-monophosphate synthase	0	0	0	0	0	0	0	0	0	191.3257	174.1265	173.1411	133.8852	140.2757	189.7823	GO:0009116	nucleoside metabolic process	BP
+Gene_007906	NOT DE	cysteine desulfurase	0	0	0	0	0	0	0	0	0	19.18286	18.86866	20.22345	14.55278	15.11366	21.59716	GO:0009116	nucleoside metabolic process	BP
+Gene_010169	NOT DE	phosducin	0	0	0	0	0	0	0	0	0	40.18416	34.45731	29.9587	32.29769	38.70512	43.55445	GO:0009116	nucleoside metabolic process	BP
+Gene_010971	NOT DE	ribose-phosphate pyrophosphokinase	0	0	0	0	0	0	0	0	0	2.407153	5.910849	2.525793	3.973328	3.501408	1.927612	GO:0009116	nucleoside metabolic process	BP
+Gene_011945	NOT DE	trna-guanine transglycosylase	0	0	0	0	0	0	0	0	0	102.49275	89.35326	83.5064	81.28195	93.49268	95.98298	GO:0009116	nucleoside metabolic process	BP

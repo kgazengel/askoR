@@ -1,0 +1,5 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000023	10	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0016591	RNA polymerase II, holoenzyme	CC
+Gene_000529	10	rna polymerase ii core subunit	0	0	0	0	0	0	0	0	0	197.0442	167.563	162.1404	169.9926	190.2316	179.8965	GO:0016591	RNA polymerase II, holoenzyme	CC
+Gene_000652	10	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0016591	RNA polymerase II, holoenzyme	CC
+Gene_000667	10	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0016591	RNA polymerase II, holoenzyme	CC

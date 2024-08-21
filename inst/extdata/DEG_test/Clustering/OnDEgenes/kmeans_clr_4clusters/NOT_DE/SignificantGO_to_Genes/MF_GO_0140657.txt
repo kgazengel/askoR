@@ -1,0 +1,112 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000021	NOT DE	sporangia induced dynein heavy chain	0	0	0	0	0	0	0	0	0	78.18503	86.60368	75.56314	87.8772	100.42906	92.44207	GO:0140657	ATP-dependent activity	MF
+Gene_000173	NOT DE	superkiller viralicidic activity 2-like 2	0	0	0	0	0	0	0	0	0	165.4363	155.8074	163.6439	169.2702	178.7434	170.9453	GO:0140657	ATP-dependent activity	MF
+Gene_000530	NOT DE	fidgetin 1	0	0	0	0	0	0	0	0	0	91.70321	93.5875	98.0954	89.36388	88.1435	86.17003	GO:0140657	ATP-dependent activity	MF
+Gene_000805	NOT DE	v-type proton atpase subunit g1-like	0	0	0	0	0	0	0	0	0	35.11188	32.57904	33.10426	32.14488	33.00846	30.05908	GO:0140657	ATP-dependent activity	MF
+Gene_000919	NOT DE	kinesin kifc3 isoform x1	0	0	0	0	0	0	0	0	0	78.09978	81.45997	88.77653	82.60483	82.7659	81.24694	GO:0140657	ATP-dependent activity	MF
+Gene_000945	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	254.5678	280.7696	282.9675	308.6985	353.9084	293.2112	GO:0140657	ATP-dependent activity	MF
+Gene_001026	NOT DE	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0140657	ATP-dependent activity	MF
+Gene_001088	NOT DE	dna repair rad51 homolog 4 isoform x3	0	0	0	0	0	0	0	0	0	54.16459	48.75927	45.26385	48.06899	52.27801	53.16751	GO:0140657	ATP-dependent activity	MF
+Gene_001118	NOT DE	[micromonas commoda]	0	0	0	0	0	0	0	0	0	156.8214	146.2928	157.6099	155.1189	169.4559	166.4886	GO:0140657	ATP-dependent activity	MF
+Gene_001149	NOT DE	26s proteasome regulatory s6a family aaa atpase	0	0	0	0	0	0	0	0	0	355.741	416.3845	434.8826	395.2786	358.5801	342.9545	GO:0140657	ATP-dependent activity	MF
+Gene_001211	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	247.2751	249.3103	260.1396	289.515	297.6454	271.9305	GO:0140657	ATP-dependent activity	MF
+Gene_001212	NOT DE	hypothetical protein pbra 002734	0	0	0	0	0	0	0	0	0	22.35643	21.90634	23.50511	25.24763	27.05471	21.33278	GO:0140657	ATP-dependent activity	MF
+Gene_001220	NOT DE	atp-binding cassette sub-family d member 3	0	0	0	0	0	0	0	0	0	30.9051	36.24902	37.26514	33.53584	30.99512	33.61246	GO:0140657	ATP-dependent activity	MF
+Gene_001421	NOT DE	v-type proton atpase subunit b	0	0	0	0	0	0	0	0	0	246.362	274.8335	290.0605	277.1147	256.494	244.1821	GO:0140657	ATP-dependent activity	MF
+Gene_001646	NOT DE	cell division cycle 48 homolog	0	0	0	0	0	0	0	0	0	87.08777	87.43445	90.06936	88.35554	87.95549	83.2141	GO:0140657	ATP-dependent activity	MF
+Gene_001683	NOT DE	hypothetical protein pbra 002988	0	0	0	0	0	0	0	0	0	11.306207	13.437051	11.320244	8.351424	9.897801	9.737971	GO:0140657	ATP-dependent activity	MF
+Gene_001684	NOT DE	centromere cenp-e	0	0	0	0	0	0	0	0	0	5.135983	6.562966	5.328659	4.751214	5.17744	4.10294	GO:0140657	ATP-dependent activity	MF
+Gene_001762	NOT DE	dynein light chain cytoplasmic	0	0	0	0	0	0	0	0	0	320.8635	307.2153	325.288	343.7983	364.5174	293.6193	GO:0140657	ATP-dependent activity	MF
+Gene_001797	NOT DE	26s protease regulatory subunit 8	0	0	0	0	0	0	0	0	0	255.712	242.4182	261.6802	265.3867	267.4193	261.4016	GO:0140657	ATP-dependent activity	MF
+Gene_001829	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	159.9521	152.8318	146.2202	163.6942	165.2906	172.2631	GO:0140657	ATP-dependent activity	MF
+Gene_001872	NOT DE	kinesin kif17	0	0	0	0	0	0	0	0	0	30.76359	28.64538	26.7631	30.1319	33.60118	30.27973	GO:0140657	ATP-dependent activity	MF
+Gene_001960	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	218.8189	191.35	202.4419	198.6934	221.1511	226.5963	GO:0140657	ATP-dependent activity	MF
+Gene_002292	NOT DE	kinesin family member	0	0	0	0	0	0	0	0	0	30.46008	30.86292	28.53144	28.29603	32.88347	30.47957	GO:0140657	ATP-dependent activity	MF
+Gene_002353	NOT DE	atp-dependent protease la	0	0	0	0	0	0	0	0	0	252.8595	210.6018	221.8732	228.172	239.5693	260.4814	GO:0140657	ATP-dependent activity	MF
+Gene_002375	NOT DE	vacuolar atp synthase subunit	0	0	0	0	0	0	0	0	0	112.7577	109.756	119.0588	118.08	124.9777	105.469	GO:0140657	ATP-dependent activity	MF
+Gene_002393	NOT DE	ataxin-7 3 isoform x2	0	0	0	0	0	0	0	0	0	26.04669	27.27324	23.4167	27.07204	26.77258	22.50475	GO:0140657	ATP-dependent activity	MF
+Gene_002679	NOT DE	kinesin kif13a	0	0	0	0	0	0	0	0	0	18.19953	16.57644	13.5168	15.68803	14.65929	17.97508	GO:0140657	ATP-dependent activity	MF
+Gene_002800	NOT DE	abc transporter atp-binding	0	0	0	0	0	0	0	0	0	69.88749	66.61314	71.10286	58.52222	59.53297	56.93945	GO:0140657	ATP-dependent activity	MF
+Gene_002851	NOT DE	kinesin kin-14s	0	0	0	0	0	0	0	0	0	58.35675	64.92213	66.63681	62.56818	53.14776	52.5888	GO:0140657	ATP-dependent activity	MF
+Gene_002914	NOT DE	ruvb-like 2	0	0	0	0	0	0	0	0	0	231.2006	231.2174	216.5591	205.3176	202.0308	246.1472	GO:0140657	ATP-dependent activity	MF
+Gene_003306	NOT DE	abc2 type transporter superfamily	0	0	0	0	0	0	0	0	0	113.256	109.9233	118.2223	121.5737	120.0048	128.1945	GO:0140657	ATP-dependent activity	MF
+Gene_003462	NOT DE	hypothetical protein pbra 004225	0	0	0	0	0	0	0	0	0	120.29654	110.38489	102.35792	95.34369	106.00666	112.13243	GO:0140657	ATP-dependent activity	MF
+Gene_003464	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	0.4029702	0.5671624	0.344297	0.6451963	0.5942038	0.1811034	GO:0140657	ATP-dependent activity	MF
+Gene_003525	NOT DE	atp-dependent rna helicase	0	0	0	0	0	0	0	0	0	79.49673	79.22605	77.03822	81.59301	69.33927	74.94487	GO:0140657	ATP-dependent activity	MF
+Gene_003678	NOT DE	dna helicase ino80	0	0	0	0	0	0	0	0	0	200.0438	214.0171	208.1469	228.7762	231.7715	221.3276	GO:0140657	ATP-dependent activity	MF
+Gene_004082	NOT DE	myosin-2 heavy chain-like	0	0	0	0	0	0	0	0	0	49.19783	55.30002	55.09367	49.5932	52.28167	48.64615	GO:0140657	ATP-dependent activity	MF
+Gene_004306	NOT DE	multidrug resistance-associated 1 isoform x1	0	0	0	0	0	0	0	0	0	118.3353	120.5992	130.7555	123.193	129.6187	126.2835	GO:0140657	ATP-dependent activity	MF
+Gene_004416	NOT DE	defective spermatogenesis 15	0	0	0	0	0	0	0	0	0	87.50958	95.89798	93.02127	99.01721	97.78502	96.50128	GO:0140657	ATP-dependent activity	MF
+Gene_004525	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	100.31911	111.08481	123.76938	108.62403	99.47373	103.03766	GO:0140657	ATP-dependent activity	MF
+Gene_004650	NOT DE	probable chromatin-remodeling complex atpase chain isoform x1	0	0	0	0	0	0	0	0	0	237.7512	274.2396	290.1958	273.8246	265.6394	236.1157	GO:0140657	ATP-dependent activity	MF
+Gene_004652	NOT DE	ccr4-not complex subunit caf16	0	0	0	0	0	0	0	0	0	32.83089	32.96354	35.15866	29.0478	27.21916	28.57278	GO:0140657	ATP-dependent activity	MF
+Gene_004653	NOT DE	abc transporter atp-binding	0	0	0	0	0	0	0	0	0	7.119924	7.265561	9.192129	7.29119	5.830349	6.363619	GO:0140657	ATP-dependent activity	MF
+Gene_004660	NOT DE	regulator of nonsense transcripts 1 homolog	0	0	0	0	0	0	0	0	0	271.8979	284.5439	296.3299	310.0952	316.0533	302.7098	GO:0140657	ATP-dependent activity	MF
+Gene_004671	NOT DE	kinesin kif22	0	0	0	0	0	0	0	0	0	175.2195	164.882	172.3573	174.8006	196.1728	170.5998	GO:0140657	ATP-dependent activity	MF
+Gene_004803	NOT DE	mcak-like kinesin	0	0	0	0	0	0	0	0	0	211.6185	201.7527	198.683	196.0935	214.3999	198.1984	GO:0140657	ATP-dependent activity	MF
+Gene_004810	NOT DE	replication factor c subunit 2	0	0	0	0	0	0	0	0	0	90.61685	84.44837	92.09196	94.51289	97.01464	100.22329	GO:0140657	ATP-dependent activity	MF
+Gene_004815	NOT DE	dna repair rad51 homolog a	0	0	0	0	0	0	0	0	0	86.58318	79.65046	81.28387	86.79288	94.07352	91.49701	GO:0140657	ATP-dependent activity	MF
+Gene_004844	NOT DE	h+-transporting atpase	0	0	0	0	0	0	0	0	0	0.2332658	0.5318024	0.5676846	0.3699484	0.1839137	0.2257344	GO:0140657	ATP-dependent activity	MF
+Gene_004925	NOT DE	dna repair rad51 homolog 3 isoform x1	0	0	0	0	0	0	0	0	0	30.16712	26.12747	26.54424	25.94608	29.77453	32.50502	GO:0140657	ATP-dependent activity	MF
+Gene_005035	NOT DE	atp-binding cassette sub-family d member 2-like	0	0	0	0	0	0	0	0	0	93.39564	87.33591	91.85078	101.12377	100.84021	100.58134	GO:0140657	ATP-dependent activity	MF
+Gene_005036	NOT DE	atp-binding cassette sub-family d member 2	0	0	0	0	0	0	0	0	0	169.1333	163.7196	174.1463	176.7236	181.5359	183.8995	GO:0140657	ATP-dependent activity	MF
+Gene_005342	NOT DE	atp-dependent protease atpase subunit	0	0	0	0	0	0	0	0	0	290.8218	258.0293	275.4149	254.9153	266.0325	281.1586	GO:0140657	ATP-dependent activity	MF
+Gene_005379	NOT DE	hypothetical protein pbra 001001	0	0	0	0	0	0	0	0	0	47.99071	39.91081	37.22151	35.11148	43.36115	45.25931	GO:0140657	ATP-dependent activity	MF
+Gene_005393	NOT DE	abc transporter	0	0	0	0	0	0	0	0	0	21.0775	25.80948	26.89465	18.71069	17.00904	20.23367	GO:0140657	ATP-dependent activity	MF
+Gene_005450	NOT DE	kinesin kif21a isoform x2	0	0	0	0	0	0	0	0	0	380.5215	378.6981	407.8199	396.5932	407.6457	396.9484	GO:0140657	ATP-dependent activity	MF
+Gene_005497	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	0.2766667	0.513548	0.5068716	0.3214907	0.4567433	0.3080846	GO:0140657	ATP-dependent activity	MF
+Gene_005583	NOT DE	heavy metal translocatin	0	0	0	0	0	0	0	0	0	112.4395	105.7228	112.8342	118.2713	126.4662	122.3762	GO:0140657	ATP-dependent activity	MF
+Gene_005742	NOT DE	pre-mrna-splicing factor atp-dependent rna helicase dhx16	0	0	0	0	0	0	0	0	0	214.3622	197.6261	201.6294	196.5417	222.82	207.3764	GO:0140657	ATP-dependent activity	MF
+Gene_005825	NOT DE	dynein gamma chain	0	0	0	0	0	0	0	0	0	238.7694	267.6345	255.7749	300.5515	332.5817	282.4367	GO:0140657	ATP-dependent activity	MF
+Gene_005831	NOT DE	t-complex 11 1	0	0	0	0	0	0	0	0	0	0.4029702	0.5856636	0.6885939	0.7385294	0.406221	0.1811034	GO:0140657	ATP-dependent activity	MF
+Gene_005840	NOT DE	cytoplasmic dynein 2 heavy chain 1	0	0	0	0	0	0	0	0	0	130.4321	130.4472	134.4835	139.9878	152.9413	155.1602	GO:0140657	ATP-dependent activity	MF
+Gene_006038	NOT DE	katanin p60 atpase-containing subunit a-like	0	0	0	0	0	0	0	0	0	107.7234	111.1436	116.4365	103.1461	104.5727	103.021	GO:0140657	ATP-dependent activity	MF
+Gene_006054	NOT DE	v-type proton atpase subunit h	0	0	0	0	0	0	0	0	0	82.24251	88.86459	94.28166	80.42072	75.05945	78.49288	GO:0140657	ATP-dependent activity	MF
+Gene_006111	NOT DE	kinesin family member 3b	0	0	0	0	0	0	0	0	0	67.0299	70.77221	64.9768	72.00536	74.08514	73.19718	GO:0140657	ATP-dependent activity	MF
+Gene_006354	NOT DE	atp-binding cassette transporter	0	0	0	0	0	0	0	0	0	13.084865	13.647911	13.861123	11.257286	10.569375	8.917803	GO:0140657	ATP-dependent activity	MF
+Gene_006374	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	126.9726	132.3693	131.9143	118.2962	118.4252	112.48	GO:0140657	ATP-dependent activity	MF
+Gene_006528	NOT DE	dead-box atp-dependent rna helicase 24	0	0	0	0	0	0	0	0	0	209.5454	197.8951	204.0606	203.6349	210.9297	216.7105	GO:0140657	ATP-dependent activity	MF
+Gene_006914	NOT DE	hypothetical protein pbra 009105	0	0	0	0	0	0	0	0	0	6.502147	7.394231	6.452411	6.521652	6.758639	6.542635	GO:0140657	ATP-dependent activity	MF
+Gene_006925	NOT DE	chromatin-remodeling complex atpase chain iswi	0	0	0	0	0	0	0	0	0	209.0788	222.1395	205.0621	243.481	240.0995	233.218	GO:0140657	ATP-dependent activity	MF
+Gene_007031	NOT DE	dna topoisomerase ii	0	0	0	0	0	0	0	0	0	166.7798	157.4845	170.9242	163.0466	164.3807	164.8128	GO:0140657	ATP-dependent activity	MF
+Gene_007083	NOT DE	spastin isoform x2	0	0	0	0	0	0	0	0	0	88.09832	86.7184	80.05174	87.92904	91.50662	95.99753	GO:0140657	ATP-dependent activity	MF
+Gene_007097	NOT DE	pith domain-containing 1	0	0	0	0	0	0	0	0	0	171.9189	150.5502	150.9163	150.9882	178.8937	148.7466	GO:0140657	ATP-dependent activity	MF
+Gene_007155	NOT DE	dna replication licensing factor mcm6	0	0	0	0	0	0	0	0	0	317.5996	299.4949	316.2131	336.5405	331.2398	358.4628	GO:0140657	ATP-dependent activity	MF
+Gene_007231	NOT DE	abc transporter f family member 3	0	0	0	0	0	0	0	0	0	273.6646	243.8792	253.4279	251.4442	258.5942	261.3818	GO:0140657	ATP-dependent activity	MF
+Gene_007232	NOT DE	atp-binding cassette sub-family f member 3	0	0	0	0	0	0	0	0	0	22.26338	20.67219	22.61666	21.10749	22.24973	17.96988	GO:0140657	ATP-dependent activity	MF
+Gene_007415	NOT DE	26s protease regulatory subunit 10b	0	0	0	0	0	0	0	0	0	313.0071	310.4211	338.1811	346.0161	338.2225	332.4379	GO:0140657	ATP-dependent activity	MF
+Gene_007467	NOT DE	energy-dependent translational throttle	0	0	0	0	0	0	0	0	0	175.2872	158.396	170.8354	163.1825	171.3652	176.1786	GO:0140657	ATP-dependent activity	MF
+Gene_007838	NOT DE	atp-dependent permease	0	0	0	0	0	0	0	0	0	125.5737	131.2844	138.262	121.9733	122.6952	124.0999	GO:0140657	ATP-dependent activity	MF
+Gene_008158	NOT DE	myosin motor domain and dil domain	0	0	0	0	0	0	0	0	0	0.5948527	0.8150116	0.7802701	0.6354406	0.3132711	0.3809434	GO:0140657	ATP-dependent activity	MF
+Gene_008187	NOT DE	eukaryotic initiation factor 4a-iii	0	0	0	0	0	0	0	0	0	353.2751	323.0506	315.4001	310.1489	314.8859	337.3299	GO:0140657	ATP-dependent activity	MF
+Gene_008369	NOT DE	hypothetical protein pbra 008710	0	0	0	0	0	0	0	0	0	49.57878	51.15172	47.50928	57.92331	57.01053	63.46961	GO:0140657	ATP-dependent activity	MF
+Gene_008569	NOT DE	diaminopimelate decarboxylase	0	0	0	0	0	0	0	0	0	215.5249	199.3942	195.9222	215.3767	227.9721	215.3699	GO:0140657	ATP-dependent activity	MF
+Gene_008570	NOT DE	atp-dependent rna helicase	0	0	0	0	0	0	0	0	0	9.804718	10.749234	9.978893	9.453023	8.60411	12.175595	GO:0140657	ATP-dependent activity	MF
+Gene_008985	NOT DE	hypothetical protein pbra 009350	0	0	0	0	0	0	0	0	0	1.112034	1.0080323	1.113156	0.7892634	0.6708757	0.4954335	GO:0140657	ATP-dependent activity	MF
+Gene_009109	NOT DE	abc transporter b family member mitochondrial isoform x1	0	0	0	0	0	0	0	0	0	141.0374	136.9813	155.5897	134.5805	141.9519	149.5064	GO:0140657	ATP-dependent activity	MF
+Gene_009387	NOT DE	kinesin kif6 isoform x2	0	0	0	0	0	0	0	0	0	2.339702	2.851363	2.480563	1.652392	1.584882	2.162838	GO:0140657	ATP-dependent activity	MF
+Gene_009449	NOT DE	myosin id heavy chain	0	0	0	0	0	0	0	0	0	290.2594	278.8368	288.3414	295.2595	327.7756	336.7428	GO:0140657	ATP-dependent activity	MF
+Gene_009505	NOT DE	kinesin family member	0	0	0	0	0	0	0	0	0	73.82075	80.15597	89.48492	63.96777	65.0552	84.52347	GO:0140657	ATP-dependent activity	MF
+Gene_009556	NOT DE	pep carboxykinase	0	0	0	0	0	0	0	0	0	6.876304	6.515446	5.474518	5.776349	5.665099	6.053447	GO:0140657	ATP-dependent activity	MF
+Gene_009557	NOT DE	pep carboxykinase	0	0	0	0	0	0	0	0	0	41.25549	37.65968	35.8562	37.80452	42.06797	38.23996	GO:0140657	ATP-dependent activity	MF
+Gene_009631	NOT DE	atp-binding cassette (abc) superfamily	0	0	0	0	0	0	0	0	0	1.4338397	2.0175366	1.779342	0.6541417	1.0925488	0.6161691	GO:0140657	ATP-dependent activity	MF
+Gene_009632	NOT DE	atp-binding cassette (abc) superfamily	0	0	0	0	0	0	0	0	0	3.218135	5.072494	4.461603	3.122504	3.823971	2.404309	GO:0140657	ATP-dependent activity	MF
+Gene_009680	NOT DE	atp-binding cassette sub-family a member 5-like isoform x2	0	0	0	0	0	0	0	0	0	2.638032	3.733722	3.845538	3.47156	2.407325	2.556272	GO:0140657	ATP-dependent activity	MF
+Gene_009700	NOT DE	dead-box atp-dependent rna helicase 21-like	0	0	0	0	0	0	0	0	0	160.6145	141.3924	142.7946	126.3171	123.2255	149.1234	GO:0140657	ATP-dependent activity	MF
+Gene_009945	NOT DE	zgrf1-like isoform x4	0	0	0	0	0	0	0	0	0	233.1208	227.5708	252.6852	256.8981	259.262	262.2238	GO:0140657	ATP-dependent activity	MF
+Gene_010213	NOT DE	dna repair	0	0	0	0	0	0	0	0	0	116.88	104.1999	107.0273	108.5635	127.105	126.5437	GO:0140657	ATP-dependent activity	MF
+Gene_010851	NOT DE	26s proteasome regulatory subunit 6b homolog	0	0	0	0	0	0	0	0	0	134.4824	137.6826	139.1569	138.1588	131.3583	159.7649	GO:0140657	ATP-dependent activity	MF
+Gene_010945	NOT DE	v-type proton atpase catalytic subunit a	0	0	0	0	0	0	0	0	0	160.1869	139.3497	148.5116	140.2403	153.9068	181.1518	GO:0140657	ATP-dependent activity	MF
+Gene_011153	NOT DE	abc transporter b family member 25	0	0	0	0	0	0	0	0	0	35.0511	36.99646	36.94814	31.72478	33.96952	35.38187	GO:0140657	ATP-dependent activity	MF
+Gene_011246	NOT DE	abc transporter c family member 2-like	0	0	0	0	0	0	0	0	0	4.698252	7.409994	7.225235	5.274029	4.040594	2.924724	GO:0140657	ATP-dependent activity	MF
+Gene_011392	NOT DE	v-type proton atpase subunit d [verruconis gallopava]	0	0	0	0	0	0	0	0	0	82.28615	86.69446	81.18888	77.59547	82.00355	76.5882	GO:0140657	ATP-dependent activity	MF
+Gene_011491	NOT DE	gnat family n-acetyltransferase	0	0	0	0	0	0	0	0	0	43.28723	35.2759	36.20254	38.37438	42.27039	37.68	GO:0140657	ATP-dependent activity	MF
+Gene_011492	NOT DE	dna replication licensing factor mcm3	0	0	0	0	0	0	0	0	0	336.2906	338.9721	373.8074	344.5081	331.125	341.0935	GO:0140657	ATP-dependent activity	MF
+Gene_011572	NOT DE	calcium-transporting atpase plasma membrane-type-like	0	0	0	0	0	0	0	0	0	181.9275	184.8777	195.7279	190.0931	193.8678	193.6854	GO:0140657	ATP-dependent activity	MF
+Gene_011650	NOT DE	kinesin kin-5a	0	0	0	0	0	0	0	0	0	171.9788	160.7081	165.4487	180.4659	187.7295	195.6942	GO:0140657	ATP-dependent activity	MF
+Gene_011834	NOT DE	kinesin motor catalytic domain protein	0	0	0	0	0	0	0	0	0	1.406808	1.695031	2.043374	2.319784	1.886336	3.366036	GO:0140657	ATP-dependent activity	MF
+Gene_012014	NOT DE	leptomycin b resistance protein pmd1	0	0	0	0	0	0	0	0	0	6.364301	8.066174	7.435582	6.026486	5.351356	6.303251	GO:0140657	ATP-dependent activity	MF
+Gene_012034	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	2.932358	5.925491	4.820959	3.887583	3.089941	2.356432	GO:0140657	ATP-dependent activity	MF
+Gene_012048	NOT DE	atp-dependent rna helicase dhh1	0	0	0	0	0	0	0	0	0	133.3224	139.6804	138.8595	151.6451	156.6953	161.9631	GO:0140657	ATP-dependent activity	MF
+Gene_012167	NOT DE	dna replication licensing factor mcm7	0	0	0	0	0	0	0	0	0	143.1572	135.9264	124.186	135.334	142.0694	161.8278	GO:0140657	ATP-dependent activity	MF
+Gene_012438	NOT DE	calcium-translocating p-type atpase; serca-type	0	0	0	0	0	0	0	0	0	187.6681	164.4055	161.9495	161.9008	184.2082	192.3593	GO:0140657	ATP-dependent activity	MF

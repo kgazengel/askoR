@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000805	6	v-type proton atpase subunit g1-like	0	0	0	0	0	0	0	0	0	35.11188	32.57904	33.10426	32.14488	33.00846	30.05908	GO:0005774	vacuolar membrane	CC
+Gene_000923	6	rab gtpase	0	0	0	0	0	0	0	0	0	451.1919	504.3582	524.9927	512.9585	489.0737	470.743	GO:0005774	vacuolar membrane	CC
+Gene_001062	6	v-type h+-transporting atpase 16kda proteolipid subunit	0	0	0	0	0	0	0	0	0	278.4983	242.8068	266.7036	237.9677	254.6737	236.8131	GO:0005774	vacuolar membrane	CC

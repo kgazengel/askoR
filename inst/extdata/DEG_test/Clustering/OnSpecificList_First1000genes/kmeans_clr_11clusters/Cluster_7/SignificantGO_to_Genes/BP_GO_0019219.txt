@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000146	7	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP
+Gene_000147	7	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP
+Gene_000513	7	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP
+Gene_000744	7	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP
+Gene_000752	7	hypothetical protein pbra 001803	1	1	0	0	0	0	0	-1	-1	71.89579	57.97996	51.83157	74.93767	88.40037	94.82347	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP
+Gene_000892	7	rna polymerase iii transcription repressor maf1	0	0	0	0	0	0	0	-1	0	275.6437	271.5837	278.6848	322.8453	338.4573	306.7753	GO:0019219	regulation of nucleobase-containing compound metabolic process	BP

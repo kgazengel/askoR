@@ -1,0 +1,102 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000021	NOT DE	sporangia induced dynein heavy chain	0	0	0	0	0	0	0	0	0	78.18503	86.60368	75.56314	87.8772	100.42906	92.44207	GO:0016462	pyrophosphatase activity	MF
+Gene_000154	NOT DE	septum formation maf	0	0	0	0	0	0	0	0	0	38.64592	36.41357	39.16188	35.66083	39.03995	35.05504	GO:0016462	pyrophosphatase activity	MF
+Gene_000714	NOT DE	ras-related rabh1e	0	0	0	0	0	0	0	0	0	30.95405	31.4535	34.76954	33.23058	32.90389	27.18223	GO:0016462	pyrophosphatase activity	MF
+Gene_000889	NOT DE	small gtpase	0	0	0	0	0	0	0	0	0	117.29831	102.94425	107.96098	99.80474	116.85062	107.37376	GO:0016462	pyrophosphatase activity	MF
+Gene_000919	NOT DE	kinesin kifc3 isoform x1	0	0	0	0	0	0	0	0	0	78.09978	81.45997	88.77653	82.60483	82.7659	81.24694	GO:0016462	pyrophosphatase activity	MF
+Gene_000923	NOT DE	rab gtpase	0	0	0	0	0	0	0	0	0	451.1919	504.3582	524.9927	512.9585	489.0737	470.743	GO:0016462	pyrophosphatase activity	MF
+Gene_000945	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	254.5678	280.7696	282.9675	308.6985	353.9084	293.2112	GO:0016462	pyrophosphatase activity	MF
+Gene_001211	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	247.2751	249.3103	260.1396	289.515	297.6454	271.9305	GO:0016462	pyrophosphatase activity	MF
+Gene_001220	NOT DE	atp-binding cassette sub-family d member 3	0	0	0	0	0	0	0	0	0	30.9051	36.24902	37.26514	33.53584	30.99512	33.61246	GO:0016462	pyrophosphatase activity	MF
+Gene_001521	NOT DE	guanine nucleotide-binding g(q) subunit alpha	0	0	0	0	0	0	0	0	0	107.14606	89.85375	92.26534	105.00145	117.74129	132.81155	GO:0016462	pyrophosphatase activity	MF
+Gene_001788	NOT DE	mitochondrial rho gtpase 1-like	0	0	0	0	0	0	0	0	0	208.6194	213.0345	223.3887	210.188	199.1591	196.2603	GO:0016462	pyrophosphatase activity	MF
+Gene_001829	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	159.9521	152.8318	146.2202	163.6942	165.2906	172.2631	GO:0016462	pyrophosphatase activity	MF
+Gene_001852	NOT DE	pyrophosphate-energized membrane proton pump 2	0	0	0	0	0	0	0	0	0	257.9956	244.0927	258.9832	241.4045	251.3921	252.8605	GO:0016462	pyrophosphatase activity	MF
+Gene_002069	NOT DE	dynamin like	0	0	0	0	0	0	0	0	0	360.1154	353.8019	375.8968	366.5775	383.8952	362.2576	GO:0016462	pyrophosphatase activity	MF
+Gene_002393	NOT DE	ataxin-7 3 isoform x2	0	0	0	0	0	0	0	0	0	26.04669	27.27324	23.4167	27.07204	26.77258	22.50475	GO:0016462	pyrophosphatase activity	MF
+Gene_002792	NOT DE	hypothetical protein pbra 007862	0	0	0	0	0	0	0	0	0	4.014639	4.742695	4.456299	3.737542	3.542301	4.186203	GO:0016462	pyrophosphatase activity	MF
+Gene_002800	NOT DE	abc transporter atp-binding	0	0	0	0	0	0	0	0	0	69.88749	66.61314	71.10286	58.52222	59.53297	56.93945	GO:0016462	pyrophosphatase activity	MF
+Gene_002895	NOT DE	glutamine-hydrolyzing gmp synthase	0	0	0	0	0	0	0	0	0	226.5461	224.7398	250.9441	243.2841	246.4077	255.9705	GO:0016462	pyrophosphatase activity	MF
+Gene_002903	NOT DE	lipid phosphate phosphatase chloroplastic-like	0	0	0	0	0	0	0	0	0	18.26043	17.03036	18.83692	15.1556	16.82809	13.23099	GO:0016462	pyrophosphatase activity	MF
+Gene_003025	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	1.7200774	1.3562512	1.4273085	1.1712874	0.9895984	1.2510749	GO:0016462	pyrophosphatase activity	MF
+Gene_003103	NOT DE	septum formation maf	0	0	0	0	0	0	0	0	0	23.09467	23.84796	24.33954	19.20496	19.44802	21.78867	GO:0016462	pyrophosphatase activity	MF
+Gene_003104	NOT DE	septum formation maf	0	0	0	0	0	0	0	0	0	16.65612	16.51807	16.11678	17.38822	16.91965	16.69486	GO:0016462	pyrophosphatase activity	MF
+Gene_003306	NOT DE	abc2 type transporter superfamily	0	0	0	0	0	0	0	0	0	113.256	109.9233	118.2223	121.5737	120.0048	128.1945	GO:0016462	pyrophosphatase activity	MF
+Gene_003462	NOT DE	hypothetical protein pbra 004225	0	0	0	0	0	0	0	0	0	120.29654	110.38489	102.35792	95.34369	106.00666	112.13243	GO:0016462	pyrophosphatase activity	MF
+Gene_003464	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	0.4029702	0.5671624	0.344297	0.6451963	0.5942038	0.1811034	GO:0016462	pyrophosphatase activity	MF
+Gene_003678	NOT DE	dna helicase ino80	0	0	0	0	0	0	0	0	0	200.0438	214.0171	208.1469	228.7762	231.7715	221.3276	GO:0016462	pyrophosphatase activity	MF
+Gene_004116	NOT DE	ribosome-releasing factor mitochondrial isoform x1	0	0	0	0	0	0	0	0	0	132.3837	126.0806	128.7786	142.2833	140.7568	133.0384	GO:0016462	pyrophosphatase activity	MF
+Gene_004306	NOT DE	multidrug resistance-associated 1 isoform x1	0	0	0	0	0	0	0	0	0	118.3353	120.5992	130.7555	123.193	129.6187	126.2835	GO:0016462	pyrophosphatase activity	MF
+Gene_004525	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	100.31911	111.08481	123.76938	108.62403	99.47373	103.03766	GO:0016462	pyrophosphatase activity	MF
+Gene_004650	NOT DE	probable chromatin-remodeling complex atpase chain isoform x1	0	0	0	0	0	0	0	0	0	237.7512	274.2396	290.1958	273.8246	265.6394	236.1157	GO:0016462	pyrophosphatase activity	MF
+Gene_004652	NOT DE	ccr4-not complex subunit caf16	0	0	0	0	0	0	0	0	0	32.83089	32.96354	35.15866	29.0478	27.21916	28.57278	GO:0016462	pyrophosphatase activity	MF
+Gene_004653	NOT DE	abc transporter atp-binding	0	0	0	0	0	0	0	0	0	7.119924	7.265561	9.192129	7.29119	5.830349	6.363619	GO:0016462	pyrophosphatase activity	MF
+Gene_004663	NOT DE	guanine nucleotide-binding g(q) subunit alpha	0	0	0	0	0	0	0	0	0	0.9574653	1.0624109	0.9717734	0.4330552	0.701397	0.5620469	GO:0016462	pyrophosphatase activity	MF
+Gene_004844	NOT DE	h+-transporting atpase	0	0	0	0	0	0	0	0	0	0.2332658	0.5318024	0.5676846	0.3699484	0.1839137	0.2257344	GO:0016462	pyrophosphatase activity	MF
+Gene_005035	NOT DE	atp-binding cassette sub-family d member 2-like	0	0	0	0	0	0	0	0	0	93.39564	87.33591	91.85078	101.12377	100.84021	100.58134	GO:0016462	pyrophosphatase activity	MF
+Gene_005342	NOT DE	atp-dependent protease atpase subunit	0	0	0	0	0	0	0	0	0	290.8218	258.0293	275.4149	254.9153	266.0325	281.1586	GO:0016462	pyrophosphatase activity	MF
+Gene_005393	NOT DE	abc transporter	0	0	0	0	0	0	0	0	0	21.0775	25.80948	26.89465	18.71069	17.00904	20.23367	GO:0016462	pyrophosphatase activity	MF
+Gene_005416	NOT DE	alpha- and gamma-adaptin-binding p34-like	0	0	0	0	0	0	0	0	0	101.52844	95.80611	99.47939	93.55807	96.33773	108.01702	GO:0016462	pyrophosphatase activity	MF
+Gene_005447	NOT DE	g-subunit alpha 6	0	0	0	0	0	0	0	0	0	1.909439	1.688494	1.85024	1.296356	1.285423	2.156592	GO:0016462	pyrophosphatase activity	MF
+Gene_005497	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	0.2766667	0.513548	0.5068716	0.3214907	0.4567433	0.3080846	GO:0016462	pyrophosphatase activity	MF
+Gene_005825	NOT DE	dynein gamma chain	0	0	0	0	0	0	0	0	0	238.7694	267.6345	255.7749	300.5515	332.5817	282.4367	GO:0016462	pyrophosphatase activity	MF
+Gene_005840	NOT DE	cytoplasmic dynein 2 heavy chain 1	0	0	0	0	0	0	0	0	0	130.4321	130.4472	134.4835	139.9878	152.9413	155.1602	GO:0016462	pyrophosphatase activity	MF
+Gene_005865	NOT DE	gtp-binding	0	0	0	0	0	0	0	0	0	325.9449	322.394	324.1682	340.4558	335.605	363.4566	GO:0016462	pyrophosphatase activity	MF
+Gene_006111	NOT DE	kinesin family member 3b	0	0	0	0	0	0	0	0	0	67.0299	70.77221	64.9768	72.00536	74.08514	73.19718	GO:0016462	pyrophosphatase activity	MF
+Gene_006354	NOT DE	atp-binding cassette transporter	0	0	0	0	0	0	0	0	0	13.084865	13.647911	13.861123	11.257286	10.569375	8.917803	GO:0016462	pyrophosphatase activity	MF
+Gene_006374	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	126.9726	132.3693	131.9143	118.2962	118.4252	112.48	GO:0016462	pyrophosphatase activity	MF
+Gene_006831	NOT DE	ras-related rab11	0	0	0	0	0	0	0	0	0	0.4679002	0.6409905	0.2848096	0.5835991	0.7287553	0.2414712	GO:0016462	pyrophosphatase activity	MF
+Gene_006914	NOT DE	hypothetical protein pbra 009105	0	0	0	0	0	0	0	0	0	6.502147	7.394231	6.452411	6.521652	6.758639	6.542635	GO:0016462	pyrophosphatase activity	MF
+Gene_006925	NOT DE	chromatin-remodeling complex atpase chain iswi	0	0	0	0	0	0	0	0	0	209.0788	222.1395	205.0621	243.481	240.0995	233.218	GO:0016462	pyrophosphatase activity	MF
+Gene_006931	NOT DE	g alpha subunit	0	0	0	0	0	0	0	0	0	0.7108729	0.2828171	0.4730526	0.3912665	0.3207171	0.3080846	GO:0016462	pyrophosphatase activity	MF
+Gene_007008	NOT DE	hypothetical protein pbra 004484; partial	0	0	0	0	0	0	0	0	0	13.3034	13.79643	12.00273	11.77774	13.62452	11.80505	GO:0016462	pyrophosphatase activity	MF
+Gene_007009	NOT DE	hbs1	0	0	0	0	0	0	0	0	0	181.0183	154.7702	160.2897	159.3964	177.4427	171.2722	GO:0016462	pyrophosphatase activity	MF
+Gene_007010	NOT DE	lysophospholipase l2	0	0	0	0	0	0	0	0	0	102.66395	108.3517	97.23343	125.71248	114.04108	96.09535	GO:0016462	pyrophosphatase activity	MF
+Gene_007083	NOT DE	spastin isoform x2	0	0	0	0	0	0	0	0	0	88.09832	86.7184	80.05174	87.92904	91.50662	95.99753	GO:0016462	pyrophosphatase activity	MF
+Gene_007231	NOT DE	abc transporter f family member 3	0	0	0	0	0	0	0	0	0	273.6646	243.8792	253.4279	251.4442	258.5942	261.3818	GO:0016462	pyrophosphatase activity	MF
+Gene_007232	NOT DE	atp-binding cassette sub-family f member 3	0	0	0	0	0	0	0	0	0	22.26338	20.67219	22.61666	21.10749	22.24973	17.96988	GO:0016462	pyrophosphatase activity	MF
+Gene_007363	NOT DE	hypothetical protein pbra 003905	0	0	0	0	0	0	0	0	0	27.89986	27.27088	25.93268	26.61935	28.68751	28.91209	GO:0016462	pyrophosphatase activity	MF
+Gene_007461	NOT DE	inosine triphosphate pyrophosphatase	0	0	0	0	0	0	0	0	0	67.69137	66.60332	67.12453	63.32808	66.16912	59.03985	GO:0016462	pyrophosphatase activity	MF
+Gene_007467	NOT DE	energy-dependent translational throttle	0	0	0	0	0	0	0	0	0	175.2872	158.396	170.8354	163.1825	171.3652	176.1786	GO:0016462	pyrophosphatase activity	MF
+Gene_007528	NOT DE	ras-related rabc1	0	0	0	0	0	0	0	0	0	93.43069	91.19468	92.55728	95.82617	104.69668	95.48751	GO:0016462	pyrophosphatase activity	MF
+Gene_007535	NOT DE	inorganic pyrophosphatase exopolyphosphatase	0	0	0	0	0	0	0	0	0	8.908765	9.403468	10.129228	5.919267	6.342595	9.917004	GO:0016462	pyrophosphatase activity	MF
+Gene_007838	NOT DE	atp-dependent permease	0	0	0	0	0	0	0	0	0	125.5737	131.2844	138.262	121.9733	122.6952	124.0999	GO:0016462	pyrophosphatase activity	MF
+Gene_007907	NOT DE	guanine nucleotide binding alpha subunit	0	0	0	0	0	0	0	0	0	5.228655	5.468498	5.021442	4.899371	5.096053	4.306938	GO:0016462	pyrophosphatase activity	MF
+Gene_007937	NOT DE	ras-related rab-23-like	0	0	0	0	0	0	0	0	0	0.3781365	0.6271127	0.8269233	0.883172	0.7307498	0.8160092	GO:0016462	pyrophosphatase activity	MF
+Gene_007938	NOT DE	ras family	0	0	0	0	0	0	0	0	0	0.5196394	0.5868698	0.7747717	0.6561022	0.3752868	0.2477168	GO:0016462	pyrophosphatase activity	MF
+Gene_008130	NOT DE	hypothetical protein pbra 001899	0	0	0	0	0	0	0	0	0	7.247064	7.033005	6.628428	5.462912	4.980637	5.497645	GO:0016462	pyrophosphatase activity	MF
+Gene_008475	NOT DE	beta-tubulin t2	0	0	0	0	0	0	0	0	0	4225.931	3866.109	4205.294	4280.12	4234.781	4658.795	GO:0016462	pyrophosphatase activity	MF
+Gene_008985	NOT DE	hypothetical protein pbra 009350	0	0	0	0	0	0	0	0	0	1.112034	1.0080323	1.113156	0.7892634	0.6708757	0.4954335	GO:0016462	pyrophosphatase activity	MF
+Gene_009109	NOT DE	abc transporter b family member mitochondrial isoform x1	0	0	0	0	0	0	0	0	0	141.0374	136.9813	155.5897	134.5805	141.9519	149.5064	GO:0016462	pyrophosphatase activity	MF
+Gene_009278	NOT DE	gpn-loop gtpase 3	0	0	0	0	0	0	0	0	0	78.33222	71.02406	67.13592	70.4286	79.58397	76.02405	GO:0016462	pyrophosphatase activity	MF
+Gene_009556	NOT DE	pep carboxykinase	0	0	0	0	0	0	0	0	0	6.876304	6.515446	5.474518	5.776349	5.665099	6.053447	GO:0016462	pyrophosphatase activity	MF
+Gene_009557	NOT DE	pep carboxykinase	0	0	0	0	0	0	0	0	0	41.25549	37.65968	35.8562	37.80452	42.06797	38.23996	GO:0016462	pyrophosphatase activity	MF
+Gene_009631	NOT DE	atp-binding cassette (abc) superfamily	0	0	0	0	0	0	0	0	0	1.4338397	2.0175366	1.779342	0.6541417	1.0925488	0.6161691	GO:0016462	pyrophosphatase activity	MF
+Gene_009632	NOT DE	atp-binding cassette (abc) superfamily	0	0	0	0	0	0	0	0	0	3.218135	5.072494	4.461603	3.122504	3.823971	2.404309	GO:0016462	pyrophosphatase activity	MF
+Gene_009642	NOT DE	g-subunit alpha 1	0	0	0	0	0	0	0	0	0	263.2668	273.368	288.3076	277.4446	295.3355	292.2516	GO:0016462	pyrophosphatase activity	MF
+Gene_009680	NOT DE	atp-binding cassette sub-family a member 5-like isoform x2	0	0	0	0	0	0	0	0	0	2.638032	3.733722	3.845538	3.47156	2.407325	2.556272	GO:0016462	pyrophosphatase activity	MF
+Gene_009687	NOT DE	guanine nucleotide binding alpha subunit	0	0	0	0	0	0	0	0	0	0.7531027	0.4446089	0.2526207	0.5048778	0.5009881	0.3080846	GO:0016462	pyrophosphatase activity	MF
+Gene_009688	NOT DE	guanine nucleotide-binding g(t) subunit alpha-3	0	0	0	0	0	0	0	0	0	0.5082577	0.8212834	0.8849876	1.2136704	1.4695056	0.9242537	GO:0016462	pyrophosphatase activity	MF
+Gene_009826	NOT DE	tubulin alpha chain	0	0	0	0	0	0	0	0	0	3875.22	3557.434	3869.003	3804.983	3354.11	4074.514	GO:0016462	pyrophosphatase activity	MF
+Gene_009836	NOT DE	gtp-binding 1 isoform x2	0	0	0	0	0	0	0	0	0	64.3537	74.49227	78.80866	79.10438	74.71963	64.8643	GO:0016462	pyrophosphatase activity	MF
+Gene_009837	NOT DE	gtp-binding 1-like	0	0	0	0	0	0	0	0	0	25.37265	30.07195	32.12478	30.82232	31.87485	25.1089	GO:0016462	pyrophosphatase activity	MF
+Gene_010213	NOT DE	dna repair	0	0	0	0	0	0	0	0	0	116.88	104.1999	107.0273	108.5635	127.105	126.5437	GO:0016462	pyrophosphatase activity	MF
+Gene_010325	NOT DE	rab 3	0	0	0	0	0	0	0	0	0	53.64774	49.52116	45.20599	49.63367	51.39816	51.60002	GO:0016462	pyrophosphatase activity	MF
+Gene_010383	NOT DE	gtp-binding 2-like	0	0	0	0	0	0	0	0	0	68.53296	59.63394	56.62319	54.99239	62.6014	68.67791	GO:0016462	pyrophosphatase activity	MF
+Gene_010643	NOT DE	rab 2a	0	0	0	0	0	0	0	0	0	42.31592	39.08801	38.75157	40.79802	44.4414	42.13473	GO:0016462	pyrophosphatase activity	MF
+Gene_010701	NOT DE	signal recognition particle receptor subunit alpha homolog	0	0	0	0	0	0	0	0	0	121.5782	114.90542	126.13181	91.95496	95.58494	120.56106	GO:0016462	pyrophosphatase activity	MF
+Gene_010981	NOT DE	g-subunit alpha 1	0	0	0	0	0	0	0	0	0	0.9179547	1.3288174	1.5511736	1.1970596	0.7893668	0.9242537	GO:0016462	pyrophosphatase activity	MF
+Gene_011077	NOT DE	ras small gtpase rho1	0	0	0	0	0	0	0	0	0	141.2663	138.5537	141.7885	126.2118	128.7576	138.9753	GO:0016462	pyrophosphatase activity	MF
+Gene_011153	NOT DE	abc transporter b family member 25	0	0	0	0	0	0	0	0	0	35.0511	36.99646	36.94814	31.72478	33.96952	35.38187	GO:0016462	pyrophosphatase activity	MF
+Gene_011179	NOT DE	deoxyuridine 5-triphosphate nucleotidohydrolase	0	0	0	0	0	0	0	0	0	124.0672	106.1115	112.3903	104.2492	111.3691	109.7968	GO:0016462	pyrophosphatase activity	MF
+Gene_011246	NOT DE	abc transporter c family member 2-like	0	0	0	0	0	0	0	0	0	4.698252	7.409994	7.225235	5.274029	4.040594	2.924724	GO:0016462	pyrophosphatase activity	MF
+Gene_011294	NOT DE	ras-related rabf2a	0	0	0	0	0	0	0	0	0	167.8069	151.5742	147.4136	156.8284	171.9482	174.5175	GO:0016462	pyrophosphatase activity	MF
+Gene_011316	NOT DE	ras-like gtp-binding isoform x2	0	0	0	0	0	0	0	0	0	54.28878	52.90077	52.35355	51.89347	58.18424	51.95806	GO:0016462	pyrophosphatase activity	MF
+Gene_011416	NOT DE	small gtpase	0	0	0	0	0	0	0	0	0	176.1317	180.0973	186.5964	188.4675	191.0345	188.7706	GO:0016462	pyrophosphatase activity	MF
+Gene_011743	NOT DE	small gtpase rac protein 1	0	0	0	0	0	0	0	0	0	101.1342	101.853	106.4359	102.7631	101.3097	102.0978	GO:0016462	pyrophosphatase activity	MF
+Gene_011834	NOT DE	kinesin motor catalytic domain protein	0	0	0	0	0	0	0	0	0	1.406808	1.695031	2.043374	2.319784	1.886336	3.366036	GO:0016462	pyrophosphatase activity	MF
+Gene_012014	NOT DE	leptomycin b resistance protein pmd1	0	0	0	0	0	0	0	0	0	6.364301	8.066174	7.435582	6.026486	5.351356	6.303251	GO:0016462	pyrophosphatase activity	MF
+Gene_012034	NOT DE	dynein heavy chain	0	0	0	0	0	0	0	0	0	2.932358	5.925491	4.820959	3.887583	3.089941	2.356432	GO:0016462	pyrophosphatase activity	MF
+Gene_012073	NOT DE	sodium-translocating pyrophosphatase	0	0	0	0	0	0	0	0	0	375.7129	308.0166	385.5078	236.9397	260.3327	448.8129	GO:0016462	pyrophosphatase activity	MF
+Gene_012485	NOT DE	translation initiation factor if-2	0	0	0	0	0	0	0	0	0	239.1509	249.6826	281.8356	272.8348	244.6482	259.9818	GO:0016462	pyrophosphatase activity	MF
+Gene_012652	NOT DE	dctp pyrophosphatase 1-like	0	0	0	0	0	0	0	0	0	48.66241	41.37004	41.62117	37.10462	40.29371	44.36005	GO:0016462	pyrophosphatase activity	MF

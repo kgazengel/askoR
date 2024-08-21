@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001045	NOT DE	probable nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	0	0	0	0	0	0	0	0	155.8754	146.5607	156.7649	144.8502	154.0137	132.3307	GO:0006814	sodium ion transport	BP
+Gene_005400	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur mitochondrial	0	0	0	0	0	0	0	0	0	435.8837	431.6605	451.7236	420.724	424.0572	428.3086	GO:0006814	sodium ion transport	BP
+Gene_007637	NOT DE	nadh dehydrogenase [ubiquinone] 1 beta subcomplex subunit	0	0	0	0	0	0	0	0	0	47.21785	43.06548	47.92373	43.22379	47.6256	40.85869	GO:0006814	sodium ion transport	BP
+Gene_008452	NOT DE	nadh oxidoreductase (quinone) f subunit	0	0	0	0	0	0	0	0	0	463.9712	469.3674	485.547	534.9247	528.0271	515.9316	GO:0006814	sodium ion transport	BP
+Gene_010415	NOT DE	nadh:ubiquinone oxidoreductase family	0	0	0	0	0	0	0	0	0	5.328454	5.623327	4.772883	3.723275	4.021648	3.051706	GO:0006814	sodium ion transport	BP
+Gene_011797	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur protein 7; mitochondrial	0	0	0	0	0	0	0	0	0	77.55211	90.93209	92.66357	81.56568	78.98641	81.6279	GO:0006814	sodium ion transport	BP
+Gene_012252	NOT DE	nadh dehydrogenase subunit 4 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.67745	2.320577	3.582335	1.995393	1.112284	2.30231	GO:0006814	sodium ion transport	BP
+Gene_012253	NOT DE	nadh dehydrogenase subunit 7 (mitochondrion)	0	0	0	0	0	0	0	0	0	5.275585	8.099927	6.130536	6.135745	2.658147	4.619198	GO:0006814	sodium ion transport	BP
+Gene_012254	NOT DE	nadh dehydrogenase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.2261721	0.9345262	1.2985529	0.8337367	0.8459894	0.5620469	GO:0006814	sodium ion transport	BP
+Gene_012259	NOT DE	nadh dehydrogenase subunit 6 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.062343	5.947425	5.504689	3.193641	2.140273	4.552585	GO:0006814	sodium ion transport	BP
+Gene_012260	NOT DE	nadh dehydrogenase subunit 5 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.417779	6.778205	6.720131	4.174768	2.377952	5.676679	GO:0006814	sodium ion transport	BP

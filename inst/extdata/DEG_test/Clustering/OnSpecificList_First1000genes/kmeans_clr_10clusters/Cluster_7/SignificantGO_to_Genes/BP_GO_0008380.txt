@@ -1,0 +1,2 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000025	7	pentatricopeptide repeat-containing at5g43820	0	0	0	0	0	0	0	-1	-1	150.8237	127.8593	128.7866	151.0153	161.7357	177.7961	GO:0008380	RNA splicing	BP

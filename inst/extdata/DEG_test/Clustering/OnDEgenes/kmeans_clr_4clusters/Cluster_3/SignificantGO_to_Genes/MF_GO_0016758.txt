@@ -1,0 +1,20 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000924	3	[skp1-]-hydroxyproline n-family gt60	0	-1	0	1	0	0	0	1	0	0.835304	1.760175	2.2173595	1.2562694	0.2845671	0.8035181	GO:0016758	hexosyltransferase activity	MF
+Gene_001336	3	c transferase	0	0	0	1	0	0	0	1	0	0.7650702	1.745091	1.7459371	1.6396545	0.4237561	0.5495558	GO:0016758	hexosyltransferase activity	MF
+Gene_001729	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:0016758	hexosyltransferase activity	MF
+Gene_001898	3	class vii chitin synthase	-1	-1	0	1	0	0	-1	1	1	3.182056	9.505169	8.55407	7.091824	2.528459	2.718639	GO:0016758	hexosyltransferase activity	MF
+Gene_001928	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:0016758	hexosyltransferase activity	MF
+Gene_003794	3	chitin synthase d	-1	-1	0	0	0	0	0	1	1	6.551407	19.182505	19.053731	10.920619	6.490185	5.29156	GO:0016758	hexosyltransferase activity	MF
+Gene_004348	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:0016758	hexosyltransferase activity	MF
+Gene_005473	3	sterol 3-beta-glucosyltransferase	-1	-1	0	1	0	0	-1	1	1	60.04585	108.66278	118.47896	90.4087	46.79523	64.37308	GO:0016758	hexosyltransferase activity	MF
+Gene_006162	3	hypothetical protein pbra 003410	-1	-1	0	1	0	0	0	1	1	3.535295	9.497644	8.17717	5.231087	2.033748	3.153705	GO:0016758	hexosyltransferase activity	MF
+Gene_006428	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:0016758	hexosyltransferase activity	MF
+Gene_006908	3	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0016758	hexosyltransferase activity	MF
+Gene_007781	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	13.210096	38.853031	38.853111	26.554445	7.601252	12.167261	GO:0016758	hexosyltransferase activity	MF
+Gene_007978	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:0016758	hexosyltransferase activity	MF
+Gene_007993	3	probable chitin synthase d	-1	-1	0	0	0	0	0	1	1	22.04859	49.07865	39.27697	26.53671	15.44271	14.08655	GO:0016758	hexosyltransferase activity	MF
+Gene_008000	3	probable chitin synthase d	-1	-1	0	1	0	0	0	1	1	22.38515	58.39152	47.73773	29.12021	13.04946	11.57815	GO:0016758	hexosyltransferase activity	MF
+Gene_008582	3	alpha 1;3 fucosyltransferase	-1	-1	0	0	0	0	0	1	1	6.281261	13.917527	13.053167	7.432231	3.369871	3.709506	GO:0016758	hexosyltransferase activity	MF
+Gene_008714	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	1	0	0	0	1	1	1.691624	4.6504938	5.1347241	3.4042967	0.9784294	1.7340173	GO:0016758	hexosyltransferase activity	MF
+Gene_008862	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:0016758	hexosyltransferase activity	MF
+Gene_009633	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	0	0	0	0	1	1	0.9683343	2.3009084	2.1770199	0.9624252	0.4024094	0.3080846	GO:0016758	hexosyltransferase activity	MF

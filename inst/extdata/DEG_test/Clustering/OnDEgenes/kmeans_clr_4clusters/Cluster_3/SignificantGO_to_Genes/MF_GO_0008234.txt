@@ -1,0 +1,11 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001094	3	androglobin-like isoform x3	-1	0	0	0	0	0	0	1	1	3.763069	7.726012	5.834315	3.334348	1.829487	2.525044	GO:0008234	cysteine-type peptidase activity	MF
+Gene_001754	3	calpain-type cysteine protease dek1	-1	0	0	1	0	0	0	1	1	6.057372	11.40526	10.852884	6.841825	2.985899	4.427674	GO:0008234	cysteine-type peptidase activity	MF
+Gene_001828	3	dipeptidyl peptidase 1	-1	0	0	1	0	0	0	1	0	3.4058866	7.8593478	5.9223166	3.6754751	0.9442738	2.556272	GO:0008234	cysteine-type peptidase activity	MF
+Gene_003949	3	papain family cysteine protease	-1	-1	0	1	0	0	0	1	1	8.05044	18.61455	26.145637	15.925169	6.515371	7.560572	GO:0008234	cysteine-type peptidase activity	MF
+Gene_004230	3	ataxin-3 homolog	-1	-1	0	1	0	0	0	1	1	1.6241727	5.1223521	4.8580652	3.5774149	0.8498896	0.9846215	GO:0008234	cysteine-type peptidase activity	MF
+Gene_004452	3	cathepsin z ase	-1	-1	0	0	0	0	0	1	1	52.94628	94.14057	103.70566	72.31938	44.15468	44.75347	GO:0008234	cysteine-type peptidase activity	MF
+Gene_005157	3	flagellar associated	-1	-1	0	1	0	0	0	1	1	1.835199	5.376168	5.227202	3.393305	0.710229	1.800631	GO:0008234	cysteine-type peptidase activity	MF
+Gene_006106	3	xylem cysteine ase 1	-1	-1	0	1	0	0	0	1	1	8.361505	18.691003	16.319692	11.837933	7.111489	9.321641	GO:0008234	cysteine-type peptidase activity	MF
+Gene_007794	3	hypothetical protein pbra 005368	-1	0	0	0	0	0	0	1	0	15.33507	38.80098	26.71215	27.30304	17.09462	16.76979	GO:0008234	cysteine-type peptidase activity	MF
+Gene_007920	3	cysteine ase cot44-like	0	-1	0	0	0	0	0	1	1	194.7179	292.9664	422.0094	240.2831	139.5616	142.3935	GO:0008234	cysteine-type peptidase activity	MF

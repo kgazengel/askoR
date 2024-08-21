@@ -1,0 +1,10 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001026	NOT DE	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_001646	NOT DE	cell division cycle 48 homolog	0	0	0	0	0	0	0	0	0	87.08777	87.43445	90.06936	88.35554	87.95549	83.2141	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_001797	NOT DE	26s protease regulatory subunit 8	0	0	0	0	0	0	0	0	0	255.712	242.4182	261.6802	265.3867	267.4193	261.4016	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_006446	NOT DE	e3 ubiquitin-ligase	0	0	0	0	0	0	0	0	0	8.351566	7.802828	7.204982	9.368639	10.744524	9.032293	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_007090	NOT DE	er lectin	0	0	0	0	0	0	0	0	0	276.1256	266.2402	284.2759	260.1023	283.303	242.6208	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_007415	NOT DE	26s protease regulatory subunit 10b	0	0	0	0	0	0	0	0	0	313.0071	310.4211	338.1811	346.0161	338.2225	332.4379	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_008843	NOT DE	ubiquitin thioesterase otu1	0	0	0	0	0	0	0	0	0	30.27866	27.39366	26.59726	26.96857	29.71718	28.67685	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_010851	NOT DE	26s proteasome regulatory subunit 6b homolog	0	0	0	0	0	0	0	0	0	134.4824	137.6826	139.1569	138.1588	131.3583	159.7649	GO:0034976	response to endoplasmic reticulum stress	BP
+Gene_011079	NOT DE	e3 ufm1-ligase 1	0	0	0	0	0	0	0	0	0	160.8856	153.1572	164.8177	155.8964	157.4003	156.5154	GO:0034976	response to endoplasmic reticulum stress	BP

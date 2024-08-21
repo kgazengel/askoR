@@ -1,0 +1,33 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000040	dual specificity catalytic domain containing	0	0	0	0	0	0	0	0	0	1.883831	1.48098	1.052039	1.188411	1.76697	1.552914	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000076	serine threonine kinase	1	1	0	0	0	0	0	-1	-1	128.98429	100.79848	98.53502	120.74153	132.10107	128.83352	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000134	calcium calmodulin-dependent kinase kinase 1-like isoform x2	0	0	0	0	0	0	0	0	0	42.03007	36.95322	37.18573	37.40646	39.60912	36.02509	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000163	g-coupled receptor kinase 7b-like	0	0	0	0	0	0	0	1	0	0.3004652	0.6309157	0.5936574	0.2064747	0.149101	0.1269811	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000184	serine threonine kinase	0	0	0	0	0	0	0	0	0	75.74056	71.88927	75.33712	85.62161	80.1899	75.25384	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000194	pyruvate kinase	0	0	0	0	0	0	0	-1	0	427.2105	381.4145	402.3663	410.35	462.839	444.0249	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000267	cmgc mapk kinase	0	-1	0	0	0	0	0	0	1	35.68453	45.49657	50.85537	43.19143	37.02378	34.9801	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000279	camp-dependent kinase catalytic	-1	-1	0	1	0	0	0	1	1	18.57812	43.73731	52.72158	33.62898	12.48653	17.70238	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000333	mitogen activated kinase 7	0	0	0	0	0	0	0	1	1	10.452408	14.532259	14.964912	11.396358	8.60073	8.434861	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000459	inorganic polyphosphate kinase	0	0	0	0	0	0	0	0	0	69.07863	63.03984	63.3951	59.46822	63.87208	60.65729	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000474	casein kinase i	0	0	0	0	0	0	0	0	1	169.7984	179.2767	192.8575	163.6507	165.6191	141.5461	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000477	serine threonine-kinase orb6	0	0	0	0	0	0	0	0	0	3.926947	3.995094	3.57866	2.675652	3.741453	2.518799	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000511	serine threonine-kinase ht1	-1	-1	0	1	0	0	0	1	1	19.74145	58.94238	56.78064	40.99977	11.73175	17.81687	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000518	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000547	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	0	0	8.825714	8.613276	9.45409	6.482592	6.461352	6.409408	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000548	inositol pentakisphosphate 2-kinase	0	0	0	0	0	0	0	0	0	61.07396	56.42205	57.15451	59.21895	61.99667	60.18268	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000570	nad kinase 3	0	0	0	0	0	0	0	0	1	50.34236	53.31412	55.25912	47.72066	43.29944	38.67503	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000651	sphingosine kinase	0	0	0	0	0	0	0	0	0	4.679626	7.640925	6.462206	8.819662	7.62909	4.500533	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000657	riboflavin kinase	0	0	0	0	0	0	0	0	0	22.14923	22.74704	23.91705	21.35231	20.91083	19.84648	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000719	3-phosphoshikimate 1-carboxyvinyltransferase	0	0	0	0	0	0	0	-1	0	283.0898	277.9638	281.8086	294.0452	323.0963	318.6991	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000754	[micromonas commoda]	0	0	0	0	0	0	0	0	0	60.74975	62.87067	65.54181	48.75342	52.03697	57.07477	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000760	kinase 2	0	0	0	0	0	0	0	0	-1	22.01819	23.78803	19.82826	28.72344	27.73389	28.85588	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000769	serine threonine kinase	0	0	0	0	0	0	0	0	0	38.68038	34.85523	33.0264	34.48199	39.83511	42.67001	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000792	hypothetical protein pbra 005179; partial	0	0	0	0	0	0	0	0	0	8.030964	8.832374	7.213284	7.637017	9.513473	10.474984	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000818	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	12.340694	9.005186	9.0605	10.010681	10.618071	12.004895	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000869	atp gtp-binding	0	0	0	0	0	0	0	1	1	0.8102091	1.9226746	1.7891229	0.5733737	0.4504658	0.3684524	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000882	cmgc family kinase	0	0	0	0	0	0	0	0	0	21.10483	20.57675	18.22808	20.52874	21.92939	23.4735	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000964	interferon-double-stranded rna-activated kinase isoform x1	0	0	0	0	0	0	0	-1	0	220.7964	208.813	224.0779	234.0028	263.684	233.2867	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001016	serine threonine-kinase atr	0	0	0	0	0	0	0	-1	0	228.569	190.7936	210.3716	220.7148	253.7526	244.819	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001020	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001059	leucine rich repeat family	0	-1	0	0	0	0	-1	0	1	161.2324	181.0712	203.9237	194.7425	164.7653	163.085	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001103	u6 snrna-associated sm lsm5	0	0	0	0	0	0	0	0	0	55.97281	55.10414	55.76108	48.99013	51.42565	46.94754	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF

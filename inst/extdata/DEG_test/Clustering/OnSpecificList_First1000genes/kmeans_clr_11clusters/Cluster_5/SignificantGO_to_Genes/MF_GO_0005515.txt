@@ -1,0 +1,16 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000091	5	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0005515	protein binding	MF
+Gene_000246	5	cell division cycle cofactor of apc complex	-1	0	0	0	0	0	0	1	0	2.469049	5.898176	3.885463	2.284554	1.599903	1.679895	GO:0005515	protein binding	MF
+Gene_000255	5	hypothetical protein pbra 003672	-1	-1	0	1	0	0	0	1	0	0.9062485	3.2424781	2.6549629	1.8714318	0.5591336	1.0512349	GO:0005515	protein binding	MF
+Gene_000327	5	hypothetical protein pbra 001419	-1	-1	0	1	0	0	0	1	1	73.84533	102.7626	126.26174	81.84454	60.05898	60.30343	GO:0005515	protein binding	MF
+Gene_000364	5	hypothetical protein pbra 001453	-1	-1	0	0	0	0	0	1	1	2.0182826	4.1501971	5.2435036	1.7958648	0.8331401	2.0421019	GO:0005515	protein binding	MF
+Gene_000611	5	cilia- and flagella-associated 70 isoform x1	0	0	0	0	0	0	0	1	0	1.3024936	2.2746887	1.9643246	1.2041307	0.4349251	0.6036781	GO:0005515	protein binding	MF
+Gene_000628	5	bag domain containing	-1	0	0	1	0	0	0	1	1	3.984829	8.304961	7.256319	4.864994	2.136658	1.607036	GO:0005515	protein binding	MF
+Gene_000645	5	hypothetical protein pbra 001707; partial	-1	0	0	0	0	0	0	1	0	11.15268	22.72306	19.64407	15.36347	11.23937	11.12852	GO:0005515	protein binding	MF
+Gene_000648	5	dna topoisomerase domain	-1	-1	0	1	0	0	0	1	1	1.916876	4.883131	5.200732	3.90206	1.191305	1.800631	GO:0005515	protein binding	MF
+Gene_000820	5	hypothetical protein pbra 005130	-1	-1	0	1	0	0	0	1	1	0.48562089	1.52031002	1.90036101	1.03722963	0.09676149	0.30183903	GO:0005515	protein binding	MF
+Gene_000843	5	e3 ubiquitin-ligase sis3	0	0	0	1	0	0	0	1	1	9.104449	14.240562	13.823656	10.669455	5.311266	5.533031	GO:0005515	protein binding	MF
+Gene_000864	5	bardet-biedl syndrome 4	-1	-1	0	1	0	0	0	1	1	4.21215	7.777549	10.233585	6.863589	2.593962	4.011345	GO:0005515	protein binding	MF
+Gene_000865	5	sporangia induced bardet-biedl syndrome 4	0	-1	0	0	0	0	0	1	1	1.85861	3.397531	3.975924	2.284726	1.547003	1.540423	GO:0005515	protein binding	MF
+Gene_001020	5	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0005515	protein binding	MF
+Gene_001034	5	e3 ubiquitin-ligase itchy-like	-1	0	0	0	0	0	0	1	1	2.1236334	4.9779365	3.7200427	3.0494495	1.8802756	0.9846215	GO:0005515	protein binding	MF

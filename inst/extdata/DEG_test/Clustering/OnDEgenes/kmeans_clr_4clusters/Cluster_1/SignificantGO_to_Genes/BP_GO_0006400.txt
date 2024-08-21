@@ -1,0 +1,26 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000106	1	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0006400	tRNA modification	BP
+Gene_000165	1	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0006400	tRNA modification	BP
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0006400	tRNA modification	BP
+Gene_000747	1	threonylcarbamoyladenosine trna methylthiotransferase	1	1	0	0	0	0	0	-1	-1	187.6153	156.3193	146.7353	176.6942	196.4749	191.3955	GO:0006400	tRNA modification	BP
+Gene_000759	1	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0006400	tRNA modification	BP
+Gene_001582	1	cytoplasmic trna 2-thiolation 1	1	1	0	0	0	0	0	0	0	145.3401	110.5019	105.8541	120.4044	120.4524	120.255	GO:0006400	tRNA modification	BP
+Gene_002734	1	trna-dihydrouridine(20) synthase [nad(p)+]-like	1	1	0	0	0	0	0	-1	-1	84.60322	69.87414	66.67464	79.42111	92.54741	85.03137	GO:0006400	tRNA modification	BP
+Gene_002878	1	elongator complex 2 isoform x1	1	1	0	0	0	0	0	0	-1	75.88911	60.97788	56.07763	63.7001	67.39864	72.60391	GO:0006400	tRNA modification	BP
+Gene_004088	1	ubiquitin-related modifier 1 homolog 2	1	0	0	0	0	0	0	-1	0	49.612	39.55676	40.41274	45.4698	55.76582	44.6473	GO:0006400	tRNA modification	BP
+Gene_004270	1	trna modification gtpase mitochondrial	1	0	0	0	0	0	0	0	0	60.77955	48.9908	49.59142	53.48359	57.55935	59.12311	GO:0006400	tRNA modification	BP
+Gene_004864	1	trna (adenosine(37)-n6)-threonylcarbamoyltransferase complex transferase subunit	0	0	0	0	0	0	1	0	0	52.40063	42.37899	41.34821	39.94091	44.07684	51.00467	GO:0006400	tRNA modification	BP
+Gene_004996	1	trna (guanine(37)-n1)-methyltransferase	0	1	0	0	0	0	1	0	0	100.33581	84.18007	77.20938	76.53344	90.31594	76.70267	GO:0006400	tRNA modification	BP
+Gene_005317	1	trna (adenine(58)-n(1))-methyltransferase catalytic subunit trmt61a-like	1	1	0	0	0	0	0	-1	-1	209.1064	166.1371	153.9037	182.4184	200.6272	191.5162	GO:0006400	tRNA modification	BP
+Gene_007738	1	probable trna(his) guanylyltransferase	1	1	0	0	0	0	0	-1	0	99.82515	80.47603	77.68647	85.62294	99.27612	90.44783	GO:0006400	tRNA modification	BP
+Gene_008593	1	trna (guanine-n(7)-)-methyltransferase	0	1	0	0	0	0	0	-1	0	171.7386	140.6659	131.894	166.1512	185.5186	152.4186	GO:0006400	tRNA modification	BP
+Gene_008875	1	adenylyltransferase and sulfurtransferase mocs3	0	0	0	0	0	0	0	-1	0	98.48184	82.42727	79.8187	93.27447	100.09496	99.35105	GO:0006400	tRNA modification	BP
+Gene_009870	1	trna guanosine-2-o-methyltransferase	1	1	0	0	0	0	0	-1	0	92.00419	75.97717	72.89933	90.01472	96.56484	91.28555	GO:0006400	tRNA modification	BP
+Gene_010028	1	multisite-specific trna:(cytosine-c5)-methyltransferase	0	0	0	0	0	0	0	-1	-1	152.6088	133.4217	131.781	171.2284	195.8473	197.1097	GO:0006400	tRNA modification	BP
+Gene_010399	1	initiator trna phosphoribosyl transferase	1	1	0	0	0	0	0	-1	0	113.68045	92.70718	91.3838	100.00173	109.90414	97.06332	GO:0006400	tRNA modification	BP
+Gene_010532	1	chromatin associated kti12	1	1	0	0	0	0	0	-1	-1	72.26277	56.62481	58.18052	75.25818	83.55084	76.92334	GO:0006400	tRNA modification	BP
+Gene_011541	1	hypothetical protein pbra 004395	0	0	0	0	0	0	0	-1	-1	78.08338	64.78398	59.12707	85.59452	103.52332	94.61321	GO:0006400	tRNA modification	BP
+Gene_011818	1	trna-dihydrouridine synthase	1	1	0	0	0	0	0	-1	-1	67.8456	52.54997	50.13821	66.97693	74.89818	82.67078	GO:0006400	tRNA modification	BP
+Gene_011946	1	queuine trna-ribosyltransferase	1	1	0	0	0	0	0	0	-1	79.8687	66.21623	61.16627	72.52891	73.95502	79.88553	GO:0006400	tRNA modification	BP
+Gene_012178	1	probable trna n6-adenosine threonylcarbamoyltransferase	1	1	0	0	0	0	0	0	0	115.21233	95.43968	86.47562	105.88049	110.25012	104.09516	GO:0006400	tRNA modification	BP
+Gene_012759	1	rna cytidine acetyltransferase	1	1	0	0	0	0	0	-1	-1	153.9122	116.9025	109.6971	145.1201	153.3694	162.0962	GO:0006400	tRNA modification	BP

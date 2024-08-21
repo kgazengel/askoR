@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000924	3	[skp1-]-hydroxyproline n-family gt60	0	-1	0	1	0	0	0	1	0	0.835304	1.760175	2.2173595	1.2562694	0.2845671	0.8035181	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_001336	3	c transferase	0	0	0	1	0	0	0	1	0	0.7650702	1.745091	1.7459371	1.6396545	0.4237561	0.5495558	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_001729	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_001928	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_004348	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_006428	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_007781	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	13.210096	38.853031	38.853111	26.554445	7.601252	12.167261	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_007978	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_008714	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	1	0	0	0	1	1	1.691624	4.6504938	5.1347241	3.4042967	0.9784294	1.7340173	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_008862	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:0008375	acetylglucosaminyltransferase activity	MF
+Gene_009633	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	0	0	0	0	1	1	0.9683343	2.3009084	2.1770199	0.9624252	0.4024094	0.3080846	GO:0008375	acetylglucosaminyltransferase activity	MF

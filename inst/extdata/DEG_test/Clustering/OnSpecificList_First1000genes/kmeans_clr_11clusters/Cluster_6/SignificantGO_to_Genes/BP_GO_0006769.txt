@@ -1,0 +1,3 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000459	6	inorganic polyphosphate kinase	0	0	0	0	0	0	0	0	0	69.07863	63.03984	63.3951	59.46822	63.87208	60.65729	GO:0006769	nicotinamide metabolic process	BP
+Gene_000570	6	nad kinase 3	0	0	0	0	0	0	0	0	1	50.34236	53.31412	55.25912	47.72066	43.29944	38.67503	GO:0006769	nicotinamide metabolic process	BP

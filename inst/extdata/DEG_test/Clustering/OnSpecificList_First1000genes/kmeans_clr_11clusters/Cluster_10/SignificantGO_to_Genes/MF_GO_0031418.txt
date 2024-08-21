@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000062	10	2-oxoglutarate and iron-dependent oxygenase domain-containing 3-like	0	0	0	0	0	0	0	-1	0	76.71951	64.82437	62.36099	67.88936	81.38241	73.00773	GO:0031418	L-ascorbic acid binding	MF
+Gene_000272	10	c transferase	0	0	0	0	0	0	0	0	0	35.22853	28.93299	27.33924	28.33837	32.50103	33.34183	GO:0031418	L-ascorbic acid binding	MF
+Gene_000457	10	probable prolyl 4-hydroxylase 11 isoform x1	0	1	0	0	0	0	0	0	0	0.8722933	0.3942913	0.3137382	0.3801061	0.4312021	0.4350657	GO:0031418	L-ascorbic acid binding	MF

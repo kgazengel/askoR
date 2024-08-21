@@ -1,0 +1,24 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000037	3	polycystic kidney disease 2-like 1	-1	0	0	0	0	0	0	1	0	1.85861	6.196447	4.84461	3.445664	1.482798	1.927612	GO:0005509	calcium ion binding	MF
+Gene_000367	3	ca2 :cation antiporter ( ) family	-1	-1	0	0	0	0	0	1	1	3.282364	8.769904	8.624968	5.468358	2.73878	1.654913	GO:0005509	calcium ion binding	MF
+Gene_001318	3	epidermal growth factor receptor substrate 15-like	-1	-1	0	1	0	0	-1	1	1	32.04411	66.93192	59.56591	56.59176	27.21854	28.58734	GO:0005509	calcium ion binding	MF
+Gene_001519	3	ef-hand domain-containing	-1	-1	0	1	0	0	0	1	1	9.496886	28.053091	25.705783	18.212698	6.3842	7.219172	GO:0005509	calcium ion binding	MF
+Gene_001520	3	agc pkg kinase	-1	0	0	0	0	0	0	1	1	1.2424797	4.1444489	2.6048423	1.3291995	0.6446375	0.7431503	GO:0005509	calcium ion binding	MF
+Gene_002067	3	calcineurin subunit b type 2	-1	-1	0	1	0	0	0	1	1	1.473485	4.6501641	4.5088778	2.9745204	0.5515104	0.8638859	GO:0005509	calcium ion binding	MF
+Gene_002769	3	hypothetical protein pbra 007876	-1	-1	0	0	0	0	-1	1	1	12.08167	24.6861	26.47506	21.05666	14.03967	10.87871	GO:0005509	calcium ion binding	MF
+Gene_003207	3	ef hand family	-1	-1	0	1	0	0	0	1	1	12.86675	34.14109	30.25666	23.22313	10.83849	10.427	GO:0005509	calcium ion binding	MF
+Gene_004288	3	calmodulin	-1	-1	0	0	0	0	0	1	1	3.097659	8.257056	7.027322	3.221379	1.23447	1.305197	GO:0005509	calcium ion binding	MF
+Gene_004310	3	ef-hand calcium-binding domain-containing 11-like	-1	-1	0	1	0	0	0	1	1	0.456843	2.1091579	2.0837135	1.0622351	0.3057365	0.4225746	GO:0005509	calcium ion binding	MF
+Gene_004766	3	probable proline dehydrogenase 2	-1	-1	0	1	0	0	0	1	1	34.20298	64.60684	77.26848	45.47679	23.50117	30.4546	GO:0005509	calcium ion binding	MF
+Gene_005113	3	alpha-amylase amy3	-1	-1	0	1	0	0	0	1	1	88.955	267.31055	254.38275	178.76983	54.61683	83.37124	GO:0005509	calcium ion binding	MF
+Gene_005336	3	dynein light chain	-1	0	0	0	0	0	0	1	1	1.0155436	2.6128076	2.3139262	1.146282	0.4605549	0.3684524	GO:0005509	calcium ion binding	MF
+Gene_005442	3	tubulin polyglutamylase complex subunit 1-like	-1	-1	0	1	0	0	0	1	1	3.794827	10.94632	11.235115	7.856763	2.187044	3.534648	GO:0005509	calcium ion binding	MF
+Gene_006892	3	tandem-95 repeat	-1	-1	0	1	0	0	0	1	0	2.9837095	8.5951612	9.1423957	4.9440124	0.9579087	3.2557036	GO:0005509	calcium ion binding	MF
+Gene_007278	3	ef containing	-1	-1	0	1	0	0	0	1	1	3.398209	10.494906	9.731468	6.381313	2.3204	4.351842	GO:0005509	calcium ion binding	MF
+Gene_007794	3	hypothetical protein pbra 005368	-1	0	0	0	0	0	0	1	0	15.33507	38.80098	26.71215	27.30304	17.09462	16.76979	GO:0005509	calcium ion binding	MF
+Gene_008949	3	hypothetical protein pbra 009430	-1	-1	0	0	0	0	0	1	0	1.972172	4.655584	4.268884	3.514878	1.465871	1.794385	GO:0005509	calcium ion binding	MF
+Gene_009614	3	ef-hand pair	-1	-1	0	1	0	0	0	1	1	6.911953	18.766589	17.375432	13.03226	4.451634	5.335279	GO:0005509	calcium ion binding	MF
+Gene_010689	3	af084419 1calmodulin mutant syncam64a	-1	-1	0	1	0	0	-1	1	0	1.450011	3.742146	4.158157	3.182534	1.365149	2.060839	GO:0005509	calcium ion binding	MF
+Gene_010694	3	calm3 pethy ame: full=calmodulin-related	-1	-1	0	0	0	0	0	1	0	4.984072	10.90508	10.966801	8.645476	4.68831	6.126306	GO:0005509	calcium ion binding	MF
+Gene_011533	3	centrin 2	-1	-1	0	1	0	0	0	1	1	16.365375	45.334056	46.076439	27.335362	8.551852	12.700168	GO:0005509	calcium ion binding	MF
+Gene_012375	3	calcium-dependent protein 5	-1	-1	0	1	0	0	0	1	1	3.85303	9.705379	9.773573	5.869509	2.109074	3.61791	GO:0005509	calcium ion binding	MF

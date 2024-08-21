@@ -1,0 +1,104 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000028	NOT DE	vacuolar sorting-associated 51 homolog	0	0	0	0	0	0	0	0	0	182.6798	189.4296	199.5069	178.2768	170.1441	182.5381	GO:0035556	intracellular signal transduction	BP
+Gene_000359	NOT DE	guanylate cyclase	0	0	0	0	0	0	0	0	0	133.8803	128.4004	121.8346	144.2588	155.8946	143.8526	GO:0035556	intracellular signal transduction	BP
+Gene_000602	NOT DE	hypothetical protein pbra 001673	0	0	0	0	0	0	0	0	0	5.059475	7.183597	6.674072	6.473181	5.620459	5.437278	GO:0035556	intracellular signal transduction	BP
+Gene_000603	NOT DE	hypothetical protein pbra 001673	0	0	0	0	0	0	0	0	0	3.760997	4.751499	4.672668	3.767451	4.086974	5.237438	GO:0035556	intracellular signal transduction	BP
+Gene_000714	NOT DE	ras-related rabh1e	0	0	0	0	0	0	0	0	0	30.95405	31.4535	34.76954	33.23058	32.90389	27.18223	GO:0035556	intracellular signal transduction	BP
+Gene_000754	NOT DE	[micromonas commoda]	0	0	0	0	0	0	0	0	0	60.74975	62.87067	65.54181	48.75342	52.03697	57.07477	GO:0035556	intracellular signal transduction	BP
+Gene_000818	NOT DE	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	12.340694	9.005186	9.0605	10.010681	10.618071	12.004895	GO:0035556	intracellular signal transduction	BP
+Gene_000889	NOT DE	small gtpase	0	0	0	0	0	0	0	0	0	117.29831	102.94425	107.96098	99.80474	116.85062	107.37376	GO:0035556	intracellular signal transduction	BP
+Gene_000923	NOT DE	rab gtpase	0	0	0	0	0	0	0	0	0	451.1919	504.3582	524.9927	512.9585	489.0737	470.743	GO:0035556	intracellular signal transduction	BP
+Gene_000932	NOT DE	internalin-a precursor	0	0	0	0	0	0	0	0	0	6.110846	5.212767	4.945653	6.770979	7.540314	6.46353	GO:0035556	intracellular signal transduction	BP
+Gene_001447	NOT DE	adp-ribosylation factor	0	0	0	0	0	0	0	0	0	332.3117	347.8451	339.9463	346.2879	347.8498	376.086	GO:0035556	intracellular signal transduction	BP
+Gene_001474	NOT DE	cyclic nucleotide-binding	0	0	0	0	0	0	0	0	0	35.4326	36.86219	33.25012	27.7491	30.37804	24.62387	GO:0035556	intracellular signal transduction	BP
+Gene_001719	NOT DE	hypothetical protein pbra 003020	0	0	0	0	0	0	0	0	0	38.23467	36.08497	38.24794	36.36719	37.89524	38.18168	GO:0035556	intracellular signal transduction	BP
+Gene_001725	NOT DE	ste ste20 fray kinase	0	0	0	0	0	0	0	0	0	112.9741	112.4379	111.9826	108.4137	108.2686	107.3488	GO:0035556	intracellular signal transduction	BP
+Gene_001788	NOT DE	mitochondrial rho gtpase 1-like	0	0	0	0	0	0	0	0	0	208.6194	213.0345	223.3887	210.188	199.1591	196.2603	GO:0035556	intracellular signal transduction	BP
+Gene_002752	NOT DE	hypothetical protein pbra 007893	0	0	0	0	0	0	0	0	0	1.612593	1.282303	1.280621	1.37444	1.265893	0.990867	GO:0035556	intracellular signal transduction	BP
+Gene_002792	NOT DE	hypothetical protein pbra 007862	0	0	0	0	0	0	0	0	0	4.014639	4.742695	4.456299	3.737542	3.542301	4.186203	GO:0035556	intracellular signal transduction	BP
+Gene_002860	NOT DE	dep domain containing	0	0	0	0	0	0	0	0	0	98.66486	104.32568	115.73846	111.48999	105.98285	102.52141	GO:0035556	intracellular signal transduction	BP
+Gene_002896	NOT DE	spermatogenesis-associated 13	0	0	0	0	0	0	0	0	0	3.278671	3.635499	4.048038	4.064699	4.95483	3.684524	GO:0035556	intracellular signal transduction	BP
+Gene_003025	NOT DE	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	0	0	1.7200774	1.3562512	1.4273085	1.1712874	0.9895984	1.2510749	GO:0035556	intracellular signal transduction	BP
+Gene_003035	NOT DE	rho guanine nucleotide exchange	0	0	0	0	0	0	0	0	0	31.1797	33.98099	32.71269	35.99762	40.12028	39.9948	GO:0035556	intracellular signal transduction	BP
+Gene_003184	NOT DE	dual specificity phosphatase 21 isoform x1	0	0	0	0	0	0	0	0	0	23.08146	19.46471	18.90088	19.43405	18.72772	20.09629	GO:0035556	intracellular signal transduction	BP
+Gene_003186	NOT DE	phosphatidylinositol 3-root isoform	0	0	0	0	0	0	0	0	0	117.5779	106.0559	109.7069	111.8165	119.6041	109.9925	GO:0035556	intracellular signal transduction	BP
+Gene_003531	NOT DE	dna-binding horma domain-containing	0	0	0	0	0	0	0	0	0	85.59206	76.25072	80.36876	84.78454	82.4834	83.70746	GO:0035556	intracellular signal transduction	BP
+Gene_003677	NOT DE	adenylate guanylate cyclase	0	0	0	0	0	0	0	0	0	5.275227	4.521034	4.317762	3.464618	3.594729	3.582525	GO:0035556	intracellular signal transduction	BP
+Gene_003683	NOT DE	soss complex subunit b2-like	0	0	0	0	0	0	0	0	0	28.16179	29.6822	32.00332	24.89807	23.74569	24.8029	GO:0035556	intracellular signal transduction	BP
+Gene_003890	NOT DE	domain containing	0	0	0	0	0	0	0	0	0	7.200706	8.332525	7.678422	4.777845	5.187452	5.564259	GO:0035556	intracellular signal transduction	BP
+Gene_003929	NOT DE	cmgc mapk kinase	0	0	0	0	0	0	0	0	0	159.0851	145.6958	142.5906	147.2941	163.1549	174.657	GO:0035556	intracellular signal transduction	BP
+Gene_003951	NOT DE	nitrogen permease regulator 2	0	0	0	0	0	0	0	0	0	20.60414	19.33082	18.43844	18.74962	20.92439	16.79478	GO:0035556	intracellular signal transduction	BP
+Gene_004079	NOT DE	cell cycle checkpoint control rad9a-like	0	0	0	0	0	0	0	0	0	136.2355	119.399	115.1081	109.5214	138.7983	112.9817	GO:0035556	intracellular signal transduction	BP
+Gene_004119	NOT DE	brefeldin a-inhibited guanine nucleotide-exchange 1	0	0	0	0	0	0	0	0	0	126.0554	137.1231	145.5554	140.2726	141.7749	133.7108	GO:0035556	intracellular signal transduction	BP
+Gene_004174	NOT DE	hypothetical protein pbra 004617	0	0	0	0	0	0	0	0	0	91.24655	82.19664	85.76987	85.57673	92.71613	93.16233	GO:0035556	intracellular signal transduction	BP
+Gene_004773	NOT DE	adenylyl	0	0	0	0	0	0	0	0	0	81.24587	68.33169	70.69618	71.36021	78.55164	82.38559	GO:0035556	intracellular signal transduction	BP
+Gene_004810	NOT DE	replication factor c subunit 2	0	0	0	0	0	0	0	0	0	90.61685	84.44837	92.09196	94.51289	97.01464	100.22329	GO:0035556	intracellular signal transduction	BP
+Gene_005111	NOT DE	ring u-box superfamily	0	0	0	0	0	0	0	0	0	3.535065	4.041597	3.107846	3.135141	2.768501	2.936172	GO:0035556	intracellular signal transduction	BP
+Gene_005416	NOT DE	alpha- and gamma-adaptin-binding p34-like	0	0	0	0	0	0	0	0	0	101.52844	95.80611	99.47939	93.55807	96.33773	108.01702	GO:0035556	intracellular signal transduction	BP
+Gene_005530	NOT DE	required for s-m and dna damage checkpoints	0	0	0	0	0	0	0	0	0	61.12607	50.58477	50.69355	52.33991	59.13484	64.6749	GO:0035556	intracellular signal transduction	BP
+Gene_005869	NOT DE	rab gtpase 2b (macronuclear)	0	0	0	0	0	0	0	0	0	96.07985	96.45794	94.22698	90.93767	89.38668	88.3766	GO:0035556	intracellular signal transduction	BP
+Gene_005891	NOT DE	regulator of g signaling	0	0	0	0	0	0	0	0	0	98.66682	92.86692	88.90448	99.52296	98.85391	99.44263	GO:0035556	intracellular signal transduction	BP
+Gene_005908	NOT DE	pas domain s-box	0	0	0	0	0	0	0	0	0	86.77357	75.26654	69.38494	72.39054	85.95861	96.44092	GO:0035556	intracellular signal transduction	BP
+Gene_005992	NOT DE	response regulator	0	0	0	0	0	0	0	0	0	45.06077	44.64512	43.18497	37.76609	38.78952	38.2025	GO:0035556	intracellular signal transduction	BP
+Gene_006042	NOT DE	adenylate cyclase	0	0	0	0	0	0	0	0	0	67.47347	75.02756	68.48937	70.78239	71.10132	66.37976	GO:0035556	intracellular signal transduction	BP
+Gene_006252	NOT DE	adp-ribosylation factor 8b	0	0	0	0	0	0	0	0	0	7.733273	6.767298	7.362252	6.579927	7.300286	5.716222	GO:0035556	intracellular signal transduction	BP
+Gene_006365	NOT DE	mitogen-activated kinase phosphatase isoform a	0	0	0	0	0	0	0	0	0	62.07398	51.73168	48.84447	46.6091	54.43197	62.47457	GO:0035556	intracellular signal transduction	BP
+Gene_006454	NOT DE	serine threonine-kinase	0	0	0	0	0	0	0	0	0	187.2399	206.9369	219.1972	229.1657	213.7584	205.0283	GO:0035556	intracellular signal transduction	BP
+Gene_006553	NOT DE	signal transduction histidine kinase	0	0	0	0	0	0	0	0	0	0.4817083	0.5373482	0.7625192	0.5179562	0.6009327	0.4923108	GO:0035556	intracellular signal transduction	BP
+Gene_006592	NOT DE	cytosolic regulator of adenylyl cyclase	0	0	0	0	0	0	0	0	0	63.24503	56.67435	60.5501	55.00517	59.98458	72.89534	GO:0035556	intracellular signal transduction	BP
+Gene_006831	NOT DE	ras-related rab11	0	0	0	0	0	0	0	0	0	0.4679002	0.6409905	0.2848096	0.5835991	0.7287553	0.2414712	GO:0035556	intracellular signal transduction	BP
+Gene_006885	NOT DE	sec13 homolog	0	0	0	0	0	0	0	0	0	127.6437	123.1914	128.5245	111.4402	114.6613	123.3276	GO:0035556	intracellular signal transduction	BP
+Gene_006954	NOT DE	adenylyl cyclase class-3 4 guanylyl cyclase	0	0	0	0	0	0	0	0	0	6.726926	11.331063	7.377725	7.873604	6.143975	5.449769	GO:0035556	intracellular signal transduction	BP
+Gene_007107	NOT DE	hypothetical protein bvrb 027710; partial	0	0	0	0	0	0	0	0	0	6.904632	6.974488	5.910905	5.16123	5.838149	5.582995	GO:0035556	intracellular signal transduction	BP
+Gene_007158	NOT DE	small gtpase arf sar type	0	0	0	0	0	0	0	0	0	369.0669	384.9479	390.216	406.8933	414.0721	359.1934	GO:0035556	intracellular signal transduction	BP
+Gene_007260	NOT DE	brefeldin a-inhibited guanine nucleotide-exchange	0	0	0	0	0	0	0	0	0	281.5108	284.3656	291.7346	299.8012	320.6967	395.737	GO:0035556	intracellular signal transduction	BP
+Gene_007455	NOT DE	domain-containing [naegleria gruberi]	0	0	0	0	0	0	0	0	0	82.79222	63.90552	62.13023	67.55043	80.77632	86.5489	GO:0035556	intracellular signal transduction	BP
+Gene_007464	NOT DE	phosphatidylinositol-4;5-diphosphate 3-kinase	0	0	0	0	0	0	0	0	0	56.12351	51.15182	48.79202	47.96624	46.57144	47.10573	GO:0035556	intracellular signal transduction	BP
+Gene_007495	NOT DE	adenylate guanylate cyclase domain-containing	0	0	0	0	0	0	0	0	0	4.678105	3.889539	3.961252	3.692647	3.646803	3.411825	GO:0035556	intracellular signal transduction	BP
+Gene_007504	NOT DE	phosphatidylinositol 3-kinase	0	0	0	0	0	0	0	0	0	94.56596	89.56666	95.63923	91.3641	95.86611	98.91808	GO:0035556	intracellular signal transduction	BP
+Gene_007505	NOT DE	hypothetical protein pbra 004002	0	0	0	0	0	0	0	0	0	12.92016	12.79098	12.68439	11.86673	12.98548	13.82842	GO:0035556	intracellular signal transduction	BP
+Gene_007528	NOT DE	ras-related rabc1	0	0	0	0	0	0	0	0	0	93.43069	91.19468	92.55728	95.82617	104.69668	95.48751	GO:0035556	intracellular signal transduction	BP
+Gene_007595	NOT DE	ragulator complex lamtor2	0	0	0	0	0	0	0	0	0	31.29979	29.01746	28.74489	31.07381	29.9071	32.20111	GO:0035556	intracellular signal transduction	BP
+Gene_007640	NOT DE	regulator of g-signaling 5-like	0	0	0	0	0	0	0	0	0	0.75491343	0.47819409	0.34592711	0.42896589	0.496705	0.06036781	GO:0035556	intracellular signal transduction	BP
+Gene_007873	NOT DE	adp-ribosylation factor 2	0	0	0	0	0	0	0	0	0	82.01865	84.26626	78.32903	96.34033	94.25668	75.8284	GO:0035556	intracellular signal transduction	BP
+Gene_007930	NOT DE	serine threonine-active site	0	0	0	0	0	0	0	0	0	154.8629	162.2996	173.9516	158.6996	152.5168	159.4172	GO:0035556	intracellular signal transduction	BP
+Gene_007937	NOT DE	ras-related rab-23-like	0	0	0	0	0	0	0	0	0	0.3781365	0.6271127	0.8269233	0.883172	0.7307498	0.8160092	GO:0035556	intracellular signal transduction	BP
+Gene_007938	NOT DE	ras family	0	0	0	0	0	0	0	0	0	0.5196394	0.5868698	0.7747717	0.6561022	0.3752868	0.2477168	GO:0035556	intracellular signal transduction	BP
+Gene_008098	NOT DE	guanine nucleotide exchange factor mss4 homolog	0	0	0	0	0	0	0	0	0	19.69907	18.4786	18.05217	22.04648	22.19831	18.28941	GO:0035556	intracellular signal transduction	BP
+Gene_008103	NOT DE	domain containing	0	0	0	0	0	0	0	0	0	14.31331	13.36083	11.43311	13.9029	16.88252	14.10736	GO:0035556	intracellular signal transduction	BP
+Gene_008105	NOT DE	pleckstrin domain-containing	0	0	0	0	0	0	0	0	0	87.51174	74.92845	83.5285	79.84552	88.45073	92.23597	GO:0035556	intracellular signal transduction	BP
+Gene_008109	NOT DE	adp-ribosylation factor 5b	0	0	0	0	0	0	0	0	0	45.55154	44.41306	46.98456	44.95478	41.52706	38.76039	GO:0035556	intracellular signal transduction	BP
+Gene_008512	NOT DE	hypothetical protein pbra 007048	0	0	0	0	0	0	0	0	0	4.664653	6.358575	5.720231	6.071257	5.096928	4.615023	GO:0035556	intracellular signal transduction	BP
+Gene_008567	NOT DE	rho guanine nucleotide exchange	0	0	0	0	0	0	0	0	0	41.7599	43.23549	42.24743	37.96209	41.2295	42.12017	GO:0035556	intracellular signal transduction	BP
+Gene_008640	NOT DE	adp-ribosylation factor-related 1	0	0	0	0	0	0	0	0	0	27.75137	27.75515	28.86229	28.31307	29.61024	27.59856	GO:0035556	intracellular signal transduction	BP
+Gene_008677	NOT DE	rho rac guanine nucleotide exchange	0	0	0	0	0	0	0	0	0	30.08591	27.26775	27.30819	27.30225	29.36236	33.30229	GO:0035556	intracellular signal transduction	BP
+Gene_009260	NOT DE	tubulin polymerization-promoting family member 2-like	0	0	0	0	0	0	0	0	0	2.583448	2.079046	2.862353	3.295541	3.218558	2.591658	GO:0035556	intracellular signal transduction	BP
+Gene_009446	NOT DE	ste ste11 cdc15 kinase	0	0	0	0	0	0	0	0	0	162.5439	162.3532	181.0063	161.3319	148.961	146.9855	GO:0035556	intracellular signal transduction	BP
+Gene_009983	NOT DE	zinc finger fyve domain-containing 1-like	0	0	0	0	0	0	0	0	0	75.10819	83.65476	89.08458	81.37194	71.13228	75.16642	GO:0035556	intracellular signal transduction	BP
+Gene_010018	NOT DE	ha-tagged kinase domain of mitogen-activated kinase kinase kinase	0	0	0	0	0	0	0	0	0	0.29904231	0.25252878	0.44249381	0.34977502	0.37323385	0.06036781	GO:0035556	intracellular signal transduction	BP
+Gene_010325	NOT DE	rab 3	0	0	0	0	0	0	0	0	0	53.64774	49.52116	45.20599	49.63367	51.39816	51.60002	GO:0035556	intracellular signal transduction	BP
+Gene_010430	NOT DE	hypothetical protein pbra 006639	0	0	0	0	0	0	0	0	0	62.66837	66.41244	68.74741	72.57783	70.61764	61.02576	GO:0035556	intracellular signal transduction	BP
+Gene_010431	NOT DE	hypothetical protein pbra 006639	0	0	0	0	0	0	0	0	0	35.48737	46.25049	44.31979	45.17911	43.79447	40.8233	GO:0035556	intracellular signal transduction	BP
+Gene_010452	NOT DE	hypothetical protein pbra 006657	0	0	0	0	0	0	0	0	0	0.39443434	0.27515484	0.09330639	0.49622959	0.34253534	0	GO:0035556	intracellular signal transduction	BP
+Gene_010539	NOT DE	serine threonine-kinase 24	0	0	0	0	0	0	0	0	0	205.7573	192.5495	193.1114	184.7287	200.4423	218.0761	GO:0035556	intracellular signal transduction	BP
+Gene_010540	NOT DE	phosphatidylinositol 4-kinase	0	0	0	0	0	0	0	0	0	123.9424	119.1832	127.3518	113.8745	117.6417	129.7911	GO:0035556	intracellular signal transduction	BP
+Gene_010643	NOT DE	rab 2a	0	0	0	0	0	0	0	0	0	42.31592	39.08801	38.75157	40.79802	44.4414	42.13473	GO:0035556	intracellular signal transduction	BP
+Gene_010762	NOT DE	serine threonine kinase domain	0	0	0	0	0	0	0	0	0	9.413653	10.445214	13.692388	7.230536	6.409218	8.869927	GO:0035556	intracellular signal transduction	BP
+Gene_010763	NOT DE	adenylate guanylate cyclase domain-containing	0	0	0	0	0	0	0	0	0	10.917599	12.291431	12.232089	7.396583	7.698589	11.769669	GO:0035556	intracellular signal transduction	BP
+Gene_010816	NOT DE	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	8.50285	6.544057	8.020165	8.085456	7.232251	8.406906	GO:0035556	intracellular signal transduction	BP
+Gene_010817	NOT DE	hypothetical protein pbra 009152	0	0	0	0	0	0	0	0	0	5.958511	4.808973	4.512845	6.00256	6.035001	5.974365	GO:0035556	intracellular signal transduction	BP
+Gene_010818	NOT DE	hypothetical protein pbra 009152	0	0	0	0	0	0	0	0	0	5.96383	4.815263	4.512845	6.00256	6.028615	5.974365	GO:0035556	intracellular signal transduction	BP
+Gene_010848	NOT DE	catalytic domain-containing	0	0	0	0	0	0	0	0	0	61.23742	76.60493	69.2038	64.2441	51.23902	61.42544	GO:0035556	intracellular signal transduction	BP
+Gene_011077	NOT DE	ras small gtpase rho1	0	0	0	0	0	0	0	0	0	141.2663	138.5537	141.7885	126.2118	128.7576	138.9753	GO:0035556	intracellular signal transduction	BP
+Gene_011195	NOT DE	hamp domain-containing	0	0	0	0	0	0	0	0	0	22.47609	21.37041	22.01296	17.29919	21.90765	26.72011	GO:0035556	intracellular signal transduction	BP
+Gene_011205	NOT DE	spermatogenesis-associated 13	0	0	0	0	0	0	0	0	0	6.002786	9.076412	8.97004	5.297114	5.110002	6.157533	GO:0035556	intracellular signal transduction	BP
+Gene_011294	NOT DE	ras-related rabf2a	0	0	0	0	0	0	0	0	0	167.8069	151.5742	147.4136	156.8284	171.9482	174.5175	GO:0035556	intracellular signal transduction	BP
+Gene_011316	NOT DE	ras-like gtp-binding isoform x2	0	0	0	0	0	0	0	0	0	54.28878	52.90077	52.35355	51.89347	58.18424	51.95806	GO:0035556	intracellular signal transduction	BP
+Gene_011416	NOT DE	small gtpase	0	0	0	0	0	0	0	0	0	176.1317	180.0973	186.5964	188.4675	191.0345	188.7706	GO:0035556	intracellular signal transduction	BP
+Gene_011526	NOT DE	rab gdp dissociation inhibitor alpha	0	0	0	0	0	0	0	0	0	583.2329	590.936	598.4181	639.2758	617.1231	633.2828	GO:0035556	intracellular signal transduction	BP
+Gene_011527	NOT DE	hypothetical protein pbra 004406	0	0	0	0	0	0	0	0	0	27.02569	26.38886	26.04066	28.39779	27.60791	23.06473	GO:0035556	intracellular signal transduction	BP
+Gene_011528	NOT DE	hypothetical protein pbra 004405	0	0	0	0	0	0	0	0	0	42.45362	37.51243	39.46415	37.1199	39.94698	35.78988	GO:0035556	intracellular signal transduction	BP
+Gene_011743	NOT DE	small gtpase rac protein 1	0	0	0	0	0	0	0	0	0	101.1342	101.853	106.4359	102.7631	101.3097	102.0978	GO:0035556	intracellular signal transduction	BP
+Gene_011909	NOT DE	adenylate cyclase	0	0	0	0	0	0	0	0	0	6.034409	7.170556	6.652466	5.559223	5.577984	4.036327	GO:0035556	intracellular signal transduction	BP
+Gene_011981	NOT DE	leucine-rich repeat-containing protein	0	0	0	0	0	0	0	0	0	32.50672	30.04602	29.18857	25.51755	29.23921	38.82076	GO:0035556	intracellular signal transduction	BP
+Gene_012279	NOT DE	adenylate/guanylate cyclase domain-containing protein	0	0	0	0	0	0	0	0	0	3.969753	3.097733	3.006582	2.885746	3.030055	2.803989	GO:0035556	intracellular signal transduction	BP

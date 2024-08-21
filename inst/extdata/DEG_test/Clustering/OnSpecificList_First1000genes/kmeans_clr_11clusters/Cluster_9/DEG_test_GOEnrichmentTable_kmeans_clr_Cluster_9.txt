@@ -1,0 +1,55 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0016831	carboxy-lyase activity	23	1	0.01	0.013	100	MF
+GO:0030170	pyridoxal phosphate binding	32	1	0.02	0.019	50	MF
+GO:0020037	heme binding	47	1	0.03	0.027	33.3333333333333	MF
+GO:0022857	transmembrane transporter activity	310	1	0.18	0.170	5.55555555555556	MF
+GO:0036094	small molecule binding	1326	2	0.78	0.464	2.56410256410256	MF
+GO:0005515	protein binding	1872	1	1.1	0.723	0.909090909090909	MF
+GO:0003674	molecular_function	6816	4	4	1.000	1	MF
+GO:0070279	vitamin B6 binding	32	1	0.02	1.000	50	MF
+GO:0005488	binding	4823	3	2.83	1.000	1.06007067137809	MF
+GO:0016830	carbon-carbon lyase activity	32	1	0.02	1.000	50	MF
+GO:0005215	transporter activity	365	1	0.21	1.000	4.76190476190476	MF
+GO:0019842	vitamin binding	57	1	0.03	1.000	33.3333333333333	MF
+GO:0046906	tetrapyrrole binding	48	1	0.03	1.000	33.3333333333333	MF
+GO:0016829	lyase activity	111	1	0.07	1.000	14.2857142857143	MF
+GO:0097159	organic cyclic compound binding	2378	2	1.4	1.000	1.42857142857143	MF
+GO:0043167	ion binding	2296	1	1.35	1.000	0.740740740740741	MF
+GO:1901363	heterocyclic compound binding	2378	2	1.4	1.000	1.42857142857143	MF
+GO:0003824	catalytic activity	3233	1	1.9	1.000	0.526315789473684	MF
+GO:0043168	anion binding	1167	1	0.68	1.000	1.47058823529412	MF
+GO:0006536	glutamate metabolic process	15	1	0.01	0.009	100	BP
+GO:0006531	aspartate metabolic process	19	1	0.01	0.011	100	BP
+GO:0006522	alanine metabolic process	20	1	0.01	0.012	100	BP
+GO:0006790	sulfur compound metabolic process	83	1	0.05	0.049	20	BP
+GO:0006810	transport	796	2	0.48	0.181	4.16666666666667	BP
+GO:0055085	transmembrane transport	358	1	0.22	0.201	4.54545454545455	BP
+GO:0051179	localization	833	2	0.5	1.000	4	BP
+GO:0051234	establishment of localization	805	2	0.49	1.000	4.08163265306122	BP
+GO:0044237	cellular metabolic process	2738	1	1.65	1.000	0.606060606060606	BP
+GO:0044238	primary metabolic process	3004	1	1.81	1.000	0.552486187845304	BP
+GO:0006520	cellular amino acid metabolic process	321	1	0.19	1.000	5.26315789473684	BP
+GO:1901605	alpha-amino acid metabolic process	301	1	0.18	1.000	5.55555555555556	BP
+GO:1901564	organonitrogen compound metabolic process	1785	1	1.08	1.000	0.925925925925926	BP
+GO:0043436	oxoacid metabolic process	424	1	0.26	1.000	3.84615384615385	BP
+GO:0006082	organic acid metabolic process	424	1	0.26	1.000	3.84615384615385	BP
+GO:0009064	glutamine family amino acid metabolic process	41	1	0.02	1.000	50	BP
+GO:0009066	aspartate family amino acid metabolic process	75	1	0.05	1.000	20	BP
+GO:0009987	cellular process	4052	2	2.44	1.000	0.819672131147541	BP
+GO:0008150	biological_process	4976	3	3	1.000	1	BP
+GO:0008152	metabolic process	3516	1	2.12	1.000	0.471698113207547	BP
+GO:0071704	organic substance metabolic process	3152	1	1.9	1.000	0.526315789473684	BP
+GO:0044281	small molecule metabolic process	698	1	0.42	1.000	2.38095238095238	BP
+GO:0006807	nitrogen compound metabolic process	2804	1	1.69	1.000	0.591715976331361	BP
+GO:0019752	carboxylic acid metabolic process	420	1	0.25	1.000	4	BP
+GO:0043648	dicarboxylic acid metabolic process	53	1	0.03	1.000	33.3333333333333	BP
+GO:0009078	pyruvate family amino acid metabolic process	20	1	0.01	1.000	100	BP
+GO:0005887	integral component of plasma membrane	22	1	0.01	0.013	100	CC
+GO:0016021	integral component of membrane	2650	3	1.61	0.287	1.86335403726708	CC
+GO:0110165	cellular anatomical entity	4797	3	2.92	1.000	1.02739726027397	CC
+GO:0005886	plasma membrane	94	1	0.06	1.000	16.6666666666667	CC
+GO:0031224	intrinsic component of membrane	2651	3	1.61	1.000	1.86335403726708	CC
+GO:0031226	intrinsic component of plasma membrane	22	1	0.01	1.000	100	CC
+GO:0071944	cell periphery	120	1	0.07	1.000	14.2857142857143	CC
+GO:0005575	cellular_component	4927	3	3	1.000	1	CC
+GO:0016020	membrane	2972	3	1.81	1.000	1.65745856353591	CC

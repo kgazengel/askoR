@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000112	5	hypothetical protein pbra 003790	0	0	0	0	0	0	0	1	0	17.07819	25.49997	29.15447	22.28763	14.54915	16.87388	GO:0050789	regulation of biological process	BP
+Gene_000125	5	hypothetical protein pbra 003780	0	0	0	0	0	0	0	1	1	1.4174154	2.5928848	2.6802169	0.9856852	0.7244722	0.7306592	GO:0050789	regulation of biological process	BP
+Gene_000246	5	cell division cycle cofactor of apc complex	-1	0	0	0	0	0	0	1	0	2.469049	5.898176	3.885463	2.284554	1.599903	1.679895	GO:0050789	regulation of biological process	BP
+Gene_000309	5	voltage-gated ion channel	0	-1	0	0	0	0	0	1	0	2.231442	4.195827	5.09234	2.355265	1.251739	2.610394	GO:0050789	regulation of biological process	BP
+Gene_000521	5	serine threonine-phosphatase 2a regulatory subunit b subunit gamma-like	-1	-1	0	1	0	0	-1	1	1	25.28745	56.75167	56.07329	44.21649	24.25667	27.74844	GO:0050789	regulation of biological process	BP
+Gene_001020	5	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0050789	regulation of biological process	BP

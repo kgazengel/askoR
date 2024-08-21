@@ -1,0 +1,31 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0006518	peptide metabolic process	BP
+Gene_000063	glutamate-cysteine ligase catalytic subunit	0	0	0	0	0	0	0	1	1	119.6024	163.3073	164.0315	132.77	113.0143	104.1222	GO:0006518	peptide metabolic process	BP
+Gene_000157	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0006518	peptide metabolic process	BP
+Gene_000165	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0006518	peptide metabolic process	BP
+Gene_000174	hypothetical protein pbra 003739	0	0	0	0	0	0	0	0	0	46.62713	38.3607	41.01577	37.49668	42.9981	35.79819	GO:0006518	peptide metabolic process	BP
+Gene_000189	60s ribosomal l11-1	1	1	0	0	0	0	1	0	0	1289.4639	973.9467	979.6907	807.8441	922.3151	1022.5227	GO:0006518	peptide metabolic process	BP
+Gene_000275	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0006518	peptide metabolic process	BP
+Gene_000448	30s ribosomal s6	0	0	0	0	0	0	0	-1	0	174.4931	147.9911	148.8517	160.6318	192.5396	163.824	GO:0006518	peptide metabolic process	BP
+Gene_000456	elongation factor alpha	1	1	0	0	0	0	0	0	0	10181.05	8285.877	7956.99	8629.072	9568.859	9852.146	GO:0006518	peptide metabolic process	BP
+Gene_000471	50s ribosomal l27-like	0	1	0	0	0	0	0	-1	-1	96.65326	82.66457	77.33358	89.84525	99.63138	98.36647	GO:0006518	peptide metabolic process	BP
+Gene_000560	isoleucine-trna ligase	0	0	0	0	0	0	0	0	-1	201.9037	171.7386	174.0932	196.3182	207.2894	237.8705	GO:0006518	peptide metabolic process	BP
+Gene_000568	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0006518	peptide metabolic process	BP
+Gene_000635	preimplantation 3	0	0	0	0	0	0	0	0	0	79.0658	86.31042	89.53119	81.45854	79.20758	71.38613	GO:0006518	peptide metabolic process	BP
+Gene_000638	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0006518	peptide metabolic process	BP
+Gene_000649	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0006518	peptide metabolic process	BP
+Gene_000665	alanine-trna ligase	0	0	0	0	0	0	0	0	0	146.8533	131.8308	139.8457	129.2478	128.384	136.9041	GO:0006518	peptide metabolic process	BP
+Gene_000667	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0006518	peptide metabolic process	BP
+Gene_000671	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0006518	peptide metabolic process	BP
+Gene_000722	60s ribosomal l6	1	0	0	0	0	0	0	0	-1	710.381	549.9565	553.3166	550.3433	634.3333	732.434	GO:0006518	peptide metabolic process	BP
+Gene_000724	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0006518	peptide metabolic process	BP
+Gene_000845	40s ribosomal s19-1	0	0	0	0	0	0	0	0	0	458.7481	382.8513	399.8929	332.3691	367.7803	423.9934	GO:0006518	peptide metabolic process	BP
+Gene_000884	glutathione s-transferase kappa 1 [rhodotorula toruloides np11]	-1	-1	0	1	0	0	0	1	1	1.3497661	3.8698314	4.2525825	1.8309231	0.4780014	0.8701314	GO:0006518	peptide metabolic process	BP
+Gene_000933	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0006518	peptide metabolic process	BP
+Gene_000957	60s ribosomal l12	1	0	0	0	0	0	1	0	0	722.8675	535.9112	559.0357	503.9154	594.727	604.4435	GO:0006518	peptide metabolic process	BP
+Gene_000977	bromodomain domain containing	-1	0	0	0	0	0	0	1	0	3.84391	11.540526	7.169533	7.928006	4.271068	4.361061	GO:0006518	peptide metabolic process	BP
+Gene_001017	60s ribosomal	0	1	0	0	0	0	1	0	0	537.2633	438.1611	384.6348	411.7973	481.5225	483.6618	GO:0006518	peptide metabolic process	BP
+Gene_001023	histidine-trna ligase	0	0	0	0	0	0	0	0	0	106.08617	95.38804	98.19395	96.00052	96.69126	106.83463	GO:0006518	peptide metabolic process	BP
+Gene_001025	hypothetical protein pbra 002570	1	0	0	0	0	0	0	-1	0	234.5779	183.8744	192.2979	200.491	230.0547	225.8656	GO:0006518	peptide metabolic process	BP
+Gene_001026	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0006518	peptide metabolic process	BP
+Gene_001032	signal peptide peptidase-like 3	0	0	0	0	0	0	0	0	1	309.6943	370.8984	383.5065	318.3536	300.1655	281.6435	GO:0006518	peptide metabolic process	BP

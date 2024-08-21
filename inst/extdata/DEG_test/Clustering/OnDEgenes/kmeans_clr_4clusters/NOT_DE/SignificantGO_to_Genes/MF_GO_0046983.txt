@@ -1,0 +1,48 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000046	NOT DE	transcription corepressor	0	0	0	0	0	0	0	0	0	73.98546	70.93387	65.63763	70.03914	75.79059	73.98198	GO:0046983	protein dimerization activity	MF
+Gene_000288	NOT DE	transcription initiation factor tfiid subunit 11-like isoform x1	0	0	0	0	0	0	0	0	0	41.99865	42.32042	41.10537	38.70853	35.4433	40.2342	GO:0046983	protein dimerization activity	MF
+Gene_000529	NOT DE	rna polymerase ii core subunit	0	0	0	0	0	0	0	0	0	197.0442	167.563	162.1404	169.9926	190.2316	179.8965	GO:0046983	protein dimerization activity	MF
+Gene_000739	NOT DE	hypothetical protein pbra 009676	0	0	0	0	0	0	0	0	0	9.979382	7.354418	8.4746	9.118708	9.180597	11.204917	GO:0046983	protein dimerization activity	MF
+Gene_000910	NOT DE	nad-dependent glycerol-3-phosphate dehydrogenase	0	0	0	0	0	0	0	0	0	4.286265	4.525859	3.458857	3.263087	4.914614	4.900213	GO:0046983	protein dimerization activity	MF
+Gene_000989	NOT DE	hypothetical protein pbra 003245	0	0	0	0	0	0	0	0	0	13.40489	11.14521	10.99001	12.78758	13.60695	11.72907	GO:0046983	protein dimerization activity	MF
+Gene_001181	NOT DE	transposable element hobo transposase	0	0	0	0	0	0	0	0	0	0.3979908	0.3242662	0.444124	0.5334593	0.2265102	0.6827825	GO:0046983	protein dimerization activity	MF
+Gene_001184	NOT DE	nuclear transcription factor y subunit b-1-like	0	0	0	0	0	0	0	0	0	17.64198	20.42111	19.03901	19.13036	19.04776	17.7565	GO:0046983	protein dimerization activity	MF
+Gene_001185	NOT DE	aspartate-semialdehyde dehydrogenase	0	0	0	0	0	0	0	0	0	80.04073	78.11184	81.00061	65.93921	65.99421	76.04698	GO:0046983	protein dimerization activity	MF
+Gene_001253	NOT DE	transcription factor bhlh121-like	0	0	0	0	0	0	0	0	0	27.43447	25.14582	24.01972	27.10591	28.14526	26.40161	GO:0046983	protein dimerization activity	MF
+Gene_001331	NOT DE	transcription factor e2fb-like isoform x4	0	0	0	0	0	0	0	0	0	122.1624	115.0748	116.2567	108.1632	114.5702	111.4142	GO:0046983	protein dimerization activity	MF
+Gene_001334	NOT DE	histone h4	0	0	0	0	0	0	0	0	0	42.30668	43.16045	48.60414	34.16115	32.82044	33.20031	GO:0046983	protein dimerization activity	MF
+Gene_001558	NOT DE	histone h3	0	0	0	0	0	0	0	0	0	134.9189	122.5129	128.1926	128.2417	126.5697	120.0885	GO:0046983	protein dimerization activity	MF
+Gene_001720	NOT DE	nuclear transcription factor y subunit b-8	0	0	0	0	0	0	0	0	0	51.67836	60.68409	54.91604	55.16768	54.54451	43.16308	GO:0046983	protein dimerization activity	MF
+Gene_002499	NOT DE	hypothetical protein pbra 009676	0	0	0	0	0	0	0	0	0	9.792529	7.144884	8.271077	8.858847	8.986394	10.905679	GO:0046983	protein dimerization activity	MF
+Gene_002503	NOT DE	histone h2a	0	0	0	0	0	0	0	0	0	564.7324	571.4344	583.5861	558.2922	545.5884	704.9043	GO:0046983	protein dimerization activity	MF
+Gene_002608	NOT DE	nuclear transcription factor y subunit b-5-like	0	0	0	0	0	0	0	0	0	2.343969	2.241344	1.940286	1.523109	1.932309	1.226093	GO:0046983	protein dimerization activity	MF
+Gene_003496	NOT DE	hypothetical protein pbra 004249	0	0	0	0	0	0	0	0	0	99.23867	84.49468	84.26845	85.42313	87.20162	82.35228	GO:0046983	protein dimerization activity	MF
+Gene_004105	NOT DE	hypothetical protein pbra 008214	0	0	0	0	0	0	0	0	0	4.917312	3.911072	3.714667	3.778168	4.848652	4.262307	GO:0046983	protein dimerization activity	MF
+Gene_004446	NOT DE	myocyte-specific enhancer factor 2c-like	0	0	0	0	0	0	0	0	0	53.34226	54.01628	50.28239	64.7756	65.40377	68.76535	GO:0046983	protein dimerization activity	MF
+Gene_005013	NOT DE	hypothetical protein pbra 009676	0	0	0	0	0	0	0	0	0	9.480318	6.977425	7.727126	7.845998	8.897039	9.846741	GO:0046983	protein dimerization activity	MF
+Gene_005322	NOT DE	dna polymerase epsilon subunit 3	0	0	0	0	0	0	0	0	0	123.6613	121.1743	115.34	121.7711	124.2747	113.881	GO:0046983	protein dimerization activity	MF
+Gene_005781	NOT DE	regulator of chromosome condensation rcc1	0	0	0	0	0	0	0	0	0	50.22886	49.82724	54.1011	51.18848	45.37051	46.23975	GO:0046983	protein dimerization activity	MF
+Gene_006304	NOT DE	glutathione synthetase	0	0	0	0	0	0	0	0	0	108.50133	101.4624	100.48058	103.64358	106.57637	99.46763	GO:0046983	protein dimerization activity	MF
+Gene_006730	NOT DE	myocyte-specific enhancer factor 2d homolog	0	0	0	0	0	0	0	0	0	58.22213	47.85027	47.4575	43.84356	49.92938	59.57486	GO:0046983	protein dimerization activity	MF
+Gene_006746	NOT DE	myocyte-specific enhancer factor	0	0	0	0	0	0	0	0	0	65.33746	64.64401	62.2521	69.45204	73.48002	73.95908	GO:0046983	protein dimerization activity	MF
+Gene_006999	NOT DE	ribosomal l11 methyltransferase ( )	0	0	0	0	0	0	0	0	0	15.20093	13.13811	14.42259	13.23206	13.79624	13.48495	GO:0046983	protein dimerization activity	MF
+Gene_007129	NOT DE	histone h2a	0	0	0	0	0	0	0	0	0	105.3197	94.54084	121.33751	92.23761	97.42599	127.92804	GO:0046983	protein dimerization activity	MF
+Gene_007573	NOT DE	histone h2b	0	0	0	0	0	0	0	0	0	294.5888	296.1832	329.1504	311.9763	257.8555	327.1278	GO:0046983	protein dimerization activity	MF
+Gene_008232	NOT DE	myocyte-specific enhancer factor 2a-like	0	0	0	0	0	0	0	0	0	89.40072	97.09929	100.67449	107.04069	101.73624	103.31457	GO:0046983	protein dimerization activity	MF
+Gene_008600	NOT DE	transcription initiation factor tfiid subunit 13	0	0	0	0	0	0	0	0	0	29.48589	33.01304	33.07406	25.7451	23.87084	31.88469	GO:0046983	protein dimerization activity	MF
+Gene_008833	NOT DE	dna-directed rna polymerases i and iii subunit rpac2-like	0	0	0	0	0	0	0	0	0	21.44488	17.19762	16.44151	20.19052	21.94134	20.84359	GO:0046983	protein dimerization activity	MF
+Gene_009374	NOT DE	histone h4	0	0	0	0	0	0	0	0	0	41.48034	43.15315	53.81905	26.60946	29.53311	32.20735	GO:0046983	protein dimerization activity	MF
+Gene_009605	NOT DE	histone h2b	0	0	0	0	0	0	0	0	0	128.9752	122.0376	139.6252	111.4462	105.0576	136.3588	GO:0046983	protein dimerization activity	MF
+Gene_009628	NOT DE	hypothetical protein pbra 006079	0	0	0	0	0	0	0	0	0	83.02689	81.36181	83.32442	81.11479	80.15649	77.38963	GO:0046983	protein dimerization activity	MF
+Gene_009962	NOT DE	vacuolar-sorting snf8	0	0	0	0	0	0	0	0	0	54.95165	47.68748	49.14853	51.45335	52.93657	52.31403	GO:0046983	protein dimerization activity	MF
+Gene_010172	NOT DE	agamous-like mads-box agl27 isoform x2	0	0	0	0	0	0	0	0	0	17.53147	24.66231	20.11508	27.37679	23.58601	20.96642	GO:0046983	protein dimerization activity	MF
+Gene_010361	NOT DE	dna-directed rna polymerases iv and v subunit 11	0	0	0	0	0	0	0	0	0	90.63254	79.30575	78.51686	80.61844	87.97964	67.19368	GO:0046983	protein dimerization activity	MF
+Gene_010439	NOT DE	histone h3	0	0	0	0	0	0	0	0	0	369.2983	462.5164	448.4608	428.9221	367.7412	387.3146	GO:0046983	protein dimerization activity	MF
+Gene_010882	NOT DE	myocyte enhancer factor 2 splice variant ii	0	0	0	0	0	0	0	0	0	0.478508	0.9805424	1.3013989	0.8904779	1.0931089	1.2385838	GO:0046983	protein dimerization activity	MF
+Gene_010894	NOT DE	mads-box transcription factor	0	0	0	0	0	0	0	0	0	37.19458	33.0751	29.65472	34.72597	37.16222	39.90114	GO:0046983	protein dimerization activity	MF
+Gene_011437	NOT DE	hypothetical protein pbra 009073	0	0	0	0	0	0	0	0	0	49.22602	44.24217	45.50583	46.01245	43.45384	46.77061	GO:0046983	protein dimerization activity	MF
+Gene_011592	NOT DE	hypothetical protein pbra 008214	0	0	0	0	0	0	0	0	0	4.559417	3.717698	3.62136	3.678466	4.563501	4.020836	GO:0046983	protein dimerization activity	MF
+Gene_011716	NOT DE	hypothetical protein pbra 008214	0	0	0	0	0	0	0	0	0	4.917312	3.911072	3.714667	3.778168	4.848652	4.262307	GO:0046983	protein dimerization activity	MF
+Gene_011857	NOT DE	hypothetical protein pbra 009267	0	0	0	0	0	0	0	0	0	4.142492	3.502669	2.838315	3.226154	3.206869	1.908875	GO:0046983	protein dimerization activity	MF
+Gene_011957	NOT DE	hypothetical protein pbra 009676	0	0	0	0	0	0	0	0	0	9.796993	7.144884	8.271077	8.84447	8.986394	10.905679	GO:0046983	protein dimerization activity	MF
+Gene_012017	NOT DE	predicted protein	0	0	0	0	0	0	0	0	0	42.01627	40.25812	39.50573	43.83973	46.52129	45.37589	GO:0046983	protein dimerization activity	MF

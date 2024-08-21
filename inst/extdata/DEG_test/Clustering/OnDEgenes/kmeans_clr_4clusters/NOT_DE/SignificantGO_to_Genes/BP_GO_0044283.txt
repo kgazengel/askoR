@@ -1,0 +1,84 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000354	NOT DE	uncharacterized zinc finger cchc domain-containing at4g19190	0	0	0	0	0	0	0	0	0	23.65608	23.26356	21.03635	27.02276	28.47654	21.93021	GO:0044283	small molecule biosynthetic process	BP
+Gene_000391	NOT DE	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	13.84806	12.83561	15.80141	12.60914	12.13408	12.7418	GO:0044283	small molecule biosynthetic process	BP
+Gene_000392	NOT DE	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	15.64847	16.52374	17.3656	12.64378	13.26221	14.96709	GO:0044283	small molecule biosynthetic process	BP
+Gene_000429	NOT DE	rpsu-divergently transcribed variant	0	0	0	0	0	0	0	0	0	39.52391	39.8724	45.91257	40.54653	36.20104	41.4374	GO:0044283	small molecule biosynthetic process	BP
+Gene_000458	NOT DE	thioredoxin domain-containing plp3b	0	0	0	0	0	0	0	0	0	65.66748	62.03023	65.55946	65.75327	58.95929	67.89937	GO:0044283	small molecule biosynthetic process	BP
+Gene_000467	NOT DE	flagellar radial spoke 3 [micromonas commoda]	0	0	0	0	0	0	0	0	0	0.4710705	1.065892	0.922067	0.7626621	0.4005922	0.5016791	GO:0044283	small molecule biosynthetic process	BP
+Gene_000518	NOT DE	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0044283	small molecule biosynthetic process	BP
+Gene_000651	NOT DE	sphingosine kinase	0	0	0	0	0	0	0	0	0	4.679626	7.640925	6.462206	8.819662	7.62909	4.500533	GO:0044283	small molecule biosynthetic process	BP
+Gene_000657	NOT DE	riboflavin kinase	0	0	0	0	0	0	0	0	0	22.14923	22.74704	23.91705	21.35231	20.91083	19.84648	GO:0044283	small molecule biosynthetic process	BP
+Gene_000959	NOT DE	acetyl-c-acyltransferase	0	0	0	0	0	0	0	0	0	91.71927	85.04369	90.29093	79.38905	76.02375	90.23553	GO:0044283	small molecule biosynthetic process	BP
+Gene_001035	NOT DE	polyunsaturated fatty acids delta-5-elongase	0	0	0	0	0	0	0	0	0	181.0492	160.4608	164.5708	178.3871	178.9105	170.2959	GO:0044283	small molecule biosynthetic process	BP
+Gene_001036	NOT DE	gns1 sur4 family	0	0	0	0	0	0	0	0	0	86.2684	99.59893	95.81899	99.63734	90.25031	72.12303	GO:0044283	small molecule biosynthetic process	BP
+Gene_001045	NOT DE	probable nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	0	0	0	0	0	0	0	0	155.8754	146.5607	156.7649	144.8502	154.0137	132.3307	GO:0044283	small molecule biosynthetic process	BP
+Gene_001185	NOT DE	aspartate-semialdehyde dehydrogenase	0	0	0	0	0	0	0	0	0	80.04073	78.11184	81.00061	65.93921	65.99421	76.04698	GO:0044283	small molecule biosynthetic process	BP
+Gene_001225	NOT DE	chorismate synthase	0	0	0	0	0	0	0	0	0	94.23873	91.2519	92.46795	91.69983	91.51961	110.86471	GO:0044283	small molecule biosynthetic process	BP
+Gene_001619	NOT DE	fructose-1;6-cytosolic	0	0	0	0	0	0	0	0	0	143.1919	134.7319	142.1296	126.0739	125.7921	126.194	GO:0044283	small molecule biosynthetic process	BP
+Gene_001632	NOT DE	phosducin isoform x1	0	0	0	0	0	0	0	0	0	100.01519	109.48358	117.81278	106.14344	96.06468	96.76983	GO:0044283	small molecule biosynthetic process	BP
+Gene_001953	NOT DE	aldehyde dehydrogenase family	0	0	0	0	0	0	0	0	0	388.6338	360.7994	394.1115	430.7428	430.4023	420.2734	GO:0044283	small molecule biosynthetic process	BP
+Gene_002464	NOT DE	3-oxoacyl-acp reductase	0	0	0	0	0	0	0	0	0	77.71804	78.625	83.64833	81.53027	81.38086	77.43543	GO:0044283	small molecule biosynthetic process	BP
+Gene_002595	NOT DE	ubiquinone biosynthesis coq4	0	0	0	0	0	0	0	0	0	25.37158	26.1979	27.73686	22.44866	22.17647	23.28538	GO:0044283	small molecule biosynthetic process	BP
+Gene_002854	NOT DE	sterol desaturase	0	0	0	0	0	0	0	0	0	20.8724	17.74883	19.06592	21.03478	23.15453	25.77295	GO:0044283	small molecule biosynthetic process	BP
+Gene_002991	NOT DE	bifunctional folylpolyglutamate synthase dihydrofolate synthase	0	0	0	0	0	0	0	0	0	85.89669	72.07609	70.51451	71.90277	83.76012	76.92332	GO:0044283	small molecule biosynthetic process	BP
+Gene_003078	NOT DE	fructose-bisphosphate aldolase	0	0	0	0	0	0	0	0	0	873.7928	840.5838	945.1525	841.5232	810.8942	824.6991	GO:0044283	small molecule biosynthetic process	BP
+Gene_003123	NOT DE	atp-utilizing phosphoenolpyruvate carboxykinase	0	0	0	0	0	0	0	0	0	621.0646	604.9241	656.9725	617.6488	609.5745	617.1123	GO:0044283	small molecule biosynthetic process	BP
+Gene_003258	NOT DE	hypoxanthine phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	67.48098	63.02143	63.6583	65.48	72.90148	62.77434	GO:0044283	small molecule biosynthetic process	BP
+Gene_003318	NOT DE	dihydropteroate synthase	0	0	0	0	0	0	0	0	0	55.60336	47.40948	51.37686	51.94916	53.88518	56.97486	GO:0044283	small molecule biosynthetic process	BP
+Gene_003511	NOT DE	3-deoxy-7-phosphoheptulonate synthase	0	0	0	0	0	0	0	0	0	154.2983	148.1127	141.5871	127.0096	128.8992	131.4377	GO:0044283	small molecule biosynthetic process	BP
+Gene_003705	NOT DE	very-long-chain 3-oxoacyl-reductase	0	0	0	0	0	0	0	0	0	277.7388	216.8214	265.642	176.7396	199.5513	312.2377	GO:0044283	small molecule biosynthetic process	BP
+Gene_003944	NOT DE	uracil phosphoribosyltransferase	0	0	0	0	0	0	0	0	0	10.794527	10.782858	12.214986	8.417451	8.572674	9.003153	GO:0044283	small molecule biosynthetic process	BP
+Gene_004157	NOT DE	dephospho-kinase	0	0	0	0	0	0	0	0	0	54.29289	56.54176	57.80196	53.35771	54.824	53.67336	GO:0044283	small molecule biosynthetic process	BP
+Gene_004451	NOT DE	enolase eno4 isoform x1	0	0	0	0	0	0	0	0	0	82.74751	78.09373	78.11665	72.14803	78.52445	84.86903	GO:0044283	small molecule biosynthetic process	BP
+Gene_004716	NOT DE	aminocarboxymuconate-semialdehyde decarboxylase	0	0	0	0	0	0	0	0	0	44.4373	48.87451	53.8094	42.09366	39.63033	42.23259	GO:0044283	small molecule biosynthetic process	BP
+Gene_004901	NOT DE	asparagine synthase	0	0	0	0	0	0	0	0	0	14.27705	14.29261	13.50293	11.81208	11.53541	14.41754	GO:0044283	small molecule biosynthetic process	BP
+Gene_004961	NOT DE	hypothetical protein pbra 000332; partial	0	0	0	0	0	0	0	0	0	13.02971	12.58047	11.47262	12.56471	11.4297	13.00201	GO:0044283	small molecule biosynthetic process	BP
+Gene_004990	NOT DE	dna cross-link repair 1b	0	0	0	0	0	0	0	0	0	99.29466	85.95244	87.52647	99.70115	99.99672	100.55632	GO:0044283	small molecule biosynthetic process	BP
+Gene_005400	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur mitochondrial	0	0	0	0	0	0	0	0	0	435.8837	431.6605	451.7236	420.724	424.0572	428.3086	GO:0044283	small molecule biosynthetic process	BP
+Gene_005479	NOT DE	2;3-bisphosphoglycerate-independent phosphoglycerate mutase	0	0	0	0	0	0	0	0	0	232.0605	203.9094	204.2008	222.4045	231.265	235.0665	GO:0044283	small molecule biosynthetic process	BP
+Gene_005611	NOT DE	holo-[acyl-carrier-] synthase	0	0	0	0	0	0	0	0	0	8.629248	7.099857	7.001239	7.518589	8.781138	9.406991	GO:0044283	small molecule biosynthetic process	BP
+Gene_005689	NOT DE	thiamin pyrophosphokinase 1	0	0	0	0	0	0	0	0	0	55.99034	47.39998	48.1572	47.50535	54.4287	45.77139	GO:0044283	small molecule biosynthetic process	BP
+Gene_005786	NOT DE	thiamin diphosphate-binding	0	0	0	0	0	0	0	0	0	137.7192	124.1481	138.9661	144.8062	144.0899	145.5388	GO:0044283	small molecule biosynthetic process	BP
+Gene_006015	NOT DE	dihydrolipoyl dehydrogenase	0	0	0	0	0	0	0	0	0	450.1172	396.5392	450.1421	371.3321	388.46	409.3905	GO:0044283	small molecule biosynthetic process	BP
+Gene_006069	NOT DE	pyruvate dehydrogenase e1 component subunit mitochondrial-like	0	0	0	0	0	0	0	0	0	141.6533	145.6144	162.7043	166.5737	162.0173	162.829	GO:0044283	small molecule biosynthetic process	BP
+Gene_006070	NOT DE	pyruvate dehydrogenase e1 alpha 1	0	0	0	0	0	0	0	0	0	218.7761	231.4939	252.9224	266.4095	261.1123	257.8731	GO:0044283	small molecule biosynthetic process	BP
+Gene_006181	NOT DE	cytoplasmic 2	0	0	0	0	0	0	0	0	0	145.1886	143.5599	144.6092	140.6958	147.1438	146.9148	GO:0044283	small molecule biosynthetic process	BP
+Gene_006368	NOT DE	pyruvate carboxylase	0	0	0	0	0	0	0	0	0	333.1497	331.8937	345.8854	365.8607	368.8385	345.0444	GO:0044283	small molecule biosynthetic process	BP
+Gene_006572	NOT DE	glutathione-disulfide reductase	0	0	0	0	0	0	0	0	0	5.822809	7.874827	7.635624	4.961697	4.746386	11.610275	GO:0044283	small molecule biosynthetic process	BP
+Gene_006680	NOT DE	acyl carrier	0	0	0	0	0	0	0	0	0	64.14175	58.7613	68.73061	56.20137	54.29747	65.68034	GO:0044283	small molecule biosynthetic process	BP
+Gene_007043	NOT DE	pterin-4-alpha-carbinolamine dehydratase	0	0	0	0	0	0	0	0	0	29.05471	24.931	26.28187	24.41471	27.58385	29.19312	GO:0044283	small molecule biosynthetic process	BP
+Gene_007370	NOT DE	nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit mitochondrial-like	0	0	0	0	0	0	0	0	0	84.39413	79.23466	81.36438	70.11484	74.34281	88.07061	GO:0044283	small molecule biosynthetic process	BP
+Gene_007416	NOT DE	6-phosphofructokinase	0	0	0	0	0	0	0	0	0	290.2302	248.4657	248.4	249.437	283.8565	273.1067	GO:0044283	small molecule biosynthetic process	BP
+Gene_007439	NOT DE	cytosolic phosphoglucose isomerase	0	0	0	0	0	0	0	0	0	235.6608	262.1952	286.8775	258.5867	244.2656	247.3524	GO:0044283	small molecule biosynthetic process	BP
+Gene_007526	NOT DE	acetyl-biotin carboxylase subunit	0	0	0	0	0	0	0	0	0	213.7927	215.0085	229.1271	204.1719	202.9015	194.6034	GO:0044283	small molecule biosynthetic process	BP
+Gene_007637	NOT DE	nadh dehydrogenase [ubiquinone] 1 beta subcomplex subunit	0	0	0	0	0	0	0	0	0	47.21785	43.06548	47.92373	43.22379	47.6256	40.85869	GO:0044283	small molecule biosynthetic process	BP
+Gene_008113	NOT DE	pyridoxamine 5-phosphate oxidase	0	0	0	0	0	0	0	0	0	6.731181	6.343452	6.458918	4.799652	6.641836	7.081787	GO:0044283	small molecule biosynthetic process	BP
+Gene_008168	NOT DE	3-hydroxyanthranilate 3;4-dioxygenase	0	0	0	0	0	0	0	0	0	71.13049	67.73933	72.4055	65.93188	67.47255	62.34134	GO:0044283	small molecule biosynthetic process	BP
+Gene_008341	NOT DE	gtp-binding [jeotgalibacillus soli cunha et 2012]	0	0	0	0	0	0	0	0	0	14.97659	14.03459	14.45395	14.19402	16.05168	14.13859	GO:0044283	small molecule biosynthetic process	BP
+Gene_008452	NOT DE	nadh oxidoreductase (quinone) f subunit	0	0	0	0	0	0	0	0	0	463.9712	469.3674	485.547	534.9247	528.0271	515.9316	GO:0044283	small molecule biosynthetic process	BP
+Gene_008831	NOT DE	inositol-phosphate phosphatase	0	0	0	0	0	0	0	0	0	144.2731	124.3978	128.6742	126.7338	134.9115	129.3331	GO:0044283	small molecule biosynthetic process	BP
+Gene_009011	NOT DE	ubiquinone biosynthesis monooxygenase	0	0	0	0	0	0	0	0	0	95.91169	102.74587	126.45315	56.95403	58.08399	74.37124	GO:0044283	small molecule biosynthetic process	BP
+Gene_009955	NOT DE	dihydroneopterin aldolase	0	0	0	0	0	0	0	0	0	55.27739	52.14908	54.06404	49.28193	52.61777	48.71485	GO:0044283	small molecule biosynthetic process	BP
+Gene_009999	NOT DE	lipoyl mitochondrial	0	0	0	0	0	0	0	0	0	170.2012	158.4784	159.5385	159.4684	166.6665	159.1257	GO:0044283	small molecule biosynthetic process	BP
+Gene_010102	NOT DE	pyruvate kinase	0	0	0	0	0	0	0	0	0	543.6906	500.5852	536.0405	524.8046	545.9765	571.1744	GO:0044283	small molecule biosynthetic process	BP
+Gene_010106	NOT DE	pyrroline-5-carboxylate reductase	0	0	0	0	0	0	0	0	0	8.0712	7.66534	10.408733	5.582952	5.286756	6.374022	GO:0044283	small molecule biosynthetic process	BP
+Gene_010158	NOT DE	inositol polyphosphate multikinase	0	0	0	0	0	0	0	0	0	37.9886	34.74872	36.7807	39.46619	39.16825	43.04651	GO:0044283	small molecule biosynthetic process	BP
+Gene_010169	NOT DE	phosducin	0	0	0	0	0	0	0	0	0	40.18416	34.45731	29.9587	32.29769	38.70512	43.55445	GO:0044283	small molecule biosynthetic process	BP
+Gene_010287	NOT DE	methylenetetrahydrofolate reductase	0	0	0	0	0	0	0	0	0	258.528	264.1994	268.0283	271.5857	269.1965	303.3428	GO:0044283	small molecule biosynthetic process	BP
+Gene_010415	NOT DE	nadh:ubiquinone oxidoreductase family	0	0	0	0	0	0	0	0	0	5.328454	5.623327	4.772883	3.723275	4.021648	3.051706	GO:0044283	small molecule biosynthetic process	BP
+Gene_010844	NOT DE	sphingosine kinase 2 isoform x1	0	0	0	0	0	0	0	0	0	2.946843	2.706867	2.632141	3.679564	4.297343	3.2453	GO:0044283	small molecule biosynthetic process	BP
+Gene_011218	NOT DE	lysine-trna ligase	0	0	0	0	0	0	0	0	0	87.18909	73.21556	75.18174	74.62198	86.21799	98.86815	GO:0044283	small molecule biosynthetic process	BP
+Gene_011220	NOT DE	phenylalanine-4-henna	0	0	0	0	0	0	0	0	0	143.5232	148.4913	158.9643	145.5531	142.7031	139.2376	GO:0044283	small molecule biosynthetic process	BP
+Gene_011797	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur protein 7; mitochondrial	0	0	0	0	0	0	0	0	0	77.55211	90.93209	92.66357	81.56568	78.98641	81.6279	GO:0044283	small molecule biosynthetic process	BP
+Gene_011812	NOT DE	3-oxoacyl-acp reductase fabg	0	0	0	0	0	0	0	0	0	44.0873	41.51131	41.3833	37.5096	41.85817	40.36534	GO:0044283	small molecule biosynthetic process	BP
+Gene_011945	NOT DE	trna-guanine transglycosylase	0	0	0	0	0	0	0	0	0	102.49275	89.35326	83.5064	81.28195	93.49268	95.98298	GO:0044283	small molecule biosynthetic process	BP
+Gene_012024	NOT DE	folylpolyglutamate synthase isoform x1	0	0	0	0	0	0	0	0	0	37.0279	33.61418	31.75775	31.93954	33.74094	36.57106	GO:0044283	small molecule biosynthetic process	BP
+Gene_012025	NOT DE	folylpolyglutamate synthase isoform x3	0	0	0	0	0	0	0	0	0	14.06686	12.72179	12.04244	13.1724	14.45696	14.41409	GO:0044283	small molecule biosynthetic process	BP
+Gene_012252	NOT DE	nadh dehydrogenase subunit 4 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.67745	2.320577	3.582335	1.995393	1.112284	2.30231	GO:0044283	small molecule biosynthetic process	BP
+Gene_012253	NOT DE	nadh dehydrogenase subunit 7 (mitochondrion)	0	0	0	0	0	0	0	0	0	5.275585	8.099927	6.130536	6.135745	2.658147	4.619198	GO:0044283	small molecule biosynthetic process	BP
+Gene_012254	NOT DE	nadh dehydrogenase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.2261721	0.9345262	1.2985529	0.8337367	0.8459894	0.5620469	GO:0044283	small molecule biosynthetic process	BP
+Gene_012259	NOT DE	nadh dehydrogenase subunit 6 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.062343	5.947425	5.504689	3.193641	2.140273	4.552585	GO:0044283	small molecule biosynthetic process	BP
+Gene_012260	NOT DE	nadh dehydrogenase subunit 5 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.417779	6.778205	6.720131	4.174768	2.377952	5.676679	GO:0044283	small molecule biosynthetic process	BP
+Gene_012374	NOT DE	lipoyl(octanoyl) transferase	0	0	0	0	0	0	0	0	0	8.617735	7.796488	9.204315	5.984785	6.096909	9.590182	GO:0044283	small molecule biosynthetic process	BP
+Gene_012377	NOT DE	tyrosine aminotransferase-like	0	0	0	0	0	0	0	0	0	70.93289	64.7956	62.93821	59.63605	65.76236	80.66823	GO:0044283	small molecule biosynthetic process	BP
+Gene_012481	NOT DE	4a-hydroxytetrahydrobiopterin dehydratase	0	0	0	0	0	0	0	0	0	85.74599	81.37666	84.862	74.03424	77.08742	75.90333	GO:0044283	small molecule biosynthetic process	BP

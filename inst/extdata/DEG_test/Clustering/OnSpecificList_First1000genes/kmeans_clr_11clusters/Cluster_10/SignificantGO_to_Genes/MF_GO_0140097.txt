@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000092	10	n-glycosylase dna lyase	0	0	0	0	0	0	0	0	0	67.45921	60.84416	62.74438	61.65406	69.30226	67.33731	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000420	10	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000618	10	dna topoisomerase 1 beta	0	0	0	0	0	0	0	0	0	274.8023	255.3956	246.7443	248.0292	292.0969	259.6071	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_000758	10	dna ligase 1-like isoform x2	0	0	0	0	0	0	0	-1	0	338.8028	297.2515	317.5809	328.8895	366.9113	342.2706	GO:0140097	catalytic activity, acting on DNA	MF
+Gene_001088	10	dna repair rad51 homolog 4 isoform x3	0	0	0	0	0	0	0	0	0	54.16459	48.75927	45.26385	48.06899	52.27801	53.16751	GO:0140097	catalytic activity, acting on DNA	MF

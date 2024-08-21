@@ -1,0 +1,265 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000029	3	wd40 repeat	-1	-1	0	1	0	0	0	1	1	4.469738	12.018435	13.043386	7.680836	1.840225	4.483884	GO:0016021	integral component of membrane	CC
+Gene_000037	3	polycystic kidney disease 2-like 1	-1	0	0	0	0	0	0	1	0	1.85861	6.196447	4.84461	3.445664	1.482798	1.927612	GO:0016021	integral component of membrane	CC
+Gene_000044	3	multiple epidermal growth factor-like domains 6	-1	-1	0	1	0	0	0	1	1	6.725628	19.321575	15.491319	10.24292	3.443291	5.564259	GO:0016021	integral component of membrane	CC
+Gene_000111	3	c transferase	-1	-1	0	1	0	0	0	1	1	5.216638	13.294532	13.676969	7.927823	2.304769	3.328562	GO:0016021	integral component of membrane	CC
+Gene_000135	3	phospholipid transporter	-1	-1	0	1	0	0	0	1	1	29.22189	51.79994	57.32736	41.47086	22.15862	23.31036	GO:0016021	integral component of membrane	CC
+Gene_000136	3	phospholipid-transporting atpase ib-like isoform x2 [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	16.24209	28.26335	33.46063	21.65433	12.51139	14.35092	GO:0016021	integral component of membrane	CC
+Gene_000137	3	solute carrier family 44 member 2	-1	-1	0	1	0	0	0	1	1	11.971624	29.818729	34.974556	15.003593	5.29448	9.473605	GO:0016021	integral component of membrane	CC
+Gene_000180	3	adenylate cyclase	-1	-1	0	1	0	0	-1	1	1	4.545211	15.494169	16.268382	11.047177	3.492379	6.517653	GO:0016021	integral component of membrane	CC
+Gene_000230	3	hypothetical protein pbra 003693	-1	-1	0	0	0	0	0	1	1	12.419157	32.98415	32.510682	20.288813	9.927198	6.625897	GO:0016021	integral component of membrane	CC
+Gene_000241	3	hypothetical protein pbra 003683	-1	0	0	0	0	0	0	1	1	0.6338506	2.0921598	1.4884259	0.8403382	0.2844784	0.1811034	GO:0016021	integral component of membrane	CC
+Gene_000254	3	t-snare coiled-coil domain family	-1	-1	0	0	0	0	0	1	1	4.904601	13.059139	10.776707	5.215756	2.574698	1.915121	GO:0016021	integral component of membrane	CC
+Gene_000255	3	hypothetical protein pbra 003672	-1	-1	0	1	0	0	0	1	0	0.9062485	3.2424781	2.6549629	1.8714318	0.5591336	1.0512349	GO:0016021	integral component of membrane	CC
+Gene_000309	3	voltage-gated ion channel	0	-1	0	0	0	0	0	1	0	2.231442	4.195827	5.09234	2.355265	1.251739	2.610394	GO:0016021	integral component of membrane	CC
+Gene_000314	3	copper oxidase	-1	-1	0	0	0	0	-1	1	0	6.658048	23.970719	16.880773	15.998699	9.127549	8.089303	GO:0016021	integral component of membrane	CC
+Gene_000360	3	hypothetical protein pbra 001452; partial	0	0	0	0	0	0	0	1	0	4.244298	8.929995	8.992862	4.768852	1.910708	3.293177	GO:0016021	integral component of membrane	CC
+Gene_000367	3	ca2 :cation antiporter ( ) family	-1	-1	0	0	0	0	0	1	1	3.282364	8.769904	8.624968	5.468358	2.73878	1.654913	GO:0016021	integral component of membrane	CC
+Gene_000452	3	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0016021	integral component of membrane	CC
+Gene_000461	3	large conductance mechanosensitive channel	0	-1	0	0	0	0	0	1	1	1.2396972	2.3630132	3.4482743	0.9325637	0.4492087	0.5620469	GO:0016021	integral component of membrane	CC
+Gene_000491	3	hypothetical protein pbra 001573	-1	-1	0	1	0	0	0	1	1	2.675932	7.339769	6.629256	4.413535	1.471411	1.292706	GO:0016021	integral component of membrane	CC
+Gene_000492	3	hypothetical protein pbra 001573	-1	-1	0	0	0	0	0	1	1	3.385382	8.931083	8.613143	5.298941	2.419968	1.908875	GO:0016021	integral component of membrane	CC
+Gene_000515	3	voltage-gated hydrogen channel 1	-1	-1	0	1	0	0	0	1	1	1.4912057	4.8535892	5.6305988	2.5959914	0.7058573	1.5404228	GO:0016021	integral component of membrane	CC
+Gene_000519	3	hypothetical protein pbra 001598	0	-1	0	0	0	0	0	1	1	1.8537567	3.3919592	4.3332619	1.583254	0.6271024	0.9846215	GO:0016021	integral component of membrane	CC
+Gene_000546	3	hypothetical protein pbra 001621	-1	-1	0	0	0	0	0	1	1	8.517621	21.588053	16.94026	16.245217	10.060396	6.850719	GO:0016021	integral component of membrane	CC
+Gene_000641	3	mfs general substrate transporter	-1	-1	0	1	0	0	0	1	1	8.243872	22.012495	19.685683	13.273375	5.266542	7.768728	GO:0016021	integral component of membrane	CC
+Gene_000689	3	diacylglycerol o-acyltransferase 2a	-1	-1	0	1	0	0	0	1	1	9.708049	27.928852	22.556575	15.032509	6.592575	6.113815	GO:0016021	integral component of membrane	CC
+Gene_000756	3	novel plant snare 11 isoform x1	-1	-1	0	1	0	0	0	1	1	5.771717	15.751852	13.521329	9.709168	4.31877	5.456014	GO:0016021	integral component of membrane	CC
+Gene_000838	3	endoglucanase [algibacter aquaticus]	-1	-1	0	1	0	0	0	1	1	16.94517	48.17734	43.4866	27.7994	10.54232	12.02988	GO:0016021	integral component of membrane	CC
+Gene_000843	3	e3 ubiquitin-ligase sis3	0	0	0	1	0	0	0	1	1	9.104449	14.240562	13.823656	10.669455	5.311266	5.533031	GO:0016021	integral component of membrane	CC
+Gene_000885	3	glycoside hydrolase	-1	-1	0	1	0	0	0	1	1	4.828865	13.959603	14.974305	8.072106	2.213459	3.957223	GO:0016021	integral component of membrane	CC
+Gene_000893	3	transmembrane 231	-1	-1	0	1	0	0	0	1	1	9.61957	21.119793	24.487522	12.344517	4.346258	6.621739	GO:0016021	integral component of membrane	CC
+Gene_000924	3	[skp1-]-hydroxyproline n-family gt60	0	-1	0	1	0	0	0	1	0	0.835304	1.760175	2.2173595	1.2562694	0.2845671	0.8035181	GO:0016021	integral component of membrane	CC
+Gene_000930	3	tld domain-containing 2 isoform x2	-1	-1	0	1	0	0	0	1	1	1.5557496	4.1978617	3.4270822	2.1568002	0.6214736	1.1053571	GO:0016021	integral component of membrane	CC
+Gene_001047	3	lmbr1-like conserved region-containing	-1	-1	0	1	0	0	0	1	1	6.216531	16.872154	16.068314	9.556317	2.692718	7.044314	GO:0016021	integral component of membrane	CC
+Gene_001048	3	lmbr1-like conserved region-containing	-1	-1	0	1	0	0	0	1	1	6.732226	15.824035	19.807504	11.358995	3.237076	5.72038	GO:0016021	integral component of membrane	CC
+Gene_001094	3	androglobin-like isoform x3	-1	0	0	0	0	0	0	1	1	3.763069	7.726012	5.834315	3.334348	1.829487	2.525044	GO:0016021	integral component of membrane	CC
+Gene_001116	3	hypothetical protein pbra 002658	-1	-1	0	0	0	0	0	1	1	3.27046	8.01469	7.966519	4.200588	2.872811	2.048347	GO:0016021	integral component of membrane	CC
+Gene_001336	3	c transferase	0	0	0	1	0	0	0	1	0	0.7650702	1.745091	1.7459371	1.6396545	0.4237561	0.5495558	GO:0016021	integral component of membrane	CC
+Gene_001519	3	ef-hand domain-containing	-1	-1	0	1	0	0	0	1	1	9.496886	28.053091	25.705783	18.212698	6.3842	7.219172	GO:0016021	integral component of membrane	CC
+Gene_001520	3	agc pkg kinase	-1	0	0	0	0	0	0	1	1	1.2424797	4.1444489	2.6048423	1.3291995	0.6446375	0.7431503	GO:0016021	integral component of membrane	CC
+Gene_001557	3	hypothetical protein pbra 005312	-1	-1	0	0	0	0	0	1	1	7.689959	19.492554	20.129834	16.471328	8.859188	5.364419	GO:0016021	integral component of membrane	CC
+Gene_001566	3	transmembrane and coiled-coil domain-containing 4-like isoform x1	-1	-1	0	1	0	0	-1	1	1	9.629853	26.963727	25.691138	19.324009	6.900866	9.552709	GO:0016021	integral component of membrane	CC
+Gene_001585	3	large conductance mechanosensitive channel	-1	-1	0	1	0	0	0	1	1	7.339424	14.992747	17.979672	9.315514	3.433851	4.404779	GO:0016021	integral component of membrane	CC
+Gene_001590	3	hypothetical protein pbra 006583	-1	-1	0	0	0	0	0	1	1	0.9328929	2.1460399	2.2894739	0.6858775	0.1703591	0.1811034	GO:0016021	integral component of membrane	CC
+Gene_001689	3	dnase i	-1	-1	0	0	0	0	0	1	1	1.782361	4.859299	5.892586	3.533924	1.582457	1.346828	GO:0016021	integral component of membrane	CC
+Gene_001729	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:0016021	integral component of membrane	CC
+Gene_001816	3	mfs transporter	-1	-1	0	1	0	0	0	1	1	5.229512	12.516127	14.268194	9.259751	3.300762	5.268665	GO:0016021	integral component of membrane	CC
+Gene_001831	3	hypothetical protein pbra 003115	-1	-1	0	1	0	0	0	1	1	3.858586	10.070972	11.540703	6.48996	1.993746	3.051706	GO:0016021	integral component of membrane	CC
+Gene_001866	3	endopolygalacturonase i	-1	-1	0	0	0	0	0	1	1	1.836685	4.0332075	4.6901859	1.7094304	0.7025172	0.6161691	GO:0016021	integral component of membrane	CC
+Gene_001894	3	mac perforin domain containing	-1	-1	0	1	0	0	0	1	1	7.693121	17.764556	18.942493	11.422135	4.670343	9.123889	GO:0016021	integral component of membrane	CC
+Gene_001898	3	class vii chitin synthase	-1	-1	0	1	0	0	-1	1	1	3.182056	9.505169	8.55407	7.091824	2.528459	2.718639	GO:0016021	integral component of membrane	CC
+Gene_001928	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:0016021	integral component of membrane	CC
+Gene_001941	3	hypothetical protein pbra 003199	-1	-1	0	1	0	0	0	1	1	1.855827	5.4096082	4.7162684	1.6965681	0.6209135	1.1240937	GO:0016021	integral component of membrane	CC
+Gene_001963	3	hypothetical protein pbra 003219	-1	-1	0	1	0	0	0	1	1	1.576441	4.0621443	4.3736016	2.2190831	0.599744	0.7369047	GO:0016021	integral component of membrane	CC
+Gene_002087	3	hypothetical protein pbra 003541	-1	-1	0	1	0	0	0	1	0	11.164397	28.613808	29.742049	20.258567	5.661859	11.455339	GO:0016021	integral component of membrane	CC
+Gene_002128	3	hypothetical protein pbra 003511	-1	0	0	0	0	0	-1	1	1	13.38315	30.01643	26.00935	27.82755	14.84786	11.89456	GO:0016021	integral component of membrane	CC
+Gene_002226	3	peptide transporter ptr2	-1	0	0	0	0	0	-1	1	1	22.51859	62.44724	48.16908	49.56313	27.5998	18.95968	GO:0016021	integral component of membrane	CC
+Gene_002244	3	hypothetical protein pbra 003427	-1	-1	0	1	0	0	-1	1	1	4.532408	15.124393	16.835957	10.559602	4.057113	5.214543	GO:0016021	integral component of membrane	CC
+Gene_002270	3	mitochondrial carrier (mc) family	-1	-1	0	1	0	0	0	1	1	50.77607	83.48509	81.04926	52.76412	35.41814	33.72487	GO:0016021	integral component of membrane	CC
+Gene_002303	3	hypothetical protein pbra 003381	-1	-1	0	1	0	0	0	1	1	1.6192566	4.7347747	4.3915333	2.8073658	0.6869765	1.2989516	GO:0016021	integral component of membrane	CC
+Gene_002304	3	multidrug resistance	-1	-1	0	0	0	0	0	1	1	91.89878	210.6905	212.48674	155.59427	100.27146	83.55129	GO:0016021	integral component of membrane	CC
+Gene_002310	3	disulfide-isomerase domain	-1	-1	0	1	0	0	0	1	1	2.404181	7.251064	8.784697	4.668231	1.758356	2.362678	GO:0016021	integral component of membrane	CC
+Gene_002359	3	folate biopterin family mfs transporter	-1	-1	0	0	0	0	-1	1	0	3.618073	12.592041	10.093418	8.974815	4.707674	5.383155	GO:0016021	integral component of membrane	CC
+Gene_002398	3	hypothetical protein pbra 003301	-1	-1	0	1	0	0	-1	1	1	4.036953	10.67107	10.876948	7.908781	3.744362	5.510137	GO:0016021	integral component of membrane	CC
+Gene_002500	3	hypothetical protein pbra 007682	0	-1	0	0	0	0	0	1	1	10.989577	19.111414	24.377058	12.762918	6.138652	8.062251	GO:0016021	integral component of membrane	CC
+Gene_002643	3	sugar porter (sp) family mfs transporter	-1	-1	0	1	0	0	0	1	1	85.59132	187.15569	161.26804	122.92174	73.06386	61.62318	GO:0016021	integral component of membrane	CC
+Gene_002644	3	cell cycle control	-1	-1	0	1	0	0	-1	1	1	0.9116157	2.7786603	2.9043233	2.2185699	0.6676242	1.2448293	GO:0016021	integral component of membrane	CC
+Gene_002678	3	mfs general substrate transporter	-1	-1	0	0	0	0	0	1	1	9.245702	22.796214	23.523485	14.157545	7.462083	4.887722	GO:0016021	integral component of membrane	CC
+Gene_002769	3	hypothetical protein pbra 007876	-1	-1	0	0	0	0	-1	1	1	12.08167	24.6861	26.47506	21.05666	14.03967	10.87871	GO:0016021	integral component of membrane	CC
+Gene_002780	3	hypothetical protein pbra 007870	-1	-1	0	0	0	0	0	1	1	9.889898	16.893204	22.021991	13.896132	8.502163	8.869927	GO:0016021	integral component of membrane	CC
+Gene_002828	3	hypothetical protein pbra 002324	-1	0	0	0	0	0	-1	0	0	2.116069	6.232428	5.369413	5.989124	3.028073	1.915121	GO:0016021	integral component of membrane	CC
+Gene_002842	3	hypothetical protein pbra 002314	-1	-1	0	0	0	0	0	1	1	0.5671732	1.6225375	1.8294626	0.9049172	0.2826613	0.1269811	GO:0016021	integral component of membrane	CC
+Gene_002920	3	hypothetical protein pbra 002254	-1	-1	0	0	0	0	0	1	1	1.5539389	3.4563311	4.8495002	1.8610817	0.9416306	1.4196872	GO:0016021	integral component of membrane	CC
+Gene_003044	3	hypothetical protein pbra 003594	0	0	0	0	0	0	1	1	1	3.7763843	5.6639057	4.8543907	0.9352484	1.0951033	0.8701314	GO:0016021	integral component of membrane	CC
+Gene_003046	3	kintoun-like isoform x1	-1	-1	0	1	0	0	0	1	1	3.935871	9.696237	9.599588	6.823972	2.000407	3.087091	GO:0016021	integral component of membrane	CC
+Gene_003124	3	hypothetical protein pbra 008855	-1	-1	0	0	0	0	0	1	1	0.8651803	3.0340437	2.679001	1.9283693	0.8225312	0.7493958	GO:0016021	integral component of membrane	CC
+Gene_003129	3	hypothetical protein pbra 008850	-1	-1	0	1	0	0	0	1	1	26.42336	55.48332	52.31037	35.73884	15.86923	21.55136	GO:0016021	integral component of membrane	CC
+Gene_003150	3	hypothetical protein pbra 008830	-1	-1	0	0	0	0	0	1	1	2.596064	8.184095	8.175954	5.070112	2.061195	2.506308	GO:0016021	integral component of membrane	CC
+Gene_003161	3	hypothetical protein pbra 007216	-1	0	0	0	0	0	0	1	1	1.4060337	3.5768793	2.5037993	2.0533041	1.2300093	0.2414712	GO:0016021	integral component of membrane	CC
+Gene_003206	3	hormone-sensitive lipase	-1	-1	0	0	0	0	0	1	1	31.02338	53.76703	55.9754	38.50642	23.7572	21.51389	GO:0016021	integral component of membrane	CC
+Gene_003216	3	hypothetical protein pbra 007176	-1	-1	0	0	0	0	0	1	1	1.899417	6.78527	6.946669	3.612862	2.200255	1.219847	GO:0016021	integral component of membrane	CC
+Gene_003237	3	hypothetical protein pbra 007160	-1	0	0	1	0	0	-1	1	0	3.355569	9.952297	6.349337	7.176772	3.516151	3.055864	GO:0016021	integral component of membrane	CC
+Gene_003277	3	family 3 domain-containing	-1	0	0	0	0	0	0	1	0	3.292711	9.039737	6.831757	5.585556	2.717965	3.61791	GO:0016021	integral component of membrane	CC
+Gene_003304	3	hypothetical protein pbra 007109	-1	-1	0	0	0	0	0	1	0	1.434362	5.886823	3.999962	3.206048	1.420281	2.21696	GO:0016021	integral component of membrane	CC
+Gene_003307	3	hypothetical protein pbra 007107	0	0	0	0	0	0	0	1	1	1.396526	2.6023158	2.5856946	0.883704	0.5360583	0.4350657	GO:0016021	integral component of membrane	CC
+Gene_003331	3	abc transporter g family member 11-like	-1	-1	0	0	0	0	0	1	1	4.167011	9.941939	11.147915	5.321606	3.065077	2.905988	GO:0016021	integral component of membrane	CC
+Gene_003750	3	hypothetical protein pbra 006925	-1	-1	0	1	0	0	0	1	1	50.31753	90.70087	106.34802	64.22688	34.35984	33.14408	GO:0016021	integral component of membrane	CC
+Gene_003763	3	thioesterase family	-1	-1	0	0	0	0	0	1	1	0.8576796	2.9554798	2.7242312	1.6703263	0.8860396	0.6161691	GO:0016021	integral component of membrane	CC
+Gene_003775	3	tubby homolog isoform x4	-1	-1	0	1	0	0	0	1	1	2.731227	9.113201	8.985152	4.402719	1.659866	3.401421	GO:0016021	integral component of membrane	CC
+Gene_003794	3	chitin synthase d	-1	-1	0	0	0	0	0	1	1	6.551407	19.182505	19.053731	10.920619	6.490185	5.29156	GO:0016021	integral component of membrane	CC
+Gene_003837	3	mfs general substrate transporter	-1	-1	0	1	0	0	0	1	1	1.1666191	3.8135812	3.1740473	1.611073	0.402498	0.8035181	GO:0016021	integral component of membrane	CC
+Gene_004126	3	p-type atpase	-1	-1	0	1	0	0	0	1	1	43.09042	113.42764	123.46356	76.37287	26.56698	42.97781	GO:0016021	integral component of membrane	CC
+Gene_004170	3	hypothetical protein pbra 004613	-1	-1	0	1	0	0	0	1	1	32.07444	53.94071	66.76272	37.98197	19.79221	25.37744	GO:0016021	integral component of membrane	CC
+Gene_004189	3	phospholipid-transporting atpase 3 isoform x1	-1	-1	0	1	0	0	0	1	1	41.03667	88.27212	102.41368	70.90607	37.16891	36.8411	GO:0016021	integral component of membrane	CC
+Gene_004217	3	hypothetical protein pbra 004648	-1	-1	0	1	0	0	0	1	1	10.646883	28.788738	29.681319	13.794394	5.366801	9.067679	GO:0016021	integral component of membrane	CC
+Gene_004218	3	hypothetical protein pbra 004649	-1	-1	0	0	0	0	0	1	1	1.2549598	3.4074854	3.4466441	1.0898815	0.3831457	0.4288202	GO:0016021	integral component of membrane	CC
+Gene_004264	3	zinc c3hc4 type (ring finger) domain containing	-1	-1	0	1	0	0	0	1	1	2.7119589	7.0991144	8.5956254	4.1723904	0.8243484	1.6861406	GO:0016021	integral component of membrane	CC
+Gene_004322	3	duf887-domain-containing [moesziomyces antarcticus]	-1	-1	0	1	0	0	0	1	1	14.70776	24.77683	27.71777	20.41237	10.70809	13.7514	GO:0016021	integral component of membrane	CC
+Gene_004343	3	syntaxin 16	-1	-1	0	1	0	0	0	1	0	1.5379656	4.7365434	5.3376384	3.4789286	0.8380719	2.3023097	GO:0016021	integral component of membrane	CC
+Gene_004348	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:0016021	integral component of membrane	CC
+Gene_004380	3	sphingomyelin phosphodiesterase	-1	-1	0	1	0	0	0	1	1	5.35885	11.651618	13.635413	7.742188	3.60919	4.887722	GO:0016021	integral component of membrane	CC
+Gene_004469	3	conserved plasmodium protein; unknown function	-1	0	0	0	0	0	0	0	0	1.762119	6.298521	4.576102	4.805784	2.909936	1.867244	GO:0016021	integral component of membrane	CC
+Gene_004471	3	hypothetical protein pbra 001060	-1	0	0	0	0	0	0	0	1	9.521081	21.573003	19.698725	18.53673	11.523544	7.277452	GO:0016021	integral component of membrane	CC
+Gene_004478	3	laminin b type iv	-1	-1	0	1	0	0	0	1	1	5.236427	15.088862	16.800922	8.630355	2.418063	5.06258	GO:0016021	integral component of membrane	CC
+Gene_004486	3	hypothetical protein pbra 001072	-1	-1	0	1	0	0	0	1	1	3.675502	9.676456	11.962419	5.906907	1.644236	2.452185	GO:0016021	integral component of membrane	CC
+Gene_004530	3	vm3e1 echoc ame: full=zinc metallo ase-disintegrin-like eoc1 ame: full=snake venom metallo ase short=svmp flags: precursor	-1	-1	0	0	0	0	-1	1	0	11.46007	35.17709	26.11285	27.86571	15.09649	11.47823	GO:0016021	integral component of membrane	CC
+Gene_004556	3	hypothetical protein pbra 001135	-1	-1	0	1	0	0	0	1	1	1.5203081	5.0814265	6.7034152	2.9686815	0.7625685	1.7589995	GO:0016021	integral component of membrane	CC
+Gene_004655	3	hypothetical protein pbra 001215	-1	-1	0	1	0	0	0	1	1	3.460533	7.05354	9.166875	4.47471	1.063933	2.991338	GO:0016021	integral component of membrane	CC
+Gene_004684	3	hypothetical protein pbra 001243	0	-1	0	0	0	0	0	1	1	3.16537	5.095095	7.702073	3.255843	1.777885	2.489659	GO:0016021	integral component of membrane	CC
+Gene_004685	3	calcium atpase transmembrane domain m-containing	-1	-1	0	1	0	0	0	1	1	6.233604	14.695056	16.290349	7.577795	3.333189	5.4914	GO:0016021	integral component of membrane	CC
+Gene_004721	3	hypothetical protein pbra 001267	0	0	0	0	0	0	0	1	1	0.6586842	1.517721	1.9117721	1.2875356	0.3425353	0.301839	GO:0016021	integral component of membrane	CC
+Gene_004744	3	alkaline ceramidase	-1	-1	0	1	0	0	0	1	0	0.8789568	3.0169331	3.8699903	2.0728821	0.6689699	1.5279318	GO:0016021	integral component of membrane	CC
+Gene_004745	3	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	1	0.7761273	2.3450105	2.9173645	1.7003603	0.4854474	0.5558013	GO:0016021	integral component of membrane	CC
+Gene_004746	3	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	0	0.8661522	2.5396234	3.00089	2.1098147	0.5941152	1.1178482	GO:0016021	integral component of membrane	CC
+Gene_004750	3	methyltransferase domain-containing	-1	-1	0	1	0	0	0	1	1	3.658367	10.116451	11.981152	5.486762	1.331614	2.772761	GO:0016021	integral component of membrane	CC
+Gene_004751	3	spermidine synthase	-1	-1	0	1	0	0	-1	1	1	2.973551	8.974004	9.205584	7.725097	2.823115	3.134968	GO:0016021	integral component of membrane	CC
+Gene_004787	3	hypothetical protein pbra 001319	-1	-1	0	1	0	0	0	1	1	4.030489	12.106472	12.869814	7.363989	2.247792	4.604619	GO:0016021	integral component of membrane	CC
+Gene_004826	3	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0016021	integral component of membrane	CC
+Gene_005004	3	hypothetical protein pbra 000300	-1	-1	0	1	0	0	0	1	1	13.24644	28.18899	25.161	17.34237	10.07552	11.03068	GO:0016021	integral component of membrane	CC
+Gene_005056	3	probable phospholipid-transporting atpase ia isoform x1	-1	-1	0	1	0	0	0	1	1	8.489354	16.527777	19.630672	9.691109	4.241007	6.253287	GO:0016021	integral component of membrane	CC
+Gene_005057	3	probable phospholipid-transporting atpase	-1	-1	0	1	0	0	0	1	1	20.41939	38.22152	48.99905	23.12764	11.42976	17.60663	GO:0016021	integral component of membrane	CC
+Gene_005103	3	cytochrome b561 and domon domain-containing at3g07570	-1	-1	0	1	0	0	0	1	1	1.2698347	3.585808	4.5940334	2.21729	0.5360583	0.6161691	GO:0016021	integral component of membrane	CC
+Gene_005104	3	cytochrome b561 and domon domain-containing at2g04850	-1	-1	0	1	0	0	0	1	1	2.027467	4.99376	5.952074	4.016309	1.146971	2.4168	GO:0016021	integral component of membrane	CC
+Gene_005121	3	phosphatidylserine decarboxylase subunit beta	-1	-1	0	1	0	0	-1	1	1	4.39899	12.237919	11.162974	8.876964	2.711804	5.014703	GO:0016021	integral component of membrane	CC
+Gene_005158	3	hypothetical protein pbra 000173	-1	-1	0	1	0	0	0	1	1	4.362	15.986613	14.392447	9.239818	2.937234	3.944732	GO:0016021	integral component of membrane	CC
+Gene_005206	3	kinesin kin-7o isoform x1	-1	-1	0	0	0	0	0	1	0	1.986209	5.534076	6.33182	3.563911	1.211306	2.096224	GO:0016021	integral component of membrane	CC
+Gene_005251	3	myosin-2 heavy chain	-1	-1	0	0	0	0	0	1	1	2.469436	6.110751	6.167615	3.302829	1.445173	1.800631	GO:0016021	integral component of membrane	CC
+Gene_005282	3	family nucleoside transporter	-1	-1	0	0	0	0	0	1	1	4.350294	10.478324	10.634109	6.625892	4.771996	2.518799	GO:0016021	integral component of membrane	CC
+Gene_005441	3	hypothetical protein pbra 003177	-1	-1	0	1	0	0	0	1	1	1.2999723	3.4396878	3.2840695	1.9462362	0.4891704	0.8097636	GO:0016021	integral component of membrane	CC
+Gene_005494	3	hypothetical protein pbra 000904; partial	-1	-1	0	0	0	0	0	1	1	1.92063	6.338128	6.241774	3.505214	1.628224	1.715281	GO:0016021	integral component of membrane	CC
+Gene_005495	3	gamma-aminobutyric acid type b receptor subunit 1-like	-1	-1	0	0	0	0	0	1	1	4.989637	11.789667	14.392059	7.986142	4.779797	3.836487	GO:0016021	integral component of membrane	CC
+Gene_005517	3	pas domain s-box	-1	0	0	0	0	0	0	1	0	4.97696	10.758471	9.1913	5.85426	3.815445	3.925995	GO:0016021	integral component of membrane	CC
+Gene_005563	3	sec14 1 isoform x1	-1	-1	0	0	0	0	0	1	1	5.191866	11.893758	12.241924	6.811575	3.179197	4.042573	GO:0016021	integral component of membrane	CC
+Gene_005586	3	wd repeat-containing 17	-1	-1	0	1	0	0	0	1	0	8.175251	15.737462	15.674284	11.155852	5.976553	8.886576	GO:0016021	integral component of membrane	CC
+Gene_005759	3	hypothetical protein pbra 000693; partial	-1	-1	0	1	0	0	0	1	1	82.08035	157.91083	192.05	121.58944	58.71317	75.35586	GO:0016021	integral component of membrane	CC
+Gene_005762	3	hypothetical protein pbra 006567	-1	-1	0	1	0	0	0	1	1	1.1922267	2.7084587	3.1439028	1.4471973	0.4181274	0.9304992	GO:0016021	integral component of membrane	CC
+Gene_005790	3	probable magnesium transporter nipa8	-1	-1	0	1	0	0	0	1	1	22.46678	36.74247	45.52224	25.48248	14.7389	18.63912	GO:0016021	integral component of membrane	CC
+Gene_005816	3	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0016021	integral component of membrane	CC
+Gene_005818	3	hypothetical protein pbra 006111	-1	-1	0	1	0	0	0	1	0	4.421041	9.639629	9.987763	7.988257	3.210081	5.729748	GO:0016021	integral component of membrane	CC
+Gene_005861	3	pas domain s-box	-1	0	0	0	0	0	0	1	1	9.162519	16.872784	15.442027	8.552573	6.014355	7.008928	GO:0016021	integral component of membrane	CC
+Gene_005872	3	plasma-membrane choline transporter-domain-containing	-1	-1	0	0	0	0	0	1	1	83.19433	158.44163	156.05297	108.83356	68.09641	72.68094	GO:0016021	integral component of membrane	CC
+Gene_005934	3	hypothetical protein pbra 006208	-1	-1	0	1	0	0	0	1	1	26.86403	56.50764	70.81288	42.89446	16.30846	23.2375	GO:0016021	integral component of membrane	CC
+Gene_006094	3	ceramide synthase 2-like isoform x3	0	-1	0	0	0	0	0	1	1	21.30461	32.9624	39.80322	24.80244	15.07159	15.94547	GO:0016021	integral component of membrane	CC
+Gene_006132	3	hypothetical protein pbra 007300	-1	-1	0	1	0	0	0	1	1	1.7246707	4.4212019	3.8149792	2.6399951	0.3794228	1.4925461	GO:0016021	integral component of membrane	CC
+Gene_006148	3	hypothetical protein pbra 007307	-1	-1	0	1	0	0	0	1	1	0.9176302	3.1938089	2.844836	2.1671502	0.5903036	0.6161691	GO:0016021	integral component of membrane	CC
+Gene_006149	3	tetratricopeptide repeat	-1	-1	0	0	0	0	0	1	1	15.1053	29.20796	24.45611	15.93954	10.71075	10.79754	GO:0016021	integral component of membrane	CC
+Gene_006150	3	duf231 domain containing [rhodotorula toruloides np11]	-1	-1	0	0	0	0	0	1	1	1.686645	4.210268	4.0676	1.441234	0.783738	1.492546	GO:0016021	integral component of membrane	CC
+Gene_006157	3	hypothetical protein pbra 007313	-1	-1	0	1	0	0	0	1	1	2.50313	8.605958	7.414417	4.756459	1.410752	2.84562	GO:0016021	integral component of membrane	CC
+Gene_006163	3	udp-galactose:fucoside alpha-3-galactosyltransferase-like isoform x4	-1	-1	0	1	0	0	-1	1	0	2.355549	8.03328	7.369601	6.084969	1.760999	3.553385	GO:0016021	integral component of membrane	CC
+Gene_006164	3	duf563 domain-containing	-1	-1	0	0	0	0	0	1	1	2.6269766	6.0807841	6.1602659	2.4148193	0.9398134	1.0033581	GO:0016021	integral component of membrane	CC
+Gene_006165	3	udp-d-xylose:l-fucose alpha-1;3-d-xylosyltransferase 1-like	-1	-1	0	1	0	0	0	1	1	2.2819498	7.6435396	7.1939852	4.3437861	0.8898513	2.4105543	GO:0016021	integral component of membrane	CC
+Gene_006167	3	cytochrome p450 71d11	-1	-1	0	1	0	0	0	1	0	5.742229	17.555433	13.916134	10.314655	3.463852	6.881947	GO:0016021	integral component of membrane	CC
+Gene_006366	3	hypothetical protein pbra 004998	-1	-1	0	1	0	0	0	1	1	4.29409	12.489256	12.084654	6.70201	1.921358	3.455544	GO:0016021	integral component of membrane	CC
+Gene_006428	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:0016021	integral component of membrane	CC
+Gene_006437	3	reduced wall acetylation 4-like [orbicella faveolata]	-1	-1	0	1	0	0	0	1	1	19.21126	37.9707	41.73619	25.99465	12.16451	15.54579	GO:0016021	integral component of membrane	CC
+Gene_006448	3	hypothetical protein pbra 005057	-1	-1	0	1	0	0	0	1	1	3.765202	13.100949	10.355405	6.850463	2.03422	4.052976	GO:0016021	integral component of membrane	CC
+Gene_006475	3	hypothetical protein pbra 005077	-1	-1	0	1	0	0	-1	1	1	7.022859	21.712391	20.044625	16.670721	3.73833	9.409079	GO:0016021	integral component of membrane	CC
+Gene_006487	3	gdp-fucose transporter 1-like	-1	-1	0	1	0	0	0	1	1	13.187656	36.94219	45.684867	23.840331	7.337874	11.091044	GO:0016021	integral component of membrane	CC
+Gene_006657	3	hypothetical protein pbra 005552	-1	-1	0	0	0	0	0	1	1	9.509817	15.282519	19.581741	10.355002	6.563222	7.287873	GO:0016021	integral component of membrane	CC
+Gene_006834	3	hypothetical protein pbra 009660; partial	-1	-1	0	0	0	0	0	1	1	2.978609	6.799994	7.280647	5.590249	3.028436	2.015935	GO:0016021	integral component of membrane	CC
+Gene_006846	3	hypothetical protein pbra 008541	0	0	0	0	0	0	1	1	1	52.09679	53.8298	52.10456	17.07264	15.40886	15.96419	GO:0016021	integral component of membrane	CC
+Gene_006892	3	tandem-95 repeat	-1	-1	0	1	0	0	0	1	0	2.9837095	8.5951612	9.1423957	4.9440124	0.9579087	3.2557036	GO:0016021	integral component of membrane	CC
+Gene_006897	3	multidrug resistance 1	-1	-1	0	0	0	0	0	1	1	10.511857	35.323359	27.56086	19.501702	9.301079	10.66847	GO:0016021	integral component of membrane	CC
+Gene_006908	3	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0016021	integral component of membrane	CC
+Gene_006920	3	zinc finger dhhc domain-containing	0	0	0	0	0	0	0	1	0	3.778656	8.624678	7.273836	5.667086	3.131023	4.252816	GO:0016021	integral component of membrane	CC
+Gene_007002	3	glycosyltransferase family 62	-1	-1	0	1	0	0	0	1	1	14.102821	25.551494	34.184037	15.435002	7.003699	9.123889	GO:0016021	integral component of membrane	CC
+Gene_007044	3	hemolysin iii family channel	-1	-1	0	1	0	0	0	1	1	8.210942	19.99736	23.37478	13.457228	4.429118	8.384897	GO:0016021	integral component of membrane	CC
+Gene_007174	3	hypothetical protein pbra 004581	-1	-1	0	1	0	0	0	1	1	9.860734	25.52892	25.043271	17.662034	5.551669	9.914916	GO:0016021	integral component of membrane	CC
+Gene_007205	3	alpha-1;3-mannosyltransferase cmt1	-1	-1	0	0	0	0	0	1	1	41.69454	85.67307	107.03662	70.28754	33.01438	38.25871	GO:0016021	integral component of membrane	CC
+Gene_007218	3	hypothetical protein pbra 007797	0	-1	0	1	0	0	0	1	1	13.221608	27.357536	39.165165	23.496894	8.517736	11.784248	GO:0016021	integral component of membrane	CC
+Gene_007268	3	serine threonine kinase	-1	0	0	0	0	0	0	1	1	7.404617	16.482869	12.340895	7.821834	4.180101	3.992608	GO:0016021	integral component of membrane	CC
+Gene_007278	3	ef containing	-1	-1	0	1	0	0	0	1	1	3.398209	10.494906	9.731468	6.381313	2.3204	4.351842	GO:0016021	integral component of membrane	CC
+Gene_007538	3	magnesium transporter nipa2	-1	0	0	1	0	0	0	1	0	1.2035451	3.3829141	2.278477	1.6252151	0.3388124	0.9304992	GO:0016021	integral component of membrane	CC
+Gene_007542	3	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0016021	integral component of membrane	CC
+Gene_007571	3	alkaline phosphatase family	-1	-1	0	1	0	0	0	1	1	64.03685	112.282	137.07851	85.64837	46.91036	57.88246	GO:0016021	integral component of membrane	CC
+Gene_007579	3	mfs transporter	-1	-1	0	1	0	0	0	1	1	3.811701	10.971808	10.847218	6.772552	1.516482	4.21743	GO:0016021	integral component of membrane	CC
+Gene_007606	3	regulator of g-signaling 10 isoform x2	-1	-1	0	0	0	0	0	1	1	4.083	9.508483	9.609369	6.048851	3.462555	3.424316	GO:0016021	integral component of membrane	CC
+Gene_007607	3	hypothetical protein pbra 004080	0	-1	0	0	0	0	0	1	1	0.8714869	2.2430487	3.0461201	2.455544	0.7788061	0.2414712	GO:0016021	integral component of membrane	CC
+Gene_007621	3	ammonium transporter	-1	-1	0	1	0	0	0	1	1	9.585625	31.190839	28.563246	19.647184	8.559475	8.801226	GO:0016021	integral component of membrane	CC
+Gene_007632	3	hypothetical protein pbra 004097	-1	-1	0	1	0	0	0	1	1	3.228167	7.850165	7.549279	3.876628	1.092815	1.962997	GO:0016021	integral component of membrane	CC
+Gene_007836	3	hypothetical protein pbra 006719	-1	0	0	0	0	0	0	1	1	1.9378287	4.4847787	4.4603873	2.4005524	1.3717529	0.9367448	GO:0016021	integral component of membrane	CC
+Gene_007904	3	hypothetical protein pbra 006768	-1	-1	0	1	0	0	0	1	1	1.7081831	4.1073012	4.5952493	2.2072371	0.7817436	1.9151207	GO:0016021	integral component of membrane	CC
+Gene_007905	3	concanavalin a-like lectin glucanases superfamily	-1	-1	0	1	0	0	0	1	1	2.374693	5.665321	5.641181	3.49273	1.433916	2.060839	GO:0016021	integral component of membrane	CC
+Gene_007960	3	hd domain-containing	-1	-1	0	1	0	0	0	1	1	5.586625	14.15925	15.252594	10.777098	4.090217	6.344882	GO:0016021	integral component of membrane	CC
+Gene_007978	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:0016021	integral component of membrane	CC
+Gene_007993	3	probable chitin synthase d	-1	-1	0	0	0	0	0	1	1	22.04859	49.07865	39.27697	26.53671	15.44271	14.08655	GO:0016021	integral component of membrane	CC
+Gene_008000	3	probable chitin synthase d	-1	-1	0	1	0	0	0	1	1	22.38515	58.39152	47.73773	29.12021	13.04946	11.57815	GO:0016021	integral component of membrane	CC
+Gene_008118	3	hypothetical protein pbra 001894	0	0	0	0	0	0	0	1	1	1.0084307	2.0625793	1.9292896	0.5619162	0.2496741	0.301839	GO:0016021	integral component of membrane	CC
+Gene_008174	3	hypothetical protein pbra 001932	-1	-1	0	1	0	0	0	1	1	12.369229	29.656391	36.589278	19.390344	6.578243	10.633084	GO:0016021	integral component of membrane	CC
+Gene_008226	3	long-chain fatty alcohol dehydrogenase	-1	-1	0	1	0	0	0	1	1	17.04113	35.70791	46.33879	29.33142	11.98935	18.72032	GO:0016021	integral component of membrane	CC
+Gene_008430	3	bifunctional glutathionylspermidine amidase glutathionylspermidine synthetase	-1	-1	0	1	0	0	0	1	1	2.34423	6.438193	6.40352	3.403362	1.242476	1.17197	GO:0016021	integral component of membrane	CC
+Gene_008591	3	hypothetical protein pbra 000469	-1	0	0	0	0	0	0	1	0	31.43759	104.04236	71.53364	71.63302	41.64454	29.44496	GO:0016021	integral component of membrane	CC
+Gene_008713	3	c transferase	-1	-1	0	1	0	0	0	1	1	2.566187	6.204775	8.052089	4.103209	1.296544	2.048347	GO:0016021	integral component of membrane	CC
+Gene_008714	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	1	0	0	0	1	1	1.691624	4.6504938	5.1347241	3.4042967	0.9784294	1.7340173	GO:0016021	integral component of membrane	CC
+Gene_008774	3	glycoside hydrolase family 16	-1	-1	0	0	0	0	0	1	1	38.90119	108.15899	105.98999	77.7637	39.91597	37.41146	GO:0016021	integral component of membrane	CC
+Gene_008838	3	hypothetical protein pbra 002091	-1	-1	0	1	0	0	0	1	1	4.205298	10.565842	12.721497	7.66559	3.053691	6.011816	GO:0016021	integral component of membrane	CC
+Gene_008862	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:0016021	integral component of membrane	CC
+Gene_008992	3	hypothetical protein pbra 009346	-1	-1	0	1	0	0	0	1	1	4.312584	10.376625	10.703791	5.924717	1.918106	2.283573	GO:0016021	integral component of membrane	CC
+Gene_008997	3	hypothetical protein pbra 009185	-1	-1	0	1	0	0	0	1	1	3.783481	10.379998	11.783612	6.191187	2.130095	3.548324	GO:0016021	integral component of membrane	CC
+Gene_009029	3	set domain-containing-lysine n-methyltransferase	-1	-1	0	1	0	0	0	1	1	11.218776	24.02128	27.00801	16.0511	4.690139	8.68049	GO:0016021	integral component of membrane	CC
+Gene_009063	3	hypothetical protein pbra 007553	-1	-1	0	1	0	0	0	1	1	2.033545	5.315373	5.564177	3.813469	1.506304	1.165725	GO:0016021	integral component of membrane	CC
+Gene_009126	3	hypothetical protein pbra 007599	-1	-1	0	1	0	0	0	1	1	7.33866	21.508753	20.310314	13.604952	4.864221	5.876501	GO:0016021	integral component of membrane	CC
+Gene_009127	3	regulator of g-signaling 21	-1	-1	0	1	0	0	0	1	1	5.989209	16.411167	16.059361	11.094676	3.538236	5.399804	GO:0016021	integral component of membrane	CC
+Gene_009214	3	hypothetical protein pbra 006416	-1	-1	0	1	0	0	0	1	1	11.228023	26.279438	27.212969	18.277691	7.141265	9.236291	GO:0016021	integral component of membrane	CC
+Gene_009226	3	tetratricopeptide repeat	-1	-1	0	0	0	0	0	1	0	4.347963	10.04661	10.515548	8.046162	3.600841	4.059222	GO:0016021	integral component of membrane	CC
+Gene_009252	3	conserved plasmodium membrane	-1	0	0	0	0	0	0	1	1	1.1427832	2.7659965	2.2605453	0.9583577	0.3812399	0.4288202	GO:0016021	integral component of membrane	CC
+Gene_009253	3	mitochondrial pyruvate carrier 2-like	-1	-1	0	1	0	0	0	1	1	9.028079	17.612864	19.472961	10.331995	5.058735	6.103411	GO:0016021	integral component of membrane	CC
+Gene_009302	3	hypothetical protein pbra 006346	-1	-1	0	1	0	0	0	1	0	6.156715	17.229255	20.342917	10.323644	3.34765	8.501474	GO:0016021	integral component of membrane	CC
+Gene_009340	3	hypothetical protein pbra 006328; partial	-1	-1	0	1	0	0	0	1	1	4.569397	12.019641	9.833475	6.179711	2.407973	2.779007	GO:0016021	integral component of membrane	CC
+Gene_009415	3	[naegleria gruberi]	0	0	0	0	0	0	0	1	1	11.629821	18.760117	18.616101	10.49264	7.354478	5.732871	GO:0016021	integral component of membrane	CC
+Gene_009474	3	hypothetical protein pbra 005953	-1	-1	0	1	0	0	-1	1	1	8.110382	26.877396	23.311204	20.367179	7.571488	8.534772	GO:0016021	integral component of membrane	CC
+Gene_009588	3	hypothetical protein pbra 006047	-1	-1	0	1	0	0	0	1	1	2.572392	6.654827	6.270702	3.545037	1.143248	2.283573	GO:0016021	integral component of membrane	CC
+Gene_009598	3	hypothetical protein pbra 006054	-1	-1	0	1	0	0	-1	1	1	38.43022	80.88246	89.23013	67.2257	34.48651	35.19243	GO:0016021	integral component of membrane	CC
+Gene_009633	3	[skp1-]-hydroxyproline n-family gt60	-1	-1	0	0	0	0	0	1	1	0.9683343	2.3009084	2.1770199	0.9624252	0.4024094	0.3080846	GO:0016021	integral component of membrane	CC
+Gene_009656	3	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:0016021	integral component of membrane	CC
+Gene_009716	3	hypothetical protein bvrb 041570	-1	-1	0	0	0	0	0	1	1	6.568482	22.24372	16.117606	13.328847	5.630424	4.567146	GO:0016021	integral component of membrane	CC
+Gene_009745	3	ketosteroid isomerase	-1	-1	0	1	0	0	0	1	1	5.307143	11.422737	11.561066	6.028059	2.628855	3.195336	GO:0016021	integral component of membrane	CC
+Gene_009762	3	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0016021	integral component of membrane	CC
+Gene_009779	3	pep carboxykinase	-1	-1	0	0	0	0	-1	1	0	1.389025	4.224403	3.438493	3.692819	1.774634	1.781894	GO:0016021	integral component of membrane	CC
+Gene_009957	3	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:0016021	integral component of membrane	CC
+Gene_009958	3	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	-1	1	1	15.92027	46.67115	42.50716	33.09745	12.22081	17.16219	GO:0016021	integral component of membrane	CC
+Gene_009971	3	hypothetical protein pbra 005819	-1	0	0	0	0	0	0	1	1	4.374742	14.489367	10.218913	8.496091	4.847471	3.122477	GO:0016021	integral component of membrane	CC
+Gene_009988	3	hypothetical protein pbra 005830	-1	-1	0	1	0	0	0	1	1	18.28044	45.89524	47.26779	27.49972	10.38943	13.85131	GO:0016021	integral component of membrane	CC
+Gene_010032	3	gamma-aminobutyric acid type b receptor subunit 2	-1	0	0	1	0	0	-1	1	0	6.166413	19.51231	13.474054	14.803508	5.42362	5.793239	GO:0016021	integral component of membrane	CC
+Gene_010033	3	hypothetical protein pbra 005858	-1	0	0	1	0	0	-1	1	0	2.923047	10.778477	6.640253	7.768334	2.67259	2.477168	GO:0016021	integral component of membrane	CC
+Gene_010101	3	hypothetical protein pbra 005907	-1	-1	0	1	0	0	0	1	1	3.316444	9.943442	9.014495	6.3271	2.409005	1.600791	GO:0016021	integral component of membrane	CC
+Gene_010184	3	hypothetical protein pbra 009236	-1	-1	0	1	0	0	0	1	1	4.438051	12.280323	14.97472	7.636242	2.402816	4.284044	GO:0016021	integral component of membrane	CC
+Gene_010191	3	lung seven transmembrane receptor family	-1	-1	0	1	0	0	0	1	1	5.977378	15.866705	14.305247	7.282157	2.453604	4.658742	GO:0016021	integral component of membrane	CC
+Gene_010261	3	multiple epidermal growth factor-like domains 6	-1	-1	0	0	0	0	0	1	1	4.811984	12.808708	10.539974	5.85124	3.374714	4.398534	GO:0016021	integral component of membrane	CC
+Gene_010307	3	hypothetical protein pbra 008453	-1	-1	0	0	0	0	0	1	1	1.0694164	2.5735304	3.8538958	1.2891127	0.4954479	0.8638859	GO:0016021	integral component of membrane	CC
+Gene_010321	3	maltose maltodextrin abc substrate binding periplasmic	-1	-1	0	1	0	0	0	1	0	4.510514	10.621433	9.672421	8.613125	2.469056	5.383155	GO:0016021	integral component of membrane	CC
+Gene_010396	3	hypothetical protein pbra 006615	-1	-1	0	0	0	0	0	1	1	0.7849877	2.2764574	2.6178835	0.7284765	0.3600705	0.1811034	GO:0016021	integral component of membrane	CC
+Gene_010408	3	hypothetical protein pbra 006623; partial	-1	-1	0	1	0	0	0	1	1	1.942034	5.163939	4.928135	3.291965	1.191776	1.552914	GO:0016021	integral component of membrane	CC
+Gene_010448	3	copper oxidase	-1	0	0	0	0	0	0	1	0	4.491276	9.013766	8.200379	4.694176	2.577253	3.890609	GO:0016021	integral component of membrane	CC
+Gene_010490	3	lipid phosphate phosphatase 2	-1	-1	0	1	0	0	0	1	1	4.601092	14.988832	11.561868	8.702643	3.614299	5.002212	GO:0016021	integral component of membrane	CC
+Gene_010641	3	transmembrane 17	-1	-1	0	1	0	0	0	1	1	1.5113845	5.1651277	5.8461402	3.5460676	0.9540971	1.7943851	GO:0016021	integral component of membrane	CC
+Gene_010661	3	pas domain s-box	-1	-1	0	1	0	0	-1	1	0	0.702337	2.804475	2.0089468	1.88136	0.4200332	0.8097636	GO:0016021	integral component of membrane	CC
+Gene_010670	3	hypothetical protein pbra 006537	-1	-1	0	0	0	0	0	1	1	18.17826	52.38765	48.9665	41.56067	24.37641	16.94465	GO:0016021	integral component of membrane	CC
+Gene_010713	3	endoplasmic reticulum-intermediate compartment	-1	-1	0	1	0	0	0	1	1	4.26415	9.952247	11.804734	6.748228	1.901268	3.334808	GO:0016021	integral component of membrane	CC
+Gene_010810	3	7 transmembrane sweet-taste receptor of 3 gcpr-domain-containing	-1	-1	0	1	0	0	-1	1	1	12.54514	37.74985	31.78705	37.91196	13.31143	11.78632	GO:0016021	integral component of membrane	CC
+Gene_010815	3	sugar efflux transporter for intercellular exchange-domain-containing	-1	-1	0	0	0	0	0	1	1	1.466309	4.914746	4.769235	4.110793	1.386037	1.298952	GO:0016021	integral component of membrane	CC
+Gene_011032	3	tetratricopeptide repeat	-1	-1	0	1	0	0	0	1	1	3.974742	9.834621	10.993077	7.399264	2.670114	3.975959	GO:0016021	integral component of membrane	CC
+Gene_011247	3	related to tetracycline resistance from transposon tn4351 tn4400	-1	-1	0	0	0	0	-1	1	1	0.9520365	3.2391735	3.2840695	2.4259797	1.3017011	0.4829424	GO:0016021	integral component of membrane	CC
+Gene_011330	3	sam-dependent methyltransferase	-1	-1	0	1	0	0	0	1	1	30.20278	60.10198	64.80861	43.88669	20.603	29.93834	GO:0016021	integral component of membrane	CC
+Gene_011439	3	extracellular solute-binding family 1	-1	-1	0	1	0	0	-1	1	1	0.8374376	3.4244195	2.6614835	3.3911945	0.8317944	0.7306592	GO:0016021	integral component of membrane	CC
+Gene_011450	3	pro convertase subtilisin kexin type 5-like	-1	-1	0	0	0	0	0	1	1	2.121761	5.258435	5.129005	2.247262	1.166972	1.667404	GO:0016021	integral component of membrane	CC
+Gene_011484	3	alpha beta-hydrolase	0	0	0	0	0	0	0	1	1	36.81181	64.03166	63.74227	41.95004	28.70449	25.27544	GO:0016021	integral component of membrane	CC
+Gene_011510	3	g-coupled receptor family	0	0	0	1	0	0	0	1	0	1.8326775	4.1720764	5.1913386	2.4261522	0.5516876	2.2898187	GO:0016021	integral component of membrane	CC
+Gene_011615	3	pyridine nucleotide-disulfide oxidoreductase	-1	-1	0	0	0	0	0	1	0	0.7686266	2.3168205	2.8851756	1.7631462	0.6948773	1.0387438	GO:0016021	integral component of membrane	CC
+Gene_011711	3	probable phospholipid-transporting atpase 7 isoform x1	-1	-1	0	1	0	0	0	1	1	3.745997	14.1124	11.74522	7.23172	2.751069	4.671233	GO:0016021	integral component of membrane	CC
+Gene_011712	3	transmembrane protein	-1	-1	0	1	0	0	0	1	1	5.591478	15.988357	14.175275	8.006291	3.146298	5.456014	GO:0016021	integral component of membrane	CC
+Gene_011784	3	pre-mrna cleavage complex ii protein clp1	-1	-1	0	1	0	0	0	1	1	2.155194	4.626919	4.753348	2.408559	1.042026	1.292706	GO:0016021	integral component of membrane	CC
+Gene_011906	3	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:0016021	integral component of membrane	CC
+Gene_011947	3	glycosyl hydrolases family 18-domain-containing protein	-1	-1	0	0	0	0	0	1	1	47.0599	76.49866	77.6316	45.69052	29.96818	24.38656	GO:0016021	integral component of membrane	CC
+Gene_012187	3	sterol o-acyltransferase 1	-1	-1	0	1	0	0	0	1	1	3.012163	5.939953	6.307367	3.543339	1.440016	1.921366	GO:0016021	integral component of membrane	CC
+Gene_012217	3	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:0016021	integral component of membrane	CC
+Gene_012221	3	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0016021	integral component of membrane	CC
+Gene_012222	3	cytochrome c oxidase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	1	0	4.584116	9.1937	6.160266	3.111469	1.038686	2.593745	GO:0016021	integral component of membrane	CC
+Gene_012224	3	cytochrome c oxidase subunit 3 (mitochondrion)	0	0	0	0	0	0	0	1	0	3.152285	6.195363	4.728895	2.122332	1.105398	2.5875	GO:0016021	integral component of membrane	CC
+Gene_012274	3	predicted protein	-1	-1	0	1	0	0	-1	1	1	3.087699	9.620198	8.606208	6.479265	1.503879	3.915591	GO:0016021	integral component of membrane	CC
+Gene_012312	3	aarf/abc1/ubib kinase family protein	-1	0	0	0	0	0	0	1	0	4.821949	14.564737	11.434355	11.25408	6.595101	4.150817	GO:0016021	integral component of membrane	CC
+Gene_012328	3	g-protein-coupled receptor  family 3 protein 5	-1	-1	0	1	0	0	-1	1	1	4.080542	9.944198	8.979046	8.924841	3.076246	3.836487	GO:0016021	integral component of membrane	CC
+Gene_012347	3	glycosyltransferase family 71 protein	0	0	0	0	0	0	0	1	0	8.084189	11.886807	14.454339	6.510703	4.508788	7.54808	GO:0016021	integral component of membrane	CC
+Gene_012489	3	rhomboid-like protein 4	-1	-1	0	0	0	0	0	1	1	1.1244508	3.6877871	2.5889549	2.4263246	1.2743427	0.3684524	GO:0016021	integral component of membrane	CC
+Gene_012494	3	hypothetical protein pbra 008068	0	0	0	0	0	0	0	1	0	0.6590087	1.4437727	1.6204419	1.1330749	0.2109695	0.3684524	GO:0016021	integral component of membrane	CC

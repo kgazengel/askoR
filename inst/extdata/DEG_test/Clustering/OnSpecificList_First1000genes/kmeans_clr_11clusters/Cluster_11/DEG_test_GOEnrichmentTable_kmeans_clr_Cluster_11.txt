@@ -1,0 +1,146 @@
+GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
+GO:0003755	peptidyl-prolyl cis-trans isomerase activity	24	1	0.05	0.045	20	MF
+GO:0004965	G protein-coupled GABA receptor activity	58	1	0.11	0.105	9.09090909090909	MF
+GO:0016758	hexosyltransferase activity	68	1	0.13	0.122	7.69230769230769	MF
+GO:0030246	carbohydrate binding	73	1	0.14	0.131	7.14285714285714	MF
+GO:0004842	ubiquitin-protein transferase activity	115	1	0.22	0.199	4.54545454545455	MF
+GO:0005509	calcium ion binding	150	1	0.29	0.251	3.44827586206897	MF
+GO:0005515	protein binding	1872	5	3.57	0.272	1.40056022408964	MF
+GO:0008270	zinc ion binding	548	2	1.05	0.281	1.9047619047619	MF
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	352	1	0.67	0.498	1.49253731343284	MF
+GO:0016740	transferase activity	1226	4	2.34	0.504	1.70940170940171	MF
+GO:0046872	metal ion binding	1257	4	2.4	0.567	1.66666666666667	MF
+GO:0016301	kinase activity	444	1	0.85	0.584	1.17647058823529	MF
+GO:0005488	binding	4823	9	9.2	0.874	0.978260869565218	MF
+GO:0140096	catalytic activity, acting on a protein	907	2	1.73	1.000	1.15606936416185	MF
+GO:0003824	catalytic activity	3233	5	6.17	1.000	0.810372771474878	MF
+GO:0046914	transition metal ion binding	628	2	1.2	1.000	1.66666666666667	MF
+GO:0016757	glycosyltransferase activity	145	1	0.28	1.000	3.57142857142857	MF
+GO:0038023	signaling receptor activity	76	1	0.14	1.000	7.14285714285714	MF
+GO:0003674	molecular_function	6816	13	13	1.000	1	MF
+GO:0004888	transmembrane signaling receptor activity	72	1	0.14	1.000	7.14285714285714	MF
+GO:0016853	isomerase activity	80	1	0.15	1.000	6.66666666666667	MF
+GO:0019787	ubiquitin-like protein transferase activity	121	1	0.23	1.000	4.34782608695652	MF
+GO:0016859	cis-trans isomerase activity	24	1	0.05	1.000	20	MF
+GO:0043167	ion binding	2296	4	4.38	1.000	0.91324200913242	MF
+GO:0043169	cation binding	1261	4	2.41	1.000	1.6597510373444	MF
+GO:0060089	molecular transducer activity	76	1	0.14	1.000	7.14285714285714	MF
+GO:0016917	GABA receptor activity	58	1	0.11	1.000	9.09090909090909	MF
+GO:0016772	transferase activity, transferring phosphorus-containing groups	559	1	1.07	1.000	0.934579439252336	MF
+GO:0004930	G protein-coupled receptor activity	68	1	0.13	1.000	7.69230769230769	MF
+GO:0006012	galactose metabolic process	10	1	0.01	0.012	100	BP
+GO:0006769	nicotinamide metabolic process	12	1	0.01	0.014	100	BP
+GO:0006000	fructose metabolic process	15	1	0.02	0.018	50	BP
+GO:0046497	nicotinate nucleotide metabolic process	16	1	0.02	0.019	50	BP
+GO:0006013	mannose metabolic process	17	1	0.02	0.020	50	BP
+GO:0000413	protein peptidyl-prolyl isomerization	24	1	0.03	0.029	33.3333333333333	BP
+GO:0006098	pentose-phosphate shunt	25	1	0.03	0.030	33.3333333333333	BP
+GO:0006096	glycolytic process	29	1	0.03	0.034	33.3333333333333	BP
+GO:0006094	gluconeogenesis	37	1	0.04	0.044	25	BP
+GO:0006807	nitrogen compound metabolic process	2804	4	3.38	0.058	1.18343195266272	BP
+GO:0007216	G protein-coupled glutamate receptor signaling pathway	58	1	0.07	0.068	14.2857142857143	BP
+GO:0006457	protein folding	69	1	0.08	0.080	12.5	BP
+GO:0016567	protein ubiquitination	117	1	0.14	0.133	7.14285714285714	BP
+GO:0044238	primary metabolic process	3004	4	3.62	0.351	1.10497237569061	BP
+GO:0055085	transmembrane transport	358	1	0.43	0.361	2.32558139534884	BP
+GO:0043170	macromolecule metabolic process	2409	3	2.9	0.727	1.03448275862069	BP
+GO:0007154	cell communication	441	1	0.53	1.000	1.88679245283019	BP
+GO:0009058	biosynthetic process	1065	1	1.28	1.000	0.78125	BP
+GO:0006753	nucleoside phosphate metabolic process	164	1	0.2	1.000	5	BP
+GO:0009185	ribonucleoside diphosphate metabolic process	30	1	0.04	1.000	25	BP
+GO:0023052	signaling	432	1	0.52	1.000	1.92307692307692	BP
+GO:0051716	cellular response to stimulus	640	1	0.77	1.000	1.2987012987013	BP
+GO:0006757	ATP generation from ADP	29	1	0.03	1.000	33.3333333333333	BP
+GO:0044237	cellular metabolic process	2738	1	3.3	1.000	0.303030303030303	BP
+GO:0016051	carbohydrate biosynthetic process	53	1	0.06	1.000	16.6666666666667	BP
+GO:0050896	response to stimulus	732	1	0.88	1.000	1.13636363636364	BP
+GO:0016052	carbohydrate catabolic process	33	1	0.04	1.000	25	BP
+GO:1901564	organonitrogen compound metabolic process	1785	3	2.15	1.000	1.3953488372093	BP
+GO:0016310	phosphorylation	456	1	0.55	1.000	1.81818181818182	BP
+GO:0044281	small molecule metabolic process	698	1	0.84	1.000	1.19047619047619	BP
+GO:0006739	NADP metabolic process	28	1	0.03	1.000	33.3333333333333	BP
+GO:0006006	glucose metabolic process	39	1	0.05	1.000	20	BP
+GO:0043603	cellular amide metabolic process	371	1	0.45	1.000	2.22222222222222	BP
+GO:0044283	small molecule biosynthetic process	185	1	0.22	1.000	4.54545454545455	BP
+GO:0051179	localization	833	1	1	1.000	1	BP
+GO:0046031	ADP metabolic process	29	1	0.03	1.000	33.3333333333333	BP
+GO:0036211	protein modification process	763	2	0.92	1.000	2.17391304347826	BP
+GO:0007186	G protein-coupled receptor signaling pathway	109	1	0.13	1.000	7.69230769230769	BP
+GO:0046034	ATP metabolic process	57	1	0.07	1.000	14.2857142857143	BP
+GO:0050789	regulation of biological process	998	1	1.2	1.000	0.833333333333333	BP
+GO:1901135	carbohydrate derivative metabolic process	263	1	0.32	1.000	3.125	BP
+GO:0009205	purine ribonucleoside triphosphate metabolic process	62	1	0.07	1.000	14.2857142857143	BP
+GO:0009199	ribonucleoside triphosphate metabolic process	63	1	0.08	1.000	12.5	BP
+GO:0009179	purine ribonucleoside diphosphate metabolic process	30	1	0.04	1.000	25	BP
+GO:0006163	purine nucleotide metabolic process	87	1	0.1	1.000	10	BP
+GO:0050794	regulation of cellular process	936	1	1.13	1.000	0.884955752212389	BP
+GO:0006165	nucleoside diphosphate phosphorylation	33	1	0.04	1.000	25	BP
+GO:0009987	cellular process	4052	4	4.89	1.000	0.81799591002045	BP
+GO:0006793	phosphorus metabolic process	768	1	0.93	1.000	1.0752688172043	BP
+GO:0046364	monosaccharide biosynthetic process	37	1	0.04	1.000	25	BP
+GO:0006796	phosphate-containing compound metabolic process	757	1	0.91	1.000	1.0989010989011	BP
+GO:0018193	peptidyl-amino acid modification	100	1	0.12	1.000	8.33333333333333	BP
+GO:1901360	organic cyclic compound metabolic process	1505	1	1.81	1.000	0.552486187845304	BP
+GO:0019637	organophosphate metabolic process	274	1	0.33	1.000	3.03030303030303	BP
+GO:0046939	nucleotide phosphorylation	40	1	0.05	1.000	20	BP
+GO:0046483	heterocycle metabolic process	1465	1	1.77	1.000	0.564971751412429	BP
+GO:0008150	biological_process	4976	6	6	1.000	1	BP
+GO:0018208	peptidyl-proline modification	24	1	0.03	1.000	33.3333333333333	BP
+GO:0006810	transport	796	1	0.96	1.000	1.04166666666667	BP
+GO:0007215	glutamate receptor signaling pathway	60	1	0.07	1.000	14.2857142857143	BP
+GO:0008152	metabolic process	3516	4	4.24	1.000	0.943396226415094	BP
+GO:0005996	monosaccharide metabolic process	57	1	0.07	1.000	14.2857142857143	BP
+GO:0005975	carbohydrate metabolic process	223	1	0.27	1.000	3.7037037037037	BP
+GO:0006725	cellular aromatic compound metabolic process	1480	1	1.78	1.000	0.561797752808989	BP
+GO:0006139	nucleobase-containing compound metabolic process	1381	1	1.67	1.000	0.598802395209581	BP
+GO:0043412	macromolecule modification	844	2	1.02	1.000	1.96078431372549	BP
+GO:0032787	monocarboxylic acid metabolic process	110	1	0.13	1.000	7.69230769230769	BP
+GO:0009117	nucleotide metabolic process	161	1	0.19	1.000	5.26315789473684	BP
+GO:0071704	organic substance metabolic process	3152	4	3.8	1.000	1.05263157894737	BP
+GO:0051234	establishment of localization	805	1	0.97	1.000	1.03092783505155	BP
+GO:0019318	hexose metabolic process	55	1	0.07	1.000	14.2857142857143	BP
+GO:0072521	purine-containing compound metabolic process	148	1	0.18	1.000	5.55555555555556	BP
+GO:0034641	cellular nitrogen compound metabolic process	1682	1	2.03	1.000	0.492610837438424	BP
+GO:0019319	hexose biosynthetic process	37	1	0.04	1.000	25	BP
+GO:0046496	nicotinamide nucleotide metabolic process	37	1	0.04	1.000	25	BP
+GO:0019693	ribose phosphate metabolic process	91	1	0.11	1.000	9.09090909090909	BP
+GO:0019538	protein metabolic process	1350	2	1.63	1.000	1.22699386503067	BP
+GO:0072524	pyridine-containing compound metabolic process	49	1	0.06	1.000	16.6666666666667	BP
+GO:1901575	organic substance catabolic process	348	1	0.42	1.000	2.38095238095238	BP
+GO:1901576	organic substance biosynthetic process	1041	1	1.26	1.000	0.793650793650794	BP
+GO:0019362	pyridine nucleotide metabolic process	44	1	0.05	1.000	20	BP
+GO:0009820	alkaloid metabolic process	14	1	0.02	1.000	50	BP
+GO:0009259	ribonucleotide metabolic process	91	1	0.11	1.000	9.09090909090909	BP
+GO:0009141	nucleoside triphosphate metabolic process	67	1	0.08	1.000	12.5	BP
+GO:0006082	organic acid metabolic process	424	1	0.51	1.000	1.96078431372549	BP
+GO:0065007	biological regulation	1095	1	1.32	1.000	0.757575757575758	BP
+GO:0009144	purine nucleoside triphosphate metabolic process	62	1	0.07	1.000	14.2857142857143	BP
+GO:0051156	glucose 6-phosphate metabolic process	27	1	0.03	1.000	33.3333333333333	BP
+GO:0006090	pyruvate metabolic process	46	1	0.06	1.000	16.6666666666667	BP
+GO:0009150	purine ribonucleotide metabolic process	86	1	0.1	1.000	10	BP
+GO:0006091	generation of precursor metabolites and energy	168	1	0.2	1.000	5	BP
+GO:0007165	signal transduction	429	1	0.52	1.000	1.92307692307692	BP
+GO:0007166	cell surface receptor signaling pathway	85	1	0.1	1.000	10	BP
+GO:0006740	NADPH regeneration	25	1	0.03	1.000	33.3333333333333	BP
+GO:0009132	nucleoside diphosphate metabolic process	37	1	0.04	1.000	25	BP
+GO:0006766	vitamin metabolic process	47	1	0.06	1.000	16.6666666666667	BP
+GO:0006767	water-soluble vitamin metabolic process	47	1	0.06	1.000	16.6666666666667	BP
+GO:0009135	purine nucleoside diphosphate metabolic process	30	1	0.04	1.000	25	BP
+GO:0032446	protein modification by small protein conjugation	130	1	0.16	1.000	6.25	BP
+GO:0070647	protein modification by small protein conjugation or removal	185	1	0.22	1.000	4.54545454545455	BP
+GO:0009056	catabolic process	377	1	0.45	1.000	2.22222222222222	BP
+GO:0043436	oxoacid metabolic process	424	1	0.51	1.000	1.96078431372549	BP
+GO:0055086	nucleobase-containing small molecule metabolic process	243	1	0.29	1.000	3.44827586206897	BP
+GO:0019752	carboxylic acid metabolic process	420	1	0.51	1.000	1.96078431372549	BP
+GO:0016021	integral component of membrane	2650	9	5.38	0.019	1.6728624535316	CC
+GO:0061695	transferase complex, transferring phosphorus-containing groups	103	1	0.21	0.191	4.76190476190476	CC
+GO:0005829	cytosol	174	1	0.35	0.302	2.85714285714286	CC
+GO:0005622	intracellular anatomical structure	2228	1	4.52	1.000	0.221238938053097	CC
+GO:0110165	cellular anatomical entity	4797	10	9.74	1.000	1.02669404517454	CC
+GO:1902494	catalytic complex	431	1	0.87	1.000	1.14942528735632	CC
+GO:0005737	cytoplasm	1020	1	2.07	1.000	0.483091787439614	CC
+GO:0031224	intrinsic component of membrane	2651	9	5.38	1.000	1.6728624535316	CC
+GO:0032991	protein-containing complex	1065	1	2.16	1.000	0.462962962962963	CC
+GO:0005575	cellular_component	4927	10	10	1.000	1	CC
+GO:1990234	transferase complex	196	1	0.4	1.000	2.5	CC
+GO:0016020	membrane	2972	9	6.03	1.000	1.49253731343284	CC

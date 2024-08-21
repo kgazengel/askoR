@@ -1,0 +1,176 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000017	3	muts homolog 4	-1	-1	0	1	0	0	-1	1	1	156.5167	290.4311	347.9632	254.4962	139.8845	158.3939	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000090	3	dna damage-inducible 1	-1	-1	0	1	0	0	0	1	1	16.457651	36.98219	40.418929	26.299206	9.531715	13.601527	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000091	3	dna damage-inducible 1-like isoform x1	-1	-1	0	1	0	0	0	1	1	4.768454	11.098037	13.050708	7.481561	3.493076	4.277798	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000179	3	adenylate guanylate cyclase	-1	-1	0	1	0	0	-1	1	1	2.869299	9.657512	8.545919	6.490976	2.159597	3.118319	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000246	3	cell division cycle cofactor of apc complex	-1	0	0	0	0	0	0	1	0	2.469049	5.898176	3.885463	2.284554	1.599903	1.679895	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000279	3	camp-dependent kinase catalytic	-1	-1	0	1	0	0	0	1	1	18.57812	43.73731	52.72158	33.62898	12.48653	17.70238	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000330	3	u-box domain-containing 51	-1	0	0	0	0	0	0	1	1	6.941307	13.853212	12.510432	8.432447	5.14421	3.890609	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000386	3	dna mismatch repair	-1	-1	0	0	0	0	0	1	0	2.080952	6.558197	6.998006	4.719182	1.964257	3.0746	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000511	3	serine threonine-kinase ht1	-1	-1	0	1	0	0	0	1	1	19.74145	58.94238	56.78064	40.99977	11.73175	17.81687	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000616	3	glu leu phe val dehydrogenase	-1	-1	0	1	0	0	0	1	1	5.967542	16.61041	16.247604	12.194178	3.818637	6.669616	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000617	3	glutamate nad(p)+	-1	-1	0	1	0	0	0	1	1	4.59378	11.948073	13.828961	8.609956	2.177043	3.461789	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000671	3	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000699	3	reveille 6-like isoform x2	-1	-1	0	1	0	0	0	1	1	9.966605	28.543861	23.180404	20.91684	6.198998	8.844945	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000755	3	homeobox homothorax	-1	-1	0	1	0	0	0	1	1	5.869308	12.909223	13.01117	7.442035	3.377611	5.560101	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000884	3	glutathione s-transferase kappa 1 [rhodotorula toruloides np11]	-1	-1	0	1	0	0	0	1	1	1.3497661	3.8698314	4.2525825	1.8309231	0.4780014	0.8701314	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000934	3	hypothetical protein pbra 005220	-1	-1	0	0	0	0	0	1	1	3.350201	9.477357	8.130724	5.334814	2.64695	1.823525	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000951	3	hypothetical protein pbra 005232	-1	-1	0	1	0	0	0	1	1	5.693909	15.883098	15.805084	9.890266	3.599141	6.942315	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000952	3	multiple epidermal growth factor-like domains 6	-1	-1	0	1	0	0	-1	1	1	6.952301	15.479029	21.857399	13.412975	4.272011	6.694598	GO:0006807	nitrogen compound metabolic process	BP
+Gene_000977	3	bromodomain domain containing	-1	0	0	0	0	0	0	1	0	3.84391	11.540526	7.169533	7.928006	4.271068	4.361061	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001005	3	hypothetical protein pbra 002551	-1	-1	0	1	0	0	0	1	1	79.12848	231.13929	206.90605	155.2295	46.97663	83.24116	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001020	3	germinal center kinase 1	-1	-1	0	1	0	0	0	1	0	1.974044	4.135619	4.741937	3.489576	1.023412	2.042102	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001071	3	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	0	1	1	4.074015	13.814866	14.729836	8.628308	2.641498	3.944732	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001072	3	fmn-binding glutamate synthase family	-1	-1	0	1	0	0	-1	1	1	2.670501	9.145025	11.156066	7.130975	1.783897	3.522157	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001094	3	androglobin-like isoform x3	-1	0	0	0	0	0	0	1	1	3.763069	7.726012	5.834315	3.334348	1.829487	2.525044	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001112	3	nuclear transcription factor y	-1	-1	0	0	0	0	-1	1	1	14.89848	34.47941	31.51893	25.94624	15.6407	10.79961	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001126	3	serine threonine kinase	-1	-1	0	1	0	0	-1	1	1	14.3454	33.4469	33.95059	25.22197	13.11995	13.75556	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001307	3	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	26.82851	61.85241	71.29936	39.12147	14.16925	21.36401	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001308	3	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	37.03154	83.78877	92.88683	49.16567	18.38701	28.11273	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001368	3	transcription factor dpb isoform x1	-1	-1	0	1	0	0	0	1	1	4.961049	15.737354	16.934982	9.931989	3.426316	3.721997	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001487	3	calcium calmodulin-dependent kinase type 1d-like	-1	-1	0	0	0	0	-1	0	0	3.875406	9.057199	10.121131	8.213063	5.106408	4.694127	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001689	3	dnase i	-1	-1	0	0	0	0	0	1	1	1.782361	4.859299	5.892586	3.533924	1.582457	1.346828	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001729	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	0	0	0	0	1	1	26.37053	69.8016	70.24575	46.47778	28.01566	18.29564	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001754	3	calpain-type cysteine protease dek1	-1	0	0	1	0	0	0	1	1	6.057372	11.40526	10.852884	6.841825	2.985899	4.427674	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001828	3	dipeptidyl peptidase 1	-1	0	0	1	0	0	0	1	0	3.4058866	7.8593478	5.9223166	3.6754751	0.9442738	2.556272	GO:0006807	nitrogen compound metabolic process	BP
+Gene_001928	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	44.52495	84.48938	78.06224	56.62468	27.64679	39.4494	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002022	3	metalloprotease family	-1	-1	0	1	0	0	0	1	1	2.728833	5.583187	6.635777	4.881139	2.023659	2.664517	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002039	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002345	3	cytosolic carboxypeptidase 4	-1	-1	0	1	0	0	-1	1	0	15.39711	48.55255	40.40628	38.42752	16.84255	19.29484	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002592	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.496935	2.25509	2.970726	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002613	3	kynureninase isoform x1	0	-1	0	0	0	0	0	1	1	11.14563	21.556208	24.463457	13.896851	7.013406	6.199165	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002769	3	hypothetical protein pbra 007876	-1	-1	0	0	0	0	-1	1	1	12.08167	24.6861	26.47506	21.05666	14.03967	10.87871	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002874	3	atp dependent dna ligase	-1	-1	0	1	0	0	0	1	1	9.329064	18.280951	18.248153	12.184817	5.19095	7.03391	GO:0006807	nitrogen compound metabolic process	BP
+Gene_002954	3	hypothetical protein pbra 002230	-1	-1	0	1	0	0	0	1	1	112.22132	321.36558	322.17652	225.21746	76.52894	98.09165	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003205	3	hypothetical protein pbra 007186	-1	-1	0	1	0	0	0	1	1	2.832373	7.674728	6.569769	3.900651	1.040947	2.423045	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003446	3	ubiquitin carboxyl-terminal hydrolase 2-like	-1	-1	0	0	0	0	0	1	1	1.513132	4.929653	4.727679	3.025254	1.133248	0.978376	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003517	3	tubulin polyglutamylase ttll4	-1	-1	0	1	0	0	-1	1	1	1.3116768	4.1714716	4.1979857	3.3238258	0.8105363	1.3468283	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003546	3	glu leu phe val dehydrogenase	0	-1	0	0	0	0	0	1	1	11.91199	16.119368	20.540887	9.876366	7.067414	7.154646	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003562	3	hypothetical protein pbra 004303	-1	0	0	0	0	0	0	0	1	7.759015	17.844047	14.64468	11.848758	9.402156	3.938486	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003572	3	cbl-interacting serine threonine-kinase 5-like	-1	-1	0	1	0	0	0	1	1	5.42126	15.68371	12.747165	10.325893	3.836083	4.51927	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003601	3	rieske domain-containing	-1	-1	0	1	0	0	0	1	1	1.3571403	3.5959468	4.0195237	2.2072371	0.4717239	1.4196872	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003626	3	mitogen-activated kinase kinase 6 isoform x2	-1	-1	0	1	0	0	0	1	1	7.084106	16.653975	20.311944	12.46843	5.285765	7.013086	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003824	3	zinc c2h2 type family (macronuclear)	-1	-1	0	1	0	0	0	1	1	3.522715	10.172846	11.353883	6.96685	2.184578	3.322317	GO:0006807	nitrogen compound metabolic process	BP
+Gene_003949	3	papain family cysteine protease	-1	-1	0	1	0	0	0	1	1	8.05044	18.61455	26.145637	15.925169	6.515371	7.560572	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004020	3	hypothetical protein pbra 002438	-1	-1	0	0	0	0	0	1	1	7.401507	13.304903	15.286414	6.85277	4.300881	4.906458	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004148	3	hypothetical protein pbra 002542	-1	-1	0	1	0	0	-1	1	1	9.350602	26.810018	24.360396	20.475047	8.182655	8.42237	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004230	3	ataxin-3 homolog	-1	-1	0	1	0	0	0	1	1	1.6241727	5.1223521	4.8580652	3.5774149	0.8498896	0.9846215	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004264	3	zinc c3hc4 type (ring finger) domain containing	-1	-1	0	1	0	0	0	1	1	2.7119589	7.0991144	8.5956254	4.1723904	0.8243484	1.6861406	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004348	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	7.062182	16.282455	16.381638	11.520363	5.063195	6.065938	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004452	3	cathepsin z ase	-1	-1	0	0	0	0	0	1	1	52.94628	94.14057	103.70566	72.31938	44.15468	44.75347	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004459	3	cupin fold family	-1	-1	0	1	0	0	0	1	1	1.180845	2.8274498	3.1121281	1.8720739	0.4449256	0.5620469	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004489	3	kinase domain	0	0	0	0	0	0	0	1	1	6.906252	11.592874	14.92214	9.224784	5.021771	4.157063	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004530	3	vm3e1 echoc ame: full=zinc metallo ase-disintegrin-like eoc1 ame: full=snake venom metallo ase short=svmp flags: precursor	-1	-1	0	0	0	0	-1	1	0	11.46007	35.17709	26.11285	27.86571	15.09649	11.47823	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004624	3	hsf-type dna-binding domain containing	-1	-1	0	1	0	0	0	1	1	8.960759	25.125694	25.01763	16.51753	5.441272	8.295389	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004629	3	hypothetical protein pbra 001195; partial	-1	-1	0	1	0	0	0	1	1	19.31631	47.56382	54.92184	41.32866	14.51165	19.29484	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004681	3	hypothetical protein pbra 001238	-1	-1	0	0	0	0	0	1	1	5.131526	12.572974	11.704493	8.338044	5.090336	3.957223	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004684	3	hypothetical protein pbra 001243	0	-1	0	0	0	0	0	1	1	3.16537	5.095095	7.702073	3.255843	1.777885	2.489659	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004697	3	endopeptidase la	-1	-1	0	1	0	0	0	1	1	25.15552	61.53665	71.50269	41.29092	14.73395	23.02517	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004744	3	alkaline ceramidase	-1	-1	0	1	0	0	0	1	0	0.8789568	3.0169331	3.8699903	2.0728821	0.6689699	1.5279318	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004745	3	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	1	0.7761273	2.3450105	2.9173645	1.7003603	0.4854474	0.5558013	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004746	3	hypothetical protein pbra 001287; partial	-1	-1	0	1	0	0	0	1	0	0.8661522	2.5396234	3.00089	2.1098147	0.5941152	1.1178482	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004757	3	hypothetical protein pbra 001295	-1	-1	0	0	0	0	0	1	1	12.585827	37.927905	35.423957	21.81116	13.319359	8.903225	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004766	3	probable proline dehydrogenase 2	-1	-1	0	1	0	0	0	1	1	34.20298	64.60684	77.26848	45.47679	23.50117	30.4546	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004826	3	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0006807	nitrogen compound metabolic process	BP
+Gene_004859	3	chorismate mutase	-1	0	0	0	0	0	0	1	0	7.437274	15.958785	12.111511	10.816217	7.908709	6.694598	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005083	3	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	0	1	1	5.242119	15.631916	13.96421	8.940509	4.076583	2.754024	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005110	3	membrane occupation and recognition nexus morn1	-1	-1	0	1	0	0	-1	1	1	0.8477209	3.0623869	2.6647438	2.9896454	0.8724048	0.4350657	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005121	3	phosphatidylserine decarboxylase subunit beta	-1	-1	0	1	0	0	-1	1	1	4.39899	12.237919	11.162974	8.876964	2.711804	5.014703	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005155	3	sperm flagellar 2	-1	-1	0	0	0	0	0	1	1	2.332463	5.674551	5.503059	3.404594	1.321613	1.661158	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005156	3	central pair complex 1 [micromonas commoda]	-1	-1	0	0	0	0	0	1	1	1.2514034	3.2097211	3.391633	1.5587618	0.7232152	0.7972726	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005157	3	flagellar associated	-1	-1	0	1	0	0	0	1	1	1.835199	5.376168	5.227202	3.393305	0.710229	1.800631	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005253	3	zonadhesin-like isoform x1	-1	0	0	0	0	0	0	1	1	0.8655049	2.2608749	1.8535007	0.8777404	0.4530203	0.2414712	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005271	3	m-phase inducer phosphatase 1-b-like isoform x5	-1	-1	0	1	0	0	-1	1	1	4.985433	14.021644	12.844146	12.673107	3.838432	4.513024	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005334	3	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005352	3	mitogen-activated kinase kinase kinase npk1-like isoform x4	-1	-1	0	1	0	0	0	1	1	9.88723	19.881408	20.047912	15.524826	6.501313	9.785847	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005511	3	hypothetical protein pbra 000886	-1	-1	0	1	0	0	0	1	1	3.91951	11.310782	9.654185	5.240201	2.401176	1.78814	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005517	3	pas domain s-box	-1	0	0	0	0	0	0	1	0	4.97696	10.758471	9.1913	5.85426	3.815445	3.925995	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005525	3	[micromonas commoda]	0	0	0	0	0	0	0	1	0	1.3049516	2.751089	2.322077	2.0843397	0.6639012	0.9367448	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005555	3	alkaloid synthase surface mucin hemomucin	-1	-1	0	1	0	0	0	1	1	7.48598	19.883725	24.853011	13.964354	3.927304	6.983946	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005633	3	atp-dependent rna helicase ddx5	-1	-1	0	1	0	0	-1	1	1	9.441592	27.041715	20.554784	21.381415	7.040438	7.666729	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005683	3	multifunctional 2 ;3-cyclic-nucleotide 2-phosphodiesterase 5-nucleotidase 3-nucleotidase	0	-1	0	1	0	0	0	1	1	4.359671	7.014274	9.675403	4.591203	2.055417	2.677008	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005755	3	adenylate kinase 7-like	-1	-1	0	1	0	0	0	1	1	6.878124	20.812189	16.867317	9.876528	3.171279	4.354815	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005873	3	indoleamine 2;3-dioxygenase 1	0	-1	0	0	0	0	0	1	1	18.86267	28.67948	36.68137	26.1842	14.82779	17.69613	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005929	3	carbonate dehydratase	-1	-1	0	1	0	0	0	1	1	0.7838893	2.374174	2.8305788	1.7614444	0.5803031	0.8638859	GO:0006807	nitrogen compound metabolic process	BP
+Gene_005977	3	prip interacting pimt	-1	0	0	0	0	0	0	1	1	9.574882	25.383583	21.04657	16.726609	7.366707	5.489312	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006071	3	cyclin-dependent kinase 20	-1	-1	0	0	0	0	0	1	1	6.618391	12.083379	13.439019	8.933805	5.127401	5.793239	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006106	3	xylem cysteine ase 1	-1	-1	0	1	0	0	0	1	1	8.361505	18.691003	16.319692	11.837933	7.111489	9.321641	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006160	3	hypothetical protein pbra 007315	-1	-1	0	1	0	0	0	1	1	2.426493	8.068273	6.894504	3.777801	1.659954	1.607036	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006295	3	hypothetical protein emihudraft 108598	-1	-1	0	0	0	0	0	1	1	3.190528	9.394146	8.871068	6.714446	2.612528	2.439694	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006428	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	11.651631	30.617384	27.449702	21.553893	8.573984	6.981858	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006481	3	hypothetical protein pbra 005081	-1	-1	0	0	0	0	0	1	1	131.41796	228.71408	215.43218	160.2855	103.12726	94.33426	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006502	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.49501	7.569572	7.380858	6.501317	2.25509	2.970726	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006562	3	hypothetical protein pbra 008119	-1	-1	0	1	0	0	0	1	1	3.122169	8.279657	8.283517	6.165348	1.563104	2.737375	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006904	3	3-hydroxyacyl-dehydrogenase	-1	0	0	0	0	0	0	1	0	1.7113534	4.8334821	4.3564716	1.9432544	0.5978382	1.6611584	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006919	3	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	1.3339908	3.2967364	2.4581549	1.2331818	0.7662915	0.4954335	GO:0006807	nitrogen compound metabolic process	BP
+Gene_006922	3	hypothetical protein pbra 009100	-1	0	0	0	0	0	0	1	1	2.967996	12.183015	7.854038	3.626956	2.709987	1.794385	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007080	3	chromosome condensation regulator rcc1 repeat	-1	-1	0	1	0	0	0	1	1	50.67656	119.17027	121.04551	88.68145	38.49987	45.56116	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007081	3	agc kinase	-1	-1	0	1	0	0	-1	1	1	47.11652	103.71631	117.07826	84.92038	37.8254	48.29852	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007121	3	hypothetical protein pbra 004546	-1	-1	0	1	0	0	-1	1	1	0.7207684	3.2456936	3.0428598	3.0840382	0.5822089	0.990867	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007206	3	hypothetical protein pbra 004599; partial	0	-1	0	0	0	0	0	1	1	3.031436	5.637191	7.958548	3.360423	1.597916	2.446984	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007222	3	serine threonine kinase	-1	-1	0	0	0	0	-1	1	1	4.090573	15.388231	12.858403	9.861457	6.561611	4.723268	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007261	3	probable tubulin polyglutamylase ttll1	-1	-1	0	1	0	0	0	1	1	9.857429	32.05801	32.668366	19.23255	6.256652	10.909941	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007268	3	serine threonine kinase	-1	0	0	0	0	0	0	1	1	7.404617	16.482869	12.340895	7.821834	4.180101	3.992608	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007405	3	glucokinase	-1	-1	0	0	0	0	0	1	1	64.35714	122.22788	125.47923	75.384	50.73027	36.55175	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007421	3	physa phypo ame: full=physarolisin ame: full=physaropepsin contains: ame: full=physarolisin heavy chain contains: ame: full=physarolisin light chain flags: precursor	-1	-1	0	1	0	0	0	1	1	61.09631	122.86577	171.22375	98.66882	38.86156	46.71649	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007542	3	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007781	3	chitin synthase 2	-1	-1	0	1	0	0	0	1	1	13.210096	38.853031	38.853111	26.554445	7.601252	12.167261	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007794	3	hypothetical protein pbra 005368	-1	0	0	0	0	0	0	1	0	15.33507	38.80098	26.71215	27.30304	17.09462	16.76979	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007841	3	purine-nucleoside phosphorylase	0	-1	0	0	0	0	0	1	1	38.94862	65.25316	87.09052	46.81348	27.75674	29.43459	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007920	3	cysteine ase cot44-like	0	-1	0	0	0	0	0	1	1	194.7179	292.9664	422.0094	240.2831	139.5616	142.3935	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007928	3	hypothetical protein pbra 006789	0	0	0	0	0	0	0	1	1	0.8686103	2.2015434	2.5954756	1.0285814	0.2590259	0.2477168	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007960	3	hd domain-containing	-1	-1	0	1	0	0	0	1	1	5.586625	14.15925	15.252594	10.777098	4.090217	6.344882	GO:0006807	nitrogen compound metabolic process	BP
+Gene_007978	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	-1	1	1	6.780732	22.112405	20.767065	16.73006	5.971436	7.416924	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008118	3	hypothetical protein pbra 001894	0	0	0	0	0	0	0	1	1	1.0084307	2.0625793	1.9292896	0.5619162	0.2496741	0.301839	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008267	3	calcium calmodulin-dependent kinase type 1d-like	-1	0	0	0	0	0	0	1	1	1.5805199	4.7818518	4.066384	3.62359	1.4938784	0.8576404	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008355	3	4-hydroxyphenylpyruvate dioxygenase	0	-1	0	0	0	0	0	1	1	27.57217	44.85785	53.60072	27.39517	17.1911	18.43097	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008419	3	agc kinase	-1	-1	0	1	0	0	0	1	0	3.880449	11.084354	9.69248	5.306697	2.221377	4.562988	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008564	3	serine threonine-phosphatase 6 regulatory ankyrin repeat subunit b-like	-1	0	0	0	0	0	0	1	1	2.262678	4.719277	4.50052	2.513646	1.681124	1.721526	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008582	3	alpha 1;3 fucosyltransferase	-1	-1	0	0	0	0	0	1	1	6.281261	13.917527	13.053167	7.432231	3.369871	3.709506	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008767	3	serine threonine kinase	-1	-1	0	1	0	0	0	1	1	28.02907	43.12416	44.10391	26.63986	16.35723	19.84648	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008792	3	dual specificity tyrosine-phosphorylation-regulated kinase 4-like isoform x4	-1	-1	0	1	0	0	0	1	1	4.355976	7.80348	10.548953	3.721401	1.424004	2.368923	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008862	3	chitin synthase (chitin-udp-ac-transferase)	-1	-1	0	1	0	0	0	1	1	136.98993	282.19319	358.90129	260.99333	94.75024	139.08364	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008865	3	intraflagellar transport 57	-1	-1	0	1	0	0	0	1	1	14.925323	44.76304	44.936372	30.635745	9.276855	14.288468	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008891	3	counting factor 60-like	-1	0	0	0	0	0	0	1	0	1.470316	4.256838	4.434719	2.577118	1.507308	1.311443	GO:0006807	nitrogen compound metabolic process	BP
+Gene_008944	3	beta-hexosaminidase subunit beta-like	-1	-1	0	1	0	0	0	1	1	27.20317	61.62116	54.13005	32.74835	15.72257	19.18035	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009044	3	sperm motility kinase w isoform x3	0	0	0	0	0	0	0	1	0	2.526091	4.732147	5.466367	2.135506	1.151432	2.556272	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009363	3	lysosomal aspartic protease	-1	-1	0	1	0	0	0	1	1	11.866213	27.49142	30.026805	17.235758	6.269078	10.670557	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009425	3	phosphatase 2c-related	-1	-1	0	1	0	0	0	1	1	1.3868284	4.3400023	4.6302843	2.2419982	0.4760956	0.8638859	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009426	3	ubx domain-containing 1-like isoform x2	-1	-1	0	1	0	0	0	1	1	1.2624605	3.661422	3.4637474	1.7326904	0.4256619	0.9242537	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009513	3	mitogen-activated kinase 7-like	-1	0	0	0	0	0	0	1	0	3.343611	9.596639	7.020414	5.959985	2.522181	3.934328	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009539	3	alpha-tubulin n-acetyltransferase 1 isoform x6	-1	-1	0	1	0	0	0	1	1	2.973812	7.620084	8.616817	5.356966	1.311702	2.229451	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009719	3	2-oxoisovalerate dehydrogenase subunit mitochondrial-like	-1	-1	0	1	0	0	0	1	1	21.19708	47.42704	48.97416	28.83215	10.64917	16.45339	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009814	3	traf3-interacting 1 isoform x2	-1	-1	0	1	0	0	0	1	1	6.970542	18.758945	19.518218	13.541605	4.018703	6.222059	GO:0006807	nitrogen compound metabolic process	BP
+Gene_009971	3	hypothetical protein pbra 005819	-1	0	0	0	0	0	0	1	1	4.374742	14.489367	10.218913	8.496091	4.847471	3.122477	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010056	3	hypothetical protein pbra 005874	-1	0	0	0	0	0	0	1	0	10.172787	45.249772	27.979703	21.531239	12.800522	9.186327	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010277	3	oda5-associated flagellar adenylate kinase	-1	-1	0	0	0	0	0	1	1	2.106562	6.69598	6.812195	3.221845	1.547564	1.5883	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010483	3	lysosomal aspartic protease	-1	-1	0	0	0	0	0	1	1	79.7444	231.52482	212.52926	186.20373	105.70701	75.02687	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010543	3	probable serine carboxypeptidase cpvl	-1	-1	0	1	0	0	0	1	1	1.924638	6.0000405	5.8339006	2.6854034	0.7950842	0.4954335	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010544	3	peptidase s10	-1	-1	0	0	0	0	0	1	1	5.525503	10.117979	11.807166	6.935834	4.678369	3.026723	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010834	3	hypothetical protein pbra 008339	-1	-1	0	1	0	0	0	1	1	3.965559	11.726986	7.809636	5.800415	2.009936	1.860998	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010937	3	polysaccharide deacetylase family	-1	-1	0	1	0	0	0	1	1	15.821103	32.832785	28.286974	18.326698	9.004437	11.919545	GO:0006807	nitrogen compound metabolic process	BP
+Gene_010979	3	cmgc gsk kinase	-1	-1	0	1	0	0	0	1	1	22.98111	41.70768	40.93429	33.65208	19.34415	21.26201	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011081	3	adenosine deaminase	0	-1	0	0	0	0	0	1	1	14.462776	20.913102	27.143674	12.847823	7.666952	8.488983	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011123	3	ert1 picpg ame: full=transcription activator of gluconeogenesis ert1	-1	-1	0	0	0	0	0	1	1	11.07631	32.51259	27.98185	24.73361	12.58099	10.44989	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011298	3	s-phase kinase-associated 1a	-1	-1	0	0	0	0	0	1	1	25.20935	48.38412	43.82722	35.3499	20.03182	19.95057	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011345	3	hsf-type dna-binding	-1	-1	0	1	0	0	0	1	1	1.611044	3.554756	4.471798	3.415883	1.368933	1.298952	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011380	3	c6 transcription factor	-1	0	0	0	0	0	0	1	1	5.928293	21.573358	14.107637	14.327529	6.49222	4.796126	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011454	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	1	2.469969	7.48349	7.33612	6.4195	2.2365	2.933256	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011459	3	retrovirus-related pol poly	0	0	0	1	0	0	0	1	1	7.16404	10.52654	13.975996	10.500196	3.951725	3.096037	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011498	3	alpha-xylosidase 1-like	-1	-1	0	1	0	0	-1	1	1	51.97776	98.43114	119.00056	100.9856	55.09434	64.68741	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011646	3	hypothetical protein pbra 009357	-1	-1	0	1	0	0	0	1	1	1.298549	2.927321	3.314628	2.260359	0.60719	0.876377	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011647	3	kinase 2 (macronuclear)	-1	-1	0	1	0	0	0	1	1	1.7816489	4.6269193	5.8799592	3.3169272	0.8898513	1.1719705	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011865	3	nad(p)-binding protein	0	-1	0	1	0	0	0	1	1	44.91815	62.01468	86.74617	41.59504	21.99485	29.99664	GO:0006807	nitrogen compound metabolic process	BP
+Gene_011947	3	glycosyl hydrolases family 18-domain-containing protein	-1	-1	0	0	0	0	0	1	1	47.0599	76.49866	77.6316	45.69052	29.96818	24.38656	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012180	3	calcium/calmodulin-dependent protein kinase type iv-like	-1	-1	0	1	0	0	0	1	0	1.5563337	5.7710221	4.4799492	3.6901347	0.9446567	1.5341773	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012221	3	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012225	3	atp synthase subunit alpha; mitochondrial	0	0	0	0	0	0	0	1	0	5.521466	8.288417	10.499661	3.271596	1.455291	2.708235	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012312	3	aarf/abc1/ubib kinase family protein	-1	0	0	0	0	0	0	1	0	4.821949	14.564737	11.434355	11.25408	6.595101	4.150817	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012346	3	hypothetical protein pbra 008942	-1	-1	0	1	0	0	0	1	1	39.94824	109.62399	97.46427	67.47583	28.30955	30.02785	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012347	3	glycosyltransferase family 71 protein	0	0	0	0	0	0	0	1	0	8.084189	11.886807	14.454339	6.510703	4.508788	7.54808	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012418	3	threonine ammonia-lyase; biosynthetic	-1	-1	0	1	0	0	0	1	1	1.9693275	5.9109207	5.5323752	2.805664	0.8785051	1.3114427	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012489	3	rhomboid-like protein 4	-1	-1	0	0	0	0	0	1	1	1.1244508	3.6877871	2.5889549	2.4263246	1.2743427	0.3684524	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012542	3	subtilisin-like serine peptidase	-1	-1	0	0	0	0	-1	1	0	1.328687	3.77296	4.447346	3.467893	1.21884	1.686141	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012610	3	hypothetical protein pbra 009138	-1	-1	0	1	0	0	-1	1	0	1.680732	4.751127	4.490835	4.027574	1.418724	1.898259	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012717	3	hypothetical protein pbra 009687	-1	-1	0	0	0	0	0	1	1	1.3486677	3.3773298	2.9147122	2.0461084	1.1310821	0.6099236	GO:0006807	nitrogen compound metabolic process	BP
+Gene_012783	3	hypothetical protein pbra 009702	-1	-1	0	0	0	0	0	1	1	3.006765	6.570029	6.550401	4.610663	2.642814	2.833129	GO:0006807	nitrogen compound metabolic process	BP

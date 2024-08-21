@@ -1,0 +1,127 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000023	1	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0140513	nuclear protein-containing complex	CC
+Gene_000064	1	u2 small nuclear ribonucleo a	1	1	0	0	0	0	0	-1	0	221.6359	178.3827	177.9014	207.1945	234.6221	201.8829	GO:0140513	nuclear protein-containing complex	CC
+Gene_000128	1	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0140513	nuclear protein-containing complex	CC
+Gene_000146	1	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0140513	nuclear protein-containing complex	CC
+Gene_000147	1	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0140513	nuclear protein-containing complex	CC
+Gene_000159	1	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0140513	nuclear protein-containing complex	CC
+Gene_000405	1	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0140513	nuclear protein-containing complex	CC
+Gene_000447	1	splicing factor u2af small subunit b	0	0	0	0	0	0	0	-1	0	256.1132	224.6879	222.0729	255.7248	278.6687	257.2362	GO:0140513	nuclear protein-containing complex	CC
+Gene_000527	1	nucleoporin nup43	0	0	0	0	0	0	1	0	0	117.24966	99.37064	97.30845	84.70904	97.64167	108.90171	GO:0140513	nuclear protein-containing complex	CC
+Gene_000541	1	hypothetical protein pbra 001616	0	0	0	0	0	0	0	-1	0	136.709	126.0003	131.7668	147.0378	152.3197	147.2145	GO:0140513	nuclear protein-containing complex	CC
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0140513	nuclear protein-containing complex	CC
+Gene_000629	1	ccnc dicdi ame: full=cyclin-c	0	0	0	0	0	0	0	-1	-1	114.6966	96.98875	91.3732	114.34903	137.02047	122.06812	GO:0140513	nuclear protein-containing complex	CC
+Gene_000652	1	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0140513	nuclear protein-containing complex	CC
+Gene_000667	1	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0140513	nuclear protein-containing complex	CC
+Gene_000898	1	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0140513	nuclear protein-containing complex	CC
+Gene_000906	1	hypothetical protein pbra 005199	1	0	0	0	0	0	0	-1	-1	123.1887	105.3761	107.3143	127.529	140.4085	147.7433	GO:0140513	nuclear protein-containing complex	CC
+Gene_000943	1	sister chromatid cohesion	1	0	0	0	0	0	0	0	0	19.62049	14.71672	16.15018	18.55998	18.68356	19.47803	GO:0140513	nuclear protein-containing complex	CC
+Gene_001013	1	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0140513	nuclear protein-containing complex	CC
+Gene_001014	1	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0140513	nuclear protein-containing complex	CC
+Gene_001085	1	proliferating cell nuclear antigen	1	0	0	0	0	0	1	0	0	544.3659	454.7839	483.0855	444.0129	476.9758	481.807	GO:0140513	nuclear protein-containing complex	CC
+Gene_001093	1	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0140513	nuclear protein-containing complex	CC
+Gene_001188	1	u1 snrnp	0	0	0	0	0	0	0	-1	0	346.7332	308.3446	311.5014	347.671	388.1104	345.5232	GO:0140513	nuclear protein-containing complex	CC
+Gene_001218	1	transcription initiation factor tfiid subunit 6	0	0	0	0	0	0	0	-1	-1	112.3657	99.85747	102.92083	121.81289	138.10905	134.01684	GO:0140513	nuclear protein-containing complex	CC
+Gene_001517	1	tho complex subunit 3 isoform x2	1	0	0	0	0	0	0	-1	-1	148.8091	122.1238	128.5304	150.0201	164.2864	171.1223	GO:0140513	nuclear protein-containing complex	CC
+Gene_001524	1	mcm10 homolog	0	0	0	0	0	0	0	-1	0	59.02402	51.98167	54.53383	57.0199	68.63663	60.91125	GO:0140513	nuclear protein-containing complex	CC
+Gene_001571	1	nucleoporin nup37-like	1	0	0	0	0	0	1	0	0	87.17922	74.34398	73.41919	71.36809	79.99366	78.79267	GO:0140513	nuclear protein-containing complex	CC
+Gene_001597	1	transcription elongation factor 1 homolog	0	0	0	0	0	0	1	0	0	73.30874	60.6585	61.29549	55.22189	62.04159	55.31577	GO:0140513	nuclear protein-containing complex	CC
+Gene_001644	1	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0140513	nuclear protein-containing complex	CC
+Gene_002009	1	histone deacetylase 1 2	0	0	0	0	0	0	0	-1	0	177.5155	154.9951	163.1158	179.7468	190.0792	180.4939	GO:0140513	nuclear protein-containing complex	CC
+Gene_002489	1	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0140513	nuclear protein-containing complex	CC
+Gene_002557	1	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0140513	nuclear protein-containing complex	CC
+Gene_002615	1	transcription initiation factor tfiid subunit 7	0	0	0	0	0	0	0	0	-1	47.55221	46.04772	41.07404	49.5717	49.71149	54.3936	GO:0140513	nuclear protein-containing complex	CC
+Gene_002804	1	transcription initiation factor iia subunit 2-like	0	0	0	0	0	0	0	-1	0	49.18007	45.09531	41.91706	48.4599	56.74698	48.98546	GO:0140513	nuclear protein-containing complex	CC
+Gene_002948	1	dna-directed rna polymerase ii subunit 4-like	0	0	0	0	0	0	0	-1	0	107.83813	92.96722	95.9872	103.73317	120.17588	92.36297	GO:0140513	nuclear protein-containing complex	CC
+Gene_003009	1	pre-mrna-processing 45	0	0	0	0	0	0	0	-1	-1	168.1372	149.7607	154.3013	183.5544	195.1311	192.7424	GO:0140513	nuclear protein-containing complex	CC
+Gene_003032	1	hypothetical protein guithdraft 58788; partial	0	0	0	0	0	0	1	0	0	59.77987	52.68996	51.21142	46.10071	52.91953	50.98386	GO:0140513	nuclear protein-containing complex	CC
+Gene_003065	1	pre-mrna-splicing factor 38b isoform x1 [tarenaya hassleriana]	0	0	0	0	0	0	0	-1	-1	150.4765	137.4409	140.4842	159.1499	165.1193	168.7846	GO:0140513	nuclear protein-containing complex	CC
+Gene_003118	1	nucleolar complex 2 homolog	1	1	0	0	0	0	0	-1	-1	290.4842	232.983	219.8808	252.6635	283.004	282.5053	GO:0140513	nuclear protein-containing complex	CC
+Gene_003187	1	crooked neck 1	0	0	0	0	0	0	0	-1	0	355.735	306.7533	304.6716	339.7136	392.9204	354.5409	GO:0140513	nuclear protein-containing complex	CC
+Gene_003332	1	dna-directed rna polymerase and iii subunit rpabc5	0	0	0	0	0	0	0	-1	0	74.10611	68.56534	62.80022	80.5234	86.51273	64.17322	GO:0140513	nuclear protein-containing complex	CC
+Gene_003395	1	u2 small nuclear ribonucleo b	0	0	0	0	0	0	0	-1	0	331.8923	291.5255	275.6126	316.8144	353.2626	317.7914	GO:0140513	nuclear protein-containing complex	CC
+Gene_003473	1	u3 small nucleolar rna-associated mpp10	1	1	0	0	0	0	0	0	0	217.4579	183.895	166.1887	190.5029	183.5003	191.204	GO:0140513	nuclear protein-containing complex	CC
+Gene_003540	1	transcription factor tfiih complex subunit tfb2	0	0	0	0	0	0	0	-1	0	185.4546	169.9437	169.3498	182.9785	219.8874	194.1766	GO:0140513	nuclear protein-containing complex	CC
+Gene_003801	1	wd repeat-containing 5	0	0	0	0	0	0	1	0	0	142.5597	123.3269	120.1218	115.1901	134.0726	122.345	GO:0140513	nuclear protein-containing complex	CC
+Gene_003931	1	nuclear pore complex nup93-like	0	0	0	0	0	0	0	-1	-1	288.4686	278.4431	279.6683	312.6488	317.2321	336.5347	GO:0140513	nuclear protein-containing complex	CC
+Gene_003955	1	rna-binding domain-containing	0	0	0	0	0	0	0	-1	0	54.64776	48.62305	49.06092	55.69621	65.14076	57.47029	GO:0140513	nuclear protein-containing complex	CC
+Gene_003998	1	origin of replication complex subunit 6	0	0	0	0	0	0	0	-1	0	111.01803	96.57019	97.73278	110.40122	126.04063	114.55337	GO:0140513	nuclear protein-containing complex	CC
+Gene_004144	1	pre-mrna-splicing factor syf2	0	0	0	0	0	0	0	-1	0	189.993	167.8548	174.8215	186.7154	202.842	193.4501	GO:0140513	nuclear protein-containing complex	CC
+Gene_004247	1	serine arginine-rich splicing factor rs41-like isoform x1	0	0	0	0	0	0	0	-1	-1	475.1278	417.9014	413.2707	480.2473	558.3148	505.3588	GO:0140513	nuclear protein-containing complex	CC
+Gene_004498	1	dna-directed rna polymerase iii subunit rpc6-like isoform x1	0	1	0	0	0	0	0	0	0	113.09033	97.76176	89.60037	98.16264	110.28895	94.16567	GO:0140513	nuclear protein-containing complex	CC
+Gene_004764	1	partner of isoform b	0	0	0	0	0	0	0	-1	0	228.5211	218.5627	214.907	238.6667	254.3373	229.3899	GO:0140513	nuclear protein-containing complex	CC
+Gene_004813	1	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0140513	nuclear protein-containing complex	CC
+Gene_004850	1	hypothetical protein pbra 001372	0	0	0	0	0	0	0	-1	-1	17.55893	13.91364	12.56216	18.12683	22.12685	19.38019	GO:0140513	nuclear protein-containing complex	CC
+Gene_004851	1	dna polymerase beta-like	0	0	0	0	0	0	0	-1	0	52.23748	44.79374	42.75927	53.76917	64.9371	57.34747	GO:0140513	nuclear protein-containing complex	CC
+Gene_004852	1	hypothetical protein pbra 001372	0	0	0	-1	0	0	0	-1	-1	61.52684	53.33284	52.08869	64.57848	81.37616	71.0614	GO:0140513	nuclear protein-containing complex	CC
+Gene_004944	1	atp-dependent dna helicase 2 subunit ku80	0	0	0	0	0	0	0	-1	0	185.785	170.5349	170.7673	183.4905	203.7065	195.0218	GO:0140513	nuclear protein-containing complex	CC
+Gene_005002	1	cop9 signalosome complex subunit 4	0	0	0	0	0	0	1	0	0	97.45162	84.9216	85.60287	78.19789	92.00961	83.46597	GO:0140513	nuclear protein-containing complex	CC
+Gene_005288	1	transcription initiation factor beta subunit	0	0	0	0	0	0	0	-1	0	30.91938	30.57374	28.55101	34.96865	40.16186	33.7665	GO:0140513	nuclear protein-containing complex	CC
+Gene_005518	1	dna polymerase delta catalytic subunit	0	0	0	0	0	0	0	-1	-1	394.7527	337.0054	348.2828	390.9705	428.0883	436.25	GO:0140513	nuclear protein-containing complex	CC
+Gene_005547	1	rna polymerase-associated ctr9 homolog	0	0	0	0	0	0	0	-1	0	524.0732	474.6751	474.5205	526.1708	585.7911	550.0498	GO:0140513	nuclear protein-containing complex	CC
+Gene_005559	1	dna-directed rna polymerase iii subunit rpc4-like isoform x1	0	0	0	0	0	0	0	-1	-1	62.36862	57.54987	58.77009	66.82981	70.25893	73.69886	GO:0140513	nuclear protein-containing complex	CC
+Gene_005756	1	tho complex subunit 5b-like isoform x4	0	0	0	0	0	0	0	-1	0	222.4007	208.7947	211.6006	249.9275	267.7396	257.6899	GO:0140513	nuclear protein-containing complex	CC
+Gene_005766	1	u6 snrna-associated sm lsm3	0	0	0	0	0	0	0	-1	0	64.79962	55.5326	55.3695	63.22452	72.27103	63.3926	GO:0140513	nuclear protein-containing complex	CC
+Gene_005787	1	dna-directed rna polymerases and iii subunit rpabc2-like	1	0	0	0	0	0	0	0	0	29.10934	22.44219	22.53129	25.74185	25.23763	24.59891	GO:0140513	nuclear protein-containing complex	CC
+Gene_005792	1	mediator of rna polymerase ii transcription subunit 12-like	0	0	0	0	0	0	0	-1	0	251.8365	220.0935	236.7868	246.3235	277.8153	276.9161	GO:0140513	nuclear protein-containing complex	CC
+Gene_005793	1	pre-mrna-splicing factor 38a	0	0	0	0	0	0	0	-1	0	152.7832	128.5524	130.6271	143.1008	167.0138	160.0167	GO:0140513	nuclear protein-containing complex	CC
+Gene_005970	1	transcription initiation factor tfiid subunit 2	0	0	0	0	0	0	0	-1	-1	225.6488	201.9497	213.5253	264.256	298.7499	285.149	GO:0140513	nuclear protein-containing complex	CC
+Gene_006134	1	cyclin-dependent kinase 7	0	0	0	0	0	0	0	-1	-1	84.6501	72.88239	71.43124	83.36767	97.29587	98.20201	GO:0140513	nuclear protein-containing complex	CC
+Gene_006292	1	cyclin-h isoform x1	1	0	0	0	0	0	0	-1	0	69.95889	55.94955	60.56695	59.45888	71.33524	67.69329	GO:0140513	nuclear protein-containing complex	CC
+Gene_006357	1	trna-splicing endonuclease subunit sen34-like isoform x2	0	0	0	0	0	0	0	0	-1	32.10494	28.98369	24.8949	30.1546	34.67576	37.05134	GO:0140513	nuclear protein-containing complex	CC
+Gene_006460	1	nuclear pore glyco p62	0	0	0	0	0	0	0	-1	-1	190.0212	180.5303	183.4414	202.3613	214.5316	233.1826	GO:0140513	nuclear protein-containing complex	CC
+Gene_006525	1	peptidyl-prolyl cis-trans isomerase-like 1	1	1	0	-1	0	0	0	-1	0	93.10018	73.1022	70.33442	79.47601	103.33966	82.98303	GO:0140513	nuclear protein-containing complex	CC
+Gene_006563	1	dna polymerase epsilon catalytic subunit a [wallemia mellicola cbs ]	0	0	0	0	0	0	0	-1	0	437.7034	394.7959	439.4554	445.3714	503.7481	471.2967	GO:0140513	nuclear protein-containing complex	CC
+Gene_006575	1	p-loop containing nucleoside triphosphate hydrolase	0	0	0	0	0	0	0	-1	-1	206.0204	181.7715	173.5683	214.8378	249.2601	267.0616	GO:0140513	nuclear protein-containing complex	CC
+Gene_006671	1	proteasome component region pci domain-containing	0	0	0	0	0	0	-1	-1	-1	118.0234	125.3162	106.876	147.1738	151.4694	149.4315	GO:0140513	nuclear protein-containing complex	CC
+Gene_006812	1	centromere s-like	0	0	0	0	0	0	0	0	-1	24.8163	20.95281	20.07883	24.97267	25.86669	29.76764	GO:0140513	nuclear protein-containing complex	CC
+Gene_006902	1	small nuclear ribonucleo sm d3	1	0	0	0	0	0	0	0	0	263.1283	205.3701	216.0598	223.0306	236.6284	245.8932	GO:0140513	nuclear protein-containing complex	CC
+Gene_006944	1	metallo-dependent phosphatase	0	0	0	0	0	0	0	-1	-1	601.4512	558.7335	554.8868	644.5514	743.1455	686.9143	GO:0140513	nuclear protein-containing complex	CC
+Gene_007000	1	intron-binding aquarius isoform x1	1	0	0	0	0	0	0	-1	-1	291.926	230.7932	245.2113	291.4351	333.9079	348.9912	GO:0140513	nuclear protein-containing complex	CC
+Gene_007037	1	e3 ubiquitin-ligase fancl isoform x1	1	0	0	0	0	0	0	-1	0	81.01622	66.03768	69.84952	71.96019	83.81733	78.31181	GO:0140513	nuclear protein-containing complex	CC
+Gene_007038	1	rna-binding 34-like isoform x1	1	1	0	0	0	0	0	-1	-1	104.73381	87.87927	81.37228	99.60851	115.03175	110.61489	GO:0140513	nuclear protein-containing complex	CC
+Gene_007115	1	dad4-outer kinetochore (part of dam1 complex)	0	0	0	0	0	0	0	-1	0	50.05903	43.05572	42.95564	47.11319	55.19846	42.24716	GO:0140513	nuclear protein-containing complex	CC
+Gene_007169	1	actin arp5	0	0	0	0	0	0	0	-1	0	138.3249	141.5751	141.8729	158.6506	173.5874	151.1426	GO:0140513	nuclear protein-containing complex	CC
+Gene_007337	1	atypical group	0	0	0	0	0	0	0	-1	0	446.6208	397.029	436.7643	433.9432	492.5864	478.7761	GO:0140513	nuclear protein-containing complex	CC
+Gene_007367	1	general transcription factor iih	0	1	0	0	0	0	0	-1	-1	176.1936	150.5639	139.0866	166.1844	181.8328	185.9104	GO:0140513	nuclear protein-containing complex	CC
+Gene_007525	1	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0140513	nuclear protein-containing complex	CC
+Gene_007673	1	thioredoxin 4a isoform x1	0	0	0	0	0	0	0	-1	-1	180.3136	162.2709	155.0364	209.3976	220.0971	200.0843	GO:0140513	nuclear protein-containing complex	CC
+Gene_007757	1	mediator of rna polymerase ii transcription subunit 14	0	0	0	0	0	0	0	-1	-1	275.4878	248.4994	256.151	298.5213	344.0989	328.5057	GO:0140513	nuclear protein-containing complex	CC
+Gene_007778	1	telomerase reverse transcriptase	0	0	0	0	0	0	0	-1	-1	192.431	162.0326	169.3417	190.7145	235.1124	220.5615	GO:0140513	nuclear protein-containing complex	CC
+Gene_007779	1	telomerase reverse transcriptase-like	0	0	0	0	0	0	0	-1	-1	42.85265	39.49381	34.67784	42.0658	52.42308	50.96511	GO:0140513	nuclear protein-containing complex	CC
+Gene_008034	1	transcription-associated 1	0	0	0	0	0	0	0	-1	-1	267.8758	240.084	258.1006	298.3209	329.0911	330.0753	GO:0140513	nuclear protein-containing complex	CC
+Gene_008035	1	transformation transcription domain-associated-like	0	0	0	0	0	0	0	-1	0	245.5382	234.5065	237.0474	267.6305	301.8603	277.5135	GO:0140513	nuclear protein-containing complex	CC
+Gene_008617	1	integrator complex subunit 9	0	0	0	0	0	0	0	-1	-1	166.8148	144.35	145.9334	175.6636	188.9719	180.471	GO:0140513	nuclear protein-containing complex	CC
+Gene_008712	1	transcription and mrna export factor	0	0	0	0	0	0	0	-1	0	35.26391	32.44958	33.33776	39.15133	40.68772	33.4709	GO:0140513	nuclear protein-containing complex	CC
+Gene_008772	1	type a von willebrand factor domain-containing	0	0	0	-1	0	0	1	-1	0	172.2749	154.2255	159.2469	147.9711	176.4825	160.1416	GO:0140513	nuclear protein-containing complex	CC
+Gene_008801	1	h aca ribonucleo complex subunit 3	0	0	0	0	0	0	0	-1	0	30.49843	23.01511	23.33071	31.42257	33.56238	24.60828	GO:0140513	nuclear protein-containing complex	CC
+Gene_009319	1	anaphase-promoting complex subunit	0	0	0	0	0	0	0	-1	0	157.3277	146.5699	149.9298	177.4155	186.2063	181.7887	GO:0140513	nuclear protein-containing complex	CC
+Gene_009320	1	anaphase-promoting complex subunit 1	0	0	0	0	0	0	0	-1	0	23.05566	21.19144	24.18351	25.76798	28.56739	28.70392	GO:0140513	nuclear protein-containing complex	CC
+Gene_009430	1	nucleoporin autopeptidase	0	0	0	0	0	0	0	-1	-1	291.7063	270.4703	268.4599	316.3896	340.193	363.0632	GO:0140513	nuclear protein-containing complex	CC
+Gene_009535	1	sm lsm8	0	0	0	0	0	0	0	-1	0	20.80774	16.01217	15.81078	20.38557	21.07022	21.53471	GO:0140513	nuclear protein-containing complex	CC
+Gene_009731	1	clp1 homolog	1	1	0	0	0	0	0	-1	-1	162.3735	124.6755	128.5459	151.423	171.4274	165.6497	GO:0140513	nuclear protein-containing complex	CC
+Gene_009884	1	u4 small nuclear ribonucleo 27 kda	0	0	0	0	0	0	0	-1	0	40.62837	37.40941	35.77389	43.83611	52.24163	42.19511	GO:0140513	nuclear protein-containing complex	CC
+Gene_009912	1	wd40 repeat	0	0	0	0	0	0	1	0	0	162.2407	139.3896	145.1141	129.9208	144.2209	137.8554	GO:0140513	nuclear protein-containing complex	CC
+Gene_010066	1	hypothetical protein pbra 005883	0	0	0	0	0	0	0	-1	0	22.63057	19.37124	18.73709	23.21104	26.57141	23.77456	GO:0140513	nuclear protein-containing complex	CC
+Gene_010214	1	dna repair rad50	0	0	0	0	0	0	0	-1	0	46.41302	37.49176	35.64182	45.52888	55.83753	49.04792	GO:0140513	nuclear protein-containing complex	CC
+Gene_010228	1	double-strand break repair mre11-like	0	0	0	0	0	0	0	-1	-1	166.039	139.0671	131.4318	179.7232	206.0499	183.1022	GO:0140513	nuclear protein-containing complex	CC
+Gene_010345	1	nuclear pore complex nup205	0	0	0	0	0	0	0	-1	-1	433.7275	366.1177	386.8157	452.3491	510.5832	525.4031	GO:0140513	nuclear protein-containing complex	CC
+Gene_010401	1	u3 small nucleolar ribonucleo imp4 isoform x2	1	1	0	0	0	0	0	-1	-1	100.32965	79.38879	71.57144	92.79957	97.37876	89.04479	GO:0140513	nuclear protein-containing complex	CC
+Gene_010418	1	cop9 signalosome complex subunit	0	0	0	0	0	0	0	-1	0	258.9776	244.4058	236.0876	272.0057	296.2558	275.5796	GO:0140513	nuclear protein-containing complex	CC
+Gene_010423	1	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	0	209.3327	172.1119	186.6762	218.34	247.337	238.5731	GO:0140513	nuclear protein-containing complex	CC
+Gene_010424	1	dna-dependent kinase catalytic subunit	0	0	0	0	0	0	0	-1	-1	251.6439	212.7431	219.3053	261.5417	310.5978	302.0999	GO:0140513	nuclear protein-containing complex	CC
+Gene_010425	1	hypothetical protein pbra 006636	0	0	0	0	0	0	0	-1	0	21.72516	19.00814	18.47712	21.85079	27.65828	25.76879	GO:0140513	nuclear protein-containing complex	CC
+Gene_010612	1	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0140513	nuclear protein-containing complex	CC
+Gene_010640	1	hypothetical protein pbra 006514	0	0	0	0	0	0	0	-1	0	102.62174	89.55321	93.08285	98.15503	110.06261	109.0599	GO:0140513	nuclear protein-containing complex	CC
+Gene_010688	1	conserved hypothetical atp binding	0	0	0	0	0	0	0	-1	-1	158.5152	139.4255	131.9538	151.9695	183.4181	172.3484	GO:0140513	nuclear protein-containing complex	CC
+Gene_011137	1	hypothetical protein pbra 000602	0	0	0	0	0	0	0	-1	-1	100.79989	90.72572	95.50926	104.76102	121.6355	124.45373	GO:0140513	nuclear protein-containing complex	CC
+Gene_011162	1	nuclear export [rhodotorula toruloides np11]	1	1	0	0	0	0	0	-1	-1	250.4716	205.0152	197.6183	239.1789	257.0028	253.1561	GO:0140513	nuclear protein-containing complex	CC
+Gene_011415	1	rna polymerase ii core subunit	1	1	0	0	0	0	1	0	0	150.9421	125.9959	121.5831	123.9831	134.3007	136.3296	GO:0140513	nuclear protein-containing complex	CC
+Gene_011772	1	dna-directed rna polymerase ii subunit 1	0	0	0	0	0	0	0	-1	-1	454.5259	421.2851	394.8477	562.596	654.8167	627.4208	GO:0140513	nuclear protein-containing complex	CC
+Gene_011988	1	cdk-activating kinase assembly factor	1	1	0	0	0	0	0	0	0	65.96724	55.14676	52.67663	58.12117	65.25109	65.48049	GO:0140513	nuclear protein-containing complex	CC
+Gene_012004	1	probable small nuclear ribonucleoprotein e	1	0	0	0	0	0	0	-1	0	175.3392	147.321	145.907	165.5531	183.7168	170.2106	GO:0140513	nuclear protein-containing complex	CC
+Gene_012388	1	x-ray repair cross-complementing protein 6-like	0	0	0	0	0	0	0	-1	-1	275.6473	242.8258	244.411	268.7225	305.4414	298.3342	GO:0140513	nuclear protein-containing complex	CC
+Gene_012423	1	pre-mrna-processing-splicing factor 8	0	0	0	0	0	0	0	-1	-1	764.7051	666.0063	682.6663	880.4141	1027.2456	1021.484	GO:0140513	nuclear protein-containing complex	CC
+Gene_012424	1	pre-mrna-processing-splicing factor 8-like	0	0	0	0	0	0	0	-1	-1	33.2376	28.30804	29.60017	39.58803	45.32551	41.14596	GO:0140513	nuclear protein-containing complex	CC
+Gene_012464	1	trna-splicing endonuclease subunit sen2-1-like isoform x1	0	0	0	0	0	0	0	-1	-1	37.50331	33.93478	32.1883	38.02402	43.07859	44.31007	GO:0140513	nuclear protein-containing complex	CC
+Gene_012569	1	protein bud31 homolog	0	0	0	0	0	0	0	-1	-1	84.55362	78.11654	71.78043	83.62651	93.15474	90.33544	GO:0140513	nuclear protein-containing complex	CC

@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000146	7	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0005654	nucleoplasm	CC
+Gene_000147	7	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0005654	nucleoplasm	CC
+Gene_000405	7	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0005654	nucleoplasm	CC

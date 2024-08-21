@@ -1,0 +1,2 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000547	3	phosphatidate cytidylyltransferase	0	0	0	0	0	0	0	0	0	8.825714	8.613276	9.45409	6.482592	6.461352	6.409408	GO:0044242	cellular lipid catabolic process	BP

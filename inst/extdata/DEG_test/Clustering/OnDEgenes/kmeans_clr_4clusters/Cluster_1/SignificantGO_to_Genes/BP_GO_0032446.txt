@@ -1,0 +1,45 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000205	1	hypothetical protein pbra 003713	0	0	0	0	0	0	0	-1	0	75.02605	63.16674	69.89115	77.25596	89.51151	84.59213	GO:0032446	protein modification by small protein conjugation	BP
+Gene_000206	1	ubiquitin conjugation factor e4	0	0	0	0	0	0	0	-1	0	191.4389	165.4206	170.1488	188.5929	217.1456	201.2188	GO:0032446	protein modification by small protein conjugation	BP
+Gene_000275	1	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0032446	protein modification by small protein conjugation	BP
+Gene_000606	1	ubiquitin-conjugating enzyme catalytic (ubcc) domain	0	0	0	0	0	0	0	-1	0	92.77242	82.58199	89.20963	103.17347	104.18637	101.49101	GO:0032446	protein modification by small protein conjugation	BP
+Gene_000744	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0032446	protein modification by small protein conjugation	BP
+Gene_001477	1	ring-h2 finger a3a	0	0	0	0	0	0	0	-1	0	41.9213	33.559	34.86407	43.23189	50.7787	40.90863	GO:0032446	protein modification by small protein conjugation	BP
+Gene_001850	1	small ubiquitin-related modifier 1	1	0	0	0	0	0	0	-1	0	177.3545	143.3511	154.6159	152.9892	180.6015	167.5793	GO:0032446	protein modification by small protein conjugation	BP
+Gene_002086	1	e2 ubiquitin-conjugating mms2 mycgrdraft 102897	0	0	0	0	0	0	0	-1	0	90.2088	80.44627	80.01996	92.49109	98.36174	93.69939	GO:0032446	protein modification by small protein conjugation	BP
+Gene_002555	1	pre-mrna-processing factor 19	1	0	0	0	0	0	0	-1	0	303.5934	254.2271	255.1527	273.4479	299.9491	298.0303	GO:0032446	protein modification by small protein conjugation	BP
+Gene_002912	1	related to ubiquitin-ligase 1	0	0	0	0	0	0	-1	0	0	347.1302	375.0095	398.449	436.7617	395.5114	405.4061	GO:0032446	protein modification by small protein conjugation	BP
+Gene_003271	1	probable e3 ubiquitin-ligase rbra	0	0	0	0	0	0	0	-1	0	80.02335	72.22319	67.71532	76.77272	91.70085	80.56414	GO:0032446	protein modification by small protein conjugation	BP
+Gene_003397	1	e3 ubiquitin-ligase rfwd3	0	0	0	0	0	0	0	-1	0	40.47615	33.54827	34.94961	34.47318	40.68628	41.2771	GO:0032446	protein modification by small protein conjugation	BP
+Gene_003428	1	hypothetical protein pbra 004204	0	0	0	0	0	0	0	0	-1	2.246119	1.435201	1.317701	1.917655	2.356625	3.15995	GO:0032446	protein modification by small protein conjugation	BP
+Gene_003673	1	u-box domain-containing 50 isoform x2	0	0	0	0	0	0	0	-1	0	38.60583	32.80876	33.74276	42.45743	48.80099	38.98104	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004042	1	nedd8-activating enzyme e1 regulatory subunit isoform x1	1	0	0	0	0	0	0	0	0	136.0787	113.8413	123.7249	127.4304	132.2761	133.2133	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004088	1	ubiquitin-related modifier 1 homolog 2	1	0	0	0	0	0	0	-1	0	49.612	39.55676	40.41274	45.4698	55.76582	44.6473	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004097	1	e3 ubiquitin-ligase	0	0	0	0	0	0	0	-1	0	105.92776	95.08125	114.71736	116.57016	118.15535	125.94418	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004843	1	ubiquitin-conjugating enzyme e2	0	0	0	0	0	0	0	-1	-1	154.2891	141.2154	135.6343	164.3698	180.7734	168.1705	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004878	1	ubiquitin conjugation factor e4 b	0	0	0	0	0	0	0	-1	0	109.03926	97.56978	104.95603	114.694	125.89008	116.36856	GO:0032446	protein modification by small protein conjugation	BP
+Gene_004879	1	ubiquitin conjugation factor e4 a isoform x1	0	0	0	0	0	0	0	-1	0	39.72194	37.70868	41.15104	44.16702	46.6317	46.63319	GO:0032446	protein modification by small protein conjugation	BP
+Gene_005170	1	e3 ubiquitin-ligase bre1	0	0	0	0	0	0	0	-1	0	109.71514	100.49449	99.53039	116.03444	122.86738	122.39078	GO:0032446	protein modification by small protein conjugation	BP
+Gene_005451	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	0	347.5044	303.6071	314.5572	356.7304	371.6622	363.2922	GO:0032446	protein modification by small protein conjugation	BP
+Gene_006643	1	hypothetical protein pbra 005565	1	0	0	0	0	0	0	0	0	25.45196	18.54897	19.33767	23.32561	23.42218	26.76695	GO:0032446	protein modification by small protein conjugation	BP
+Gene_006985	1	ultraviolet-b receptor uvr8 isoform x1	0	0	0	0	0	0	-1	0	0	96.84504	114.24463	122.38396	123.45432	111.79312	112.71946	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007037	1	e3 ubiquitin-ligase fancl isoform x1	1	0	0	0	0	0	0	-1	0	81.01622	66.03768	69.84952	71.96019	83.81733	78.31181	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007038	1	rna-binding 34-like isoform x1	1	1	0	0	0	0	0	-1	-1	104.73381	87.87927	81.37228	99.60851	115.03175	110.61489	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007045	1	peptidyl-prolyl cis-trans isomerase-like 2	1	1	0	0	0	0	0	-1	-1	155.1815	128.3865	127.1736	153.0816	175.8553	170.1543	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007093	1	hypothetical protein pbra 004527	1	0	0	0	0	0	0	-1	-1	123.3023	103.1041	104.5522	118.9576	137.6591	136.7375	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007094	1	sumo ligase	0	0	0	0	0	0	0	-1	-1	107.24025	90.39486	91.43393	108.91149	126.3776	118.31075	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007448	1	tnf receptor-associated factor 6-like	0	0	0	0	0	0	0	-1	-1	39.48969	33.69924	33.62823	42.43891	48.09414	50.19908	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007468	1	hypothetical protein pbra 003982	1	0	0	0	0	0	0	-1	-1	75.33786	58.46216	62.25498	72.61165	88.67439	90.97762	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007704	1	hypothetical protein pbra 005418	0	0	0	0	0	0	0	-1	0	4.182786	3.102428	3.825976	3.546537	5.211861	4.271553	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007705	1	e3 ubiquitin-ligase rad18 isoform x2	0	1	0	0	0	0	0	0	-1	20.88238	16.96093	13.01055	15.24693	20.5156	21.14752	GO:0032446	protein modification by small protein conjugation	BP
+Gene_007933	1	cap domain-containing	0	0	0	0	0	0	0	0	-1	53.05917	51.24885	46.92791	57.03475	60.6565	59.44785	GO:0032446	protein modification by small protein conjugation	BP
+Gene_008289	1	hect e3 ubiquitin ligase	1	1	0	0	0	0	0	-1	0	163.2148	134.2056	133.8717	144.0021	163.6006	160.2477	GO:0032446	protein modification by small protein conjugation	BP
+Gene_008547	1	probable e3 ubiquitin-ligase rhc2a	1	1	0	0	0	0	0	-1	0	16.65838	11.79273	11.02565	14.59334	16.88035	16.32848	GO:0032446	protein modification by small protein conjugation	BP
+Gene_008606	1	hect e3 ubiquitin ligase	0	0	0	0	0	0	0	-1	0	39.22752	34.24079	35.16719	39.37461	43.78238	41.38119	GO:0032446	protein modification by small protein conjugation	BP
+Gene_009524	1	hypothetical protein pbra 005995	0	0	0	0	0	0	0	-1	-1	28.3274	23.37062	22.25911	32.45083	33.81622	30.45043	GO:0032446	protein modification by small protein conjugation	BP
+Gene_009525	1	hypothetical protein pbra 005996	0	0	0	0	0	0	1	0	0	0.7725709	0.4795206	0.5679891	0.1120342	0.4429312	1.0033581	GO:0032446	protein modification by small protein conjugation	BP
+Gene_009527	1	hypothetical protein pbra 005999	1	0	0	0	0	0	1	0	0	108.75174	89.12841	94.96508	85.38104	96.02519	111.17902	GO:0032446	protein modification by small protein conjugation	BP
+Gene_009621	1	erad-associated e3 ubiquitin-ligase hrd1b-like	0	0	0	0	0	0	0	-1	0	128.9159	122.4828	135.7957	135.7693	147.3397	151.0843	GO:0032446	protein modification by small protein conjugation	BP
+Gene_012165	1	ubiquitin-activating enzyme e1 c	0	0	0	0	0	0	0	-1	-1	219.2459	185.8852	177.2733	209.5386	248.0817	252.9719	GO:0032446	protein modification by small protein conjugation	BP
+Gene_012458	1	sumo activating enzyme 2	0	1	0	0	0	0	0	-1	-1	69.15747	59.29143	55.24967	67.77219	74.26933	82.80401	GO:0032446	protein modification by small protein conjugation	BP
+Gene_012459	1	sumo-activating enzyme subunit 2	0	0	0	0	0	0	0	0	-1	63.18828	57.1263	54.87601	62.11635	68.41988	77.49373	GO:0032446	protein modification by small protein conjugation	BP

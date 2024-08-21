@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000335	10	vesicle coat complex copii subunit sec24 subunit sfb2	0	0	0	0	0	0	0	0	0	215.9179	206.0003	235.0928	240.559	241.0545	260.9269	GO:0030120	vesicle coat	CC
+Gene_000572	10	coatomer subunit beta-1	0	0	0	0	0	0	0	0	0	680.9327	638.9028	682.8047	693.3874	750.4175	747.6694	GO:0030120	vesicle coat	CC
+Gene_000886	10	coatomer subunit alpha-1	0	0	0	0	0	0	0	-1	0	922.6225	829.9495	897.5998	907.5907	1015.2901	990.5318	GO:0030120	vesicle coat	CC

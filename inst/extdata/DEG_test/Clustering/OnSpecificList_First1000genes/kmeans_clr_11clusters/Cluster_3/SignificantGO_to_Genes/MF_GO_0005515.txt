@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000015	3	anaphase-promoting complex subunit 4	0	0	0	0	0	0	0	0	0	18.90304	17.55074	20.59786	12.38977	14.62201	16.95507	GO:0005515	protein binding	MF
+Gene_000081	3	wd-40 repeat-containing	0	0	0	0	0	0	0	0	0	4.980192	4.528658	5.171777	3.002508	2.853419	3.13081	GO:0005515	protein binding	MF
+Gene_000562	3	ribonuclease inhibitor	0	0	0	0	0	0	0	0	0	54.54925	55.75825	53.11126	41.94637	45.9873	46.59782	GO:0005515	protein binding	MF
+Gene_000798	3	hypothetical protein pbra 002491	0	0	0	0	0	0	0	0	0	2.1796414	1.7694468	2.5783455	0.7366551	0.9091149	1.1116027	GO:0005515	protein binding	MF
+Gene_000928	3	tpr repeat-containing	0	0	0	0	0	0	0	0	0	2.207164	3.566263	3.017579	1.72805	1.376163	2.453229	GO:0005515	protein binding	MF
+Gene_001070	3	phd finger 21a isoform x3	0	0	0	0	0	0	0	0	0	91.06099	86.24571	85.81778	70.33435	73.70888	91.10149	GO:0005515	protein binding	MF

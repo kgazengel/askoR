@@ -1,0 +1,9 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000459	6	inorganic polyphosphate kinase	0	0	0	0	0	0	0	0	0	69.07863	63.03984	63.3951	59.46822	63.87208	60.65729	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000474	6	casein kinase i	0	0	0	0	0	0	0	0	1	169.7984	179.2767	192.8575	163.6507	165.6191	141.5461	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000477	6	serine threonine-kinase orb6	0	0	0	0	0	0	0	0	0	3.926947	3.995094	3.57866	2.675652	3.741453	2.518799	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000518	6	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000570	6	nad kinase 3	0	0	0	0	0	0	0	0	1	50.34236	53.31412	55.25912	47.72066	43.29944	38.67503	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_000657	6	riboflavin kinase	0	0	0	0	0	0	0	0	0	22.14923	22.74704	23.91705	21.35231	20.91083	19.84648	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001059	6	leucine rich repeat family	0	-1	0	0	0	0	-1	0	1	161.2324	181.0712	203.9237	194.7425	164.7653	163.085	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF
+Gene_001103	6	u6 snrna-associated sm lsm5	0	0	0	0	0	0	0	0	0	55.97281	55.10414	55.76108	48.99013	51.42565	46.94754	GO:0016773	phosphotransferase activity, alcohol group as acceptor	MF

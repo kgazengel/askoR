@@ -1,0 +1,16 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000652	1	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_000667	1	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_001218	1	transcription initiation factor tfiid subunit 6	0	0	0	0	0	0	0	-1	-1	112.3657	99.85747	102.92083	121.81289	138.10905	134.01684	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_001644	1	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_002489	1	general transcription factor iih subunit 2	1	1	0	-1	0	0	1	-1	0	141.5674	116.1553	116.4608	113.0454	137.5256	131.548	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_002615	1	transcription initiation factor tfiid subunit 7	0	0	0	0	0	0	0	0	-1	47.55221	46.04772	41.07404	49.5717	49.71149	54.3936	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_002804	1	transcription initiation factor iia subunit 2-like	0	0	0	0	0	0	0	-1	0	49.18007	45.09531	41.91706	48.4599	56.74698	48.98546	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_003540	1	transcription factor tfiih complex subunit tfb2	0	0	0	0	0	0	0	-1	0	185.4546	169.9437	169.3498	182.9785	219.8874	194.1766	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_005288	1	transcription initiation factor beta subunit	0	0	0	0	0	0	0	-1	0	30.91938	30.57374	28.55101	34.96865	40.16186	33.7665	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_005970	1	transcription initiation factor tfiid subunit 2	0	0	0	0	0	0	0	-1	-1	225.6488	201.9497	213.5253	264.256	298.7499	285.149	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_006134	1	cyclin-dependent kinase 7	0	0	0	0	0	0	0	-1	-1	84.6501	72.88239	71.43124	83.36767	97.29587	98.20201	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_006292	1	cyclin-h isoform x1	1	0	0	0	0	0	0	-1	0	69.95889	55.94955	60.56695	59.45888	71.33524	67.69329	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_007367	1	general transcription factor iih	0	1	0	0	0	0	0	-1	-1	176.1936	150.5639	139.0866	166.1844	181.8328	185.9104	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_010640	1	hypothetical protein pbra 006514	0	0	0	0	0	0	0	-1	0	102.62174	89.55321	93.08285	98.15503	110.06261	109.0599	GO:0090575	RNA polymerase II transcription regulator complex	CC
+Gene_011988	1	cdk-activating kinase assembly factor	1	1	0	0	0	0	0	0	0	65.96724	55.14676	52.67663	58.12117	65.25109	65.48049	GO:0090575	RNA polymerase II transcription regulator complex	CC

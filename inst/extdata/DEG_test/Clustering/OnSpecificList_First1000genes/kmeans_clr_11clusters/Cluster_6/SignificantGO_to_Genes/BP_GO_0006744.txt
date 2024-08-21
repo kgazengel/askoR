@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000428	6	ubiquinone biosynthesis coq9	0	0	0	0	0	0	0	1	0	56.02514	55.2161	55.71621	46.02419	43.02136	54.54765	GO:0006744	ubiquinone biosynthetic process	BP
+Gene_000429	6	rpsu-divergently transcribed variant	0	0	0	0	0	0	0	0	0	39.52391	39.8724	45.91257	40.54653	36.20104	41.4374	GO:0006744	ubiquinone biosynthetic process	BP
+Gene_001045	6	probable nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	0	0	0	0	0	0	0	0	155.8754	146.5607	156.7649	144.8502	154.0137	132.3307	GO:0006744	ubiquinone biosynthetic process	BP

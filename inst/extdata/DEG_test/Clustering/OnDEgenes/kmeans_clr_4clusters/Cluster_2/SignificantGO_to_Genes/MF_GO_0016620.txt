@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_003279	2	aldehyde dehydrogenase	0	0	0	0	0	0	0	0	1	122.66065	117.56416	121.80541	103.50704	111.56765	95.84974	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF
+Gene_004914	2	1-pyrroline-5-carboxylate dehydrogenase	-1	-1	0	0	0	0	0	1	1	182.9921	224.1142	249.97	205.1894	167.929	178.9826	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF
+Gene_005858	2	aldehyde dehydrogenase family 7 member a1	0	-1	0	0	0	0	0	0	0	170.6719	188.6398	209.9891	186.9436	174.9207	179.3615	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF
+Gene_009975	2	methylmalonate-semialdehyde dehydrogenase [acylating] mitochondrial	0	-1	0	0	0	0	0	1	1	113.9065	138.7512	153.9319	120.1605	108.375	107.5632	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF
+Gene_011892	2	glyceraldehyde-3-phosphate dehydrogenase; putative	0	0	0	0	0	0	1	0	0	1419.156	1273.287	1343.708	1097.219	1084.701	1299.35	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MF

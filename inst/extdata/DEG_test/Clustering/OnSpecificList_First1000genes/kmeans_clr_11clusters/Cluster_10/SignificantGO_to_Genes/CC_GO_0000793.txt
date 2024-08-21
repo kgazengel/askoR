@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000087	10	structural maintenance of chromosomes 6-like	0	0	0	0	0	0	0	-1	-1	509.1067	437.0651	449.9503	524.1797	590.4527	570.9495	GO:0000793	condensed chromosome	CC
+Gene_000211	10	hypothetical protein pbra 003709	0	0	0	0	0	0	0	0	0	160.175	145.099	152.5762	153.6873	154.8655	165.2479	GO:0000793	condensed chromosome	CC
+Gene_001052	10	non-structural maintenance of chromosomes element 1 homolog	1	0	0	0	0	0	1	-1	0	112.00876	87.98591	95.13927	89.16317	104.59221	98.79318	GO:0000793	condensed chromosome	CC
