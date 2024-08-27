@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_002143	1	pseudouridylate synthase 7 homolog	1	1	0	0	0	0	0	-1	-1	338.8299	256.7933	264.9515	336.2901	408.5337	402.2233	GO:0001522	pseudouridine synthesis	BP
+Gene_002447	1	pseudouridylate synthase	1	0	0	0	0	0	0	0	0	65.85945	53.28692	52.36452	62.05979	64.65339	63.49044	GO:0001522	pseudouridine synthesis	BP
+Gene_002557	1	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0001522	pseudouridine synthesis	BP
+Gene_002621	1	h aca ribonucleo complex non-core subunit naf1-like	1	0	0	0	0	0	0	-1	-1	111.83731	84.7896	85.97068	97.22345	112.09668	129.62664	GO:0001522	pseudouridine synthesis	BP
+Gene_003937	1	h aca ribonucleo complex subunit 4	1	1	0	0	0	0	0	-1	-1	622.7298	463.7327	442.8272	550.1405	608.408	619.656	GO:0001522	pseudouridine synthesis	BP
+Gene_003958	1	rna pseudouridine synthase 7	1	1	0	0	0	0	0	-1	-1	128.35336	105.92614	99.03125	128.25116	126.76469	131.46681	GO:0001522	pseudouridine synthesis	BP
+Gene_004813	1	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0001522	pseudouridine synthesis	BP
+Gene_005177	1	ph-response regulator palc	0	0	0	0	0	0	0	-1	0	118.9504	110.7338	114.3209	125.2127	137.8881	129.712	GO:0001522	pseudouridine synthesis	BP
+Gene_006492	1	trna pseudouridine synthase	1	0	0	0	0	0	0	-1	0	105.8944	87.4224	92.9961	104.6821	115.9798	116.1562	GO:0001522	pseudouridine synthesis	BP
+Gene_007227	1	trna pseudouridine(54 55) synthase	1	0	0	0	0	0	0	-1	-1	199.2414	166.8329	163.3032	190.9191	223.8013	219.1356	GO:0001522	pseudouridine synthesis	BP
+Gene_008801	1	h aca ribonucleo complex subunit 3	0	0	0	0	0	0	0	-1	0	30.49843	23.01511	23.33071	31.42257	33.56238	24.60828	GO:0001522	pseudouridine synthesis	BP

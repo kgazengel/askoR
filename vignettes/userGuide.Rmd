@@ -777,7 +777,7 @@ GOenrichment(resDEG, data, parameters, list, "First1000genes")
 
 ## How to perform a clustering analysis on a specific gene list ?
 
-On the same way, you can perform clustering on a specific list of genes (list of interest from another study, list of genes hightly expressed, ...). In this case, you can use the ClustAndGO function with two supplementary parameters: the list of the names of the genes you want to analyze and the name you want to set for this list. This function produces the same outputs than the ClustAndGO function used on all the DE genes in 'Gene clustering for Coexpression analysis' part. The directory used for the outputs is **"DEG_test/Clustering/OnSpecificList_NameOfTheList/"**.Here is an example on the 1000 first genes of the list:
+On the same way, you can perform clustering on a specific list of genes (list of interest from another study, list of genes hightly expressed, ...). In this case, you can use the ClustAndGO function with two supplementary parameters: the list of the names of the genes you want to analyze and the name you want to set for this list. This function produces the same outputs than the ClustAndGO function used on all the DE genes in 'Gene clustering for Coexpression analysis' part. The directory used for the outputs is **"DEG_test/Clustering/NameOfTheList/"**.Here is an example on the 1000 first genes of the list:
 
 ```{r clust2, eval=FALSE}
 list=rownames(resDEG[1:1000,])

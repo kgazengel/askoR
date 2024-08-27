@@ -225,7 +225,7 @@ IncludeNonDEgenes_InClustering <- function(data, asko_norm, resDEG, parameters, 
   # GO enrichment in the cluster for MF, CC, and BP category
   if(is.null(parameters$geneID2GO_file)==FALSE){
 
-    img_GOtoGene_dir = paste0(img_CLUST_dir,"SignificantGO_to_Genes/")
+    img_GOtoGene_dir = paste0(img_CLUST_dir,"SignificantGO/")
     if(dir.exists(img_GOtoGene_dir)==FALSE){
       dir.create(img_GOtoGene_dir)
       cat("Directory: ",img_GOtoGene_dir," created\n")

@@ -1,0 +1,117 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000174	NOT DE	hypothetical protein pbra 003739	0	0	0	0	0	0	0	0	0	46.62713	38.3607	41.01577	37.49668	42.9981	35.79819	GO:0043604	amide biosynthetic process	BP
+Gene_000391	NOT DE	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	13.84806	12.83561	15.80141	12.60914	12.13408	12.7418	GO:0043604	amide biosynthetic process	BP
+Gene_000392	NOT DE	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	15.64847	16.52374	17.3656	12.64378	13.26221	14.96709	GO:0043604	amide biosynthetic process	BP
+Gene_000635	NOT DE	preimplantation 3	0	0	0	0	0	0	0	0	0	79.0658	86.31042	89.53119	81.45854	79.20758	71.38613	GO:0043604	amide biosynthetic process	BP
+Gene_000665	NOT DE	alanine-trna ligase	0	0	0	0	0	0	0	0	0	146.8533	131.8308	139.8457	129.2478	128.384	136.9041	GO:0043604	amide biosynthetic process	BP
+Gene_000845	NOT DE	40s ribosomal s19-1	0	0	0	0	0	0	0	0	0	458.7481	382.8513	399.8929	332.3691	367.7803	423.9934	GO:0043604	amide biosynthetic process	BP
+Gene_001023	NOT DE	histidine-trna ligase	0	0	0	0	0	0	0	0	0	106.08617	95.38804	98.19395	96.00052	96.69126	106.83463	GO:0043604	amide biosynthetic process	BP
+Gene_001157	NOT DE	dna-directed rna polymerase ii subunit rpb7	0	0	0	0	0	0	0	0	0	93.72187	79.9533	80.65233	81.89098	93.91904	88.77211	GO:0043604	amide biosynthetic process	BP
+Gene_001471	NOT DE	hypothetical protein pbra 008292	0	0	0	0	0	0	0	0	0	23.48697	20.67981	19.06509	20.65241	21.90155	22.8961	GO:0043604	amide biosynthetic process	BP
+Gene_001540	NOT DE	solute carrier family 25 member 45	0	0	0	0	0	0	0	0	0	73.01098	68.85572	70.14004	70.02384	74.27283	74.72927	GO:0043604	amide biosynthetic process	BP
+Gene_001561	NOT DE	60s ribosomal l2	0	0	0	0	0	0	0	0	0	1405.528	1103.756	1060.659	1092.934	1272.204	1417.292	GO:0043604	amide biosynthetic process	BP
+Gene_001595	NOT DE	translation initiation factor eif 4e-like domain-containing	0	0	0	0	0	0	0	0	0	131.4701	116.1628	120.7729	120.3167	114.5478	105.2442	GO:0043604	amide biosynthetic process	BP
+Gene_001751	NOT DE	deoxyhypusine synthase	0	0	0	0	0	0	0	0	0	96.37368	85.73563	83.9409	94.90547	99.53631	97.46507	GO:0043604	amide biosynthetic process	BP
+Gene_001787	NOT DE	50s ribosomal l36	0	0	0	0	0	0	0	0	0	20.93416	19.07937	18.4588	19.26144	20.49633	16.23066	GO:0043604	amide biosynthetic process	BP
+Gene_001791	NOT DE	50s ribosomal l15	0	0	0	0	0	0	0	0	0	187.9956	179.3518	191.7131	165.8511	178.0431	176.1412	GO:0043604	amide biosynthetic process	BP
+Gene_001897	NOT DE	40s ribosomal s3-3-like	0	0	0	0	0	0	0	0	0	883.4007	740.5162	761.6303	682.4846	774.7995	978.8312	GO:0043604	amide biosynthetic process	BP
+Gene_001933	NOT DE	ribosomal l7 l12	0	0	0	0	0	0	0	0	0	120.7928	103.68655	107.83541	96.52456	108.83652	110.41924	GO:0043604	amide biosynthetic process	BP
+Gene_002117	NOT DE	50s ribosomal l24	0	0	0	0	0	0	0	0	0	100.06989	94.59761	96.79682	96.79955	103.42253	89.55691	GO:0043604	amide biosynthetic process	BP
+Gene_002252	NOT DE	prolyl-trna synthetase	0	0	0	0	0	0	0	0	0	196.0864	177.353	189.222	180.302	190.2326	195.5422	GO:0043604	amide biosynthetic process	BP
+Gene_002381	NOT DE	40s ribosomal s28	0	0	0	0	0	0	0	0	0	426.2639	334.9677	328.6044	356.5108	401.6631	386.9712	GO:0043604	amide biosynthetic process	BP
+Gene_002597	NOT DE	50s ribosomal l22	0	0	0	0	0	0	0	0	0	44.56434	44.6577	48.12816	36.47982	36.57596	43.20473	GO:0043604	amide biosynthetic process	BP
+Gene_002819	NOT DE	eukaryotic translation initiation factor 4e type 2 isoform x2	0	0	0	0	0	0	0	0	0	137.4656	121.084	123.8443	122.5113	124.5417	133.0489	GO:0043604	amide biosynthetic process	BP
+Gene_002913	NOT DE	60s ribosomal l13	0	0	0	0	0	0	0	0	0	678.942	554.2431	546.1136	526.1513	585.2509	708.9092	GO:0043604	amide biosynthetic process	BP
+Gene_002991	NOT DE	bifunctional folylpolyglutamate synthase dihydrofolate synthase	0	0	0	0	0	0	0	0	0	85.89669	72.07609	70.51451	71.90277	83.76012	76.92332	GO:0043604	amide biosynthetic process	BP
+Gene_003303	NOT DE	translation initiation factor if-3	0	0	0	0	0	0	0	0	0	37.21539	30.76085	32.79052	34.54253	36.16911	35.31941	GO:0043604	amide biosynthetic process	BP
+Gene_003318	NOT DE	dihydropteroate synthase	0	0	0	0	0	0	0	0	0	55.60336	47.40948	51.37686	51.94916	53.88518	56.97486	GO:0043604	amide biosynthetic process	BP
+Gene_003383	NOT DE	60s ribosomal l39	0	0	0	0	0	0	0	0	0	309.4056	242.5634	256.5286	252.4306	293.8281	223.3116	GO:0043604	amide biosynthetic process	BP
+Gene_003513	NOT DE	39s ribosomal mitochondrial-like	0	0	0	0	0	0	0	0	0	23.18353	22.12214	21.7526	16.47912	18.75928	22.38195	GO:0043604	amide biosynthetic process	BP
+Gene_003533	NOT DE	50s ribosomal l33	0	0	0	0	0	0	0	0	0	38.28918	38.33271	41.79319	38.30208	42.93663	31.54122	GO:0043604	amide biosynthetic process	BP
+Gene_003765	NOT DE	ribosomal l4	0	0	0	0	0	0	0	0	0	1129.5689	924.5151	900.9418	864.7216	1001.7819	1197.4527	GO:0043604	amide biosynthetic process	BP
+Gene_003806	NOT DE	eukaryotic translation initiation factor 3 subunit k	0	0	0	0	0	0	0	0	0	136.21748	118.83664	113.89687	88.98601	94.11056	112.53004	GO:0043604	amide biosynthetic process	BP
+Gene_003905	NOT DE	ubiquitin-40s ribosomal s27a	0	0	0	0	0	0	0	0	0	794.7257	624.3469	619.1558	615.6055	700.297	655.2943	GO:0043604	amide biosynthetic process	BP
+Gene_003996	NOT DE	translation initiation factor sui1	0	0	0	0	0	0	0	0	0	140.3316	124.6808	128.9774	131.2135	139.499	129.737	GO:0043604	amide biosynthetic process	BP
+Gene_004128	NOT DE	serine threonine kinase	0	0	0	0	0	0	0	0	0	0.2678064	0.393085	0.1882429	0.5862837	0.6514348	0.689028	GO:0043604	amide biosynthetic process	BP
+Gene_004157	NOT DE	dephospho-kinase	0	0	0	0	0	0	0	0	0	54.29289	56.54176	57.80196	53.35771	54.824	53.67336	GO:0043604	amide biosynthetic process	BP
+Gene_004216	NOT DE	eukaryotic translation initiation factor 4e	0	0	0	0	0	0	0	0	0	91.62094	85.8824	94.91276	87.29348	97.8065	93.88256	GO:0043604	amide biosynthetic process	BP
+Gene_004291	NOT DE	60s acidic ribosomal p2a-like	0	0	0	0	0	0	0	0	0	877.7313	790.9798	759.8811	665.1403	732.1124	864.1965	GO:0043604	amide biosynthetic process	BP
+Gene_004601	NOT DE	60s ribosomal l18-2	0	0	0	0	0	0	0	0	0	632.8843	516.6073	467.9725	479.4223	539.6098	717.8417	GO:0043604	amide biosynthetic process	BP
+Gene_004983	NOT DE	alanine-trna ligase	0	0	0	0	0	0	0	0	0	22.76109	23.21765	23.76228	19.42366	23.47223	21.86549	GO:0043604	amide biosynthetic process	BP
+Gene_005136	NOT DE	30s ribosomal s18	0	0	0	0	0	0	0	0	0	292.7441	263.6067	269.8332	264.5937	292.9342	293.5714	GO:0043604	amide biosynthetic process	BP
+Gene_005165	NOT DE	transaltion initiation factor	0	0	0	0	0	0	0	0	0	87.31804	80.61557	79.16509	84.14112	91.27826	101.95938	GO:0043604	amide biosynthetic process	BP
+Gene_005226	NOT DE	predicted: uncharacterized protein loc108957749	0	0	0	0	0	0	0	0	0	1.996681	2.527072	2.599952	2.042723	2.284502	2.610394	GO:0043604	amide biosynthetic process	BP
+Gene_005289	NOT DE	transcription initiation factor tfiie beta subunit	0	0	0	0	0	0	0	0	0	45.78662	39.53747	36.44657	40.93712	42.66633	46.65401	GO:0043604	amide biosynthetic process	BP
+Gene_005307	NOT DE	50s ribosomal l34	0	0	0	0	0	0	0	0	0	24.46611	22.20695	23.48143	19.48116	21.78982	26.51818	GO:0043604	amide biosynthetic process	BP
+Gene_005351	NOT DE	60s acidic ribosomal p1	0	0	0	0	0	0	0	0	0	841.094	735.6904	722.218	585.5754	656.7936	748.3524	GO:0043604	amide biosynthetic process	BP
+Gene_005377	NOT DE	elongation factor ts	0	0	0	0	0	0	0	0	0	0.3256234	0.7181153	0.5663589	0.6978482	0.4256619	0.301839	GO:0043604	amide biosynthetic process	BP
+Gene_005611	NOT DE	holo-[acyl-carrier-] synthase	0	0	0	0	0	0	0	0	0	8.629248	7.099857	7.001239	7.518589	8.781138	9.406991	GO:0043604	amide biosynthetic process	BP
+Gene_005736	NOT DE	arginine-trna cytoplasmic	0	0	0	0	0	0	0	0	0	59.49136	58.83388	61.13289	54.29321	54.36023	51.79986	GO:0043604	amide biosynthetic process	BP
+Gene_005737	NOT DE	arginyl-trna synthetase	0	0	0	0	0	0	0	0	0	96.2744	93.68194	100.92921	97.04781	93.78711	90.11685	GO:0043604	amide biosynthetic process	BP
+Gene_005765	NOT DE	trafficking particle complex subunit 11	0	0	0	0	0	0	0	0	0	172.7508	164.2671	178.8834	175.4269	182.3079	184.1909	GO:0043604	amide biosynthetic process	BP
+Gene_005786	NOT DE	thiamin diphosphate-binding	0	0	0	0	0	0	0	0	0	137.7192	124.1481	138.9661	144.8062	144.0899	145.5388	GO:0043604	amide biosynthetic process	BP
+Gene_005868	NOT DE	30s ribosomal s17	0	0	0	0	0	0	0	0	0	55.11222	50.77286	46.83704	57.37469	60.10846	59.51448	GO:0043604	amide biosynthetic process	BP
+Gene_005899	NOT DE	ribosomal s37	0	0	0	0	0	0	0	0	0	75.7394	65.93591	64.99103	62.36175	67.93688	69.50225	GO:0043604	amide biosynthetic process	BP
+Gene_005901	NOT DE	hypothetical protein pbra 006184	0	0	0	0	0	0	0	0	0	88.46095	86.88274	88.02514	87.72648	86.2128	84.12795	GO:0043604	amide biosynthetic process	BP
+Gene_005946	NOT DE	dihydroderamide delta-4 desaturase	0	0	0	0	0	0	0	0	0	226.1154	218.7672	226.3245	238.454	247.2781	232.6268	GO:0043604	amide biosynthetic process	BP
+Gene_006069	NOT DE	pyruvate dehydrogenase e1 component subunit mitochondrial-like	0	0	0	0	0	0	0	0	0	141.6533	145.6144	162.7043	166.5737	162.0173	162.829	GO:0043604	amide biosynthetic process	BP
+Gene_006070	NOT DE	pyruvate dehydrogenase e1 alpha 1	0	0	0	0	0	0	0	0	0	218.7761	231.4939	252.9224	266.4095	261.1123	257.8731	GO:0043604	amide biosynthetic process	BP
+Gene_006103	NOT DE	mrna-decapping enzyme	0	0	0	0	0	0	0	0	0	11.58287	11.06736	12.70111	10.8845	10.75331	11.03276	GO:0043604	amide biosynthetic process	BP
+Gene_006104	NOT DE	hypothetical protein pbra 007277	0	0	0	0	0	0	0	0	0	18.02199	17.65959	18.90619	17.94609	18.30645	20.64375	GO:0043604	amide biosynthetic process	BP
+Gene_006304	NOT DE	glutathione synthetase	0	0	0	0	0	0	0	0	0	108.50133	101.4624	100.48058	103.64358	106.57637	99.46763	GO:0043604	amide biosynthetic process	BP
+Gene_006454	NOT DE	serine threonine-kinase	0	0	0	0	0	0	0	0	0	187.2399	206.9369	219.1972	229.1657	213.7584	205.0283	GO:0043604	amide biosynthetic process	BP
+Gene_006474	NOT DE	mrna decapping complex subunit	0	0	0	0	0	0	0	0	0	33.25836	28.6842	32.05833	30.54812	31.34854	28.65395	GO:0043604	amide biosynthetic process	BP
+Gene_006632	NOT DE	50s ribosomal l25	0	0	0	0	0	0	0	0	0	76.78671	68.21995	68.37819	64.27187	69.82625	65.82605	GO:0043604	amide biosynthetic process	BP
+Gene_007299	NOT DE	dna-binding smubp-2	0	0	0	0	0	0	0	0	0	142.8909	129.2905	118.3704	118.1034	131.0298	139.6519	GO:0043604	amide biosynthetic process	BP
+Gene_007368	NOT DE	60s ribosomal l17	0	0	0	0	0	0	0	0	0	772.852	596.2355	570.973	573.0651	648.4481	773.8195	GO:0043604	amide biosynthetic process	BP
+Gene_007412	NOT DE	30s ribosomal s5	0	0	0	0	0	0	0	0	0	246.9112	248.3636	268.6117	261.2554	261.4609	250.8372	GO:0043604	amide biosynthetic process	BP
+Gene_007467	NOT DE	energy-dependent translational throttle	0	0	0	0	0	0	0	0	0	175.2872	158.396	170.8354	163.1825	171.3652	176.1786	GO:0043604	amide biosynthetic process	BP
+Gene_007529	NOT DE	mc family transporter	0	0	0	0	0	0	0	0	0	5.973359	8.088397	7.275881	7.230363	6.472267	5.164579	GO:0043604	amide biosynthetic process	BP
+Gene_007532	NOT DE	serine-trna chloroplastic mitochondrial isoform x1	0	0	0	0	0	0	0	0	0	99.98076	85.28632	87.98516	85.54984	101.22468	97.76068	GO:0043604	amide biosynthetic process	BP
+Gene_007620	NOT DE	threonine alanine trna ligase subfamily	0	0	0	0	0	0	0	0	0	18.68333	16.67891	16.06215	16.36914	17.41257	21.80325	GO:0043604	amide biosynthetic process	BP
+Gene_007823	NOT DE	60s ribosomal l29	0	0	0	0	0	0	0	0	0	267.6715	205.0902	223.3391	193.2856	221.7558	163.4723	GO:0043604	amide biosynthetic process	BP
+Gene_007922	NOT DE	hypothetical protein pbra 006614; partial	0	0	0	0	0	0	0	0	0	126.2917	110.8092	117.221	118.4639	130.1412	132.5889	GO:0043604	amide biosynthetic process	BP
+Gene_008187	NOT DE	eukaryotic initiation factor 4a-iii	0	0	0	0	0	0	0	0	0	353.2751	323.0506	315.4001	310.1489	314.8859	337.3299	GO:0043604	amide biosynthetic process	BP
+Gene_008813	NOT DE	cysteine-trna ligase	0	0	0	0	0	0	0	0	0	75.87601	62.55954	64.94585	68.80285	74.56492	67.38935	GO:0043604	amide biosynthetic process	BP
+Gene_008957	NOT DE	50s ribosomal l1	0	0	0	0	0	0	0	0	0	97.51149	83.65397	80.77161	81.41021	92.30939	100.83739	GO:0043604	amide biosynthetic process	BP
+Gene_009479	NOT DE	mitochondrial ribosomal	0	0	0	0	0	0	0	0	0	87.95238	80.39221	77.36235	73.15002	78.23714	97.32981	GO:0043604	amide biosynthetic process	BP
+Gene_009561	NOT DE	peptide deformylase	0	0	0	0	0	0	0	0	0	112.63397	92.87521	97.21889	101.78141	109.12752	114.38895	GO:0043604	amide biosynthetic process	BP
+Gene_009657	NOT DE	39s ribosomal mitochondrial	0	0	0	0	0	0	0	0	0	62.65203	62.4653	56.72589	68.94017	73.24072	60.01409	GO:0043604	amide biosynthetic process	BP
+Gene_009658	NOT DE	39s ribosomal mitochondrial-like	0	0	0	0	0	0	0	0	0	78.82067	69.81742	68.59044	62.13579	66.62806	62.02496	GO:0043604	amide biosynthetic process	BP
+Gene_009841	NOT DE	scavenger mrna-decapping enzyme	0	0	0	0	0	0	0	0	0	172.5411	154.0138	163.1696	166.1844	173.8544	176.4826	GO:0043604	amide biosynthetic process	BP
+Gene_009955	NOT DE	dihydroneopterin aldolase	0	0	0	0	0	0	0	0	0	55.27739	52.14908	54.06404	49.28193	52.61777	48.71485	GO:0043604	amide biosynthetic process	BP
+Gene_010064	NOT DE	50s ribosomal l9	0	0	0	0	0	0	0	0	0	111.37559	104.11324	104.09468	97.48621	107.30885	95.75189	GO:0043604	amide biosynthetic process	BP
+Gene_010070	NOT DE	diphthamide biosynthesis dph3	0	0	0	0	0	0	0	0	0	51.08103	44.50033	41.7867	54.16634	56.14465	44.18309	GO:0043604	amide biosynthetic process	BP
+Gene_010331	NOT DE	potential mrna deadenylase and ccr4-not complex subunit not5p	0	0	0	0	0	0	0	0	0	239.2811	250.7706	253.8573	261.6066	264.6751	263.5269	GO:0043604	amide biosynthetic process	BP
+Gene_010370	NOT DE	50s ribosomal l2	0	0	0	0	0	0	0	0	0	45.68377	38.7993	49.83981	28.21862	33.28764	40.60683	GO:0043604	amide biosynthetic process	BP
+Gene_010414	NOT DE	40s ribosomal s14	0	0	0	0	0	0	0	0	0	503.3623	427.2474	432.9716	337.2682	353.6264	473.1017	GO:0043604	amide biosynthetic process	BP
+Gene_010472	NOT DE	atp-citrate synthase	0	0	0	0	0	0	0	0	0	664.3668	642.6868	682.963	692.1067	699.1732	788.293	GO:0043604	amide biosynthetic process	BP
+Gene_010622	NOT DE	60s ribosomal l19-2-like	0	0	0	0	0	0	0	0	0	1135.1808	904.7982	848.6174	828.0118	947.3362	1109.08	GO:0043604	amide biosynthetic process	BP
+Gene_010755	NOT DE	fast kinase domain-containing 3	0	0	0	0	0	0	0	0	0	37.45315	34.16874	35.12553	28.29383	32.42572	38.20668	GO:0043604	amide biosynthetic process	BP
+Gene_011072	NOT DE	histidine-trna ligase	0	0	0	0	0	0	0	0	0	446.8296	372.475	347.6773	381.7145	417.3411	490.0681	GO:0043604	amide biosynthetic process	BP
+Gene_011097	NOT DE	peptidyl-trna hydrolase mitochondrial	0	0	0	0	0	0	0	0	0	38.52917	34.98058	35.52169	32.26828	37.59577	33.26482	GO:0043604	amide biosynthetic process	BP
+Gene_011218	NOT DE	lysine-trna ligase	0	0	0	0	0	0	0	0	0	87.18909	73.21556	75.18174	74.62198	86.21799	98.86815	GO:0043604	amide biosynthetic process	BP
+Gene_011312	NOT DE	40s ribosomal s30	0	0	0	0	0	0	0	0	0	260.6417	214.3341	211.5303	159.7322	165.8615	191.4976	GO:0043604	amide biosynthetic process	BP
+Gene_011423	NOT DE	probable ccr4-not transcription subunit 7	0	0	0	0	0	0	0	0	0	139.8582	126.7796	129.6855	124.1775	137.5893	145.4618	GO:0043604	amide biosynthetic process	BP
+Gene_011756	NOT DE	ribosomal protein s15	0	0	0	0	0	0	0	0	0	54.58339	49.97813	50.79738	43.38448	44.37887	54.64758	GO:0043604	amide biosynthetic process	BP
+Gene_011997	NOT DE	eukaryotic translation initiation factor 4e	0	0	0	0	0	0	0	0	0	168.4111	166.4528	146.9508	148.9192	150.8516	156.0678	GO:0043604	amide biosynthetic process	BP
+Gene_012024	NOT DE	folylpolyglutamate synthase isoform x1	0	0	0	0	0	0	0	0	0	37.0279	33.61418	31.75775	31.93954	33.74094	36.57106	GO:0043604	amide biosynthetic process	BP
+Gene_012025	NOT DE	folylpolyglutamate synthase isoform x3	0	0	0	0	0	0	0	0	0	14.06686	12.72179	12.04244	13.1724	14.45696	14.41409	GO:0043604	amide biosynthetic process	BP
+Gene_012032	NOT DE	60s ribosomal protein l23a	0	0	0	0	0	0	0	0	0	1024.8679	865.6307	815.5814	786.0333	865.7088	1009.602	GO:0043604	amide biosynthetic process	BP
+Gene_012139	NOT DE	60s ribosomal protein	0	0	0	0	0	0	0	0	0	453.2984	390.0807	387.5267	309.5323	334.4466	456.2299	GO:0043604	amide biosynthetic process	BP
+Gene_012141	NOT DE	ribosome recycling factor	0	0	0	0	0	0	0	0	0	137.1867	113.5479	113.6687	106.7325	121.8002	137.258	GO:0043604	amide biosynthetic process	BP
+Gene_012201	NOT DE	eukaryotic translation initiation factor 3 subunit 8	0	0	0	0	0	0	0	0	0	310.6612	282.4856	275.4263	245.53	268.3616	326.1348	GO:0043604	amide biosynthetic process	BP
+Gene_012211	NOT DE	ribosomal protein s19 (mitochondrion)	0	0	0	0	0	0	0	0	0	0.4151258	0.5352256	0.4649018	0.2452816	0.1547298	0.3143301	GO:0043604	amide biosynthetic process	BP
+Gene_012212	NOT DE	30s ribosomal protein s3	0	0	0	0	0	0	0	0	0	1.5000562	2.7036433	2.3179883	0.9987199	0.8802336	0.9367448	GO:0043604	amide biosynthetic process	BP
+Gene_012263	NOT DE	30s ribosomal protein s7	0	0	0	0	0	0	0	0	0	0.4289655	0.7159607	0.9139162	0.5127157	0.3019249	0.8160092	GO:0043604	amide biosynthetic process	BP
+Gene_012264	NOT DE	30s ribosomal protein s12	0	0	0	0	0	0	0	0	0	0.3664936	0.7826889	0.6902241	0.2053672	0.3924089	0.4350657	GO:0043604	amide biosynthetic process	BP
+Gene_012266	NOT DE	30s ribosomal protein s8	0	0	0	0	0	0	0	0	0	0.5477683	0.6312376	0.5679891	0.2382105	0.3693336	0.187349	GO:0043604	amide biosynthetic process	BP
+Gene_012268	NOT DE	30s ribosomal protein 11 (mitochondrion)	0	0	0	0	0	0	0	0	0	0.310424	0.5272414	0.4681621	0.3427039	0.1952516	0.2539623	GO:0043604	amide biosynthetic process	BP
+Gene_012277	NOT DE	60s ribosomal protein l43	0	0	0	0	0	0	0	0	0	365.5459	320.4966	322.6883	215.3009	239.6469	305.795	GO:0043604	amide biosynthetic process	BP
+Gene_012376	NOT DE	density-regulated protein homolog	0	0	0	0	0	0	0	0	0	60.34513	51.93021	50.31864	49.34447	54.81841	55.3595	GO:0043604	amide biosynthetic process	BP
+Gene_012437	NOT DE	nucleotide-diphospho-sugar transferase	0	0	0	0	0	0	0	0	0	47.09372	39.9239	40.87917	36.12674	42.9685	65.09749	GO:0043604	amide biosynthetic process	BP
+Gene_012441	NOT DE	50s ribosomal protein l19	0	0	0	0	0	0	0	0	0	79.2251	68.94328	70.52053	67.44762	73.3107	73.08064	GO:0043604	amide biosynthetic process	BP
+Gene_012485	NOT DE	translation initiation factor if-2	0	0	0	0	0	0	0	0	0	239.1509	249.6826	281.8356	272.8348	244.6482	259.9818	GO:0043604	amide biosynthetic process	BP
+Gene_012648	NOT DE	threonyl-trna synthetase	0	0	0	0	0	0	0	0	0	156.401	134.9052	141.5157	122.7565	135.16	150.4349	GO:0043604	amide biosynthetic process	BP
+Gene_012675	NOT DE	ribosomal protein l17	0	0	0	0	0	0	0	0	0	60.19335	56.0191	56.91159	56.4387	53.07108	60.97164	GO:0043604	amide biosynthetic process	BP
+Gene_012740	NOT DE	histidine-trna ligase	0	0	0	0	0	0	0	0	0	179.7067	145.4774	141.3171	162.3285	176.4709	189.1515	GO:0043604	amide biosynthetic process	BP

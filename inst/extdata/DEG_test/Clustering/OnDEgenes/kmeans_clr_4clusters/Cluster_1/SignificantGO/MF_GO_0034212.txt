@@ -1,0 +1,8 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_001856	1	n-alpha-acetyltransferase auxiliary subunit	1	1	0	0	0	0	1	-1	0	76.69973	57.72447	59.93541	61.78547	68.59022	70.62424	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_003650	1	transcription elongation factor spt5-like	0	0	0	0	0	0	0	-1	-1	130.96	122.4427	114.8096	151.5119	173.4492	167.8217	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_003801	1	wd repeat-containing 5	0	0	0	0	0	0	1	0	0	142.5597	123.3269	120.1218	115.1901	134.0726	122.345	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_004281	1	n-alpha-acetyltransferase daf-31	1	0	0	0	0	0	0	0	0	83.45496	67.05527	71.17334	68.40041	77.45106	67.93683	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_008108	1	n-alpha-acetyltransferase 30-like	1	0	0	0	0	0	0	-1	-1	69.39671	55.49056	57.32123	70.79337	84.72631	77.15233	GO:0034212	peptide N-acetyltransferase activity	MF
+Gene_010017	1	n-alpha-acetyltransferase catalytic subunit	0	1	0	0	0	0	0	0	0	66.55919	53.66464	50.08892	50.86046	60.5383	49.35392	GO:0034212	peptide N-acetyltransferase activity	MF

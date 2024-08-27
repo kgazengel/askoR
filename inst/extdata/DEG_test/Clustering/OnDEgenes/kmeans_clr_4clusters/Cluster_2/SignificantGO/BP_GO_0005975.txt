@@ -1,0 +1,44 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000036	2	glycoside hydrolase family 18	0	0	0	0	0	0	0	1	0	0.6122489	1.1288172	1.1070496	1.0191664	0.4044038	0.301839	GO:0005975	carbohydrate metabolic process	BP
+Gene_000600	2	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0005975	carbohydrate metabolic process	BP
+Gene_001779	2	trehalose-6-phosphate phosphatase	-1	0	0	0	0	0	0	1	1	206.6253	271.1905	267.5509	215.979	193.1575	164.7774	GO:0005975	carbohydrate metabolic process	BP
+Gene_001896	2	hypothetical protein pbra 003161	-1	-1	0	0	0	0	-1	0	1	220.2699	373.3395	363.4513	353.7438	260.3541	215.9548	GO:0005975	carbohydrate metabolic process	BP
+Gene_002070	2	carbohydrate esterase family 4	0	0	0	0	0	0	0	1	1	5.406835	6.991701	8.143765	5.115007	3.149155	3.261949	GO:0005975	carbohydrate metabolic process	BP
+Gene_002190	2	phosphoglycerate mutase family	0	-1	0	0	0	0	0	1	1	551.9243	609.6477	685.7749	554.5254	455.7187	495.3981	GO:0005975	carbohydrate metabolic process	BP
+Gene_002283	2	polysaccharide deacetylase family	-1	-1	0	0	0	0	0	1	0	1.808618	4.04075	3.803568	3.442509	1.566444	2.296064	GO:0005975	carbohydrate metabolic process	BP
+Gene_002787	2	phosphoglucomutase	0	0	0	0	0	0	0	1	1	188.4205	198.4915	210.9055	166.025	149.2656	146.4027	GO:0005975	carbohydrate metabolic process	BP
+Gene_002809	2	glycoside hydrolase family 16	-1	0	0	0	0	0	0	1	1	37.36519	61.27431	58.72295	56.4375	40.19384	33.83518	GO:0005975	carbohydrate metabolic process	BP
+Gene_002901	2	hypothetical protein pbra 002272	0	0	0	0	0	0	0	1	0	0.26567281	0.54866128	0.19150324	0.20051113	0.07922638	0.12073561	GO:0005975	carbohydrate metabolic process	BP
+Gene_003448	2	alpha;alpha-trehalose-phosphate synthase [udp-forming] 1	0	0	0	0	0	0	0	1	0	0.28695	0.41900791	0.34103665	0.05750797	0.05615109	0.18110342	GO:0005975	carbohydrate metabolic process	BP
+Gene_003708	2	glycosyl hydrolase	0	0	0	0	0	0	0	1	0	36.88512	50.32772	45.79025	44.30872	31.54326	34.61166	GO:0005975	carbohydrate metabolic process	BP
+Gene_003920	2	glycoside hydrolase	-1	-1	0	0	0	0	0	1	1	0.3884198	1.5288818	1.0312607	0.4658985	0.1953402	0.187349	GO:0005975	carbohydrate metabolic process	BP
+Gene_003923	2	glycoside hydrolase	0	0	0	0	0	0	0	1	0	0.8058771	1.813227	1.4529767	1.0763772	0.5148002	0.7972726	GO:0005975	carbohydrate metabolic process	BP
+Gene_004433	2	malate cytoplasmic	-1	-1	0	0	0	0	0	1	1	182.5081	227.6623	270.0265	214.6488	174.782	160.761	GO:0005975	carbohydrate metabolic process	BP
+Gene_004814	2	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0005975	carbohydrate metabolic process	BP
+Gene_004998	2	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0005975	carbohydrate metabolic process	BP
+Gene_005296	2	glucose-6-phosphate 1-epimerase	0	0	0	0	0	0	1	0	0	271.3299	253.1326	266.4147	218.7972	222.1547	229.1588	GO:0005975	carbohydrate metabolic process	BP
+Gene_005509	2	alpha beta hydrolase family [lentimicrobium saccharophilum]	-1	0	0	0	0	0	0	1	1	0.9528104	2.2233664	2.0580452	1.630412	0.7350329	0.4288202	GO:0005975	carbohydrate metabolic process	BP
+Gene_005837	2	carbohydrate binding domain	-1	0	0	0	0	0	0	1	1	0.66153007	1.74123172	1.41915767	0.38449259	0.24586247	0.06036781	GO:0005975	carbohydrate metabolic process	BP
+Gene_005885	2	glycoside hydrolase family 16	0	0	0	0	0	0	0	1	0	21.61918	28.54021	26.19511	23.67293	19.92585	17.10702	GO:0005975	carbohydrate metabolic process	BP
+Gene_006598	2	glutamine-fructose-6-phosphate transaminase	-1	0	0	0	0	0	0	1	0	99.57143	150.09838	120.84414	132.05578	106.54003	113.13995	GO:0005975	carbohydrate metabolic process	BP
+Gene_006771	2	glycoside hydrolase family 18	-1	-1	0	0	0	0	0	1	1	1.0713569	2.5603886	2.3184025	0.9152912	0.7938069	0.4954335	GO:0005975	carbohydrate metabolic process	BP
+Gene_006774	2	bacteriodes thetaiotaomicron symbiotic	0	0	0	0	0	0	0	1	0	0.9481556	1.1735631	0.8849876	0.8508825	0.3618876	0.5558013	GO:0005975	carbohydrate metabolic process	BP
+Gene_006775	2	hypothetical protein pbra 005462	-1	0	0	0	0	0	0	1	0	0.3852187	0.9076908	0.7851606	0.51838	0.2021576	0.7493958	GO:0005975	carbohydrate metabolic process	BP
+Gene_006968	2	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0005975	carbohydrate metabolic process	BP
+Gene_007259	2	malate synthase a	-1	-1	0	1	0	0	0	1	1	131.0366	164.1754	166.2605	153.9167	119.8765	123.9895	GO:0005975	carbohydrate metabolic process	BP
+Gene_007438	2	citrate synthase	0	0	0	0	0	0	0	1	1	387.3671	408.1322	449.2924	347.4465	319.1911	332.1258	GO:0005975	carbohydrate metabolic process	BP
+Gene_007567	2	chitin binding	0	0	0	0	0	0	0	1	1	10.623078	15.759588	15.022355	10.9064	8.87964	6.771615	GO:0005975	carbohydrate metabolic process	BP
+Gene_007739	2	o-glycosyl hydrolase	-1	-1	0	1	0	0	0	1	1	0.6185879	1.5956662	1.744307	1.2803398	0.3481641	0.4954335	GO:0005975	carbohydrate metabolic process	BP
+Gene_007824	2	glycoside hydrolase	0	0	0	0	0	0	0	0	1	204.6445	222.7212	236.8333	207.4668	200.9434	179.5696	GO:0005975	carbohydrate metabolic process	BP
+Gene_008393	2	beta-hexosaminidase subunit beta-like	-1	0	0	0	0	0	-1	0	0	0.156441	0.6572808	0.6066986	0.8917579	0.6095673	0.3684524	GO:0005975	carbohydrate metabolic process	BP
+Gene_008471	2	iq and ubiquitin-like domain-containing	0	0	0	0	0	0	0	0	1	80.11806	82.9493	88.61683	86.41594	81.76483	65.13909	GO:0005975	carbohydrate metabolic process	BP
+Gene_008745	2	glycoside hydrolase family 3	-1	-1	0	1	0	0	0	1	1	70.43019	96.71739	95.26565	75.00393	56.62879	61.69811	GO:0005975	carbohydrate metabolic process	BP
+Gene_008809	2	hypothetical protein pbra 002068	0	0	0	0	0	0	0	1	1	1.7044286	2.5040679	2.326139	0.7453033	0.6845992	0.489188	GO:0005975	carbohydrate metabolic process	BP
+Gene_009370	2	xylulose kinase	0	-1	0	1	0	0	0	1	1	88.16504	104.64062	113.67878	87.99065	68.224	78.2452	GO:0005975	carbohydrate metabolic process	BP
+Gene_009482	2	gdp-l-fucose synthetase	0	-1	0	0	0	0	0	1	1	187.5291	214.9001	249.1159	170.2561	144.8793	159.8481	GO:0005975	carbohydrate metabolic process	BP
+Gene_009587	2	phosphoenolpyruvate synthase	-1	-1	0	0	0	0	-1	0	1	142.1249	254.2619	264.9311	258.0395	191.0857	157.8247	GO:0005975	carbohydrate metabolic process	BP
+Gene_009975	2	methylmalonate-semialdehyde dehydrogenase [acylating] mitochondrial	0	-1	0	0	0	0	0	1	1	113.9065	138.7512	153.9319	120.1605	108.375	107.5632	GO:0005975	carbohydrate metabolic process	BP
+Gene_010892	2	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:0005975	carbohydrate metabolic process	BP
+Gene_011044	2	alpha-l-arabinofuranosidase beta-d-xylosidase	-1	-1	0	1	0	0	-1	1	1	146.6216	191.7671	203.3268	183.0973	137.4118	149.0256	GO:0005975	carbohydrate metabolic process	BP
+Gene_011892	2	glyceraldehyde-3-phosphate dehydrogenase; putative	0	0	0	0	0	0	1	0	0	1419.156	1273.287	1343.708	1097.219	1084.701	1299.35	GO:0005975	carbohydrate metabolic process	BP
+Gene_012273	2	gdp-fucose protein o-fucosyltransferase 2 isoform x3	0	0	0	0	0	0	0	1	0	0.2667079	0.8414329	0.9171765	0.4349295	0.149101	0.3684524	GO:0005975	carbohydrate metabolic process	BP

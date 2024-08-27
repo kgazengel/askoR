@@ -1,0 +1,37 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000092	NOT DE	n-glycosylase dna lyase	0	0	0	0	0	0	0	0	0	67.45921	60.84416	62.74438	61.65406	69.30226	67.33731	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_000150	NOT DE	glycoside hydrolase family 16	0	0	0	0	0	0	0	0	0	0.3079027	0.6266143	0.5019811	0.4555484	0.1684533	0.187349	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_000170	NOT DE	glycoside hydrolase	0	0	0	0	0	0	0	0	0	111.13754	99.66356	101.89526	98.51206	113.12515	100.6396	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_000610	NOT DE	glycoside hydrolase family 16	0	0	0	0	0	0	0	0	0	16.73005	15.83599	17.52978	10.15846	14.19994	12.46285	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_000862	NOT DE	glycosyl hydrolase family 26	0	0	0	0	0	0	0	0	0	27.03771	22.84413	21.45969	26.07823	28.8236	25.68135	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_001511	NOT DE	beta-galactosidase 9	0	0	0	0	0	0	0	0	0	3.854673	3.644127	4.113632	2.265258	2.335456	2.035856	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_001708	NOT DE	lysosomal alpha-mannosidase	0	0	0	0	0	0	0	0	0	89.24457	96.3396	104.77027	96.87749	105.72885	98.06043	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_001777	NOT DE	regulator of chromosome condensation (rcc1)	0	0	0	0	0	0	0	0	0	118.833	110.7295	115.4137	105.753	110.273	106.7618	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002123	NOT DE	glyco endo-alpha-1;2-mannosidase	0	0	0	0	0	0	0	0	0	26.41427	27.91688	26.99246	24.65611	25.27125	26.52443	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002131	NOT DE	chitinase	0	0	0	0	0	0	0	0	0	3.475596	4.589089	3.512238	4.577377	6.133426	3.576279	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002132	NOT DE	probable chitinase 2	0	0	0	0	0	0	0	0	0	3.789127	5.031985	4.724005	5.658827	5.537228	4.579637	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002349	NOT DE	d-galactoside l-rhamnose binding suel lectin domain-containing	0	0	0	0	0	0	0	0	0	0.1489403	0.3833321	0.4070446	0.4715649	0.4461827	0.4350657	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002480	NOT DE	hypothetical protein pbra 007698	0	0	0	0	0	0	0	0	0	39.26982	36.51603	37.48886	38.64235	38.10581	34.0267	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002631	NOT DE	glycoside hydrolase family 18	0	0	0	0	0	0	0	0	0	6.939496	7.564036	5.613469	8.288424	8.855791	6.603003	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002651	NOT DE	glycoside hydrolase superfamily	0	0	0	0	0	0	0	0	0	27.32713	24.88831	26.30911	23.4908	23.75978	30.84803	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002805	NOT DE	nucleoside hydrolase	0	0	0	0	0	0	0	0	0	133.771	120.209	133.952	129.2659	132.5653	127.1078	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_002971	NOT DE	concanavalin a-like lectin glucanase	0	0	0	0	0	0	0	0	0	3.425802	3.735225	2.926731	4.202975	4.209454	3.830241	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_003675	NOT DE	extracellular solute-binding family 1	0	0	0	0	0	0	0	0	0	1.1141676	0.7582942	0.8103178	0.7086679	0.8179822	0.5495558	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_003896	NOT DE	alpha-mannosidase i mns5	0	0	0	0	0	0	0	0	0	105.9962	103.5041	113.7089	112.4319	114.89	118.1567	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_006045	NOT DE	endonuclease iii 1	0	0	0	0	0	0	0	0	0	20.16839	21.69704	19.83436	19.58566	19.33045	18.25402	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_006046	NOT DE	endonuclease iii 1	0	0	0	0	0	0	0	0	0	32.36906	31.52339	32.96696	33.96014	33.01064	29.85299	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_006701	NOT DE	glucan endo-1;3-beta-basic isoform-like	0	0	0	0	0	0	0	0	0	0.5533334	0.532371	0.600178	0.1736314	0.2844784	0.1269811	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_006930	NOT DE	beta-galactosidase 3	0	0	0	0	0	0	0	0	0	0.8342689	0.8578435	1.0426718	1.5294135	0.9122778	1.0637259	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_007678	NOT DE	ghl3 monbe ame: full= glycoside hydrolase 22789	0	0	0	0	0	0	0	0	0	30.64809	29.90144	33.24564	25.31741	25.01285	28.22931	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_007983	NOT DE	uracil-dna glycosylase	0	0	0	0	0	0	0	0	0	96.43628	100.26295	112.60801	110.97024	103.67173	113.96636	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_007985	NOT DE	uracil-dna glycosylase	0	0	0	0	0	0	0	0	0	15.45634	15.55012	17.26005	13.75125	15.91432	16.64074	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_008399	NOT DE	secreted protein	0	0	0	0	0	0	0	0	0	0.7402365	0.5156385	0.3764859	0.70083	0.6239878	0.7431503	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_008828	NOT DE	rhamnosebinding lectin (sal)	0	0	0	0	0	0	0	0	0	69.68262	63.3927	60.76818	64.91218	72.21725	69.53346	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_008925	NOT DE	glycosyl hydrolase family cellulase	0	0	0	0	0	0	0	0	0	75.11368	75.31591	83.03798	75.41693	71.59296	65.63452	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_009930	NOT DE	beta-galactosidase 16-like	0	0	0	0	0	0	0	0	0	0.5632922	0.576795	0.5873439	0.6612128	0.6576237	0.3080846	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_009932	NOT DE	beta-galactosidase 16	0	0	0	0	0	0	0	0	0	0.8864575	1.510879	1.2178735	0.6883897	0.9553541	1.1719705	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_010259	NOT DE	beta-galactosidase 16-like	0	0	0	0	0	0	0	0	0	1.156722	1.813347	1.678299	2.50926	2.26459	2.537535	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_010444	NOT DE	poly(adp-ribose) glycohydrolase	0	0	0	0	0	0	0	0	0	9.221831	9.02245	8.423657	8.247271	10.154148	8.917803	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_010672	NOT DE	beta-mannosidase-like isoform x1	0	0	0	0	0	0	0	0	0	130.2971	122.3228	130.0591	124.843	131.957	130.782	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_011497	NOT DE	phosphatidylinositol 3;4;5-trisphosphate 3-phosphatase and dual-specificity phosphatase pten-like	0	0	0	0	0	0	0	0	0	56.08451	60.22674	63.00847	56.74832	52.29796	54.95147	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF
+Gene_012482	NOT DE	putative glycosidase crf2 os=neosartorya fumigata (strain atcc mya-4609 / af293 / cbs 101355 / fgsc a1100) gn=crf1 pe=1 sv=1	0	0	0	0	0	0	0	0	0	3.983791	3.400506	3.592917	2.317229	2.497248	2.404309	GO:0016798	hydrolase activity, acting on glycosyl bonds	MF

@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_003352	1	vacuolar sorting-associated 11 homolog	0	0	0	0	0	0	-1	0	0	88.31277	98.33935	101.72982	105.26355	108.47124	106.89499	GO:0009790	embryo development	BP
+Gene_004281	1	n-alpha-acetyltransferase daf-31	1	0	0	0	0	0	0	0	0	83.45496	67.05527	71.17334	68.40041	77.45106	67.93683	GO:0009790	embryo development	BP
+Gene_004634	1	neuroblastoma-amplified sequence	0	0	0	0	0	0	0	-1	-1	110.0993	95.00276	101.26771	130.48462	141.23397	149.52931	GO:0009790	embryo development	BP
+Gene_005451	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	0	347.5044	303.6071	314.5572	356.7304	371.6622	363.2922	GO:0009790	embryo development	BP
+Gene_008041	1	receptor of activated c kinase 1	1	1	0	0	0	0	1	0	0	1179.4315	886.3082	829.5828	779.1944	897.8791	1111.8112	GO:0009790	embryo development	BP
+Gene_009433	1	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0009790	embryo development	BP

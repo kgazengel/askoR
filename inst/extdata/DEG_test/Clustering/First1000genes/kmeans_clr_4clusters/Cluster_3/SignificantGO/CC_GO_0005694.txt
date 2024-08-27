@@ -1,0 +1,14 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000087	3	structural maintenance of chromosomes 6-like	0	0	0	0	0	0	0	-1	-1	509.1067	437.0651	449.9503	524.1797	590.4527	570.9495	GO:0005694	chromosome	CC
+Gene_000146	3	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0005694	chromosome	CC
+Gene_000147	3	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0005694	chromosome	CC
+Gene_000211	3	hypothetical protein pbra 003709	0	0	0	0	0	0	0	0	0	160.175	145.099	152.5762	153.6873	154.8655	165.2479	GO:0005694	chromosome	CC
+Gene_000430	3	swi snf-related matrix-associated actin-dependent regulator of chromatin subfamily b member 1-like	0	0	0	0	0	0	0	0	0	88.90517	83.85473	84.7493	86.69547	87.35158	86.3095	GO:0005694	chromosome	CC
+Gene_000618	3	dna topoisomerase 1 beta	0	0	0	0	0	0	0	0	0	274.8023	255.3956	246.7443	248.0292	292.0969	259.6071	GO:0005694	chromosome	CC
+Gene_000943	3	sister chromatid cohesion	1	0	0	0	0	0	0	0	0	19.62049	14.71672	16.15018	18.55998	18.68356	19.47803	GO:0005694	chromosome	CC
+Gene_000944	3	sister chromatid cohesion dcc1	0	0	0	0	0	0	0	0	0	50.78686	40.52754	44.10507	42.23653	49.83077	52.1579	GO:0005694	chromosome	CC
+Gene_000956	3	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0005694	chromosome	CC
+Gene_000961	3	dna helicase	0	0	0	0	0	0	0	-1	0	294.8804	270.3242	292.2753	299.2011	317.6125	308.4823	GO:0005694	chromosome	CC
+Gene_001010	3	fact complex subunit ssrp1-like	0	0	0	0	0	0	0	0	0	286.1569	242.9892	244.0888	258.0575	293.2601	280.6214	GO:0005694	chromosome	CC
+Gene_001052	3	non-structural maintenance of chromosomes element 1 homolog	1	0	0	0	0	0	1	-1	0	112.00876	87.98591	95.13927	89.16317	104.59221	98.79318	GO:0005694	chromosome	CC
+Gene_001067	3	hypothetical protein pbra 002611	0	0	0	0	0	0	0	-1	0	98.53642	94.00716	100.89128	106.34708	109.64346	102.03846	GO:0005694	chromosome	CC

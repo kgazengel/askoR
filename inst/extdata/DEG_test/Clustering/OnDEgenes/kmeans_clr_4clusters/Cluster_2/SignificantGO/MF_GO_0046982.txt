@@ -1,0 +1,10 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001333	2	histone h3	0	0	0	0	0	0	1	0	0	45.48169	45.14371	49.1147	31.13281	36.00242	44.26846	GO:0046982	protein heterodimerization activity	MF
+Gene_006159	2	hypothetical protein pbra 007314	-1	-1	0	0	0	0	0	1	0	1.1396502	3.4447455	3.7114777	1.329156	0.8690646	1.867244	GO:0046982	protein heterodimerization activity	MF
+Gene_007164	2	histone h4	0	0	0	0	0	0	0	1	0	84.79111	98.70481	106.90453	55.76494	48.59534	72.20427	GO:0046982	protein heterodimerization activity	MF
+Gene_007165	2	histone h3	0	-1	0	0	0	0	0	1	1	43.1247	51.85242	62.26061	34.3239	32.36953	38.2137	GO:0046982	protein heterodimerization activity	MF
+Gene_008142	2	transcription initiation factor tfiid subunit 9	0	0	0	0	0	0	0	0	1	62.49018	60.86414	64.88637	53.68328	53.57709	45.26764	GO:0046982	protein heterodimerization activity	MF
+Gene_009215	2	nuclear transcription factor y subunit b-1	0	0	0	0	0	0	0	1	0	44.17866	50.06563	58.29986	46.72449	34.05929	40.66511	GO:0046982	protein heterodimerization activity	MF
+Gene_009373	2	histone h3	0	0	0	0	0	0	1	1	1	60.31162	63.041	75.68302	39.33712	37.07498	42.79645	GO:0046982	protein heterodimerization activity	MF
+Gene_011470	2	histone h3	0	0	0	0	0	0	0	1	0	64.98422	72.25247	83.17304	44.71553	43.42644	59.55272	GO:0046982	protein heterodimerization activity	MF
+Gene_012756	2	histone h4	0	0	0	0	0	0	0	1	1	68.621	83.11953	95.02177	65.17245	50.30115	61.86052	GO:0046982	protein heterodimerization activity	MF

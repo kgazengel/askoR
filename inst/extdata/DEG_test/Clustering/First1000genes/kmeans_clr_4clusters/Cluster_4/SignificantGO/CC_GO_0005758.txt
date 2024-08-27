@@ -1,0 +1,3 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000210	4	mitochondrial distribution and morphology	0	0	0	0	0	0	0	0	0	8.79758	11.249158	11.000814	10.342863	10.125355	9.202993	GO:0005758	mitochondrial intermembrane space	CC
+Gene_000482	4	cytochrome c oxidase copper chaperone	0	0	0	0	0	0	0	0	0	23.03264	22.54175	20.36077	19.76909	18.83796	15.1357	GO:0005758	mitochondrial intermembrane space	CC

@@ -6,6 +6,6 @@
 \alias{askoR-package}
 \title{askoR: askoR - Differential Expresion Analysis using edgeR}
 \description{
-AskoR is a pipeline for the analysis of gene expression data, using edgeR.
+askoR is a pipeline for the analysis of gene expression data, using edgeR.
 }
 \keyword{internal}

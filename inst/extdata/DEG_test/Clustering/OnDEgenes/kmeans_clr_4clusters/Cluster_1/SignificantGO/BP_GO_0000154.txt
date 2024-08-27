@@ -1,0 +1,12 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_003495	1	dimethyladenosine transferase	0	0	0	0	0	0	0	-1	-1	122.86011	106.68277	98.51098	124.1654	148.11814	132.99262	GO:0000154	rRNA modification	BP
+Gene_003665	1	hypothetical protein pbra 004375	0	0	0	-1	0	0	0	-1	-1	23.6619	19.13232	17.98291	23.70882	32.73674	29.012	GO:0000154	rRNA modification	BP
+Gene_004813	1	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0000154	rRNA modification	BP
+Gene_005276	1	probable 18s rrna (guanine-n(7))-methyltransferase	1	1	0	-1	0	0	0	-1	-1	139.6875	108.7096	103.5226	119.1205	148.2297	129.9097	GO:0000154	rRNA modification	BP
+Gene_006611	1	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0000154	rRNA modification	BP
+Gene_006706	1	probable 28s rrna (cytosine(4447)-c(5))-methyltransferase	1	1	0	0	0	0	0	0	-1	192.2776	153.1862	136.9344	161.6797	173.0244	188.8434	GO:0000154	rRNA modification	BP
+Gene_008801	1	h aca ribonucleo complex subunit 3	0	0	0	0	0	0	0	-1	0	30.49843	23.01511	23.33071	31.42257	33.56238	24.60828	GO:0000154	rRNA modification	BP
+Gene_009305	1	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0000154	rRNA modification	BP
+Gene_009433	1	ribosomal rna small subunit methyltransferase nep1	1	1	0	0	0	0	0	-1	-1	155.9447	118.3009	115.6472	145.2226	174.1026	158.3368	GO:0000154	rRNA modification	BP
+Gene_012329	1	pre-rrna processing protein ftsj3	0	1	0	0	0	0	0	0	0	255.0337	214.7083	189.036	203.8873	214.8909	235.2539	GO:0000154	rRNA modification	BP
+Gene_012759	1	rna cytidine acetyltransferase	1	1	0	0	0	0	0	-1	-1	153.9122	116.9025	109.6971	145.1201	153.3694	162.0962	GO:0000154	rRNA modification	BP

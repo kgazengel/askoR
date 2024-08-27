@@ -1,0 +1,17 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000899	NOT DE	20s proteasome subunit beta type 1	0	0	0	0	0	0	0	0	0	282.476	275.0422	297.0221	278.2923	272.1176	291.7042	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_001191	NOT DE	proteasome beta subunit	0	0	0	0	0	0	0	0	0	379.2161	362.236	388.9536	360.0019	385.1355	378.8901	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_001367	NOT DE	atp-dependent protease subunit	0	0	0	0	0	0	0	0	0	84.78251	75.6078	72.84294	71.80554	74.55667	89.16349	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_001986	NOT DE	proteasome subunit beta type-2-b	0	0	0	0	0	0	0	0	0	248.1498	266.3756	289.6371	273.3352	247.8755	244.5756	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_002341	NOT DE	20s proteasome subunit beta 1	0	0	0	0	0	0	0	0	0	238.357	225.0279	245.6416	228.8923	233.1549	244.7505	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_003907	NOT DE	proteasome subunit beta type	0	0	0	0	0	0	0	0	0	332.7587	331.5201	348.3485	362.1841	348.2489	364.048	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_006073	NOT DE	20s proteasome subunit c2	0	0	0	0	0	0	0	0	0	364.8324	358.0158	379.2648	333.625	323.117	335.0671	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_007112	NOT DE	hypothetical protein pbra 004541	0	0	0	0	0	0	0	0	0	41.64432	44.10729	45.67457	42.61367	41.80728	41.3791	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_007113	NOT DE	proteasome subunit alpha type-4	0	0	0	0	0	0	0	0	0	447.2851	448.1328	470.5892	437.5344	445.8653	463.9298	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_007557	NOT DE	proteasome subunit alpha type-6-a	0	0	0	0	0	0	0	0	0	417.1836	377.1572	416.4488	364.4674	391.399	389.059	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_008498	NOT DE	proteasome subunit alpha type-3	0	0	0	0	0	0	0	0	0	278.4237	273.8029	283.2168	279.4073	262.8384	276.7725	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_008839	NOT DE	proteasome endopeptidase	0	0	0	0	0	0	0	0	0	363.772	365.6274	386.9574	394.6483	392.9755	397.7436	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_010283	NOT DE	proteasome subunit alpha type-2-a	0	0	0	0	0	0	0	0	0	371.6767	352.9797	377.5783	378.0574	392.5952	382.1125	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_011732	NOT DE	proteasome subunit alpha type 7	0	0	0	0	0	0	0	0	0	316.4311	287.02	289.0421	261.2058	269.2077	304.5647	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_011831	NOT DE	proteasome subunit beta type-7	0	0	0	0	0	0	0	0	0	259.9521	258.1455	257.0948	267.6542	253.9071	279.2539	GO:0004298	threonine-type endopeptidase activity	MF
+Gene_011839	NOT DE	proteasome subunit alpha type 5	0	0	0	0	0	0	0	0	0	308.9989	280.4335	304.0323	272.3259	292.3583	292.5952	GO:0004298	threonine-type endopeptidase activity	MF

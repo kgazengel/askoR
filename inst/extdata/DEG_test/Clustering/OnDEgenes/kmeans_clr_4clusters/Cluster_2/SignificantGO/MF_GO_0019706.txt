@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_003146	2	probable s-acyltransferase 15	0	0	0	0	0	0	1	0	0	9.594016	9.063149	8.894692	5.145467	6.321897	6.145042	GO:0019706	protein-cysteine S-palmitoyltransferase activity	MF
+Gene_003165	2	zf-dhhc-domain-containing [auricularia subglabra tfb-10046 ss5]	0	0	0	0	0	0	0	1	0	24.19248	28.01229	29.26972	21.63737	19.43722	21.8532	GO:0019706	protein-cysteine S-palmitoyltransferase activity	MF
+Gene_003400	2	zinc finger (dhhc type) family	-1	-1	0	0	0	0	0	1	1	33.1891	42.76353	47.09334	35.26973	29.29029	34.88852	GO:0019706	protein-cysteine S-palmitoyltransferase activity	MF
+Gene_004201	2	palmitoyltransferase zdhhc18	0	0	0	0	0	0	0	1	0	0.858778	1.3619605	0.8446479	0.7729498	0.3924975	0.7431503	GO:0019706	protein-cysteine S-palmitoyltransferase activity	MF
+Gene_009066	2	palmitoyltransferase zdhhc1	0	0	0	0	0	0	0	1	1	15.25927	18.40894	20.64928	13.11761	10.27743	10.36872	GO:0019706	protein-cysteine S-palmitoyltransferase activity	MF

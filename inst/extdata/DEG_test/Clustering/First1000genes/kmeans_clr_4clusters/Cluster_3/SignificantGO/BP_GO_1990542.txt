@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000114	3	mitochondrial import inner membrane translocase subunit tim21	0	0	0	0	0	0	0	-1	-1	56.44166	48.26565	43.8109	60.4412	69.25601	63.91719	GO:1990542	mitochondrial transmembrane transport	BP
+Gene_000132	3	mitochondrial mpt family isoform 2	0	0	0	0	0	0	0	0	0	339.5287	295.194	302.5299	292.5833	327.6075	357.9549	GO:1990542	mitochondrial transmembrane transport	BP
+Gene_000594	3	tricarboxylate transport mitochondrial-like	0	0	0	0	0	0	0	0	0	57.19893	54.73927	57.33629	66.92497	65.34087	62.12694	GO:1990542	mitochondrial transmembrane transport	BP

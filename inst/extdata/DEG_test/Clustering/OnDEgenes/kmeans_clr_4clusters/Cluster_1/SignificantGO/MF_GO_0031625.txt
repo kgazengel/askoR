@@ -1,0 +1,9 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000275	1	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_000606	1	ubiquitin-conjugating enzyme catalytic (ubcc) domain	0	0	0	0	0	0	0	-1	0	92.77242	82.58199	89.20963	103.17347	104.18637	101.49101	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_001054	1	npl4 family	0	0	0	0	0	0	0	-1	0	322.5951	275.7881	289.3172	327.4072	376.7381	347.0532	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_001812	1	cullin-3a-like	0	0	0	0	0	0	0	-1	0	316.1575	277.8771	300.8563	296.1098	346.5106	342.0031	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_004843	1	ubiquitin-conjugating enzyme e2	0	0	0	0	0	0	0	-1	-1	154.2891	141.2154	135.6343	164.3698	180.7734	168.1705	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_005451	1	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	0	347.5044	303.6071	314.5572	356.7304	371.6622	363.2922	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_007298	1	cullin-1-like isoform x5	0	0	0	0	0	0	0	-1	-1	303.9007	273.3847	255.567	308.37	330.5156	352.0555	GO:0031625	ubiquitin protein ligase binding	MF
+Gene_009168	1	ubiquitin-cullin 4	0	0	0	0	0	0	0	-1	-1	214.6474	189.2743	184.1491	209.2182	239.1437	243.924	GO:0031625	ubiquitin protein ligase binding	MF

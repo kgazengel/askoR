@@ -1,0 +1,53 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000026	NOT DE	family magnesium ion transporter	0	0	0	0	0	0	0	0	0	93.44698	91.0827	90.31673	96.28985	93.65769	93.74101	GO:0030001	metal ion transport	BP
+Gene_000482	NOT DE	cytochrome c oxidase copper chaperone	0	0	0	0	0	0	0	0	0	23.03264	22.54175	20.36077	19.76909	18.83796	15.1357	GO:0030001	metal ion transport	BP
+Gene_000615	NOT DE	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	0	0	80.79441	74.27597	76.65524	78.73552	79.03056	75.18932	GO:0030001	metal ion transport	BP
+Gene_001045	NOT DE	probable nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	0	0	0	0	0	0	0	0	155.8754	146.5607	156.7649	144.8502	154.0137	132.3307	GO:0030001	metal ion transport	BP
+Gene_001057	NOT DE	hypothetical protein pbra 002603	0	0	0	0	0	0	0	0	0	35.76123	42.72963	44.74888	41.97506	37.99429	36.84317	GO:0030001	metal ion transport	BP
+Gene_001317	NOT DE	catsup	0	0	0	0	0	0	0	0	0	64.1726	63.71039	64.60277	60.43362	57.22047	60.36379	GO:0030001	metal ion transport	BP
+Gene_001576	NOT DE	zip family metal transporter	0	0	0	0	0	0	0	0	0	13.83785	15.28676	15.40415	14.82942	13.46699	13.24139	GO:0030001	metal ion transport	BP
+Gene_001577	NOT DE	hypothetical protein pbra 005331	0	0	0	0	0	0	0	0	0	4.094382	4.882448	4.42411	3.285023	4.317727	4.960581	GO:0030001	metal ion transport	BP
+Gene_001621	NOT DE	magnesium transporter nipa-domain-containing	0	0	0	0	0	0	0	0	0	17.9332	18.53666	20.90027	22.37122	19.44302	20.10253	GO:0030001	metal ion transport	BP
+Gene_001676	NOT DE	zinc transporter	0	0	0	0	0	0	0	0	0	17.48224	16.22797	17.8187	14.03304	12.78092	13.65981	GO:0030001	metal ion transport	BP
+Gene_002391	NOT DE	hypothetical protein pbra 003307	0	0	0	0	0	0	0	0	0	31.22223	30.95321	34.12129	32.27148	31.91838	26.90329	GO:0030001	metal ion transport	BP
+Gene_002392	NOT DE	cation transporter	0	0	0	0	0	0	0	0	0	59.88954	58.33406	61.04533	55.85484	57.66702	50.01796	GO:0030001	metal ion transport	BP
+Gene_002427	NOT DE	hypothetical protein pbra 003280	0	0	0	0	0	0	0	0	0	1.965445	3.169294	2.610949	2.685322	2.140764	2.833129	GO:0030001	metal ion transport	BP
+Gene_002576	NOT DE	hypothetical protein pbra 007624	0	0	0	0	0	0	0	0	0	0.7523288	1.0264132	1.1408687	1.1090523	0.6227307	1.0449893	GO:0030001	metal ion transport	BP
+Gene_003524	NOT DE	copper transpport	0	0	0	0	0	0	0	0	0	56.14183	57.56397	61.9535	50.56939	49.58552	50.9235	GO:0030001	metal ion transport	BP
+Gene_005138	NOT DE	zinc iron permease	0	0	0	0	0	0	0	0	0	49.02242	51.62545	46.38885	49.13991	53.87067	51.82484	GO:0030001	metal ion transport	BP
+Gene_005290	NOT DE	upf0016 domain-containing	0	0	0	0	0	0	0	0	0	0.5360005	1.6025255	0.5663589	2.0297324	1.8318364	0.1207356	GO:0030001	metal ion transport	BP
+Gene_005400	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur mitochondrial	0	0	0	0	0	0	0	0	0	435.8837	431.6605	451.7236	420.724	424.0572	428.3086	GO:0030001	metal ion transport	BP
+Gene_005583	NOT DE	heavy metal translocatin	0	0	0	0	0	0	0	0	0	112.4395	105.7228	112.8342	118.2713	126.4662	122.3762	GO:0030001	metal ion transport	BP
+Gene_006204	NOT DE	mtp8 orysj ame: full=metal tolerance 8 short= 8	0	0	0	0	0	0	0	0	0	60.58072	67.46565	70.81068	59.43413	57.74186	68.07841	GO:0030001	metal ion transport	BP
+Gene_006538	NOT DE	zinc transporter zip9	0	0	0	0	0	0	0	0	0	62.94562	60.78164	64.48566	53.94333	54.88811	74.51696	GO:0030001	metal ion transport	BP
+Gene_006844	NOT DE	phosphatidylinositol kinase	0	0	0	0	0	0	0	0	0	77.97617	76.32697	86.13329	77.94316	79.24804	86.3678	GO:0030001	metal ion transport	BP
+Gene_007458	NOT DE	kv3 family voltage-gated potassium channel	0	0	0	0	0	0	0	0	0	0.6401896	1.1279328	1.0088528	1.3919043	0.788718	1.2989516	GO:0030001	metal ion transport	BP
+Gene_007598	NOT DE	mg2+ transporter cora	0	0	0	0	0	0	0	0	0	82.05609	78.4106	80.30925	78.63823	82.33971	78.54076	GO:0030001	metal ion transport	BP
+Gene_007637	NOT DE	nadh dehydrogenase [ubiquinone] 1 beta subcomplex subunit	0	0	0	0	0	0	0	0	0	47.21785	43.06548	47.92373	43.22379	47.6256	40.85869	GO:0030001	metal ion transport	BP
+Gene_007740	NOT DE	zinc iron permease	0	0	0	0	0	0	0	0	0	2.834245	2.630682	2.545355	2.412604	3.324583	3.890609	GO:0030001	metal ion transport	BP
+Gene_007927	NOT DE	zip family metal transporter	0	0	0	0	0	0	0	0	0	120.5699	123.5187	120.9856	157.7738	146.2866	137.9553	GO:0030001	metal ion transport	BP
+Gene_008202	NOT DE	store-operated calcium entry-associated regulatory factor-like	0	0	0	0	0	0	0	0	0	62.72056	54.17197	54.90049	55.58644	56.01211	64.13159	GO:0030001	metal ion transport	BP
+Gene_008444	NOT DE	achain crystal structure of apo-ferritin from pseudo-nitzschia multiseries	0	0	0	0	0	0	0	0	0	271.0937	248.7419	228.7205	260.2882	285.6584	248.3579	GO:0030001	metal ion transport	BP
+Gene_008452	NOT DE	nadh oxidoreductase (quinone) f subunit	0	0	0	0	0	0	0	0	0	463.9712	469.3674	485.547	534.9247	528.0271	515.9316	GO:0030001	metal ion transport	BP
+Gene_009034	NOT DE	zinc transporter	0	0	0	0	0	0	0	0	0	1.537253	2.141473	2.204318	1.714972	3.388562	3.595016	GO:0030001	metal ion transport	BP
+Gene_009175	NOT DE	transmembrane 165-like	0	0	0	0	0	0	0	0	0	69.29927	58.90507	56.74987	53.72394	56.43624	70.60345	GO:0030001	metal ion transport	BP
+Gene_009790	NOT DE	transmembrane and coiled-coil domain-containing 1	0	0	0	0	0	0	0	0	0	89.29018	85.92203	97.58198	86.9948	87.92478	77.27512	GO:0030001	metal ion transport	BP
+Gene_009801	NOT DE	cytochrome c oxidase assembly cox19	0	0	0	0	0	0	0	0	0	7.680706	8.592603	6.422253	7.11249	5.82196	6.344882	GO:0030001	metal ion transport	BP
+Gene_009926	NOT DE	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	0	0	35.88127	39.31717	38.79191	41.04408	44.82166	35.62541	GO:0030001	metal ion transport	BP
+Gene_009935	NOT DE	voltage-gated ion channel (vic) superfamily	0	0	0	0	0	0	0	0	0	14.99735	14.12866	13.84645	12.84727	11.07084	12.03403	GO:0030001	metal ion transport	BP
+Gene_010138	NOT DE	metal transporter nramp6 isoform x1	0	0	0	0	0	0	0	0	0	38.19835	35.80813	37.10709	37.38722	36.04951	37.41979	GO:0030001	metal ion transport	BP
+Gene_010139	NOT DE	metal transporter nramp6-like isoform x1	0	0	0	0	0	0	0	0	0	74.04455	74.30785	76.60959	75.11314	73.30199	77.37298	GO:0030001	metal ion transport	BP
+Gene_010415	NOT DE	nadh:ubiquinone oxidoreductase family	0	0	0	0	0	0	0	0	0	5.328454	5.623327	4.772883	3.723275	4.021648	3.051706	GO:0030001	metal ion transport	BP
+Gene_010650	NOT DE	zip family metal transporter	0	0	0	0	0	0	0	0	0	32.83127	34.60678	33.59889	29.26565	30.8068	33.31271	GO:0030001	metal ion transport	BP
+Gene_010940	NOT DE	zinc transporter	0	0	0	0	0	0	0	0	0	37.78121	35.77999	36.14588	30.7114	30.72305	33.36683	GO:0030001	metal ion transport	BP
+Gene_011116	NOT DE	cyclic nucleotide-binding	0	0	0	0	0	0	0	0	0	0.5321195	0.6691242	0.9057654	0.3830879	0.3057365	0.5016791	GO:0030001	metal ion transport	BP
+Gene_011572	NOT DE	calcium-transporting atpase plasma membrane-type-like	0	0	0	0	0	0	0	0	0	181.9275	184.8777	195.7279	190.0931	193.8678	193.6854	GO:0030001	metal ion transport	BP
+Gene_011797	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur protein 7; mitochondrial	0	0	0	0	0	0	0	0	0	77.55211	90.93209	92.66357	81.56568	78.98641	81.6279	GO:0030001	metal ion transport	BP
+Gene_012252	NOT DE	nadh dehydrogenase subunit 4 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.67745	2.320577	3.582335	1.995393	1.112284	2.30231	GO:0030001	metal ion transport	BP
+Gene_012253	NOT DE	nadh dehydrogenase subunit 7 (mitochondrion)	0	0	0	0	0	0	0	0	0	5.275585	8.099927	6.130536	6.135745	2.658147	4.619198	GO:0030001	metal ion transport	BP
+Gene_012254	NOT DE	nadh dehydrogenase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	0	0	1.2261721	0.9345262	1.2985529	0.8337367	0.8459894	0.5620469	GO:0030001	metal ion transport	BP
+Gene_012259	NOT DE	nadh dehydrogenase subunit 6 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.062343	5.947425	5.504689	3.193641	2.140273	4.552585	GO:0030001	metal ion transport	BP
+Gene_012260	NOT DE	nadh dehydrogenase subunit 5 (mitochondrion)	0	0	0	0	0	0	0	0	0	4.417779	6.778205	6.720131	4.174768	2.377952	5.676679	GO:0030001	metal ion transport	BP
+Gene_012402	NOT DE	hypothetical protein pbra 008462	0	0	0	0	0	0	0	0	0	8.551377	8.276635	8.855956	8.454941	8.475147	11.147254	GO:0030001	metal ion transport	BP
+Gene_012403	NOT DE	two pore calcium channel protein 1-like isoform x2	0	0	0	0	0	0	0	0	0	32.37729	31.46163	29.37565	31.77858	33.49645	38.12549	GO:0030001	metal ion transport	BP
+Gene_012438	NOT DE	calcium-translocating p-type atpase; serca-type	0	0	0	0	0	0	0	0	0	187.6681	164.4055	161.9495	161.9008	184.2082	192.3593	GO:0030001	metal ion transport	BP

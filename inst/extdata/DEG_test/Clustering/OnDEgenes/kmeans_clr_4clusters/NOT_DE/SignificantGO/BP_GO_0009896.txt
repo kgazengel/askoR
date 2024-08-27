@@ -1,0 +1,16 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001026	NOT DE	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0009896	positive regulation of catabolic process	BP
+Gene_001149	NOT DE	26s proteasome regulatory s6a family aaa atpase	0	0	0	0	0	0	0	0	0	355.741	416.3845	434.8826	395.2786	358.5801	342.9545	GO:0009896	positive regulation of catabolic process	BP
+Gene_001157	NOT DE	dna-directed rna polymerase ii subunit rpb7	0	0	0	0	0	0	0	0	0	93.72187	79.9533	80.65233	81.89098	93.91904	88.77211	GO:0009896	positive regulation of catabolic process	BP
+Gene_001797	NOT DE	26s protease regulatory subunit 8	0	0	0	0	0	0	0	0	0	255.712	242.4182	261.6802	265.3867	267.4193	261.4016	GO:0009896	positive regulation of catabolic process	BP
+Gene_003951	NOT DE	nitrogen permease regulator 2	0	0	0	0	0	0	0	0	0	20.60414	19.33082	18.43844	18.74962	20.92439	16.79478	GO:0009896	positive regulation of catabolic process	BP
+Gene_006103	NOT DE	mrna-decapping enzyme	0	0	0	0	0	0	0	0	0	11.58287	11.06736	12.70111	10.8845	10.75331	11.03276	GO:0009896	positive regulation of catabolic process	BP
+Gene_006104	NOT DE	hypothetical protein pbra 007277	0	0	0	0	0	0	0	0	0	18.02199	17.65959	18.90619	17.94609	18.30645	20.64375	GO:0009896	positive regulation of catabolic process	BP
+Gene_006474	NOT DE	mrna decapping complex subunit	0	0	0	0	0	0	0	0	0	33.25836	28.6842	32.05833	30.54812	31.34854	28.65395	GO:0009896	positive regulation of catabolic process	BP
+Gene_007415	NOT DE	26s protease regulatory subunit 10b	0	0	0	0	0	0	0	0	0	313.0071	310.4211	338.1811	346.0161	338.2225	332.4379	GO:0009896	positive regulation of catabolic process	BP
+Gene_009841	NOT DE	scavenger mrna-decapping enzyme	0	0	0	0	0	0	0	0	0	172.5411	154.0138	163.1696	166.1844	173.8544	176.4826	GO:0009896	positive regulation of catabolic process	BP
+Gene_009962	NOT DE	vacuolar-sorting snf8	0	0	0	0	0	0	0	0	0	54.95165	47.68748	49.14853	51.45335	52.93657	52.31403	GO:0009896	positive regulation of catabolic process	BP
+Gene_010331	NOT DE	potential mrna deadenylase and ccr4-not complex subunit not5p	0	0	0	0	0	0	0	0	0	239.2811	250.7706	253.8573	261.6066	264.6751	263.5269	GO:0009896	positive regulation of catabolic process	BP
+Gene_010851	NOT DE	26s proteasome regulatory subunit 6b homolog	0	0	0	0	0	0	0	0	0	134.4824	137.6826	139.1569	138.1588	131.3583	159.7649	GO:0009896	positive regulation of catabolic process	BP
+Gene_011423	NOT DE	probable ccr4-not transcription subunit 7	0	0	0	0	0	0	0	0	0	139.8582	126.7796	129.6855	124.1775	137.5893	145.4618	GO:0009896	positive regulation of catabolic process	BP
+Gene_012023	NOT DE	c2 domain containing protein	0	0	0	0	0	0	0	0	0	48.12328	40.77534	39.41934	41.30027	48.7375	44.63065	GO:0009896	positive regulation of catabolic process	BP

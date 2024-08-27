@@ -1,0 +1,21 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001661	2	threonine ammonia-lyase	-1	-1	0	0	0	0	0	1	1	46.92135	69.19541	79.0226	59.04064	47.95741	44.00199	GO:0016829	lyase activity	MF
+Gene_001724	2	cystathionine beta-synthase	0	-1	0	0	0	0	0	1	1	128.1557	141.3145	160.7966	120.5263	111.9863	107.5216	GO:0016829	lyase activity	MF
+Gene_002478	2	diphosphomevalonate decarboxylase	0	0	0	0	0	0	0	1	0	44.92831	49.17834	54.0554	38.03443	32.75226	45.90879	GO:0016829	lyase activity	MF
+Gene_003779	2	phospholipid-transporting atpase	0	0	0	0	0	0	0	1	0	22.35587	26.32144	25.48731	17.12683	15.77641	14.26349	GO:0016829	lyase activity	MF
+Gene_005032	2	gluconolactonase	0	0	0	0	0	0	1	1	0	130.3528	122.0671	129.0308	101.9426	103.1006	110.7356	GO:0016829	lyase activity	MF
+Gene_005037	2	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	54.89754	83.36388	86.88526	66.23546	50.20163	47.55536	GO:0016829	lyase activity	MF
+Gene_005038	2	phosphonopyruvate decarboxylase	-1	-1	0	0	0	0	0	1	1	47.41908	72.38615	81.11001	58.97083	40.37199	40.3008	GO:0016829	lyase activity	MF
+Gene_005219	2	tyrosine biosynthesis bifunctional enzyme	0	0	0	0	0	0	0	1	0	18.58509	24.5139	22.39317	20.77323	17.50211	14.30512	GO:0016829	lyase activity	MF
+Gene_005591	2	gdp-l-fucose synthase 2	0	0	0	0	0	0	0	1	0	14.25853	16.34101	17.3864	11.78294	11.35206	11.62395	GO:0016829	lyase activity	MF
+Gene_005615	2	phosphatidylserine decarboxylase subunit beta	-1	-1	0	0	0	0	-1	1	0	22.96513	41.43728	41.12095	36.3205	26.80193	28.51657	GO:0016829	lyase activity	MF
+Gene_005930	2	carbonic anhydrase	-1	-1	0	0	0	0	0	1	1	0.3941098	1.5550452	1.1359782	0.9409148	0.4854474	0.2477168	GO:0016829	lyase activity	MF
+Gene_006066	2	gamma-glutamylcyclotransferase	0	0	0	0	0	0	0	1	0	2.322692	3.461719	3.834127	1.898187	1.263174	1.908875	GO:0016829	lyase activity	MF
+Gene_006085	2	s-adenosylmethionine decarboxylase	0	0	0	0	0	0	0	0	1	261.3762	283.3172	285.8682	222.5836	235.5776	199.1455	GO:0016829	lyase activity	MF
+Gene_006156	2	nad-dependent epimerase dehydratase family	0	0	0	0	0	0	0	1	0	80.46965	94.08497	98.49551	85.71525	69.33669	79.37761	GO:0016829	lyase activity	MF
+Gene_006968	2	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0016829	lyase activity	MF
+Gene_007091	2	alginate lyase	-1	0	0	0	0	0	0	0	1	1.3649339	2.7105368	2.2689032	1.9345459	1.647635	0.7733342	GO:0016829	lyase activity	MF
+Gene_008894	2	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0016829	lyase activity	MF
+Gene_008911	2	hypothetical protein pbra 002159	0	-1	0	0	0	0	0	1	0	377.3897	436.877	506.1007	420.1583	343.361	402.1235	GO:0016829	lyase activity	MF
+Gene_010166	2	pyridoxal-dependent decarboxylase domain-containing 2 isoform x1	0	0	0	0	0	0	0	1	0	5.356981	11.453448	13.17452	6.43437	4.402191	6.652967	GO:0016829	lyase activity	MF
+Gene_011037	2	dna topoisomerase iii	0	0	0	0	0	0	0	0	1	6.59557	6.091871	6.840709	5.509681	4.558001	3.032969	GO:0016829	lyase activity	MF

@@ -1,0 +1,5 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000264	3	protease [ruegeria marisrubri]	1	0	0	0	0	0	0	-1	-1	98.15663	80.7928	82.92428	97.59383	109.5572	115.32152	GO:0004222	metalloendopeptidase activity	MF
+Gene_000620	3	atp-dependent metalloprotease	0	0	0	0	0	0	0	-1	0	227.8736	197.4454	204.3173	215.9885	242.5252	243.899	GO:0004222	metalloendopeptidase activity	MF
+Gene_000866	3	peptidase m48	0	0	0	0	0	0	0	0	0	98.07083	106.67225	103.2782	113.52779	103.20014	103.76625	GO:0004222	metalloendopeptidase activity	MF
+Gene_000908	3	peptidase m48	0	0	0	0	0	0	0	0	0	182.4212	178.73	185.5163	191.2092	206.5884	204.92	GO:0004222	metalloendopeptidase activity	MF

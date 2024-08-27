@@ -1,0 +1,43 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000023	1	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0005654	nucleoplasm	CC
+Gene_000064	1	u2 small nuclear ribonucleo a	1	1	0	0	0	0	0	-1	0	221.6359	178.3827	177.9014	207.1945	234.6221	201.8829	GO:0005654	nucleoplasm	CC
+Gene_000146	1	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0005654	nucleoplasm	CC
+Gene_000147	1	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0005654	nucleoplasm	CC
+Gene_000275	1	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0005654	nucleoplasm	CC
+Gene_000405	1	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0005654	nucleoplasm	CC
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0005654	nucleoplasm	CC
+Gene_000652	1	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0005654	nucleoplasm	CC
+Gene_000667	1	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0005654	nucleoplasm	CC
+Gene_000956	1	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0005654	nucleoplasm	CC
+Gene_001218	1	transcription initiation factor tfiid subunit 6	0	0	0	0	0	0	0	-1	-1	112.3657	99.85747	102.92083	121.81289	138.10905	134.01684	GO:0005654	nucleoplasm	CC
+Gene_001597	1	transcription elongation factor 1 homolog	0	0	0	0	0	0	1	0	0	73.30874	60.6585	61.29549	55.22189	62.04159	55.31577	GO:0005654	nucleoplasm	CC
+Gene_001644	1	transcription factor iih subunit	0	0	0	0	0	0	0	-1	0	183.104	159.8485	161.6677	175.0591	197.5917	183.0023	GO:0005654	nucleoplasm	CC
+Gene_002009	1	histone deacetylase 1 2	0	0	0	0	0	0	0	-1	0	177.5155	154.9951	163.1158	179.7468	190.0792	180.4939	GO:0005654	nucleoplasm	CC
+Gene_002598	1	diphthamide biosynthesis 1	0	1	0	0	0	0	0	-1	-1	62.68551	53.82108	50.88182	57.31366	68.47958	71.13843	GO:0005654	nucleoplasm	CC
+Gene_002615	1	transcription initiation factor tfiid subunit 7	0	0	0	0	0	0	0	0	-1	47.55221	46.04772	41.07404	49.5717	49.71149	54.3936	GO:0005654	nucleoplasm	CC
+Gene_002637	1	flap endonuclease 1	1	0	0	0	0	0	0	-1	-1	242.0454	199.6241	207.2958	248.0261	279.3684	268.55	GO:0005654	nucleoplasm	CC
+Gene_002804	1	transcription initiation factor iia subunit 2-like	0	0	0	0	0	0	0	-1	0	49.18007	45.09531	41.91706	48.4599	56.74698	48.98546	GO:0005654	nucleoplasm	CC
+Gene_003332	1	dna-directed rna polymerase and iii subunit rpabc5	0	0	0	0	0	0	0	-1	0	74.10611	68.56534	62.80022	80.5234	86.51273	64.17322	GO:0005654	nucleoplasm	CC
+Gene_003595	1	wd40 repeat	1	1	0	0	0	0	1	0	0	81.24134	57.65962	53.73806	59.41173	60.79733	66.83146	GO:0005654	nucleoplasm	CC
+Gene_003801	1	wd repeat-containing 5	0	0	0	0	0	0	1	0	0	142.5597	123.3269	120.1218	115.1901	134.0726	122.345	GO:0005654	nucleoplasm	CC
+Gene_004764	1	partner of isoform b	0	0	0	0	0	0	0	-1	0	228.5211	218.5627	214.907	238.6667	254.3373	229.3899	GO:0005654	nucleoplasm	CC
+Gene_005288	1	transcription initiation factor beta subunit	0	0	0	0	0	0	0	-1	0	30.91938	30.57374	28.55101	34.96865	40.16186	33.7665	GO:0005654	nucleoplasm	CC
+Gene_005547	1	rna polymerase-associated ctr9 homolog	0	0	0	0	0	0	0	-1	0	524.0732	474.6751	474.5205	526.1708	585.7911	550.0498	GO:0005654	nucleoplasm	CC
+Gene_005787	1	dna-directed rna polymerases and iii subunit rpabc2-like	1	0	0	0	0	0	0	0	0	29.10934	22.44219	22.53129	25.74185	25.23763	24.59891	GO:0005654	nucleoplasm	CC
+Gene_005970	1	transcription initiation factor tfiid subunit 2	0	0	0	0	0	0	0	-1	-1	225.6488	201.9497	213.5253	264.256	298.7499	285.149	GO:0005654	nucleoplasm	CC
+Gene_006134	1	cyclin-dependent kinase 7	0	0	0	0	0	0	0	-1	-1	84.6501	72.88239	71.43124	83.36767	97.29587	98.20201	GO:0005654	nucleoplasm	CC
+Gene_006292	1	cyclin-h isoform x1	1	0	0	0	0	0	0	-1	0	69.95889	55.94955	60.56695	59.45888	71.33524	67.69329	GO:0005654	nucleoplasm	CC
+Gene_007673	1	thioredoxin 4a isoform x1	0	0	0	0	0	0	0	-1	-1	180.3136	162.2709	155.0364	209.3976	220.0971	200.0843	GO:0005654	nucleoplasm	CC
+Gene_008034	1	transcription-associated 1	0	0	0	0	0	0	0	-1	-1	267.8758	240.084	258.1006	298.3209	329.0911	330.0753	GO:0005654	nucleoplasm	CC
+Gene_008035	1	transformation transcription domain-associated-like	0	0	0	0	0	0	0	-1	0	245.5382	234.5065	237.0474	267.6305	301.8603	277.5135	GO:0005654	nucleoplasm	CC
+Gene_008712	1	transcription and mrna export factor	0	0	0	0	0	0	0	-1	0	35.26391	32.44958	33.33776	39.15133	40.68772	33.4709	GO:0005654	nucleoplasm	CC
+Gene_008772	1	type a von willebrand factor domain-containing	0	0	0	-1	0	0	1	-1	0	172.2749	154.2255	159.2469	147.9711	176.4825	160.1416	GO:0005654	nucleoplasm	CC
+Gene_008801	1	h aca ribonucleo complex subunit 3	0	0	0	0	0	0	0	-1	0	30.49843	23.01511	23.33071	31.42257	33.56238	24.60828	GO:0005654	nucleoplasm	CC
+Gene_010612	1	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0005654	nucleoplasm	CC
+Gene_010640	1	hypothetical protein pbra 006514	0	0	0	0	0	0	0	-1	0	102.62174	89.55321	93.08285	98.15503	110.06261	109.0599	GO:0005654	nucleoplasm	CC
+Gene_010688	1	conserved hypothetical atp binding	0	0	0	0	0	0	0	-1	-1	158.5152	139.4255	131.9538	151.9695	183.4181	172.3484	GO:0005654	nucleoplasm	CC
+Gene_011137	1	hypothetical protein pbra 000602	0	0	0	0	0	0	0	-1	-1	100.79989	90.72572	95.50926	104.76102	121.6355	124.45373	GO:0005654	nucleoplasm	CC
+Gene_011415	1	rna polymerase ii core subunit	1	1	0	0	0	0	1	0	0	150.9421	125.9959	121.5831	123.9831	134.3007	136.3296	GO:0005654	nucleoplasm	CC
+Gene_011772	1	dna-directed rna polymerase ii subunit 1	0	0	0	0	0	0	0	-1	-1	454.5259	421.2851	394.8477	562.596	654.8167	627.4208	GO:0005654	nucleoplasm	CC
+Gene_011988	1	cdk-activating kinase assembly factor	1	1	0	0	0	0	0	0	0	65.96724	55.14676	52.67663	58.12117	65.25109	65.48049	GO:0005654	nucleoplasm	CC
+Gene_012461	1	ribosome biogenesis protein bop1 homolog	0	1	0	0	0	0	0	0	-1	138.3472	112.6101	104.4678	110.8673	118.5112	140.4325	GO:0005654	nucleoplasm	CC

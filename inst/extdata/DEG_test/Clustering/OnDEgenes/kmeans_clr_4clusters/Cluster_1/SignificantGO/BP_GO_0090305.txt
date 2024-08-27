@@ -1,0 +1,52 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000103	1	rna helicase	0	0	0	0	0	0	0	-1	-1	437.5212	363.6226	359.5996	497.3491	596	567.6648	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000420	1	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000513	1	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000625	1	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000672	1	rna polymerase ii-associated 3	0	0	0	0	0	0	0	-1	-1	43.46364	37.36991	36.53584	51.19642	55.44022	54.94107	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000914	1	pentatricopeptide repeat-containing mitochondrial	0	0	0	0	0	0	0	-1	-1	295.8397	257.785	263.5218	291.6123	335.8465	327.4857	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_000991	1	hypothetical protein pbra 005258	-1	0	0	0	0	0	-1	0	0	3.83032	7.05539	6.563248	8.119058	9.198616	10.318754	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_001069	1	3-5 exonuclease	0	0	0	0	0	0	0	-1	-1	83.59128	69.77786	67.68346	71.92068	87.46543	88.28708	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_001629	1	5-3 exonuclease	0	0	0	0	0	0	0	-1	0	138.0433	136.3115	137.769	160.9935	175.3278	170.4166	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_001630	1	exonuclease ii exo2	0	0	0	0	0	0	0	-1	-1	38.93035	36.15614	37.51088	45.1913	47.31968	50.36143	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_001875	1	hypothetical protein pbra 003430; partial	0	0	0	-1	0	0	0	-1	-1	11.271712	7.792884	8.240008	10.78279	21.764282	21.173007	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_001910	1	probable atp-dependent rna helicase ddx49	1	1	0	-1	0	0	0	-1	-1	136.4825	108.2736	104.1742	115.8163	145.9625	145.1016	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_002241	1	hypothetical protein pbra 003430; partial	0	0	0	-1	0	0	0	-1	-1	11.250435	7.724508	8.240008	10.718211	21.552144	21.112639	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_002606	1	wd40 repeat	1	1	0	0	0	0	0	0	-1	142.0081	111.3062	101.5826	122.7942	132.8918	152.0793	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_002637	1	flap endonuclease 1	1	0	0	0	0	0	0	-1	-1	242.0454	199.6241	207.2958	248.0261	279.3684	268.55	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_003493	1	exosome complex exonuclease rrp44	1	1	0	0	0	0	0	-1	-1	179.3742	142.2584	134.7472	170.4489	181.1019	195.5547	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_004670	1	ribonuclease 3	1	0	0	0	0	0	0	-1	0	127.1319	102.1603	104.7429	111.0499	130.5249	127.1848	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_004813	1	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_005259	1	wd40-repeat-containing domain	1	1	0	0	0	0	0	-1	-1	221.1583	184.6502	164.0341	224.0686	244.3337	244.7961	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_005398	1	hypothetical protein pbra 006266; partial	1	0	0	0	0	0	0	-1	0	3.008841	1.802543	1.718735	2.168231	3.177139	3.359019	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_005472	1	ccr4 nocturin family endoribonuclease	0	0	0	0	0	0	0	-1	0	57.37938	52.22085	52.2146	56.50702	61.63814	57.17677	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_005528	1	dis3-like exonuclease 1 isoform x2	0	0	0	0	0	0	-1	-1	0	94.084	89.91906	97.58314	121.7843	125.83008	118.3753	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_005690	1	php domain	0	0	0	0	0	0	0	-1	-1	44.0516	37.91218	35.76002	41.74524	47.12627	48.25065	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006013	1	dna repair endonuclease	0	0	0	0	0	0	0	-1	0	84.09544	75.08051	78.84483	88.44689	90.83759	93.17896	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006353	1	trna-splicing endonuclease positive effector	0	0	0	0	0	0	0	-1	0	212.7327	188.9759	197.3783	215.0775	223.9977	218.1656	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006357	1	trna-splicing endonuclease subunit sen34-like isoform x2	0	0	0	0	0	0	0	0	-1	32.10494	28.98369	24.8949	30.1546	34.67576	37.05134	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006377	1	dna repair uvh3	0	0	0	0	0	0	0	-1	-1	55.34853	57.09913	54.49999	66.81335	72.36823	69.92064	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006378	1	dna repair uvh3 isoform x2	0	0	0	0	0	0	-1	0	0	36.47961	38.80589	38.32375	49.05929	46.9308	47.17859	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_006563	1	dna polymerase epsilon catalytic subunit a [wallemia mellicola cbs ]	0	0	0	0	0	0	0	-1	0	437.7034	394.7959	439.4554	445.3714	503.7481	471.2967	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_007109	1	pre-rrna-processing esf2-like	1	0	0	0	0	0	0	-1	0	125.07258	97.30442	98.65725	107.89145	133.71666	116.05632	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_007327	1	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_007722	1	dna polymerase	1	0	0	0	0	0	0	0	0	164.3992	131.8496	132.7385	140.3457	161.1728	164.1987	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_007945	1	ribosomal rna processing 36 homolog	0	0	0	0	0	0	0	-1	0	98.80333	88.43625	81.65875	91.54743	108.60444	91.41787	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_008012	1	40s ribosomal s21	0	0	0	0	0	0	1	0	0	469.3639	376.3024	341.035	311.9815	337.4141	372.4246	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_008129	1	hypothetical protein pbra 003430; partial	0	0	0	-1	0	0	0	-1	-1	11.250435	7.724508	8.240008	10.718211	21.552144	21.112639	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_008154	1	hypothetical protein pbra 003430; partial	0	0	0	-1	0	0	0	-1	-1	11.250435	7.724508	8.240008	10.718211	21.552144	21.112639	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_008374	1	ribonuclease iii	0	0	0	0	0	0	0	0	-1	112.54078	95.66564	83.6971	95.65298	110.24169	119.85746	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_009142	1	crossover junction endonuclease mus81	0	0	0	0	0	0	0	-1	0	124.6836	112.584	107.789	114.7901	135.7428	124.2664	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_009376	1	dna polymerase	0	0	0	0	0	0	0	-1	0	365.7402	299.5355	320.266	333.0067	378.5278	379.0295	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_009377	1	hypothetical protein pbra 006300	0	0	0	0	0	0	0	-1	0	55.55781	48.93409	48.64854	50.25666	59.88222	60.09109	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_009473	1	hypothetical protein pbra 005952	1	1	0	0	0	0	0	-1	-1	166.2055	129.9931	120.5305	140.3094	160.1589	156.6673	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_010488	1	xrn family 5-3 exonuclease	1	1	0	0	0	0	0	0	-1	67.66874	53.33873	50.24047	59.1532	59.83373	64.02957	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_011135	1	hypothetical protein pbra 003626	0	0	0	0	0	0	0	-1	0	1.2468733	1.2656266	1.2582132	1.6217637	2.4054188	0.9055171	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_011277	1	pelota homolog isoform x1	1	1	0	0	0	0	0	-1	-1	127.12397	100.93936	96.96826	113.38822	132.48905	138.38623	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_011634	1	zinc cchc-type	0	0	0	0	0	0	0	-1	-1	318.1788	303.4983	293.3615	383.585	417.5555	390.6951	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_011879	1	dna apurinic or apyrimidinic site lyase	0	0	0	0	0	0	0	0	-1	101.57437	93.46788	86.58525	97.11299	104.7381	106.55775	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_012445	1	endoribonuclease/protein kinase [micromonas commoda]	0	0	0	0	0	0	0	-1	0	132.5017	115.2784	119.4698	126.4005	147.6637	140.6615	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_012464	1	trna-splicing endonuclease subunit sen2-1-like isoform x1	0	0	0	0	0	0	0	-1	-1	37.50331	33.93478	32.1883	38.02402	43.07859	44.31007	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_012531	1	werner syndrome atp-dependent helicase	0	0	0	0	0	0	0	-1	0	27.54934	20.63738	20.6611	37.65259	38.66194	28.0565	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_012614	1	putative rpc11-dna-directed rna polymerase iii subunit c11	1	1	0	0	0	0	0	-1	0	64.77952	52.26174	48.03007	61.8921	77.11088	59.28339	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP
+Gene_012616	1	hypothetical protein pbra 008792	0	0	0	0	0	0	0	-1	0	96.37095	83.74908	80.53783	89.5103	108.42311	98.08333	GO:0090305	nucleic acid phosphodiester bond hydrolysis	BP

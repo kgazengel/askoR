@@ -1,0 +1,19 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0018205	peptidyl-lysine modification	BP
+Gene_000956	1	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0018205	peptidyl-lysine modification	BP
+Gene_001845	1	transcriptional adapter 2b isoform x1	0	0	0	0	0	0	0	-1	0	175.3517	161.0355	166.4088	170.3526	198.1584	172.6856	GO:0018205	peptidyl-lysine modification	BP
+Gene_001850	1	small ubiquitin-related modifier 1	1	0	0	0	0	0	0	-1	0	177.3545	143.3511	154.6159	152.9892	180.6015	167.5793	GO:0018205	peptidyl-lysine modification	BP
+Gene_002892	1	deoxyhypusine hydroxylase	1	1	0	0	0	0	0	-1	-1	92.31066	69.12971	64.42553	75.46401	87.94881	84.01553	GO:0018205	peptidyl-lysine modification	BP
+Gene_003650	1	transcription elongation factor spt5-like	0	0	0	0	0	0	0	-1	-1	130.96	122.4427	114.8096	151.5119	173.4492	167.8217	GO:0018205	peptidyl-lysine modification	BP
+Gene_003801	1	wd repeat-containing 5	0	0	0	0	0	0	1	0	0	142.5597	123.3269	120.1218	115.1901	134.0726	122.345	GO:0018205	peptidyl-lysine modification	BP
+Gene_005990	1	inhibitor of growth 4 isoform x7	0	0	0	0	0	0	0	-1	0	78.43311	70.93687	71.44962	84.92026	93.20918	87.16923	GO:0018205	peptidyl-lysine modification	BP
+Gene_005995	1	transcriptional adapter ada2b-like isoform x1	0	0	0	0	0	0	0	-1	0	136.1116	131.4831	135.5871	140.5704	159.2984	133.3819	GO:0018205	peptidyl-lysine modification	BP
+Gene_007093	1	hypothetical protein pbra 004527	1	0	0	0	0	0	0	-1	-1	123.3023	103.1041	104.5522	118.9576	137.6591	136.7375	GO:0018205	peptidyl-lysine modification	BP
+Gene_007094	1	sumo ligase	0	0	0	0	0	0	0	-1	-1	107.24025	90.39486	91.43393	108.91149	126.3776	118.31075	GO:0018205	peptidyl-lysine modification	BP
+Gene_008034	1	transcription-associated 1	0	0	0	0	0	0	0	-1	-1	267.8758	240.084	258.1006	298.3209	329.0911	330.0753	GO:0018205	peptidyl-lysine modification	BP
+Gene_008035	1	transformation transcription domain-associated-like	0	0	0	0	0	0	0	-1	0	245.5382	234.5065	237.0474	267.6305	301.8603	277.5135	GO:0018205	peptidyl-lysine modification	BP
+Gene_010612	1	dna methyltransferase 1-associated 1	0	0	0	0	0	0	-1	-1	-1	128.3117	126.2175	123.249	157.5008	171.5471	161.2719	GO:0018205	peptidyl-lysine modification	BP
+Gene_011720	1	set domain-containing protein	1	0	0	0	0	0	0	-1	0	98.21107	81.69361	86.20302	90.55298	94.90001	98.55589	GO:0018205	peptidyl-lysine modification	BP
+Gene_012458	1	sumo activating enzyme 2	0	1	0	0	0	0	0	-1	-1	69.15747	59.29143	55.24967	67.77219	74.26933	82.80401	GO:0018205	peptidyl-lysine modification	BP
+Gene_012459	1	sumo-activating enzyme subunit 2	0	0	0	0	0	0	0	0	-1	63.18828	57.1263	54.87601	62.11635	68.41988	77.49373	GO:0018205	peptidyl-lysine modification	BP
+Gene_012568	1	histone-lysine n-methyltransferase nsd2-like isoform x1	0	0	0	0	0	0	0	-1	0	127.2553	116.4447	112.9083	127.3031	134.0007	131.7707	GO:0018205	peptidyl-lysine modification	BP

@@ -1,0 +1,7 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_004826	3	h+-transporting atpase	-1	-1	0	0	0	0	0	1	1	46.88592	121.4086	110.6674	74.03236	46.73858	33.86225	GO:0022853	active ion transmembrane transporter activity	MF
+Gene_009656	3	potassium transporter	-1	-1	0	1	0	0	0	1	1	11.702783	34.053824	39.58	23.43603	7.206425	10.807942	GO:0022853	active ion transmembrane transporter activity	MF
+Gene_012217	3	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:0022853	active ion transmembrane transporter activity	MF
+Gene_012221	3	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0022853	active ion transmembrane transporter activity	MF
+Gene_012222	3	cytochrome c oxidase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	1	0	4.584116	9.1937	6.160266	3.111469	1.038686	2.593745	GO:0022853	active ion transmembrane transporter activity	MF
+Gene_012224	3	cytochrome c oxidase subunit 3 (mitochondrion)	0	0	0	0	0	0	0	1	0	3.152285	6.195363	4.728895	2.122332	1.105398	2.5875	GO:0022853	active ion transmembrane transporter activity	MF

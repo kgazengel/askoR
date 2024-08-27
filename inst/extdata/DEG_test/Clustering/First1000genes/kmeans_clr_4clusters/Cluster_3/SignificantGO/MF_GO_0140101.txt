@@ -1,0 +1,10 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000165	3	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000458	3	thioredoxin domain-containing plp3b	0	0	0	0	0	0	0	0	0	65.66748	62.03023	65.55946	65.75327	58.95929	67.89937	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000513	3	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000560	3	isoleucine-trna ligase	0	0	0	0	0	0	0	0	-1	201.9037	171.7386	174.0932	196.3182	207.2894	237.8705	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000607	3	trna-splicing endonuclease subunit sen15-like	0	0	0	0	0	0	0	0	0	33.4954	31.88313	30.69747	31.04443	34.04298	28.18975	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000649	3	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000665	3	alanine-trna ligase	0	0	0	0	0	0	0	0	0	146.8533	131.8308	139.8457	129.2478	128.384	136.9041	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_000759	3	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0140101	catalytic activity, acting on a tRNA	MF
+Gene_001023	3	histidine-trna ligase	0	0	0	0	0	0	0	0	0	106.08617	95.38804	98.19395	96.00052	96.69126	106.83463	GO:0140101	catalytic activity, acting on a tRNA	MF

@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_003939	2	regulator of g-signaling 20-like isoform x4	0	0	0	0	0	0	0	1	0	0.7477372	0.8942833	1.478645	0.5044082	0.1740821	0.6765369	GO:0007267	cell-cell signaling	BP
+Gene_005373	2	ankyrin repeat and sterile alpha motif domain-containing 1b-like	0	-1	0	0	0	0	0	0	0	4.317303	5.855986	7.060339	5.517904	4.313101	4.621269	GO:0007267	cell-cell signaling	BP
+Gene_011792	2	hypothetical protein pbra 007956	0	0	0	0	0	0	0	1	0	13.445738	15.473474	14.728179	11.211955	9.348152	9.873285	GO:0007267	cell-cell signaling	BP
+Gene_011793	2	nephrocystin-4 isoform x1	0	0	0	0	0	0	0	1	0	13.15764	18.225026	16.26424	10.468478	9.070383	9.213397	GO:0007267	cell-cell signaling	BP
+Gene_011817	2	no-inducible flavohemoprotein	-1	0	0	0	0	0	0	1	1	0.61121374	1.44839603	1.07323056	0.25942376	0.10420747	0.06036781	GO:0007267	cell-cell signaling	BP

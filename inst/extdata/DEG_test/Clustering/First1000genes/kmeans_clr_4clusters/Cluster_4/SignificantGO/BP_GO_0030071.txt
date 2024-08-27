@@ -1,0 +1,3 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000015	4	anaphase-promoting complex subunit 4	0	0	0	0	0	0	0	0	0	18.90304	17.55074	20.59786	12.38977	14.62201	16.95507	GO:0030071	regulation of mitotic metaphase/anaphase transition	BP
+Gene_000501	4	hypothetical protein pbra 001581	0	0	0	0	0	0	0	0	0	19.35593	19.45407	18.26645	15.88096	17.37089	18.07083	GO:0030071	regulation of mitotic metaphase/anaphase transition	BP

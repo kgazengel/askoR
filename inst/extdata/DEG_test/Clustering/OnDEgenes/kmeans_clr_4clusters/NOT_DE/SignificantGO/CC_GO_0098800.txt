@@ -1,0 +1,18 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001066	NOT DE	hypothetical protein pbra 002610	0	0	0	0	0	0	0	0	0	102.83621	110.55323	111.16841	104.40279	94.95848	100.57923	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_001281	NOT DE	hypothetical protein pbra 002801	0	0	0	0	0	0	0	0	0	149.4756	151.6337	159.2218	155.8405	148.2208	142.6828	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_002153	NOT DE	atp synthase subunit mitochondrial-like isoform x2	0	0	0	0	0	0	0	0	0	53.67363	50.41667	48.81151	46.59785	49.09584	46.32096	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_002178	NOT DE	hypothetical protein pbra 003467	0	0	0	0	0	0	0	0	0	178.023	182.6567	192.3912	167.4489	163.9318	164.3986	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_003266	NOT DE	mitochondrial translocase (mpt) family	0	0	0	0	0	0	0	0	0	69.20762	60.48434	60.91984	65.78966	73.96807	62.89509	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_005400	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur mitochondrial	0	0	0	0	0	0	0	0	0	435.8837	431.6605	451.7236	420.724	424.0572	428.3086	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_005882	NOT DE	mitochondrial inner membrane protease subunit 1-like	0	0	0	0	0	0	0	0	0	22.14671	18.3588	20.36444	20.16419	21.34498	21.25368	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_006476	NOT DE	atp synthase f0 subunit b (mitochondrion)	0	0	0	0	0	0	0	0	0	277.2212	273.0391	281.9538	235.8411	229.1691	267.53	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_006974	NOT DE	cytochrome b-c1 complex subunit 6	0	0	0	0	0	0	0	0	0	95.12359	82.7165	88.90407	91.57484	97.48117	77.44793	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_007111	NOT DE	cytochrome b-c1 complex subunit 7-2-like	0	0	0	0	0	0	0	0	0	107.55117	101.05851	104.63323	96.19829	91.57269	85.94317	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_008452	NOT DE	nadh oxidoreductase (quinone) f subunit	0	0	0	0	0	0	0	0	0	463.9712	469.3674	485.547	534.9247	528.0271	515.9316	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_009978	NOT DE	inosine-5-monophosphate dehydrogenase	0	0	0	0	0	0	0	0	0	151.6769	133.1425	135.6563	144.4237	146.5993	158.8593	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_010108	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur mitochondrial-like	0	0	0	0	0	0	0	0	0	32.05187	31.26059	31.31268	33.24183	32.72429	29.45749	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_011479	NOT DE	succinate dehydrogenase [ubiquinone] flavo mitochondrial	0	0	0	0	0	0	0	0	0	445.6256	405.7792	449.2857	428.482	455.5198	470.2497	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_011797	NOT DE	nadh dehydrogenase [ubiquinone] iron-sulfur protein 7; mitochondrial	0	0	0	0	0	0	0	0	0	77.55211	90.93209	92.66357	81.56568	78.98641	81.6279	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_011939	NOT DE	mitochondrial import inner membrane translocase subunit tim9	0	0	0	0	0	0	0	0	0	52.05948	45.14506	42.13254	44.16266	50.85264	47.48044	GO:0098800	inner mitochondrial membrane protein complex	CC
+Gene_012547	NOT DE	cytochrome b-c1 complex subunit 9-like	0	0	0	0	0	0	0	0	0	81.11747	91.47254	87.89721	90.14739	88.44786	81.75069	GO:0098800	inner mitochondrial membrane protein complex	CC

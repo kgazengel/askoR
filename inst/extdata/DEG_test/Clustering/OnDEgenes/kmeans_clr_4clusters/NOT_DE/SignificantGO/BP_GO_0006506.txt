@@ -1,0 +1,13 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_001560	NOT DE	hypothetical protein pbra 005314	0	0	0	0	0	0	0	0	0	40.89158	41.24635	43.35823	38.12962	37.33968	38.9519	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_002959	NOT DE	gpi mannosyltransferase 1-like	0	0	0	0	0	0	0	0	0	100.64972	84.13909	94.24616	88.35686	98.116	97.66493	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_003047	NOT DE	hypothetical protein [sphingomonas spermidinifaciens]	0	0	0	0	0	0	0	0	0	2.2410781	2.4643736	2.7168821	1.4046418	0.9478195	1.0574804	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_003360	NOT DE	c transferase	0	0	0	0	0	0	0	0	0	71.87488	66.38342	70.05817	63.6889	70.97359	69.35861	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_004871	NOT DE	gpi transamidase	0	0	0	0	0	0	0	0	0	184.378	183.8396	205.5328	201.958	193.8412	193.7561	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_008068	NOT DE	gpi transamidase subunit pig-u	0	0	0	0	0	0	0	0	0	116.9669	116.3347	132.4856	123.4288	110.7875	117.3719	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_008868	NOT DE	phosphatidylinositol n-acetylglucosaminyltransferase subunit c	0	0	0	0	0	0	0	0	0	64.30192	64.71102	66.42044	60.82113	63.50763	59.11896	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_009786	NOT DE	gpi-anchored wall transfer 1	0	0	0	0	0	0	0	0	0	105.1902	100.4427	102.2705	102.1644	108.4674	109.3742	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_010546	NOT DE	gpi16 gpi transamidase component	0	0	0	0	0	0	0	0	0	194.5867	196.5531	218.7823	222.1598	213.8495	211.9935	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_012059	NOT DE	gpi8p	0	0	0	0	0	0	0	0	0	201.1477	188.3203	191.2329	171.4739	197.0356	185.7709	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_012657	NOT DE	gpi mannosyltransferase 2	0	0	0	0	0	0	0	0	0	41.63883	44.70111	47.96241	45.95312	42.07747	43.52947	GO:0006506	GPI anchor biosynthetic process	BP
+Gene_012807	NOT DE	hypothetical protein pbra 009678	0	0	0	0	0	0	0	0	0	4.633908	6.270074	6.648792	3.998294	4.048221	5.195806	GO:0006506	GPI anchor biosynthetic process	BP

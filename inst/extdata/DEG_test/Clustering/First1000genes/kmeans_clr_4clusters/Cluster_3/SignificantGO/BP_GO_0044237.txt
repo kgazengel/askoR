@@ -1,0 +1,165 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000002	3	hypothetical protein pbra 009324	0	0	0	0	0	0	0	0	0	2.642152	2.578741	2.521854	2.595905	2.81116	2.257406	GO:0044237	cellular metabolic process	BP
+Gene_000011	3	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0044237	cellular metabolic process	BP
+Gene_000020	3	leukotriene a-4 hydrolase-like	0	0	0	0	0	0	0	0	0	429.9051	389.0482	417.3908	407.7202	434.0308	403.7928	GO:0044237	cellular metabolic process	BP
+Gene_000023	3	hypothetical protein pbra 009033	0	0	0	0	0	0	0	-1	-1	131.6351	118.9873	116.4087	130.4841	147.8318	140.2056	GO:0044237	cellular metabolic process	BP
+Gene_000025	3	pentatricopeptide repeat-containing at5g43820	0	0	0	0	0	0	0	-1	-1	150.8237	127.8593	128.7866	151.0153	161.7357	177.7961	GO:0044237	cellular metabolic process	BP
+Gene_000040	3	dual specificity catalytic domain containing	0	0	0	0	0	0	0	0	0	1.883831	1.48098	1.052039	1.188411	1.76697	1.552914	GO:0044237	cellular metabolic process	BP
+Gene_000075	3	long chain polyunsaturated fatty acid elongation enzyme	0	0	0	0	0	0	1	0	0	41.57221	34.67887	35.85863	32.52405	37.4583	36.73494	GO:0044237	cellular metabolic process	BP
+Gene_000076	3	serine threonine kinase	1	1	0	0	0	0	0	-1	-1	128.98429	100.79848	98.53502	120.74153	132.10107	128.83352	GO:0044237	cellular metabolic process	BP
+Gene_000083	3	pas domain s-box	0	0	0	0	0	0	0	0	0	41.95887	42.61913	43.6964	38.97546	40.72938	39.1767	GO:0044237	cellular metabolic process	BP
+Gene_000084	3	delta-6 elongase	1	1	0	0	0	0	1	-1	0	1268.0681	896.4152	953.3108	970.6551	1106.7559	1200.3708	GO:0044237	cellular metabolic process	BP
+Gene_000086	3	translation initiation factor eif-2b subunit alpha	0	0	0	0	0	0	0	0	0	108.64732	99.3285	99.47949	98.7256	112.87061	104.43863	GO:0044237	cellular metabolic process	BP
+Gene_000087	3	structural maintenance of chromosomes 6-like	0	0	0	0	0	0	0	-1	-1	509.1067	437.0651	449.9503	524.1797	590.4527	570.9495	GO:0044237	cellular metabolic process	BP
+Gene_000092	3	n-glycosylase dna lyase	0	0	0	0	0	0	0	0	0	67.45921	60.84416	62.74438	61.65406	69.30226	67.33731	GO:0044237	cellular metabolic process	BP
+Gene_000094	3	flavidoxin family	0	0	0	0	0	0	0	0	0	56.66772	54.86094	53.02256	54.67622	57.81919	48.92094	GO:0044237	cellular metabolic process	BP
+Gene_000095	3	s-adenosyl-l-methionine-dependent trna 4-demethylwyosine synthase	0	0	0	0	0	0	0	-1	0	97.72597	92.02689	94.49104	98.33816	109.60407	107.72553	GO:0044237	cellular metabolic process	BP
+Gene_000103	3	rna helicase	0	0	0	0	0	0	0	-1	-1	437.5212	363.6226	359.5996	497.3491	596	567.6648	GO:0044237	cellular metabolic process	BP
+Gene_000106	3	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0044237	cellular metabolic process	BP
+Gene_000128	3	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0044237	cellular metabolic process	BP
+Gene_000134	3	calcium calmodulin-dependent kinase kinase 1-like isoform x2	0	0	0	0	0	0	0	0	0	42.03007	36.95322	37.18573	37.40646	39.60912	36.02509	GO:0044237	cellular metabolic process	BP
+Gene_000146	3	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0044237	cellular metabolic process	BP
+Gene_000147	3	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0044237	cellular metabolic process	BP
+Gene_000154	3	septum formation maf	0	0	0	0	0	0	0	0	0	38.64592	36.41357	39.16188	35.66083	39.03995	35.05504	GO:0044237	cellular metabolic process	BP
+Gene_000157	3	60s ribosomal l35	1	0	0	0	0	0	1	0	0	772.3937	588.6132	607.5638	587.0757	689.9211	638.1247	GO:0044237	cellular metabolic process	BP
+Gene_000159	3	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0044237	cellular metabolic process	BP
+Gene_000165	3	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0044237	cellular metabolic process	BP
+Gene_000170	3	glycoside hydrolase	0	0	0	0	0	0	0	0	0	111.13754	99.66356	101.89526	98.51206	113.12515	100.6396	GO:0044237	cellular metabolic process	BP
+Gene_000171	3	probable proteasome inhibitor	1	0	0	0	0	0	0	-1	-1	104.12839	84.96474	86.56683	101.1425	114.12504	123.22347	GO:0044237	cellular metabolic process	BP
+Gene_000173	3	superkiller viralicidic activity 2-like 2	0	0	0	0	0	0	0	0	0	165.4363	155.8074	163.6439	169.2702	178.7434	170.9453	GO:0044237	cellular metabolic process	BP
+Gene_000174	3	hypothetical protein pbra 003739	0	0	0	0	0	0	0	0	0	46.62713	38.3607	41.01577	37.49668	42.9981	35.79819	GO:0044237	cellular metabolic process	BP
+Gene_000184	3	serine threonine kinase	0	0	0	0	0	0	0	0	0	75.74056	71.88927	75.33712	85.62161	80.1899	75.25384	GO:0044237	cellular metabolic process	BP
+Gene_000188	3	dihydrolipoyllysine-residue succinyltransferase	0	0	0	0	0	0	0	-1	0	81.73007	70.72736	70.84416	80.14852	87.62544	79.72108	GO:0044237	cellular metabolic process	BP
+Gene_000189	3	60s ribosomal l11-1	1	1	0	0	0	0	1	0	0	1289.4639	973.9467	979.6907	807.8441	922.3151	1022.5227	GO:0044237	cellular metabolic process	BP
+Gene_000193	3	probable methyltransferase tarbp1	0	0	0	0	0	0	0	0	0	135.0074	115.7273	121.7875	124.7921	129.1755	134.0002	GO:0044237	cellular metabolic process	BP
+Gene_000194	3	pyruvate kinase	0	0	0	0	0	0	0	-1	0	427.2105	381.4145	402.3663	410.35	462.839	444.0249	GO:0044237	cellular metabolic process	BP
+Gene_000202	3	nadh-cytochrome b5 reductase 3-like	0	0	0	0	0	0	0	-1	0	647.2626	539.1876	564.2911	592.6979	648.2387	698.8985	GO:0044237	cellular metabolic process	BP
+Gene_000205	3	hypothetical protein pbra 003713	0	0	0	0	0	0	0	-1	0	75.02605	63.16674	69.89115	77.25596	89.51151	84.59213	GO:0044237	cellular metabolic process	BP
+Gene_000206	3	ubiquitin conjugation factor e4	0	0	0	0	0	0	0	-1	0	191.4389	165.4206	170.1488	188.5929	217.1456	201.2188	GO:0044237	cellular metabolic process	BP
+Gene_000234	3	adl113cp [eremothecium gossypii atcc 10895]	0	0	0	0	0	0	0	0	0	26.34398	27.00575	24.62681	25.49342	30.32037	23.83077	GO:0044237	cellular metabolic process	BP
+Gene_000236	3	cap-specific mrna (nucleoside-2-o-)-methyltransferase 2	0	0	0	0	0	0	0	-1	0	96.93024	92.97364	89.56658	106.79632	112.73034	105.95614	GO:0044237	cellular metabolic process	BP
+Gene_000256	3	phosphoribosylpyrophosphate synthetase	0	0	0	0	0	0	0	0	0	91.76803	78.16748	82.2988	79.35265	86.21169	87.15674	GO:0044237	cellular metabolic process	BP
+Gene_000270	3	hypothetical protein pbra 003656	0	0	0	0	0	0	0	0	0	141.7501	132.5465	132.7948	139.9752	150.942	140.853	GO:0044237	cellular metabolic process	BP
+Gene_000272	3	c transferase	0	0	0	0	0	0	0	0	0	35.22853	28.93299	27.33924	28.33837	32.50103	33.34183	GO:0044237	cellular metabolic process	BP
+Gene_000275	3	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0044237	cellular metabolic process	BP
+Gene_000291	3	phosphatase 2c	0	0	0	0	0	0	0	-1	0	102.72523	97.79188	96.85954	107.80831	126.11799	104.96735	GO:0044237	cellular metabolic process	BP
+Gene_000298	3	fumarylacetoacetase isoform x1	0	0	0	0	0	0	0	0	0	331.9313	292.5732	300.6574	286.4781	306.0111	307.9598	GO:0044237	cellular metabolic process	BP
+Gene_000300	3	hypothetical protein pbra 003626	0	0	0	0	0	0	0	0	0	77.56606	79.86307	75.07471	84.2237	79.94389	82.52192	GO:0044237	cellular metabolic process	BP
+Gene_000303	3	diacylglycerol o-acyltransferase 1-like isoform x1	0	0	0	0	0	0	0	0	0	82.57645	88.86473	84.71097	89.85809	97.56705	87.79579	GO:0044237	cellular metabolic process	BP
+Gene_000312	3	alpha;alpha-trehalose-phosphate synthase [udp-forming] 5	0	0	0	0	0	0	0	0	0	355.1906	385.1186	414.4998	373.4616	375.4064	384.3898	GO:0044237	cellular metabolic process	BP
+Gene_000319	3	v-type f subunit	0	0	0	0	0	0	0	-1	0	58.04231	50.20827	50.97717	55.82291	64.10793	52.91146	GO:0044237	cellular metabolic process	BP
+Gene_000322	3	nadph-dependent diflavin oxidoreductase 1-like	1	0	0	0	0	0	0	-1	0	67.45497	53.68434	56.22067	54.75354	66.26483	63.26144	GO:0044237	cellular metabolic process	BP
+Gene_000323	3	general transcription factor iih subunit 5	0	0	0	0	0	0	0	0	0	14.5092	15.37958	12.31851	15.99014	14.70913	13.30385	GO:0044237	cellular metabolic process	BP
+Gene_000324	3	glycylpeptide n-tetradecanoyltransferase	1	1	0	0	0	0	0	-1	-1	211.9863	177.3582	172.6689	214.7104	227.9951	226.7649	GO:0044237	cellular metabolic process	BP
+Gene_000340	3	dual specificity phosphatase cdc14a-like	0	0	0	0	0	0	0	0	0	2.0997	1.580462	1.610661	1.735672	2.077727	2.042102	GO:0044237	cellular metabolic process	BP
+Gene_000345	3	ubiquitin carboxyl-terminal hydrolase 15 isoform x4	0	0	0	0	0	0	0	0	0	96.56238	98.88794	105.27919	102.6421	110.16664	107.89416	GO:0044237	cellular metabolic process	BP
+Gene_000354	3	uncharacterized zinc finger cchc domain-containing at4g19190	0	0	0	0	0	0	0	0	0	23.65608	23.26356	21.03635	27.02276	28.47654	21.93021	GO:0044237	cellular metabolic process	BP
+Gene_000356	3	pre-mrna-splicing factor spf27 homolog	0	0	0	0	0	0	0	-1	0	69.45974	57.75266	57.18269	62.4129	75.74674	62.36426	GO:0044237	cellular metabolic process	BP
+Gene_000359	3	guanylate cyclase	0	0	0	0	0	0	0	0	0	133.8803	128.4004	121.8346	144.2588	155.8946	143.8526	GO:0044237	cellular metabolic process	BP
+Gene_000370	3	nucleosome binding (nhp6a)	0	0	0	0	0	0	0	0	0	553.8027	548.8714	588.7984	594.4261	619.2306	584.4379	GO:0044237	cellular metabolic process	BP
+Gene_000373	3	phosphatidylethanolamine n-methyltransferase	0	0	0	0	0	0	0	0	0	114.07227	94.97029	100.60321	97.59408	110.66075	118.27537	GO:0044237	cellular metabolic process	BP
+Gene_000397	3	dna mismatch repair msh2	0	0	0	0	0	0	0	0	0	326.9637	296.1141	302.9473	300.7643	332.7724	316.1719	GO:0044237	cellular metabolic process	BP
+Gene_000402	3	cyclin-t1-5-like	0	0	0	0	0	0	0	-1	0	44.37106	41.50686	42.11591	47.15328	51.59029	43.46284	GO:0044237	cellular metabolic process	BP
+Gene_000413	3	u6 snrna-associated sm lsm2	0	0	0	0	0	0	0	0	0	68.49897	59.25785	58.35326	56.37641	65.17037	62.97209	GO:0044237	cellular metabolic process	BP
+Gene_000420	3	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0044237	cellular metabolic process	BP
+Gene_000426	3	4-phosphopantetheinyl transferase	0	0	0	0	0	0	0	-1	0	23.68084	21.21316	24.42676	26.41983	28.05009	26.09977	GO:0044237	cellular metabolic process	BP
+Gene_000443	3	trna (uracil-5-)-methyltransferase	1	1	0	0	0	0	0	-1	-1	208.4949	170.3726	161.3259	205.2603	231.407	208.1174	GO:0044237	cellular metabolic process	BP
+Gene_000447	3	splicing factor u2af small subunit b	0	0	0	0	0	0	0	-1	0	256.1132	224.6879	222.0729	255.7248	278.6687	257.2362	GO:0044237	cellular metabolic process	BP
+Gene_000448	3	30s ribosomal s6	0	0	0	0	0	0	0	-1	0	174.4931	147.9911	148.8517	160.6318	192.5396	163.824	GO:0044237	cellular metabolic process	BP
+Gene_000456	3	elongation factor alpha	1	1	0	0	0	0	0	0	0	10181.05	8285.877	7956.99	8629.072	9568.859	9852.146	GO:0044237	cellular metabolic process	BP
+Gene_000458	3	thioredoxin domain-containing plp3b	0	0	0	0	0	0	0	0	0	65.66748	62.03023	65.55946	65.75327	58.95929	67.89937	GO:0044237	cellular metabolic process	BP
+Gene_000459	3	inorganic polyphosphate kinase	0	0	0	0	0	0	0	0	0	69.07863	63.03984	63.3951	59.46822	63.87208	60.65729	GO:0044237	cellular metabolic process	BP
+Gene_000464	3	homoserine dehydrogenase	0	0	0	0	0	0	1	0	0	161.4106	148.1028	153.5912	131.6953	152.4569	139.0503	GO:0044237	cellular metabolic process	BP
+Gene_000471	3	50s ribosomal l27-like	0	1	0	0	0	0	0	-1	-1	96.65326	82.66457	77.33358	89.84525	99.63138	98.36647	GO:0044237	cellular metabolic process	BP
+Gene_000484	3	hypothetical protein pbra 001567	0	0	0	0	0	0	0	0	0	16.95685	16.97647	17.23806	15.73467	18.13064	16.21815	GO:0044237	cellular metabolic process	BP
+Gene_000485	3	glutaredoxin	0	0	0	0	0	0	0	0	0	32.877	27.96119	29.97627	32.25609	33.38001	29.45956	GO:0044237	cellular metabolic process	BP
+Gene_000490	3	nad-dependent malic enzyme	0	0	0	0	0	0	0	0	0	8.287705	7.627201	7.239603	7.467888	7.361376	7.387784	GO:0044237	cellular metabolic process	BP
+Gene_000507	3	ctp synthase	1	1	0	0	0	0	0	0	-1	317.0986	245.2598	241.4081	270.051	283.7989	305.8427	GO:0044237	cellular metabolic process	BP
+Gene_000513	3	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0044237	cellular metabolic process	BP
+Gene_000518	3	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0044237	cellular metabolic process	BP
+Gene_000529	3	rna polymerase ii core subunit	0	0	0	0	0	0	0	0	0	197.0442	167.563	162.1404	169.9926	190.2316	179.8965	GO:0044237	cellular metabolic process	BP
+Gene_000544	3	small nuclear ribonucleo g	0	0	0	0	0	0	0	0	0	132.0612	110.5281	110.3523	115.5929	129.0372	107.4695	GO:0044237	cellular metabolic process	BP
+Gene_000548	3	inositol pentakisphosphate 2-kinase	0	0	0	0	0	0	0	0	0	61.07396	56.42205	57.15451	59.21895	61.99667	60.18268	GO:0044237	cellular metabolic process	BP
+Gene_000560	3	isoleucine-trna ligase	0	0	0	0	0	0	0	0	-1	201.9037	171.7386	174.0932	196.3182	207.2894	237.8705	GO:0044237	cellular metabolic process	BP
+Gene_000565	3	dna polymerase kappa	0	0	0	0	0	0	0	0	0	58.55148	57.14779	60.92799	60.34794	60.8762	55.71129	GO:0044237	cellular metabolic process	BP
+Gene_000568	3	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0044237	cellular metabolic process	BP
+Gene_000571	3	rna-binding 8a-like	0	0	0	0	0	0	0	0	0	126.0258	113.5361	106.8214	115.5844	127.3906	106.6473	GO:0044237	cellular metabolic process	BP
+Gene_000579	3	[micromonas commoda]	0	0	0	0	0	0	0	-1	-1	185.7671	161.8614	157.4236	222.4347	222.2995	230.8678	GO:0044237	cellular metabolic process	BP
+Gene_000605	3	hypothetical protein pbra 001674	0	0	0	0	0	0	0	0	0	49.41857	46.36475	47.59125	47.68901	55.66867	45.28845	GO:0044237	cellular metabolic process	BP
+Gene_000607	3	trna-splicing endonuclease subunit sen15-like	0	0	0	0	0	0	0	0	0	33.4954	31.88313	30.69747	31.04443	34.04298	28.18975	GO:0044237	cellular metabolic process	BP
+Gene_000618	3	dna topoisomerase 1 beta	0	0	0	0	0	0	0	0	0	274.8023	255.3956	246.7443	248.0292	292.0969	259.6071	GO:0044237	cellular metabolic process	BP
+Gene_000625	3	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0044237	cellular metabolic process	BP
+Gene_000629	3	ccnc dicdi ame: full=cyclin-c	0	0	0	0	0	0	0	-1	-1	114.6966	96.98875	91.3732	114.34903	137.02047	122.06812	GO:0044237	cellular metabolic process	BP
+Gene_000638	3	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0044237	cellular metabolic process	BP
+Gene_000649	3	aspartyl-trna synthetase	1	1	0	0	0	0	0	-1	-1	481.9915	374.1489	374.9261	412.2716	474.8048	500.4815	GO:0044237	cellular metabolic process	BP
+Gene_000652	3	transcription factor alpha beta subunit	0	0	0	0	0	0	0	-1	0	113.3007	108.6226	103.1648	111.3314	130.6178	111.9992	GO:0044237	cellular metabolic process	BP
+Gene_000665	3	alanine-trna ligase	0	0	0	0	0	0	0	0	0	146.8533	131.8308	139.8457	129.2478	128.384	136.9041	GO:0044237	cellular metabolic process	BP
+Gene_000667	3	transcription initiation factor tfiid subunit 12	0	0	0	0	0	0	0	-1	0	41.80381	35.83616	39.73962	43.59751	45.68367	46.94129	GO:0044237	cellular metabolic process	BP
+Gene_000669	3	geranylgeranyl transferase type-2 subunit beta isoform x1	1	0	0	0	0	0	0	-1	-1	115.69807	94.49291	99.90281	106.99057	115.83755	123.88959	GO:0044237	cellular metabolic process	BP
+Gene_000672	3	rna polymerase ii-associated 3	0	0	0	0	0	0	0	-1	-1	43.46364	37.36991	36.53584	51.19642	55.44022	54.94107	GO:0044237	cellular metabolic process	BP
+Gene_000684	3	gc-rich sequence dna-binding factor	0	0	0	0	0	0	0	0	0	96.9278	88.88275	87.11774	91.68637	99.49664	98.81399	GO:0044237	cellular metabolic process	BP
+Gene_000706	3	hypothetical protein pbra 001764	0	0	0	0	0	0	0	0	0	123.0085	123.2931	128.0256	123.7528	135.4741	125.38	GO:0044237	cellular metabolic process	BP
+Gene_000712	3	ribonuclease z	0	0	0	0	0	0	0	0	0	68.93061	62.22019	65.86718	66.4346	64.4444	64.56616	GO:0044237	cellular metabolic process	BP
+Gene_000716	3	methylcrotonoyl-carboxylase	0	0	0	0	0	0	0	0	0	129.6787	141.1887	141.1717	142.0374	138.0601	134.5019	GO:0044237	cellular metabolic process	BP
+Gene_000719	3	3-phosphoshikimate 1-carboxyvinyltransferase	0	0	0	0	0	0	0	-1	0	283.0898	277.9638	281.8086	294.0452	323.0963	318.6991	GO:0044237	cellular metabolic process	BP
+Gene_000722	3	60s ribosomal l6	1	0	0	0	0	0	0	0	-1	710.381	549.9565	553.3166	550.3433	634.3333	732.434	GO:0044237	cellular metabolic process	BP
+Gene_000724	3	60s ribosomal l27	1	0	0	0	0	0	1	0	0	1089.2047	846.2385	846.6973	752.9055	873.5207	899.8988	GO:0044237	cellular metabolic process	BP
+Gene_000728	3	methionine synthase	0	0	0	0	0	0	0	-1	0	134.3211	121.0091	125.7816	126.9706	143.2537	148.1513	GO:0044237	cellular metabolic process	BP
+Gene_000744	3	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0044237	cellular metabolic process	BP
+Gene_000745	3	amino-terminal domain	0	0	0	0	0	0	0	0	0	32.495	28.57418	26.53571	27.06421	32.51595	30.56076	GO:0044237	cellular metabolic process	BP
+Gene_000747	3	threonylcarbamoyladenosine trna methylthiotransferase	1	1	0	0	0	0	0	-1	-1	187.6153	156.3193	146.7353	176.6942	196.4749	191.3955	GO:0044237	cellular metabolic process	BP
+Gene_000752	3	hypothetical protein pbra 001803	1	1	0	0	0	0	0	-1	-1	71.89579	57.97996	51.83157	74.93767	88.40037	94.82347	GO:0044237	cellular metabolic process	BP
+Gene_000758	3	dna ligase 1-like isoform x2	0	0	0	0	0	0	0	-1	0	338.8028	297.2515	317.5809	328.8895	366.9113	342.2706	GO:0044237	cellular metabolic process	BP
+Gene_000759	3	trna dihydrouridine(20 20a) synthase	1	1	0	0	0	0	1	0	0	59.8058	44.75621	45.17095	47.45638	52.54366	56.01729	GO:0044237	cellular metabolic process	BP
+Gene_000760	3	kinase 2	0	0	0	0	0	0	0	0	-1	22.01819	23.78803	19.82826	28.72344	27.73389	28.85588	GO:0044237	cellular metabolic process	BP
+Gene_000769	3	serine threonine kinase	0	0	0	0	0	0	0	0	0	38.68038	34.85523	33.0264	34.48199	39.83511	42.67001	GO:0044237	cellular metabolic process	BP
+Gene_000782	3	e2f-associated phospho	0	0	0	0	0	0	0	-1	0	81.83394	71.38154	70.19464	84.54275	94.31384	75.64312	GO:0044237	cellular metabolic process	BP
+Gene_000792	3	hypothetical protein pbra 005179; partial	0	0	0	0	0	0	0	0	0	8.030964	8.832374	7.213284	7.637017	9.513473	10.474984	GO:0044237	cellular metabolic process	BP
+Gene_000799	3	superoxide dismutase	1	0	0	0	0	0	1	0	0	381.1921	318.8143	314.4058	311.8961	344.0045	354.72	GO:0044237	cellular metabolic process	BP
+Gene_000808	3	sterile alpha motifdomain-containing	0	0	0	0	0	0	0	0	0	84.45221	78.31561	74.754	83.00953	85.4303	85.08758	GO:0044237	cellular metabolic process	BP
+Gene_000818	3	multi-sensor hybrid histidine kinase [nitrosospira lacus]	0	0	0	0	0	0	0	0	0	12.340694	9.005186	9.0605	10.010681	10.618071	12.004895	GO:0044237	cellular metabolic process	BP
+Gene_000823	3	ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0	0	0	-1	477.5516	434.2584	458.3589	502.4871	522.8118	596.9142	GO:0044237	cellular metabolic process	BP
+Gene_000825	3	acy1-like metalloprotease	1	1	0	0	0	0	0	-1	-1	105.26517	86.91658	80.87229	105.90818	125.43176	124.21645	GO:0044237	cellular metabolic process	BP
+Gene_000836	3	transcription elongation factor b polypeptide 1	0	0	0	0	0	0	0	0	0	77.94219	68.53348	66.35112	69.46816	76.67642	78.10988	GO:0044237	cellular metabolic process	BP
+Gene_000845	3	40s ribosomal s19-1	0	0	0	0	0	0	0	0	0	458.7481	382.8513	399.8929	332.3691	367.7803	423.9934	GO:0044237	cellular metabolic process	BP
+Gene_000856	3	serine threonine kinase	0	0	0	0	0	0	0	-1	0	239.5553	231.53	245.875	274.0632	285.4815	281.9661	GO:0044237	cellular metabolic process	BP
+Gene_000860	3	rrna biogenesis rrp5 isoform x1	1	1	0	0	0	0	0	-1	-1	406.5807	312.011	300.9176	363.2839	391.9832	395.8264	GO:0044237	cellular metabolic process	BP
+Gene_000871	3	u4 u6 small nuclear ribonucleo prp3 isoform x3	0	0	0	0	0	0	0	0	0	149.1789	130.2614	128.8062	133.4815	145.7074	154.9812	GO:0044237	cellular metabolic process	BP
+Gene_000882	3	cmgc family kinase	0	0	0	0	0	0	0	0	0	21.10483	20.57675	18.22808	20.52874	21.92939	23.4735	GO:0044237	cellular metabolic process	BP
+Gene_000892	3	rna polymerase iii transcription repressor maf1	0	0	0	0	0	0	0	-1	0	275.6437	271.5837	278.6848	322.8453	338.4573	306.7753	GO:0044237	cellular metabolic process	BP
+Gene_000898	3	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0044237	cellular metabolic process	BP
+Gene_000910	3	nad-dependent glycerol-3-phosphate dehydrogenase	0	0	0	0	0	0	0	0	0	4.286265	4.525859	3.458857	3.263087	4.914614	4.900213	GO:0044237	cellular metabolic process	BP
+Gene_000914	3	pentatricopeptide repeat-containing mitochondrial	0	0	0	0	0	0	0	-1	-1	295.8397	257.785	263.5218	291.6123	335.8465	327.4857	GO:0044237	cellular metabolic process	BP
+Gene_000933	3	30s ribosomal s2	1	0	0	0	0	0	0	-1	0	185.8474	146.3412	160.2872	162.8491	182.121	185.6523	GO:0044237	cellular metabolic process	BP
+Gene_000937	3	histidine acid phosphatase family	1	1	0	0	0	0	1	0	0	105.655	89.95561	87.18377	84.8197	98.5956	93.01243	GO:0044237	cellular metabolic process	BP
+Gene_000938	3	acyl-coenzyme a oxidase peroxisomal-like	1	0	0	0	0	0	0	-1	0	146.4076	120.1247	129.9385	136.5351	156.8979	138.1073	GO:0044237	cellular metabolic process	BP
+Gene_000940	3	rrna 2-o-methyltransferase fibrillarin	1	1	0	0	0	0	0	0	0	463.0426	382.1217	380.9645	391.6197	415.3551	430.8481	GO:0044237	cellular metabolic process	BP
+Gene_000956	3	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0044237	cellular metabolic process	BP
+Gene_000957	3	60s ribosomal l12	1	0	0	0	0	0	1	0	0	722.8675	535.9112	559.0357	503.9154	594.727	604.4435	GO:0044237	cellular metabolic process	BP
+Gene_000964	3	interferon-double-stranded rna-activated kinase isoform x1	0	0	0	0	0	0	0	-1	0	220.7964	208.813	224.0779	234.0028	263.684	233.2867	GO:0044237	cellular metabolic process	BP
+Gene_000983	3	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 2-like	1	0	0	0	0	0	0	0	0	359.6928	307.7466	331.9603	307.8812	325.3616	371.3357	GO:0044237	cellular metabolic process	BP
+Gene_000984	3	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 2	0	0	0	0	0	0	0	0	0	8.759547	7.760834	9.232054	9.522414	10.918501	11.109781	GO:0044237	cellular metabolic process	BP
+Gene_000991	3	hypothetical protein pbra 005258	-1	0	0	0	0	0	-1	0	0	3.83032	7.05539	6.563248	8.119058	9.198616	10.318754	GO:0044237	cellular metabolic process	BP
+Gene_001010	3	fact complex subunit ssrp1-like	0	0	0	0	0	0	0	0	0	286.1569	242.9892	244.0888	258.0575	293.2601	280.6214	GO:0044237	cellular metabolic process	BP
+Gene_001013	3	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0044237	cellular metabolic process	BP
+Gene_001014	3	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0044237	cellular metabolic process	BP
+Gene_001016	3	serine threonine-kinase atr	0	0	0	0	0	0	0	-1	0	228.569	190.7936	210.3716	220.7148	253.7526	244.819	GO:0044237	cellular metabolic process	BP
+Gene_001017	3	60s ribosomal	0	1	0	0	0	0	1	0	0	537.2633	438.1611	384.6348	411.7973	481.5225	483.6618	GO:0044237	cellular metabolic process	BP
+Gene_001021	3	fanconi anemia group d2	0	0	0	0	0	0	0	0	0	358.8062	353.4656	384.8672	368.7266	372.6124	373.8399	GO:0044237	cellular metabolic process	BP
+Gene_001023	3	histidine-trna ligase	0	0	0	0	0	0	0	0	0	106.08617	95.38804	98.19395	96.00052	96.69126	106.83463	GO:0044237	cellular metabolic process	BP
+Gene_001025	3	hypothetical protein pbra 002570	1	0	0	0	0	0	0	-1	0	234.5779	183.8744	192.2979	200.491	230.0547	225.8656	GO:0044237	cellular metabolic process	BP
+Gene_001026	3	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0044237	cellular metabolic process	BP
+Gene_001030	3	retrovirus-related pol poly from transposon tnt 1-94	1	1	0	0	0	0	0	-1	-1	52.37674	40.08161	40.54434	53.63793	59.55547	51.9872	GO:0044237	cellular metabolic process	BP
+Gene_001035	3	polyunsaturated fatty acids delta-5-elongase	0	0	0	0	0	0	0	0	0	181.0492	160.4608	164.5708	178.3871	178.9105	170.2959	GO:0044237	cellular metabolic process	BP
+Gene_001044	3	set domain-containing	0	0	0	0	0	0	0	0	0	132.9293	138.4373	147.629	155.8968	148.2497	143.5654	GO:0044237	cellular metabolic process	BP
+Gene_001045	3	probable nadh dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	0	0	0	0	0	0	0	0	155.8754	146.5607	156.7649	144.8502	154.0137	132.3307	GO:0044237	cellular metabolic process	BP
+Gene_001052	3	non-structural maintenance of chromosomes element 1 homolog	1	0	0	0	0	0	1	-1	0	112.00876	87.98591	95.13927	89.16317	104.59221	98.79318	GO:0044237	cellular metabolic process	BP
+Gene_001054	3	npl4 family	0	0	0	0	0	0	0	-1	0	322.5951	275.7881	289.3172	327.4072	376.7381	347.0532	GO:0044237	cellular metabolic process	BP
+Gene_001069	3	3-5 exonuclease	0	0	0	0	0	0	0	-1	-1	83.59128	69.77786	67.68346	71.92068	87.46543	88.28708	GO:0044237	cellular metabolic process	BP
+Gene_001075	3	exosome component 4	1	1	0	0	0	0	0	-1	0	97.8271	77.73852	72.25188	87.74829	94.37448	91.4158	GO:0044237	cellular metabolic process	BP
+Gene_001081	3	atp-dependent rna helicase dbp2-a	0	0	0	0	0	0	0	0	-1	1278.329	1032.751	1039.625	1118.679	1218.554	1431.449	GO:0044237	cellular metabolic process	BP
+Gene_001085	3	proliferating cell nuclear antigen	1	0	0	0	0	0	1	0	0	544.3659	454.7839	483.0855	444.0129	476.9758	481.807	GO:0044237	cellular metabolic process	BP
+Gene_001088	3	dna repair rad51 homolog 4 isoform x3	0	0	0	0	0	0	0	0	0	54.16459	48.75927	45.26385	48.06899	52.27801	53.16751	GO:0044237	cellular metabolic process	BP
+Gene_001091	3	polynucleotide adenylyltransferase	0	0	0	0	0	0	0	0	0	31.96447	28.59316	30.24887	33.768	34.35954	31.77436	GO:0044237	cellular metabolic process	BP
+Gene_001093	3	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0044237	cellular metabolic process	BP
+Gene_001104	3	dna-directed rna polymerases and iii subunit rpabc4	0	0	0	0	0	0	0	-1	-1	116.89738	99.78038	100.39888	119.41685	126.63876	132.36193	GO:0044237	cellular metabolic process	BP

@@ -1,0 +1,8 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000021	sporangia induced dynein heavy chain	0	0	0	0	0	0	0	0	0	78.18503	86.60368	75.56314	87.8772	100.42906	92.44207	GO:0030286	dynein complex	CC
+Gene_000424	dynein light chain roadblock-type 2	-1	-1	0	1	0	0	0	1	1	7.782176	19.921162	20.24798	12.467616	4.079403	4.325675	GO:0030286	dynein complex	CC
+Gene_000498	dynein heavy chain axonemal-like isoform x4	-1	-1	0	0	0	0	-1	1	1	145.1224	220.7308	225.7166	186.2228	156.5274	147.1354	GO:0030286	dynein complex	CC
+Gene_000608	flagellar inner arm dynein light chain p28	-1	-1	0	1	0	0	0	1	1	75.87843	101.51305	111.01551	79.14651	59.46456	54.43732	GO:0030286	dynein complex	CC
+Gene_000931	dynein heavy chain axonemal isoform x1	-1	-1	0	1	0	0	0	1	1	18.54604	38.73695	34.53646	26.04246	15.53691	15.3397	GO:0030286	dynein complex	CC
+Gene_000945	dynein heavy chain	0	0	0	0	0	0	0	0	0	254.5678	280.7696	282.9675	308.6985	353.9084	293.2112	GO:0030286	dynein complex	CC
+Gene_000946	dynein heavy chain axonemal-like	0	0	0	0	0	0	0	-1	0	86.07783	88.62974	101.51231	109.7435	118.39342	105.1422	GO:0030286	dynein complex	CC

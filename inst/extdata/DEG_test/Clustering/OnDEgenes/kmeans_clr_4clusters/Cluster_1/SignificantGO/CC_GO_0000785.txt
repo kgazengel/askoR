@@ -1,0 +1,10 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000146	1	transcriptional regulatory	0	0	0	0	0	0	-1	-1	0	90.43329	101.84108	98.18945	119.75902	119.00628	111.81393	GO:0000785	chromatin	CC
+Gene_000147	1	paired amphipathic helix sin3a	0	0	0	0	0	0	-1	0	0	179.5064	200.6302	199.597	230.2388	223.1777	229.496	GO:0000785	chromatin	CC
+Gene_001721	1	probable cell division control nda4	0	0	0	0	0	0	0	-1	0	461.7326	408.2226	426.6747	463.5843	490.7864	489.3966	GO:0000785	chromatin	CC
+Gene_002324	1	ultraviolet-b receptor uvr8	0	0	0	0	0	0	0	0	-1	2.102869	2.020182	1.287142	2.79399	3.484026	4.471393	GO:0000785	chromatin	CC
+Gene_002438	1	hypothetical protein pbra 003271	1	1	0	0	0	0	0	-1	-1	392.9634	328.6213	307.0356	420.8845	506.1213	458.4779	GO:0000785	chromatin	CC
+Gene_004583	1	cohesin complex subunit psm1	0	0	0	0	0	0	0	-1	0	1460.953	1245.483	1317.507	1459.285	1695.594	1577.171	GO:0000785	chromatin	CC
+Gene_006944	1	metallo-dependent phosphatase	0	0	0	0	0	0	0	-1	-1	601.4512	558.7335	554.8868	644.5514	743.1455	686.9143	GO:0000785	chromatin	CC
+Gene_007169	1	actin arp5	0	0	0	0	0	0	0	-1	0	138.3249	141.5751	141.8729	158.6506	173.5874	151.1426	GO:0000785	chromatin	CC
+Gene_012078	1	putative nipped-b-like protein (delangin) (scc2 homolog)	0	0	0	0	0	0	-1	0	0	70.60534	77.84468	83.82919	85.44827	87.93766	83.65956	GO:0000785	chromatin	CC

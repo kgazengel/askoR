@@ -1,0 +1,9 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000088	2	hypothetical protein pbra 003809	-1	0	0	0	0	0	-1	0	0	4.153685	22.035281	6.017667	33.306064	21.418801	8.276652	GO:0016021	integral component of membrane	CC
+Gene_000260	2	chitin synthase d	0	0	0	0	0	0	-1	0	0	9.862595	17.999479	8.598471	21.953681	16.414566	12.244278	GO:0016021	integral component of membrane	CC
+Gene_000285	2	hypothetical protein pbra 003643	0	0	0	0	0	0	0	0	0	1.799433	4.504319	2.083299	3.988831	3.715581	0.990867	GO:0016021	integral component of membrane	CC
+Gene_000295	2	duf2306 domain-containing	-1	0	0	0	0	0	-1	0	0	0.9751228	3.5341733	1.1054195	3.7436406	3.1424581	1.8068762	GO:0016021	integral component of membrane	CC
+Gene_000296	2	duf2306 domain-containing	-1	0	0	0	0	0	-1	0	0	2.040919	11.029659	4.77943	11.214986	6.743996	4.43392	GO:0016021	integral component of membrane	CC
+Gene_000487	2	hypothetical protein pbra 001569	0	0	0	0	0	0	0	0	0	4.25664	7.751275	4.553694	10.360117	5.605591	3.81775	GO:0016021	integral component of membrane	CC
+Gene_000545	2	alpha-mannosidase 2	-1	0	0	0	0	0	-1	1	0	7.041164	20.478182	12.275328	18.80407	9.255775	9.086416	GO:0016021	integral component of membrane	CC
+Gene_000555	2	phosphate:h+ symporter	-1	0	0	1	0	0	-1	1	0	16.34734	71.31489	33.16584	87.97861	30.92097	33.30852	GO:0016021	integral component of membrane	CC

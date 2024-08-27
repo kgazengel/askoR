@@ -43,7 +43,7 @@ GOenrichment<-function(resDEG, data_list, parameters, list=NULL, title=NULL){
   geneNames <- names(geneID2GO)
 
   if (is.null(list) == FALSE){
-    img_go_dir = paste0(GO_dir,"SpecificList",title,"/")
+    img_go_dir = paste0(GO_dir,title,"/")
     if(dir.exists(img_go_dir)==FALSE){
       dir.create(img_go_dir)
       cat("Directory: ",img_go_dir," created\n")

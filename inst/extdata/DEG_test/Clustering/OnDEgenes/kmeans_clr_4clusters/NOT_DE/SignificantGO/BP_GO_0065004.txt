@@ -1,0 +1,16 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000270	NOT DE	hypothetical protein pbra 003656	0	0	0	0	0	0	0	0	0	141.7501	132.5465	132.7948	139.9752	150.942	140.853	GO:0065004	protein-DNA complex assembly	BP
+Gene_001026	NOT DE	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0065004	protein-DNA complex assembly	BP
+Gene_001334	NOT DE	histone h4	0	0	0	0	0	0	0	0	0	42.30668	43.16045	48.60414	34.16115	32.82044	33.20031	GO:0065004	protein-DNA complex assembly	BP
+Gene_001558	NOT DE	histone h3	0	0	0	0	0	0	0	0	0	134.9189	122.5129	128.1926	128.2417	126.5697	120.0885	GO:0065004	protein-DNA complex assembly	BP
+Gene_001646	NOT DE	cell division cycle 48 homolog	0	0	0	0	0	0	0	0	0	87.08777	87.43445	90.06936	88.35554	87.95549	83.2141	GO:0065004	protein-DNA complex assembly	BP
+Gene_001797	NOT DE	26s protease regulatory subunit 8	0	0	0	0	0	0	0	0	0	255.712	242.4182	261.6802	265.3867	267.4193	261.4016	GO:0065004	protein-DNA complex assembly	BP
+Gene_001825	NOT DE	hypothetical protein pbra 003108	0	0	0	0	0	0	0	0	0	67.19974	59.00388	64.24422	58.2712	64.85709	67.63499	GO:0065004	protein-DNA complex assembly	BP
+Gene_003538	NOT DE	transcription initiation factor iib	0	0	0	0	0	0	0	0	0	152.8144	140.9965	136.7532	140.804	151.3759	139.7997	GO:0065004	protein-DNA complex assembly	BP
+Gene_004038	NOT DE	centromere x	0	0	0	0	0	0	0	0	0	8.289452	7.308241	7.476336	7.531701	9.872812	4.960581	GO:0065004	protein-DNA complex assembly	BP
+Gene_004815	NOT DE	dna repair rad51 homolog a	0	0	0	0	0	0	0	0	0	86.58318	79.65046	81.28387	86.79288	94.07352	91.49701	GO:0065004	protein-DNA complex assembly	BP
+Gene_007415	NOT DE	26s protease regulatory subunit 10b	0	0	0	0	0	0	0	0	0	313.0071	310.4211	338.1811	346.0161	338.2225	332.4379	GO:0065004	protein-DNA complex assembly	BP
+Gene_008954	NOT DE	centromere c	0	0	0	0	0	0	0	0	0	225.2289	266.6454	242.2844	251.3124	229.7146	242.2212	GO:0065004	protein-DNA complex assembly	BP
+Gene_009374	NOT DE	histone h4	0	0	0	0	0	0	0	0	0	41.48034	43.15315	53.81905	26.60946	29.53311	32.20735	GO:0065004	protein-DNA complex assembly	BP
+Gene_010851	NOT DE	26s proteasome regulatory subunit 6b homolog	0	0	0	0	0	0	0	0	0	134.4824	137.6826	139.1569	138.1588	131.3583	159.7649	GO:0065004	protein-DNA complex assembly	BP
+Gene_011086	NOT DE	set isoform x1	0	0	0	0	0	0	0	0	0	28.1266	36.28388	36.94374	33.30781	30.08178	29.50743	GO:0065004	protein-DNA complex assembly	BP

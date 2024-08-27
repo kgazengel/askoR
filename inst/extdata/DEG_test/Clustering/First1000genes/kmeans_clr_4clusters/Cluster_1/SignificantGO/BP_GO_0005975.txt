@@ -1,0 +1,8 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000283	1	isocitrate lyase	-1	-1	0	1	0	0	0	1	1	166.78565	329.07784	376.95041	201.16779	85.37314	107.99617	GO:0005975	carbohydrate metabolic process	BP
+Gene_000360	1	hypothetical protein pbra 001452; partial	0	0	0	0	0	0	0	1	0	4.244298	8.929995	8.992862	4.768852	1.910708	3.293177	GO:0005975	carbohydrate metabolic process	BP
+Gene_000361	1	glucose sorbosone dehydrogenase	-1	-1	0	1	0	0	-1	1	1	5.984226	18.342782	17.974367	12.495775	4.059656	8.047672	GO:0005975	carbohydrate metabolic process	BP
+Gene_000671	1	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0005975	carbohydrate metabolic process	BP
+Gene_000885	1	glycoside hydrolase	-1	-1	0	1	0	0	0	1	1	4.828865	13.959603	14.974305	8.072106	2.213459	3.957223	GO:0005975	carbohydrate metabolic process	BP
+Gene_000934	1	hypothetical protein pbra 005220	-1	-1	0	0	0	0	0	1	1	3.350201	9.477357	8.130724	5.334814	2.64695	1.823525	GO:0005975	carbohydrate metabolic process	BP
+Gene_001005	1	hypothetical protein pbra 002551	-1	-1	0	1	0	0	0	1	1	79.12848	231.13929	206.90605	155.2295	46.97663	83.24116	GO:0005975	carbohydrate metabolic process	BP

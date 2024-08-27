@@ -1,0 +1,4 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000128	3	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0000387	spliceosomal snRNP assembly	BP
+Gene_000159	3	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0000387	spliceosomal snRNP assembly	BP
+Gene_000544	3	small nuclear ribonucleo g	0	0	0	0	0	0	0	0	0	132.0612	110.5281	110.3523	115.5929	129.0372	107.4695	GO:0000387	spliceosomal snRNP assembly	BP

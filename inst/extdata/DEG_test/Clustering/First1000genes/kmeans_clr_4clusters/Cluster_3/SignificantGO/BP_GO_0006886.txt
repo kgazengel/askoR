@@ -1,0 +1,15 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000114	3	mitochondrial import inner membrane translocase subunit tim21	0	0	0	0	0	0	0	-1	-1	56.44166	48.26565	43.8109	60.4412	69.25601	63.91719	GO:0006886	intracellular protein transport	BP
+Gene_000132	3	mitochondrial mpt family isoform 2	0	0	0	0	0	0	0	0	0	339.5287	295.194	302.5299	292.5833	327.6075	357.9549	GO:0006886	intracellular protein transport	BP
+Gene_000214	3	adaptor complex 1 subunit mu	0	0	0	0	0	0	0	0	0	292.2754	259.9843	270.1825	258.6935	292.7333	285.3322	GO:0006886	intracellular protein transport	BP
+Gene_000217	3	small monomeric gtpase	0	0	0	0	0	0	0	0	0	359.2438	343.6502	344.0487	367.0093	397.4878	361.5936	GO:0006886	intracellular protein transport	BP
+Gene_000222	3	conserved oligomeric golgi complex subunit 7 isoform x1	0	0	0	0	0	0	0	0	0	130.7938	117.2849	124.1214	120.695	124.2505	123.8625	GO:0006886	intracellular protein transport	BP
+Gene_000275	3	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0006886	intracellular protein transport	BP
+Gene_000297	3	importin-4 isoform x2	0	1	0	0	0	0	0	0	0	396.4082	338.6994	318.6081	346.9407	360.9628	376.8562	GO:0006886	intracellular protein transport	BP
+Gene_000335	3	vesicle coat complex copii subunit sec24 subunit sfb2	0	0	0	0	0	0	0	0	0	215.9179	206.0003	235.0928	240.559	241.0545	260.9269	GO:0006886	intracellular protein transport	BP
+Gene_000405	3	[micromonas commoda]	1	0	0	0	0	0	0	-1	-1	889.1039	746.7254	739.2242	948.1029	1069.1346	1066.6871	GO:0006886	intracellular protein transport	BP
+Gene_000450	3	signal recognition particle 14 kda-like	0	0	0	0	0	0	0	0	0	36.82697	36.43112	37.45752	40.39855	38.79844	35.09876	GO:0006886	intracellular protein transport	BP
+Gene_000572	3	coatomer subunit beta-1	0	0	0	0	0	0	0	0	0	680.9327	638.9028	682.8047	693.3874	750.4175	747.6694	GO:0006886	intracellular protein transport	BP
+Gene_000637	3	chorismate mutase	0	0	0	0	0	0	0	-1	0	67.52125	56.90338	63.4766	68.15071	71.99279	70.5514	GO:0006886	intracellular protein transport	BP
+Gene_000886	3	coatomer subunit alpha-1	0	0	0	0	0	0	0	-1	0	922.6225	829.9495	897.5998	907.5907	1015.2901	990.5318	GO:0006886	intracellular protein transport	BP
+Gene_000973	3	general vesicular transport factor p115-like	0	0	0	0	0	0	0	0	0	145.8083	136.9879	146.0635	159.572	162.8357	181.5306	GO:0006886	intracellular protein transport	BP

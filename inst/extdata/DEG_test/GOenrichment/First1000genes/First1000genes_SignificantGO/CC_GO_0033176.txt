@@ -1,0 +1,5 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000319	v-type f subunit	0	0	0	0	0	0	0	-1	0	58.04231	50.20827	50.97717	55.82291	64.10793	52.91146	GO:0033176	proton-transporting V-type ATPase complex	CC
+Gene_000353	v-type proton atpase subunit e1-like	0	0	0	0	0	0	0	-1	0	20.91813	18.00135	19.5243	20.21198	23.63023	16.43881	GO:0033176	proton-transporting V-type ATPase complex	CC
+Gene_000805	v-type proton atpase subunit g1-like	0	0	0	0	0	0	0	0	0	35.11188	32.57904	33.10426	32.14488	33.00846	30.05908	GO:0033176	proton-transporting V-type ATPase complex	CC
+Gene_001062	v-type h+-transporting atpase 16kda proteolipid subunit	0	0	0	0	0	0	0	0	0	278.4983	242.8068	266.7036	237.9677	254.6737	236.8131	GO:0033176	proton-transporting V-type ATPase complex	CC

@@ -1,0 +1,31 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000194	1	pyruvate kinase	0	0	0	0	0	0	0	-1	0	427.2105	381.4145	402.3663	410.35	462.839	444.0249	GO:0006144	purine nucleobase metabolic process	BP
+Gene_000579	1	[micromonas commoda]	0	0	0	0	0	0	0	-1	-1	185.7671	161.8614	157.4236	222.4347	222.2995	230.8678	GO:0006144	purine nucleobase metabolic process	BP
+Gene_000823	1	ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0	0	0	-1	477.5516	434.2584	458.3589	502.4871	522.8118	596.9142	GO:0006144	purine nucleobase metabolic process	BP
+Gene_001104	1	dna-directed rna polymerases and iii subunit rpabc4	0	0	0	0	0	0	0	-1	-1	116.89738	99.78038	100.39888	119.41685	126.63876	132.36193	GO:0006144	purine nucleobase metabolic process	BP
+Gene_001882	1	p-loop containing nucleoside triphosphate hydrolase	1	1	0	0	0	0	0	0	0	44.26053	30.77226	31.19942	32.25457	39.5788	39.66173	GO:0006144	purine nucleobase metabolic process	BP
+Gene_001887	1	adenylate kinase	1	1	0	0	0	0	0	-1	-1	213.8695	158.8456	165.8168	200.687	230.8222	228.6654	GO:0006144	purine nucleobase metabolic process	BP
+Gene_002279	1	amp deaminase	0	0	0	0	0	0	0	-1	0	318.5142	272.8212	278.3588	322.5573	376.1561	343.7246	GO:0006144	purine nucleobase metabolic process	BP
+Gene_002300	1	adenylate kinase	0	0	0	0	0	0	0	-1	0	113.09753	97.8363	94.27183	97.14678	118.24498	93.9346	GO:0006144	purine nucleobase metabolic process	BP
+Gene_002369	1	dna-directed rna polymerase ii subunit rpb2	0	0	0	0	0	0	0	-1	-1	343.9081	300.8984	314.0964	385.3707	422.1312	433.8727	GO:0006144	purine nucleobase metabolic process	BP
+Gene_002948	1	dna-directed rna polymerase ii subunit 4-like	0	0	0	0	0	0	0	-1	0	107.83813	92.96722	95.9872	103.73317	120.17588	92.36297	GO:0006144	purine nucleobase metabolic process	BP
+Gene_003298	1	dna-directed rna polymerases and iii subunit	0	0	0	0	0	0	0	-1	0	64.99222	55.82285	54.48778	67.77924	71.22171	57.73676	GO:0006144	purine nucleobase metabolic process	BP
+Gene_003332	1	dna-directed rna polymerase and iii subunit rpabc5	0	0	0	0	0	0	0	-1	0	74.10611	68.56534	62.80022	80.5234	86.51273	64.17322	GO:0006144	purine nucleobase metabolic process	BP
+Gene_003690	1	dna-directed rna polymerase i subunit rpa43	0	0	0	0	0	0	0	-1	0	119.20959	99.25305	93.12568	100.90465	121.46423	106.03107	GO:0006144	purine nucleobase metabolic process	BP
+Gene_004227	1	beta and beta-prime subunits of dna dependent rna-polymerase	1	1	0	0	0	0	0	-1	-1	269.7007	206.6472	195.5057	247.665	272.9022	287.9821	GO:0006144	purine nucleobase metabolic process	BP
+Gene_004498	1	dna-directed rna polymerase iii subunit rpc6-like isoform x1	0	1	0	0	0	0	0	0	0	113.09033	97.76176	89.60037	98.16264	110.28895	94.16567	GO:0006144	purine nucleobase metabolic process	BP
+Gene_005050	1	hypothetical protein pbra 000259	0	0	0	0	0	0	0	-1	-1	63.10195	47.78967	49.23405	63.26329	72.09039	86.91736	GO:0006144	purine nucleobase metabolic process	BP
+Gene_005420	1	rna polymerase i associated a49	1	1	0	0	0	0	0	0	-1	85.62953	66.15142	64.40884	75.43681	79.09427	83.79695	GO:0006144	purine nucleobase metabolic process	BP
+Gene_005559	1	dna-directed rna polymerase iii subunit rpc4-like isoform x1	0	0	0	0	0	0	0	-1	-1	62.36862	57.54987	58.77009	66.82981	70.25893	73.69886	GO:0006144	purine nucleobase metabolic process	BP
+Gene_005787	1	dna-directed rna polymerases and iii subunit rpabc2-like	1	0	0	0	0	0	0	0	0	29.10934	22.44219	22.53129	25.74185	25.23763	24.59891	GO:0006144	purine nucleobase metabolic process	BP
+Gene_006637	1	adenylosuccinate lyase	1	1	0	0	0	0	0	-1	-1	126.1515	101.751	98.7969	105.9955	125.7071	129.8848	GO:0006144	purine nucleobase metabolic process	BP
+Gene_006953	1	dna-directed rna polymerase iii subunit rpc5	0	1	0	0	0	0	0	0	0	186.2911	162.3257	145.3902	172.8529	187.6199	176.953	GO:0006144	purine nucleobase metabolic process	BP
+Gene_007524	1	dna-directed rna polymerase i complex largesubunit nuc1	1	1	0	0	0	0	0	-1	-1	217.1682	173.8538	158.3606	192.416	216.7122	225.2141	GO:0006144	purine nucleobase metabolic process	BP
+Gene_007525	1	rna polymerase iii subunit	1	1	0	0	0	0	0	-1	-1	115.27709	90.24367	86.33346	110.91948	121.75405	120.2363	GO:0006144	purine nucleobase metabolic process	BP
+Gene_007604	1	guanine deaminase	0	0	0	0	0	0	-1	-1	-1	327.2744	309.7051	333.5561	408.3458	433.1494	452.489	GO:0006144	purine nucleobase metabolic process	BP
+Gene_008123	1	hypothetical protein pbra 001897	0	0	0	0	0	0	0	0	-1	116.60543	104.12823	93.17567	108.23707	125.49936	129.51424	GO:0006144	purine nucleobase metabolic process	BP
+Gene_008876	1	dna-directed rna polymerase iii subunit rpc8-like	0	1	0	0	0	0	0	0	0	43.2905	35.11116	31.21451	34.83394	44.88338	39.74501	GO:0006144	purine nucleobase metabolic process	BP
+Gene_009187	1	camp-specific 3 ;5-camp phosphodiesterase 4	0	0	0	0	0	0	-1	0	0	1.586661	2.038949	1.858391	3.223594	2.773584	1.956752	GO:0006144	purine nucleobase metabolic process	BP
+Gene_009908	1	dna-directed rna polymerases and iii subunit rpabc1	1	1	0	0	0	0	0	0	0	209.3648	165.2535	159.8308	168.3188	195.2447	176.4825	GO:0006144	purine nucleobase metabolic process	BP
+Gene_011772	1	dna-directed rna polymerase ii subunit 1	0	0	0	0	0	0	0	-1	-1	454.5259	421.2851	394.8477	562.596	654.8167	627.4208	GO:0006144	purine nucleobase metabolic process	BP
+Gene_012614	1	putative rpc11-dna-directed rna polymerase iii subunit c11	1	1	0	0	0	0	0	-1	0	64.77952	52.26174	48.03007	61.8921	77.11088	59.28339	GO:0006144	purine nucleobase metabolic process	BP

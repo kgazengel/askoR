@@ -1,0 +1,15 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000805	NOT DE	v-type proton atpase subunit g1-like	0	0	0	0	0	0	0	0	0	35.11188	32.57904	33.10426	32.14488	33.00846	30.05908	GO:0005774	vacuolar membrane	CC
+Gene_000923	NOT DE	rab gtpase	0	0	0	0	0	0	0	0	0	451.1919	504.3582	524.9927	512.9585	489.0737	470.743	GO:0005774	vacuolar membrane	CC
+Gene_001062	NOT DE	v-type h+-transporting atpase 16kda proteolipid subunit	0	0	0	0	0	0	0	0	0	278.4983	242.8068	266.7036	237.9677	254.6737	236.8131	GO:0005774	vacuolar membrane	CC
+Gene_001433	NOT DE	vac14 homolog	0	0	0	0	0	0	0	0	0	86.27357	81.62804	81.07156	82.48494	86.2858	87.85201	GO:0005774	vacuolar membrane	CC
+Gene_002341	NOT DE	20s proteasome subunit beta 1	0	0	0	0	0	0	0	0	0	238.357	225.0279	245.6416	228.8923	233.1549	244.7505	GO:0005774	vacuolar membrane	CC
+Gene_002860	NOT DE	dep domain containing	0	0	0	0	0	0	0	0	0	98.66486	104.32568	115.73846	111.48999	105.98285	102.52141	GO:0005774	vacuolar membrane	CC
+Gene_003388	NOT DE	proton proton transport	0	0	0	0	0	0	0	0	0	16.71407	13.95438	17.11259	13.80321	14.2438	15.77686	GO:0005774	vacuolar membrane	CC
+Gene_003389	NOT DE	v0 a0 116-kda subunit of atpase	0	0	0	0	0	0	0	0	0	142.1141	136.0153	151.4594	131.2485	121.8639	126.2939	GO:0005774	vacuolar membrane	CC
+Gene_003679	NOT DE	hypothetical protein pbra 004381	0	0	0	0	0	0	0	0	0	20.98371	19.87367	22.71296	18.86532	16.81329	23.20211	GO:0005774	vacuolar membrane	CC
+Gene_006054	NOT DE	v-type proton atpase subunit h	0	0	0	0	0	0	0	0	0	82.24251	88.86459	94.28166	80.42072	75.05945	78.49288	GO:0005774	vacuolar membrane	CC
+Gene_007557	NOT DE	proteasome subunit alpha type-6-a	0	0	0	0	0	0	0	0	0	417.1836	377.1572	416.4488	364.4674	391.399	389.059	GO:0005774	vacuolar membrane	CC
+Gene_009355	NOT DE	vac14 homolog isoform x2	0	0	0	0	0	0	0	0	0	121.2538	118.8288	125.6155	122.5394	120.8175	110.5191	GO:0005774	vacuolar membrane	CC
+Gene_010844	NOT DE	sphingosine kinase 2 isoform x1	0	0	0	0	0	0	0	0	0	2.946843	2.706867	2.632141	3.679564	4.297343	3.2453	GO:0005774	vacuolar membrane	CC
+Gene_012402	NOT DE	hypothetical protein pbra 008462	0	0	0	0	0	0	0	0	0	8.551377	8.276635	8.855956	8.454941	8.475147	11.147254	GO:0005774	vacuolar membrane	CC

@@ -1,0 +1,9 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000389	NOT DE	chromate transporter	0	0	0	0	0	0	0	0	0	10.993	14.18505	16.03571	10.16586	10.05725	10.48737	GO:0008509	anion transmembrane transporter activity	MF
+Gene_000594	NOT DE	tricarboxylate transport mitochondrial-like	0	0	0	0	0	0	0	0	0	57.19893	54.73927	57.33629	66.92497	65.34087	62.12694	GO:0008509	anion transmembrane transporter activity	MF
+Gene_002356	NOT DE	anion permease arsb family	0	0	0	0	0	0	0	0	0	11.596577	9.956686	9.394215	8.640796	9.298541	8.114285	GO:0008509	anion transmembrane transporter activity	MF
+Gene_002568	NOT DE	mfs general substrate transporter	0	0	0	0	0	0	0	0	0	116.8289	121.1172	126.4447	119.3683	116.2904	112.7423	GO:0008509	anion transmembrane transporter activity	MF
+Gene_006376	NOT DE	adp;atp carrier 1	0	0	0	0	0	0	0	0	0	3.198991	2.95958	2.348961	5.196313	4.482485	3.497175	GO:0008509	anion transmembrane transporter activity	MF
+Gene_006900	NOT DE	molybdate-anion transporter	0	0	0	0	0	0	0	0	0	226.4761	218.657	220.1819	205.4789	209.9816	250.9871	GO:0008509	anion transmembrane transporter activity	MF
+Gene_009943	NOT DE	chloride channel ( ) family	0	0	0	0	0	0	0	0	0	81.67205	90.07115	98.13654	93.6022	94.08934	88.02271	GO:0008509	anion transmembrane transporter activity	MF
+Gene_012534	NOT DE	cystinosin homolog	0	0	0	0	0	0	0	0	0	27.73377	25.46688	24.93933	30.40371	30.3154	32.83808	GO:0008509	anion transmembrane transporter activity	MF

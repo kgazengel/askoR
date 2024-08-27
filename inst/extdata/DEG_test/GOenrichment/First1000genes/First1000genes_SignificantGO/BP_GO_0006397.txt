@@ -1,0 +1,18 @@
+Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000128	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0006397	mRNA processing	BP
+Gene_000159	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0006397	mRNA processing	BP
+Gene_000236	cap-specific mrna (nucleoside-2-o-)-methyltransferase 2	0	0	0	0	0	0	0	-1	0	96.93024	92.97364	89.56658	106.79632	112.73034	105.95614	GO:0006397	mRNA processing	BP
+Gene_000356	pre-mrna-splicing factor spf27 homolog	0	0	0	0	0	0	0	-1	0	69.45974	57.75266	57.18269	62.4129	75.74674	62.36426	GO:0006397	mRNA processing	BP
+Gene_000413	u6 snrna-associated sm lsm2	0	0	0	0	0	0	0	0	0	68.49897	59.25785	58.35326	56.37641	65.17037	62.97209	GO:0006397	mRNA processing	BP
+Gene_000447	splicing factor u2af small subunit b	0	0	0	0	0	0	0	-1	0	256.1132	224.6879	222.0729	255.7248	278.6687	257.2362	GO:0006397	mRNA processing	BP
+Gene_000544	small nuclear ribonucleo g	0	0	0	0	0	0	0	0	0	132.0612	110.5281	110.3523	115.5929	129.0372	107.4695	GO:0006397	mRNA processing	BP
+Gene_000571	rna-binding 8a-like	0	0	0	0	0	0	0	0	0	126.0258	113.5361	106.8214	115.5844	127.3906	106.6473	GO:0006397	mRNA processing	BP
+Gene_000784	g-patch domain-containing	0	0	0	0	0	0	0	0	0	28.80051	27.45481	32.22693	24.32287	24.92631	31.18108	GO:0006397	mRNA processing	BP
+Gene_000860	rrna biogenesis rrp5 isoform x1	1	1	0	0	0	0	0	-1	-1	406.5807	312.011	300.9176	363.2839	391.9832	395.8264	GO:0006397	mRNA processing	BP
+Gene_000867	mrna-capping enzyme	0	0	0	0	0	0	0	0	0	94.69876	85.64067	97.11219	83.63569	79.44452	82.02339	GO:0006397	mRNA processing	BP
+Gene_000871	u4 u6 small nuclear ribonucleo prp3 isoform x3	0	0	0	0	0	0	0	0	0	149.1789	130.2614	128.8062	133.4815	145.7074	154.9812	GO:0006397	mRNA processing	BP
+Gene_000898	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0006397	mRNA processing	BP
+Gene_001013	pre-mrna cleavage factor im 25 kda subunit 2	1	1	0	0	0	0	0	-1	0	48.26865	37.80747	36.3032	44.15258	57.23866	47.38259	GO:0006397	mRNA processing	BP
+Gene_001014	pre-mrna cleavage factor im 25 kda subunit 1-like	1	1	0	0	0	0	0	-1	0	29.56999	21.2043	21.82029	27.77194	32.4808	28.95579	GO:0006397	mRNA processing	BP
+Gene_001093	rna-binding	1	0	0	0	0	0	0	-1	-1	124.9126	101.2912	103.5964	119.971	141.7873	130.8465	GO:0006397	mRNA processing	BP
+Gene_001103	u6 snrna-associated sm lsm5	0	0	0	0	0	0	0	0	0	55.97281	55.10414	55.76108	48.99013	51.42565	46.94754	GO:0006397	mRNA processing	BP

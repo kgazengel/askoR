@@ -1,0 +1,34 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000011	1	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_000128	1	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_000159	1	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_000638	1	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_001399	1	aar2 homolog	0	0	0	0	0	0	0	-1	-1	42.73227	37.78658	36.64341	45.40581	53.35403	50.03045	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_001432	1	eukaryotic translation initiation factor 3 subunit h isoform x1	1	1	0	0	0	0	0	-1	-1	319.3354	269.2583	245.533	297.507	328.2769	327.7751	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_001575	1	eukaryotic translation initiation factor 3 subunit i	1	1	0	0	0	0	0	-1	-1	338.6749	270.7835	255.8494	302.7569	323.5651	329.2613	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_002043	1	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_002231	1	eukaryotic translation initiation factor 2 gamma	0	0	0	0	0	0	0	-1	-1	350.6763	301.2976	293.2374	339.0927	381.4158	402.3462	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_002374	1	ribosome production factor 2 homolog	1	1	0	0	0	0	0	-1	0	278.3937	218.7487	207.3117	247.6753	261.4164	250.5145	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_002519	1	mrna turnover 4 homolog	1	1	0	0	0	0	1	-1	0	191.0472	147.6175	141.0942	147.6701	177.5743	158.318	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_003187	1	crooked neck 1	0	0	0	0	0	0	0	-1	0	355.735	306.7533	304.6716	339.7136	392.9204	354.5409	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_003281	1	box c d snorna 1	0	0	0	-1	0	0	0	-1	0	154.1813	133.8625	132.5376	137.0053	167.8539	158.8655	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_003588	1	chloride conductance regulatory icln	0	0	0	0	0	0	0	-1	0	244.2792	203.3319	198.188	221.0448	246.1043	236.6319	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_004571	1	eukaryotic translation initiation factor 3 subunit g-like	1	1	0	0	0	0	0	-1	-1	357.3758	294.7929	282.078	340.6064	377.2963	366.0941	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_004797	1	40s ribosomal s15-4-like	1	0	0	0	0	0	0	-1	0	670.5031	501.9372	520.0972	554.9307	649.36	663.1503	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_006902	1	small nuclear ribonucleo sm d3	1	0	0	0	0	0	0	0	0	263.1283	205.3701	216.0598	223.0306	236.6284	245.8932	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_006983	1	eukaryotic translation initiation factor 3 subunit l-like	1	1	0	0	0	0	0	-1	-1	385.1442	300.5076	306.4407	361.4896	389.4918	423.173	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_007055	1	eukaryotic translation initiation factor 3	1	1	0	0	0	0	0	-1	-1	453.7682	372.7369	350.5364	445.3817	493.3851	515.0635	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_007056	1	eukaryotic translation initiation factor 3 subunit b-like	0	0	0	0	0	0	0	-1	0	24.86984	20.41755	21.62592	24.81432	28.19578	28.25013	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_007327	1	ribosomal s2	1	0	0	0	0	0	0	-1	0	1670.305	1299.323	1312.467	1366.802	1600.851	1676.081	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_007673	1	thioredoxin 4a isoform x1	0	0	0	0	0	0	0	-1	-1	180.3136	162.2709	155.0364	209.3976	220.0971	200.0843	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_007936	1	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_008523	1	60s ribosome subunit biogenesis nip7 homolog	1	1	0	0	0	0	0	-1	0	118.3025	90.87845	85.58535	95.15268	109.61261	97.62119	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_008747	1	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_008764	1	dead-domain-containing [cutaneotrichosporon oleaginosum]	1	0	0	0	0	0	0	-1	-1	1480.922	1220.242	1212.977	1470.77	1570.161	1704.618	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_008974	1	component of cytosolic 80s ribosome and 40s small subunit	0	0	0	0	0	0	1	0	0	1068.5893	853.3302	852.3765	800.259	933.808	1057.5549	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_009937	1	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_010516	1	60s ribosomal	1	0	0	0	0	0	0	0	-1	644.9048	492.9606	488.8513	528.6603	582.3058	683.23	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_011827	1	small nuclear ribonucleoprotein sm d1	0	0	0	0	0	0	0	-1	-1	74.5853	64.32925	62.79492	88.73225	94.19972	81.16159	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_012162	1	ribosome biogenesis protein brx1 homolog	0	0	0	0	0	0	0	0	-1	96.84194	82.47712	69.1547	91.40763	101.75288	107.81511	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_012364	1	translation initiation factor aif-2	0	0	0	0	0	0	0	0	-1	449.1654	415.173	371.1611	458.1855	517.0548	538.7777	GO:0022618	ribonucleoprotein complex assembly	BP
+Gene_012424	1	pre-mrna-processing-splicing factor 8-like	0	0	0	0	0	0	0	-1	-1	33.2376	28.30804	29.60017	39.58803	45.32551	41.14596	GO:0022618	ribonucleoprotein complex assembly	BP

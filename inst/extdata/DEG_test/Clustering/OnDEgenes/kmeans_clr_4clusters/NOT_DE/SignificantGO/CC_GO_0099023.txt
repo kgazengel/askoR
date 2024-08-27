@@ -1,0 +1,20 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000222	NOT DE	conserved oligomeric golgi complex subunit 7 isoform x1	0	0	0	0	0	0	0	0	0	130.7938	117.2849	124.1214	120.695	124.2505	123.8625	GO:0099023	vesicle tethering complex	CC
+Gene_001029	NOT DE	exocyst complex component exo70a1-like	0	0	0	0	0	0	0	0	0	195.8137	176.8542	186.2815	180.1225	216.2929	194.4888	GO:0099023	vesicle tethering complex	CC
+Gene_001183	NOT DE	trafficking particle complex subunit 5	0	0	0	0	0	0	0	0	0	43.02511	39.51857	39.71072	39.3303	43.8261	38.34613	GO:0099023	vesicle tethering complex	CC
+Gene_001357	NOT DE	exocyst complex component sec3a-like isoform x1	0	0	0	0	0	0	0	0	0	221.196	210.802	219.7619	218.3115	225.9489	229.3025	GO:0099023	vesicle tethering complex	CC
+Gene_001870	NOT DE	exocyst complex component 4	0	0	0	0	0	0	0	0	0	84.89881	75.93096	77.42733	83.92002	88.64062	92.49618	GO:0099023	vesicle tethering complex	CC
+Gene_003815	NOT DE	hypothetical protein pbra 006877	0	0	0	0	0	0	0	0	0	58.64922	76.8215	81.78276	52.94202	46.23942	62.07284	GO:0099023	vesicle tethering complex	CC
+Gene_004557	NOT DE	exocyst complex subunit 2	0	0	0	0	0	0	0	0	0	146.4029	147.7827	147.9162	151.0406	158.961	140.7905	GO:0099023	vesicle tethering complex	CC
+Gene_004558	NOT DE	exocyst complex component sec5 [rhodotorula toruloides np11]	0	0	0	0	0	0	0	0	0	29.17848	28.88472	29.67842	29.21781	30.38433	26.93867	GO:0099023	vesicle tethering complex	CC
+Gene_004974	NOT DE	conserved oligomeric golgi complex subunit 5	0	0	0	0	0	0	0	0	0	206.2367	190.8593	195.5254	206.2281	217.5277	219.1148	GO:0099023	vesicle tethering complex	CC
+Gene_005120	NOT DE	exocyst complex subunit 8	0	0	0	0	0	0	0	0	0	225.0333	230.5917	243.886	222.5246	223.5801	197.2283	GO:0099023	vesicle tethering complex	CC
+Gene_007039	NOT DE	conserved oligomeric golgi complex subunit 6	0	0	0	0	0	0	0	0	0	100.31413	100.00467	100.04624	93.36012	93.30073	100.87902	GO:0099023	vesicle tethering complex	CC
+Gene_007144	NOT DE	trafficking particle complex subunit	0	0	0	0	0	0	0	0	0	112.0303	107.8722	125.4195	117.581	113.5814	115.9148	GO:0099023	vesicle tethering complex	CC
+Gene_008861	NOT DE	trafficking particle complex subunit 1	0	0	0	0	0	0	0	0	0	30.14337	29.34763	29.48446	25.78642	32.17485	26.89079	GO:0099023	vesicle tethering complex	CC
+Gene_009388	NOT DE	vacuolar sorting-associated 53 a	0	0	0	0	0	0	0	0	0	123.2702	120.9289	125.8987	120.4596	125.0051	115.5754	GO:0099023	vesicle tethering complex	CC
+Gene_009389	NOT DE	vacuolar sorting-associated 53 homolog	0	0	0	0	0	0	0	0	0	10.236527	11.372059	11.994968	9.4753	8.864434	12.633555	GO:0099023	vesicle tethering complex	CC
+Gene_009900	NOT DE	exocyst complex component sec15	0	0	0	0	0	0	0	0	0	131.9313	143.7631	157.4502	129.015	119.7787	127.5575	GO:0099023	vesicle tethering complex	CC
+Gene_010030	NOT DE	snare-like superfamily	0	0	0	0	0	0	0	0	0	18.87425	18.78804	19.69132	18.2082	18.40225	18.2103	GO:0099023	vesicle tethering complex	CC
+Gene_010481	NOT DE	exocyst complex component 5	0	0	0	0	0	0	0	0	0	87.27706	86.05848	86.52917	89.08142	88.00145	94.66942	GO:0099023	vesicle tethering complex	CC
+Gene_010854	NOT DE	conserved oligomeric golgi complex subunit 8	0	0	0	0	0	0	0	0	0	22.22615	21.77177	26.3266	13.24991	14.4626	22.4548	GO:0099023	vesicle tethering complex	CC

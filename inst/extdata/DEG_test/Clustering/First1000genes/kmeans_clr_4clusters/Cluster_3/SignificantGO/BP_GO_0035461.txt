@@ -1,0 +1,6 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000828	3	hypothetical protein pbra 005136	0	0	0	0	0	0	0	-1	-1	289.1682	256.8566	248.5229	374.4164	466.5635	373.9357	GO:0035461	vitamin transmembrane transport	BP
+Gene_000829	3	hypothetical protein pbra 005137	0	0	0	0	0	0	0	-1	0	36.81319	35.05196	39.36481	44.30686	46.23526	50.16889	GO:0035461	vitamin transmembrane transport	BP
+Gene_000830	3	hypothetical protein pbra 005137	0	0	0	0	0	-1	0	0	-1	8.596516	8.403103	9.993591	13.304909	10.890897	24.378242	GO:0035461	vitamin transmembrane transport	BP
+Gene_000896	3	thiamine transporter 2-like	0	0	0	0	0	0	0	-1	-1	66.38253	52.96616	51.99334	64.91238	70.34348	70.32865	GO:0035461	vitamin transmembrane transport	BP
+Gene_000897	3	hypothetical protein pbra 005191	0	0	0	0	0	0	0	-1	0	48.97939	43.80443	39.52654	53.66932	59.63517	52.39104	GO:0035461	vitamin transmembrane transport	BP

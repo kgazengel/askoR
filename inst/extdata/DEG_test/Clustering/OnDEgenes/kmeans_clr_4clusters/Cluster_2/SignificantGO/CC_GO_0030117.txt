@@ -1,0 +1,8 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000058	2	ap-5 complex subunit beta-1-like	-1	0	0	1	0	0	0	1	1	11.936759	19.434774	18.205408	13.5452	7.787857	9.16552	GO:0030117	membrane coat	CC
+Gene_001381	2	ap-2 complex subunit sigma-like	0	0	0	0	0	0	0	0	1	45.27758	51.93888	55.10345	48.53794	46.51802	41.42073	GO:0030117	membrane coat	CC
+Gene_001627	2	clathrin light chain	0	0	0	0	0	0	0	0	1	236.2529	248.0309	267.2818	220.5265	226.0851	203.9209	GO:0030117	membrane coat	CC
+Gene_003856	2	ap-2 complex subunit mu	0	0	0	0	0	0	0	1	1	156.7438	184.8111	189.2992	160.0136	149.9524	146.7441	GO:0030117	membrane coat	CC
+Gene_009032	2	ap-4 complex subunit epsilon	0	0	0	0	0	0	0	1	0	106.08166	123.49644	120.99238	100.84561	95.67975	113.39601	GO:0030117	membrane coat	CC
+Gene_012016	2	clathrin heavy chain	0	-1	0	0	0	0	0	0	0	769.4604	872.4109	1014.1687	934.6537	828.8035	875.2104	GO:0030117	membrane coat	CC
+Gene_012550	2	adaptor protein complex 2 subunit alpha 1	-1	-1	0	1	0	0	-1	1	1	119.7454	186.5042	188.0929	174.5086	125.7671	127.3431	GO:0030117	membrane coat	CC

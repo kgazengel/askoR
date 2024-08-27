@@ -1,0 +1,5 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000152	1	carbohydrate-binding module family 18	-1	0	0	1	0	0	0	1	0	1.1659068	2.775951	2.3990818	1.6851106	0.3986864	0.9242537	GO:0008061	chitin binding	MF
+Gene_000951	1	hypothetical protein pbra 005232	-1	-1	0	1	0	0	0	1	1	5.693909	15.883098	15.805084	9.890266	3.599141	6.942315	GO:0008061	chitin binding	MF
+Gene_000952	1	multiple epidermal growth factor-like domains 6	-1	-1	0	1	0	0	-1	1	1	6.952301	15.479029	21.857399	13.412975	4.272011	6.694598	GO:0008061	chitin binding	MF
+Gene_001005	1	hypothetical protein pbra 002551	-1	-1	0	1	0	0	0	1	1	79.12848	231.13929	206.90605	155.2295	46.97663	83.24116	GO:0008061	chitin binding	MF

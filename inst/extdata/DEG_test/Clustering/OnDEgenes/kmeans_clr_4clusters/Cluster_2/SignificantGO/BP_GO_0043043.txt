@@ -1,0 +1,17 @@
+Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
+Gene_000063	2	glutamate-cysteine ligase catalytic subunit	0	0	0	0	0	0	0	1	1	119.6024	163.3073	164.0315	132.77	113.0143	104.1222	GO:0043043	peptide biosynthetic process	BP
+Gene_004228	2	mitochondrial substrate carrier family	0	0	0	0	0	0	0	0	1	89.92797	92.52737	98.45677	78.30522	77.87286	72.63098	GO:0043043	peptide biosynthetic process	BP
+Gene_004229	2	mitochondrial substrate carrier family	0	0	0	0	0	0	0	0	1	78.23936	80.25753	86.8342	69.56114	71.31713	58.93785	GO:0043043	peptide biosynthetic process	BP
+Gene_005592	2	glutathione gamma-glutamylcysteinyltransferase 1-like isoform x2	0	0	0	0	0	0	1	0	0	34.26414	32.406	35.02338	25.37756	27.51917	26.46197	GO:0043043	peptide biosynthetic process	BP
+Gene_006530	2	mitochondrial carrier	0	0	0	0	0	0	0	1	1	117.33778	117.53885	128.76388	98.79891	88.23469	84.40689	GO:0043043	peptide biosynthetic process	BP
+Gene_006695	2	histidine phosphatase family	0	0	0	0	0	0	1	1	0	3.72834	3.275059	3.772595	1.736185	1.813209	1.87349	GO:0043043	peptide biosynthetic process	BP
+Gene_006968	2	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0043043	peptide biosynthetic process	BP
+Gene_008150	2	mitochondrial carrier yel006n	0	0	0	0	0	0	0	0	1	4.725387	5.436737	4.856823	2.720763	3.875485	2.096224	GO:0043043	peptide biosynthetic process	BP
+Gene_010105	2	rf-1 domain-domain-containing	0	0	0	0	0	0	0	1	0	7.771497	9.242038	8.143324	4.74155	5.141644	7.745833	GO:0043043	peptide biosynthetic process	BP
+Gene_010707	2	histone-like transcription factor	-1	0	0	0	0	0	0	1	0	20.64892	30.49527	28.00051	22.40742	18.72175	19.64248	GO:0043043	peptide biosynthetic process	BP
+Gene_012213	2	50s ribosomal protein l16	0	0	0	0	0	0	0	1	0	1.2062545	2.220118	1.4814911	0.7045786	0.3755225	0.4413113	GO:0043043	peptide biosynthetic process	BP
+Gene_012215	2	50s ribosomal protein l14	0	0	0	0	0	0	0	1	0	0.992321	2.1488305	1.5234609	0.7832998	0.4853588	0.5016791	GO:0043043	peptide biosynthetic process	BP
+Gene_012261	2	30s ribosomal protein s4	0	0	0	0	0	0	0	1	0	0.555269	0.7524646	0.700005	0.5798069	0.1160252	0.3809434	GO:0043043	peptide biosynthetic process	BP
+Gene_012265	2	50s ribosomal protein l6	-1	-1	0	0	0	0	0	1	0	0.5757723	1.5452283	1.5638006	0.5795098	0.5184346	0.8160092	GO:0043043	peptide biosynthetic process	BP
+Gene_012269	2	30s ribosomal protein s13	0	0	0	0	0	0	0	1	0	0.7648722	1.0797058	0.9395845	0.6414042	0.2901072	0.5016791	GO:0043043	peptide biosynthetic process	BP
+Gene_012663	2	elongation factor 1-alpha	-1	0	0	0	0	0	0	0	0	19.62081	28.56868	21.95109	28.36918	21.40256	17.52543	GO:0043043	peptide biosynthetic process	BP

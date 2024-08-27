@@ -55,7 +55,7 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
     }
   }
   else {
-    img_Clustering_dir = paste0(CLUST_dir, "OnSpecificList_",title,"/")
+    img_Clustering_dir = paste0(CLUST_dir, title,"/")
     if(dir.exists(img_Clustering_dir)==FALSE){
       dir.create(img_Clustering_dir)
       cat("Directory: ",img_Clustering_dir," created\n")
@@ -398,7 +398,7 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
 
     # GO enrichment in the cluster for MF, CC, and BP category (if annotation file is provided)
     if(is.null(parameters$geneID2GO_file)==FALSE){
-      img_GOtoGene_dir = paste0(img_CLUST_dir,"SignificantGO_to_Genes/")
+      img_GOtoGene_dir = paste0(img_CLUST_dir,"SignificantGO/")
       if(dir.exists(img_GOtoGene_dir)==FALSE){
         dir.create(img_GOtoGene_dir)
         cat("Directory: ",img_GOtoGene_dir," created\n")
