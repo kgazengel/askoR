@@ -1662,6 +1662,31 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
     utils::write.table(sum, file=sumFile, col.names=NA, row.names=TRUE, quote=FALSE, sep='\t')
   }
 
+  # DE graph in contrasts
+  tableau = data.frame(contrast=colnames(data_list$contrast), UP=0, DOWN=0)
+
+  for (i in 1:ncol(data_list$contrast)) {
+    tableau[i,2]<-sum(sum[,tableau$contrast[i]]==1)
+    tableau[i,3]<-sum(sum[,tableau$contrast[i]]==-1)
+  }
+
+  tableau_final = tidyr::pivot_longer(tableau, cols = c("UP","DOWN"))
+  comp_names <- c( `UP` = "UP in first condition", `DOWN` = "DOWN in first condition")
+
+  ggplot2::ggplot(data=tableau_final, aes(x=tableau_final$contrast, y=tableau_final$value, fill=tableau_final$name)) +
+    geom_bar(stat="identity")+
+    geom_text(aes(label=tableau_final$value), vjust=-0.5,
+              color="black", size=3.5)+
+    scale_fill_brewer(palette="Paired", labels=comp_names)+
+    ylim(0, max(tableau_final$value)+(0.1*max(tableau_final$value)))+
+    #theme_minimal()+
+    facet_wrap(~fct_rev(name), ncol=1)+
+    labs(fill = "Differential\nExpression",title = "Number of DEGs in each contrast", subtitle="(DEGs = Diffentially Expressed Genes)")+
+    ylab("Number of DEGs")+
+    xlab("Contrast")
+  ggplot2::ggsave(filename=paste0(image_dir,"DEGsnumber_InContrasts.png"),width=10+(0.5*ncol(data_list$contrast)), height=10)
+
+
   # reformate summary result table
   newMat <- as.data.frame(matrix(unlist(sum), nrow=nrow(sum)))
   rownames(newMat)<-rownames(sum)

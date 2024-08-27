@@ -1,3 +1,7 @@
-^askoR\.Rproj$
+^askoR.Rproj$
 ^\.Rproj\.user$
 ^ScriptR$
+
+^.*\.Rproj$
+
+^cran-comments\.md$

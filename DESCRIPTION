@@ -3,7 +3,7 @@ Title: askoR - Differential Expresion Analysis using edgeR
 Version: 1.0.0
 Author: Fabrice Legeai, Kévin Gazengel, Susete Alves Carvalho
 Maintainer: Fabrice Legeai <fabrice.legeai@inrae.fr>, Kévin Gazengel <kevin.gazengel@inrae.fr>, Susete Alves Carvalho <susete.alves-carvalho@inrae.fr>
-Description: AskoR is a pipeline for the analysis of gene expression data, using edgeR. 
+Description: askoR is a pipeline for the analysis of gene expression data, using edgeR. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
@@ -32,7 +32,8 @@ Imports:
     Glimma,
     ComplexHeatmap,
     circlize,
-    coseq
+    coseq,
+    tidyr
 Suggests: 
     futile.logger,
     methods,
