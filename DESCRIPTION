@@ -1,5 +1,5 @@
 Package: askoR
-Title: Differential Expression Analysis using edgeR
+Title: Differential Expression Analysis using 'edgeR'
 Version: 1.0.0
 Date: 2024-08-29
 Authors@R: c(person(given = "Fabrice",
@@ -9,11 +9,11 @@ Authors@R: c(person(given = "Fabrice",
                       family = "Gazengel",
                       role = c("aut", "cre"),
                       email = "kevin.gazengel@inrae.fr"),
-               person(given = c("Susete", "Alves"),
-                      family = "Carvalho",
+               person(given = c("Susete",),
+                      family = "Alves Carvalho",
                       role = "aut"))
 Maintainer: Kévin Gazengel <kevin.gazengel@inrae.fr>
-Description: askoR is a pipeline for the analysis of gene expression data, using edgeR. 
+Description: Pipeline for the analysis of gene expression data, using 'edgeR' for differential analysis, 'topGO' for GOenrichment, and 'coseq' for gene clustering. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
