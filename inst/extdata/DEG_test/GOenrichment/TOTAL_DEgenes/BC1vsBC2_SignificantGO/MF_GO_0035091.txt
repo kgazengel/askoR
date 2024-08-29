@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_003775	tubby homolog isoform x4	-1	-1	0	1	0	0	0	1	1	2.731227	9.113201	8.985152	4.402719	1.659866	3.401421	GO:0035091	phosphatidylinositol binding	MF
-Gene_004734	serine threonine-kinase sgk3	-1	-1	0	1	0	0	-1	1	0	0.8565812	2.997693	2.857463	2.3392045	0.4561832	1.2927061	GO:0035091	phosphatidylinositol binding	MF
-Gene_006623	sorting nexin-24	-1	-1	0	1	0	0	0	1	1	24.17044	45.13302	49.67215	37.58798	22.0083	27.30505	GO:0035091	phosphatidylinositol binding	MF
-Gene_011626	agc kinase	-1	-1	0	1	0	0	0	1	1	73.82065	91.36808	108.33708	87.19519	67.78898	74.70846	GO:0035091	phosphatidylinositol binding	MF
-Gene_012407	eh domain protein	-1	0	0	1	0	0	0	1	1	5.512771	12.214137	9.923494	7.985547	3.816525	4.132081	GO:0035091	phosphatidylinositol binding	MF

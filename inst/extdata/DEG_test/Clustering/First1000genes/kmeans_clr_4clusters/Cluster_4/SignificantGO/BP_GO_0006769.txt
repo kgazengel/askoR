@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000570	4	nad kinase 3	0	0	0	0	0	0	0	0	1	50.34236	53.31412	55.25912	47.72066	43.29944	38.67503	GO:0006769	nicotinamide metabolic process	BP
-Gene_000651	4	sphingosine kinase	0	0	0	0	0	0	0	0	0	4.679626	7.640925	6.462206	8.819662	7.62909	4.500533	GO:0006769	nicotinamide metabolic process	BP

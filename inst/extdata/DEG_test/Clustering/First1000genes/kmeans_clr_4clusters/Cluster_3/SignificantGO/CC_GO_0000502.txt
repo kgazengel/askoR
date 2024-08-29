@@ -1,7 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000171	3	probable proteasome inhibitor	1	0	0	0	0	0	0	-1	-1	104.12839	84.96474	86.56683	101.1425	114.12504	123.22347	GO:0000502	proteasome complex	CC
-Gene_000483	3	26s proteasome non-atpase regulatory subunit 11	0	0	0	0	0	0	0	0	0	641.3745	586.038	607.1126	601.1216	638.4169	632.1585	GO:0000502	proteasome complex	CC
-Gene_000899	3	20s proteasome subunit beta type 1	0	0	0	0	0	0	0	0	0	282.476	275.0422	297.0221	278.2923	272.1176	291.7042	GO:0000502	proteasome complex	CC
-Gene_000909	3	26s proteasome regulatory subunit 7	0	0	0	0	0	0	0	0	0	407.4316	390.1535	401.0214	387.6498	398.4781	401.6561	GO:0000502	proteasome complex	CC
-Gene_000972	3	26s proteasome non-atpase regulatory subunit 8	0	0	0	0	0	0	0	0	0	134.6529	114.5192	125.4073	129.9708	131.0011	149.2108	GO:0000502	proteasome complex	CC
-Gene_001026	3	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0000502	proteasome complex	CC

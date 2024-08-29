@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_002887	4	heat shock ssa2 ( )	-1	0	0	0	0	0	-1	0	0	48.9351	114.96961	49.82127	115.40731	104.98019	55.14089	GO:0016887	ATP hydrolysis activity	MF
-Gene_006335	4	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:0016887	ATP hydrolysis activity	MF
-Gene_006916	4	atp-dependent permease	-1	0	0	0	0	0	0	0	0	3.055527	12.118693	6.606033	9.04937	5.262879	3.497175	GO:0016887	ATP hydrolysis activity	MF
-Gene_006917	4	p-loop containing nucleoside triphosphate hydrolase	-1	0	0	0	0	0	0	0	0	4.291182	12.531988	6.256031	11.314287	6.044034	3.986363	GO:0016887	ATP hydrolysis activity	MF
-Gene_010812	4	snf1-related kinase catalytic subunit alpha kin10	-1	-1	0	1	0	0	-1	1	0	1.485128	5.000756	4.222024	5.71957	2.11098	2.525044	GO:0016887	ATP hydrolysis activity	MF
-Gene_010813	4	abc transporter g family	-1	0	0	1	0	0	-1	1	0	2.220061	7.158159	5.214989	7.650351	2.63531	3.322317	GO:0016887	ATP hydrolysis activity	MF
-Gene_010814	4	abc transporter	-1	0	0	1	0	0	-1	1	0	1.741553	6.038072	3.874467	6.223384	2.494126	3.715751	GO:0016887	ATP hydrolysis activity	MF
-Gene_012083	4	p-loop containing nucleoside triphosphate hydrolase protein	-1	0	0	0	0	0	-1	0	0	0.5200272	2.8050504	0.9750337	3.0225323	1.0990036	1.2323383	GO:0016887	ATP hydrolysis activity	MF

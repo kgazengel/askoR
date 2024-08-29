@@ -1,9 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000915	endothelial monocyte-activating polypeptide ii precursor pro-emap ii family	1	1	0	0	0	0	0	-1	-1	272.0809	228.8476	224.7608	242.8251	285.3787	276.329	GO:0000049	tRNA binding	MF
-Gene_001582	cytoplasmic trna 2-thiolation 1	1	1	0	0	0	0	0	0	0	145.3401	110.5019	105.8541	120.4044	120.4524	120.255	GO:0000049	tRNA binding	MF
-Gene_004916	phenylalanine-trna ligase	1	1	0	0	0	0	0	-1	-1	141.2557	118.5795	114.4781	125.1595	145.5135	142.8868	GO:0000049	tRNA binding	MF
-Gene_005578	glutamate-trna ligase	1	0	0	0	0	0	0	-1	-1	105.69497	84.50922	90.46621	104.709	118.3958	127.29101	GO:0000049	tRNA binding	MF
-Gene_007785	phenylalanine-trna ligase alpha cytoplasmic	1	1	0	0	0	0	1	0	-1	346.8543	279.1625	258.99	281.5073	307.1858	336.5242	GO:0000049	tRNA binding	MF
-Gene_008913	methionyl-trna synthetase	1	0	0	0	0	0	0	0	-1	488.3208	407.1885	410.5476	438.4716	470.1946	510.3069	GO:0000049	tRNA binding	MF
-Gene_011438	arginine-trna ligase	1	1	0	0	0	0	0	-1	-1	327.8552	263.2239	251.2182	299.1615	354.6968	373.101	GO:0000049	tRNA binding	MF
-Gene_011656	isoleucine-trna cytoplasmic	1	1	0	0	0	0	0	-1	-1	564.9857	457.3888	445.7638	556.9836	666.0255	694.1836	GO:0000049	tRNA binding	MF

@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000671	1	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0006749	glutathione metabolic process	BP
-Gene_000884	1	glutathione s-transferase kappa 1 [rhodotorula toruloides np11]	-1	-1	0	1	0	0	0	1	1	1.3497661	3.8698314	4.2525825	1.8309231	0.4780014	0.8701314	GO:0006749	glutathione metabolic process	BP

@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_002198	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	1	44.05302	52.82204	60.31195	36.18611	30.54178	36.9556	GO:0006552	leucine catabolic process	BP
-Gene_004814	2	3-hydroxyisobutyrate dehydrogenase	-1	-1	0	0	0	0	-1	1	1	37.31504	63.20425	64.53397	57.20906	45.16399	42.62602	GO:0006552	leucine catabolic process	BP
-Gene_005222	2	branched-chain amino acid aminotransferase	0	0	0	0	0	0	0	1	0	12.914852	13.249181	16.817998	9.284981	7.431291	10.870397	GO:0006552	leucine catabolic process	BP
-Gene_005223	2	branched-chain amino acid aminotransferase ii	0	0	0	0	0	0	0	1	0	7.153556	7.825206	9.853424	5.560675	3.863147	6.513495	GO:0006552	leucine catabolic process	BP
-Gene_006928	2	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0006552	leucine catabolic process	BP
-Gene_008247	2	3-oxoacid-transferase	0	0	0	0	0	0	0	1	0	21.38399	32.29429	30.17626	19.98936	16.7249	17.31519	GO:0006552	leucine catabolic process	BP
-Gene_008956	2	3-hydroxyacyl-dehydrogenase	0	0	0	0	0	0	0	1	0	230.8349	257.5443	270.6161	220.191	201.1301	219.2897	GO:0006552	leucine catabolic process	BP
-Gene_009975	2	methylmalonate-semialdehyde dehydrogenase [acylating] mitochondrial	0	-1	0	0	0	0	0	1	1	113.9065	138.7512	153.9319	120.1605	108.375	107.5632	GO:0006552	leucine catabolic process	BP

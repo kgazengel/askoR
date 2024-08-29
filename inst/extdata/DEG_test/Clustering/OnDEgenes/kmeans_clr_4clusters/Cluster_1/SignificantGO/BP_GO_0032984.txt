@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000229	1	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0032984	protein-containing complex disassembly	BP
-Gene_000275	1	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0032984	protein-containing complex disassembly	BP
-Gene_004215	1	peptide chain release factor 1	0	0	0	0	0	0	0	-1	0	118.5865	102.1588	102.3981	116.2957	125.6784	120.3758	GO:0032984	protein-containing complex disassembly	BP
-Gene_004272	1	eukaryotic peptide chain release factor gtp-binding subunit erf3a-like isoform x1	1	0	0	0	0	0	0	-1	-1	550.9606	477.6519	480.91	512.2554	577.8999	597.78	GO:0032984	protein-containing complex disassembly	BP
-Gene_004696	1	eukaryotic translation initiation factor 5a-1-like	1	0	0	0	0	0	0	-1	-1	1192.277	912.3071	936.3317	1043.741	1190.7493	1239.1896	GO:0032984	protein-containing complex disassembly	BP
-Gene_005148	1	actin-depolymerizing factor 7-like	0	0	0	0	0	0	1	0	0	72.4018	61.18766	64.76126	50.80129	60.32177	61.40462	GO:0032984	protein-containing complex disassembly	BP
-Gene_007060	1	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0032984	protein-containing complex disassembly	BP
-Gene_012536	1	putative cofilin	0	0	0	0	0	0	0	-1	-1	247.009	223.6139	235.7975	287.2727	324.8556	309.5648	GO:0032984	protein-containing complex disassembly	BP

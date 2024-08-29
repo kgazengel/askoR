@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000210	4	mitochondrial distribution and morphology	0	0	0	0	0	0	0	0	0	8.79758	11.249158	11.000814	10.342863	10.125355	9.202993	GO:0010876	lipid localization	BP
-Gene_000680	4	upf0554 c2orf43	0	0	0	0	0	0	0	0	0	16.12084	17.69562	19.56138	19.39163	15.68772	16.39927	GO:0010876	lipid localization	BP
-Gene_001022	4	phosphatidylglycerol phosphatidylinositol transfer	-1	-1	0	0	0	0	0	1	1	36.09036	47.03091	50.67771	38.41869	32.24837	29.09735	GO:0010876	lipid localization	BP

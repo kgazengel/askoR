@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001820	40s ribosomal s7	1	1	0	0	0	0	1	0	0	1108.8226	867.6296	840.5388	781.9588	919.8004	971.6368	GO:0042274	ribosomal small subunit biogenesis	BP
-Gene_002642	40s ribosomal s24-1	1	0	0	0	0	0	1	0	0	632.3782	498.5319	484.6473	464.6018	521.8295	546.9733	GO:0042274	ribosomal small subunit biogenesis	BP
-Gene_007936	40s ribosomal s10-like isoform x1	1	0	0	0	0	0	1	0	0	672.2217	530.9495	538.9174	498.2966	575.0723	641.6635	GO:0042274	ribosomal small subunit biogenesis	BP
-Gene_008012	40s ribosomal s21	0	0	0	0	0	0	1	0	0	469.3639	376.3024	341.035	311.9815	337.4141	372.4246	GO:0042274	ribosomal small subunit biogenesis	BP
-Gene_008974	component of cytosolic 80s ribosome and 40s small subunit	0	0	0	0	0	0	1	0	0	1068.5893	853.3302	852.3765	800.259	933.808	1057.5549	GO:0042274	ribosomal small subunit biogenesis	BP

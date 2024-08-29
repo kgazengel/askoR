@@ -1,5 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000194	pyruvate kinase	0	0	0	0	0	0	0	-1	0	427.2105	381.4145	402.3663	410.35	462.839	444.0249	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_000531	ribonucleoside-diphosphate reductase small chain	0	0	0	0	0	0	1	1	1	217.172	195.7217	234.0744	143.7752	134.5333	162.8436	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_000651	sphingosine kinase	0	0	0	0	0	0	0	0	0	4.679626	7.640925	6.462206	8.819662	7.62909	4.500533	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_000823	ribonucleoside-diphosphate reductase subunit alpha	0	0	0	0	0	0	0	0	-1	477.5516	434.2584	458.3589	502.4871	522.8118	596.9142	GO:0009132	nucleoside diphosphate metabolic process	BP

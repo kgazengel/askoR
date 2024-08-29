@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_005821	lysine-trna ligase isoform x2	1	1	0	0	0	0	0	0	-1	279.5477	211.2864	203.1541	235.1486	246.3479	261.8928	GO:0009067	aspartate family amino acid biosynthetic process	BP
-Gene_008346	bifunctional aspartate kinase homoserine dehydrogenase	-1	-1	0	0	0	0	0	1	0	117.1156	135.763	144.6451	131.5649	111.44	122.1806	GO:0009067	aspartate family amino acid biosynthetic process	BP
-Gene_008894	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0009067	aspartate family amino acid biosynthetic process	BP
-Gene_010599	cobalamin-independent methionine synthase	0	-1	0	0	0	0	0	0	1	262.747	356.2638	420.5955	329.3093	265.3181	272.399	GO:0009067	aspartate family amino acid biosynthetic process	BP
-Gene_011531	asparagine synthase (glutamine-hydrolysing)	0	-1	0	1	0	0	0	1	1	387.8902	434.0037	491.9456	348.0262	282.2816	316.0366	GO:0009067	aspartate family amino acid biosynthetic process	BP

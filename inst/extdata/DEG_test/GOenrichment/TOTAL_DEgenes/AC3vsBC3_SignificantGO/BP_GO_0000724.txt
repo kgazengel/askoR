@@ -1,7 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000087	structural maintenance of chromosomes 6-like	0	0	0	0	0	0	0	-1	-1	509.1067	437.0651	449.9503	524.1797	590.4527	570.9495	GO:0000724	double-strand break repair via homologous recombination	BP
-Gene_000744	ubiquitin-conjugating enzyme e2 n	0	0	0	0	0	0	0	-1	-1	6.603716	5.560939	4.919984	9.838239	11.470906	10.35414	GO:0000724	double-strand break repair via homologous recombination	BP
-Gene_001510	breast cancer type 2 susceptibility homolog	0	-1	0	0	0	0	0	1	1	114.69616	136.04774	155.21291	119.85837	98.65996	105.52941	GO:0000724	double-strand break repair via homologous recombination	BP
-Gene_004818	structural maintenance of chromosomes 5 puta	0	0	0	0	0	0	0	-1	-1	235.5796	213.3333	212.6523	247.2381	279.0473	276.1251	GO:0000724	double-strand break repair via homologous recombination	BP
-Gene_004939	dna repair swi5 homolog	0	0	0	0	0	0	0	0	1	28.66847	27.03759	27.67417	22.88964	27.0683	19.18868	GO:0000724	double-strand break repair via homologous recombination	BP
-Gene_005334	dna repair rad51	-1	-1	0	1	0	0	0	1	1	202.5535	390.3918	516.6881	314.3441	133.9251	163.3412	GO:0000724	double-strand break repair via homologous recombination	BP

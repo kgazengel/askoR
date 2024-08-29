@@ -1,8 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000600	2	glutamine-fructose-6-phosphate transaminase (isomerizing)	-1	-1	0	1	0	0	-1	1	1	120.1538	187.6347	186.9381	169.3767	112.6223	117.7446	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_004392	2	glucosamine 6-phosphate n-acetyltransferase	0	0	0	0	0	0	0	0	1	102.30351	115.65245	120.34069	106.56042	97.48728	85.95979	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_005591	2	gdp-l-fucose synthase 2	0	0	0	0	0	0	0	1	0	14.25853	16.34101	17.3864	11.78294	11.35206	11.62395	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_006156	2	nad-dependent epimerase dehydratase family	0	0	0	0	0	0	0	1	0	80.46965	94.08497	98.49551	85.71525	69.33669	79.37761	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_006598	2	glutamine-fructose-6-phosphate transaminase	-1	0	0	0	0	0	0	1	0	99.57143	150.09838	120.84414	132.05578	106.54003	113.13995	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_006968	2	gdp-mannose 4;6 dehydratase	-1	-1	0	1	0	0	0	1	1	351.1223	474.0361	533.1936	429.999	324.4206	370.1596	GO:0009225	nucleotide-sugar metabolic process	BP
-Gene_009482	2	gdp-l-fucose synthetase	0	-1	0	0	0	0	0	1	1	187.5291	214.9001	249.1159	170.2561	144.8793	159.8481	GO:0009225	nucleotide-sugar metabolic process	BP

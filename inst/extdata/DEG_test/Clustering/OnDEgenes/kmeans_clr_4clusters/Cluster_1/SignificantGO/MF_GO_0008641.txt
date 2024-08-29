@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_004042	1	nedd8-activating enzyme e1 regulatory subunit isoform x1	1	0	0	0	0	0	0	0	0	136.0787	113.8413	123.7249	127.4304	132.2761	133.2133	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_005642	1	ubiquitin-like modifier-activating enzyme atg7	0	0	0	0	0	0	-1	0	0	170.376	175.4112	181.8961	205.7332	197.57	195.3298	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_005887	1	multispecies: thiosulfate sulfurtransferase	0	0	0	0	0	0	0	-1	0	34.45945	27.38293	27.5784	32.4291	37.88785	31.28308	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_008875	1	adenylyltransferase and sulfurtransferase mocs3	0	0	0	0	0	0	0	-1	0	98.48184	82.42727	79.8187	93.27447	100.09496	99.35105	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_011538	1	ubiquitin-activating emzyme e1	0	0	0	0	0	0	0	-1	-1	692.7351	622.3932	615.5449	765.9985	876.4234	834.0747	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_012165	1	ubiquitin-activating enzyme e1 c	0	0	0	0	0	0	0	-1	-1	219.2459	185.8852	177.2733	209.5386	248.0817	252.9719	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_012458	1	sumo activating enzyme 2	0	1	0	0	0	0	0	-1	-1	69.15747	59.29143	55.24967	67.77219	74.26933	82.80401	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF
-Gene_012459	1	sumo-activating enzyme subunit 2	0	0	0	0	0	0	0	0	-1	63.18828	57.1263	54.87601	62.11635	68.41988	77.49373	GO:0008641	ubiquitin-like modifier activating enzyme activity	MF

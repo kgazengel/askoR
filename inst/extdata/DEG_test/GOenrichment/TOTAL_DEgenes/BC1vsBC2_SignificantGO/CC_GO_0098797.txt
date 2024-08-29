@@ -1,8 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001894	mac perforin domain containing	-1	-1	0	1	0	0	0	1	1	7.693121	17.764556	18.942493	11.422135	4.670343	9.123889	GO:0098797	plasma membrane protein complex	CC
-Gene_003418	hypothetical protein pbra 003378	-1	-1	0	1	0	0	0	1	1	9.750342	23.996662	23.523899	15.196472	5.064541	3.58877	GO:0098797	plasma membrane protein complex	CC
-Gene_005816	cation channel family (macronuclear)	-1	-1	0	1	0	0	0	1	1	0.6385054	2.3054192	2.3314437	1.1054284	0.2845671	0.2477168	GO:0098797	plasma membrane protein complex	CC
-Gene_006908	callose synthase	-1	-1	0	1	0	0	0	1	1	17.61562	38.21655	40.42948	29.86132	13.10673	19.20535	GO:0098797	plasma membrane protein complex	CC
-Gene_009957	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	0	1	1	26.04005	50.14192	49.52324	40.52153	22.98274	23.81827	GO:0098797	plasma membrane protein complex	CC
-Gene_009958	phosphate abc transporter substrate-binding	-1	-1	0	1	0	0	-1	1	1	15.92027	46.67115	42.50716	33.09745	12.22081	17.16219	GO:0098797	plasma membrane protein complex	CC
-Gene_011906	phosphate abc transporter substrate-binding protein psts	-1	-1	0	1	0	0	-1	0	0	1.283287	3.566294	4.204921	5.096732	1.663589	2.820638	GO:0098797	plasma membrane protein complex	CC

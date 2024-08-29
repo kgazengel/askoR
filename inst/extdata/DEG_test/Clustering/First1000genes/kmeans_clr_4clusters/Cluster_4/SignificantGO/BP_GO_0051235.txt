@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000634	4	vacuolar sorting-associated 13	-1	-1	0	1	0	0	0	1	1	75.87985	116.62669	129.28545	105.90386	72.2416	67.6912	GO:0051235	maintenance of location	BP
-Gene_000680	4	upf0554 c2orf43	0	0	0	0	0	0	0	0	0	16.12084	17.69562	19.56138	19.39163	15.68772	16.39927	GO:0051235	maintenance of location	BP

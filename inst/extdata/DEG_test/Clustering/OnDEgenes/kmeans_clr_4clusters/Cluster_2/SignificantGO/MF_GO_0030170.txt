@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_004265	2	alanine transaminase	0	0	0	0	0	0	0	1	0	28.03825	29.96676	33.05419	26.411	21.54897	23.93068	GO:0030170	pyridoxal phosphate binding	MF
-Gene_005671	2	molybdenum cofactor sulfurase	0	0	0	0	0	0	0	1	1	44.38026	44.27528	49.95447	35.78602	35.12563	36.31861	GO:0030170	pyridoxal phosphate binding	MF
-Gene_007151	2	uncharacterized ph domain-containing	0	0	0	0	0	0	0	1	1	165.6356	181.6053	197.8719	157.7924	144.3175	138.6069	GO:0030170	pyridoxal phosphate binding	MF
-Gene_007152	2	serine palmitoyltransferase 2	0	-1	0	0	0	0	0	1	1	10.9033	17.49319	20.6387	13.66579	10.17711	10.24174	GO:0030170	pyridoxal phosphate binding	MF
-Gene_007153	2	long chain base biosynthesis 2b-like	-1	-1	0	0	0	0	0	1	1	7.077171	11.352061	14.871606	9.383588	5.796076	6.011816	GO:0030170	pyridoxal phosphate binding	MF
-Gene_008894	2	cystathionine gamma-synthase	0	-1	0	0	0	0	0	1	1	100.52387	122.21115	145.03591	97.00504	78.87517	85.68088	GO:0030170	pyridoxal phosphate binding	MF
-Gene_010166	2	pyridoxal-dependent decarboxylase domain-containing 2 isoform x1	0	0	0	0	0	0	0	1	0	5.356981	11.453448	13.17452	6.43437	4.402191	6.652967	GO:0030170	pyridoxal phosphate binding	MF
-Gene_010645	2	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0030170	pyridoxal phosphate binding	MF

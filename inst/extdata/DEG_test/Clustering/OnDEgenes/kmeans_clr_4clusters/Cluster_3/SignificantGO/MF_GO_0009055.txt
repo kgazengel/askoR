@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000671	3	glutathione-disulfide reductase	-1	-1	0	1	0	0	-1	1	1	7.585314	23.301318	22.300721	17.992892	5.481282	8.180899	GO:0009055	electron transfer activity	MF
-Gene_007049	3	xanthine dehydrogenase oxidase-like	0	-1	0	0	0	0	0	1	1	12.71663	20.770786	27.628111	13.008842	9.830852	7.383626	GO:0009055	electron transfer activity	MF
-Gene_010913	3	glutaredoxin	-1	-1	0	1	0	0	0	1	1	2.453462	7.010259	7.335782	3.53124	1.040769	2.356432	GO:0009055	electron transfer activity	MF
-Gene_012217	3	apocytochrome b (mitochondrion)	0	0	0	0	0	0	0	1	0	8.35408	22.067735	17.267841	9.234507	3.03091	11.698915	GO:0009055	electron transfer activity	MF
-Gene_012221	3	cytochrome c oxidase subunit i (mitochondrion)	0	0	0	0	0	0	0	1	0	15.212469	43.480876	27.596336	12.920839	5.864779	20.635472	GO:0009055	electron transfer activity	MF
-Gene_012222	3	cytochrome c oxidase subunit 2 (mitochondrion)	0	0	0	0	0	0	0	1	0	4.584116	9.1937	6.160266	3.111469	1.038686	2.593745	GO:0009055	electron transfer activity	MF
-Gene_012223	3	nadh dehydrogenase subunit 9 (mitochondrion)	0	0	0	0	0	0	0	1	0	1.8976609	4.0625085	2.8737646	1.0656387	0.4703782	0.9492359	GO:0009055	electron transfer activity	MF
-Gene_012224	3	cytochrome c oxidase subunit 3 (mitochondrion)	0	0	0	0	0	0	0	1	0	3.152285	6.195363	4.728895	2.122332	1.105398	2.5875	GO:0009055	electron transfer activity	MF

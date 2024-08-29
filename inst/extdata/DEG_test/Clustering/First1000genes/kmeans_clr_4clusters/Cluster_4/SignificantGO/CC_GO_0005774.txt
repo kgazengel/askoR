@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000805	4	v-type proton atpase subunit g1-like	0	0	0	0	0	0	0	0	0	35.11188	32.57904	33.10426	32.14488	33.00846	30.05908	GO:0005774	vacuolar membrane	CC
-Gene_000923	4	rab gtpase	0	0	0	0	0	0	0	0	0	451.1919	504.3582	524.9927	512.9585	489.0737	470.743	GO:0005774	vacuolar membrane	CC
-Gene_001032	4	signal peptide peptidase-like 3	0	0	0	0	0	0	0	0	1	309.6943	370.8984	383.5065	318.3536	300.1655	281.6435	GO:0005774	vacuolar membrane	CC

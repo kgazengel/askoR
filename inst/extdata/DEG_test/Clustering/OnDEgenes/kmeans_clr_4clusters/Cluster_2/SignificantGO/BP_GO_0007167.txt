@@ -1,5 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000267	2	cmgc mapk kinase	0	-1	0	0	0	0	0	0	1	35.68453	45.49657	50.85537	43.19143	37.02378	34.9801	GO:0007167	enzyme-linked receptor protein signaling pathway	BP
-Gene_001351	2	extracellular response kinase	-1	0	0	0	0	0	0	1	0	0.2805477	0.8972582	0.8849876	0.6612128	0.2807555	0.3080846	GO:0007167	enzyme-linked receptor protein signaling pathway	BP
-Gene_004756	2	cmgc mapk kinase	-1	0	0	0	0	0	0	1	0	15.20902	21.12383	17.02459	19.06799	15.04058	14.59655	GO:0007167	enzyme-linked receptor protein signaling pathway	BP
-Gene_006667	2	cmgc mapk erk7 kinase	0	0	0	0	0	0	0	1	0	0.6047482	1.3335048	1.3645608	0.8978462	0.3363464	0.301839	GO:0007167	enzyme-linked receptor protein signaling pathway	BP

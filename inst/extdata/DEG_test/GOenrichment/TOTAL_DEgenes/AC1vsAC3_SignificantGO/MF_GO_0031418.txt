@@ -1,7 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000452	prolyl 4-hydroxylase alpha	-1	-1	0	1	0	0	0	1	1	6.465257	17.363332	17.494613	9.53638	3.550053	4.729513	GO:0031418	L-ascorbic acid binding	MF
-Gene_000453	proly 4-hydroxylase	-1	-1	0	0	0	0	0	1	1	16.20158	45.22108	41.72444	30.19788	17.29311	12.63978	GO:0031418	L-ascorbic acid binding	MF
-Gene_000457	probable prolyl 4-hydroxylase 11 isoform x1	0	1	0	0	0	0	0	0	0	0.8722933	0.3942913	0.3137382	0.3801061	0.4312021	0.4350657	GO:0031418	L-ascorbic acid binding	MF
-Gene_001989	2oxoglutarate and iron-dependent oxygenase domain containing	1	1	0	0	0	0	0	0	-1	140.8147	103.9741	103.763	115.5767	120.9191	144.3356	GO:0031418	L-ascorbic acid binding	MF
-Gene_008204	prolyl 4-hydroxylase	0	1	0	0	0	0	0	-1	-1	62.2978	51.6933	47.32557	65.55203	72.7551	65.10788	GO:0031418	L-ascorbic acid binding	MF
-Gene_009762	2-oxoglutarate (2og) and fe(ii)-dependent oxygenase superfamily	-1	-1	0	1	0	0	0	1	1	5.637652	15.636278	15.410279	10.693943	2.830561	5.938957	GO:0031418	L-ascorbic acid binding	MF

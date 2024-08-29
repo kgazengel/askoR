@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000229	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0007015	actin filament organization	BP
-Gene_002740	furry homolog isoform x1	-1	-1	0	0	0	0	0	1	0	25.97768	35.62687	38.49196	30.49389	24.94997	28.41041	GO:0007015	actin filament organization	BP
-Gene_004827	hypothetical protein pbra 001354	1	1	0	0	0	0	0	-1	0	119.23547	99.36949	99.03775	113.78579	135.49711	115.54631	GO:0007015	actin filament organization	BP
-Gene_011959	fimbrin-like protein	1	0	0	0	0	0	1	0	0	22.39737	13.55087	15.79445	12.22201	16.44442	21.90732	GO:0007015	actin filament organization	BP
-Gene_012407	eh domain protein	-1	0	0	1	0	0	0	1	1	5.512771	12.214137	9.923494	7.985547	3.816525	4.132081	GO:0007015	actin filament organization	BP

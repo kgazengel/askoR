@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000391	4	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	13.84806	12.83561	15.80141	12.60914	12.13408	12.7418	GO:0042364	water-soluble vitamin biosynthetic process	BP
-Gene_000392	4	gtp cyclohydrolase i	0	0	0	0	0	0	0	0	0	15.64847	16.52374	17.3656	12.64378	13.26221	14.96709	GO:0042364	water-soluble vitamin biosynthetic process	BP
-Gene_000657	4	riboflavin kinase	0	0	0	0	0	0	0	0	0	22.14923	22.74704	23.91705	21.35231	20.91083	19.84648	GO:0042364	water-soluble vitamin biosynthetic process	BP

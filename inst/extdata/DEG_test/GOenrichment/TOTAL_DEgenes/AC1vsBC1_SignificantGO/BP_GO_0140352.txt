@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000229	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0140352	export from cell	BP
-Gene_005270	synaptosomal-associated 29 isoform x1	0	0	0	0	0	0	1	1	1	49.91848	54.11764	53.64313	36.34785	34.89665	27.77133	GO:0140352	export from cell	BP
-Gene_006335	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:0140352	export from cell	BP
-Gene_006336	s53301h+-exporting atpase (ec ) (clone haa1)-golden alga (heterosigma akashiwo) (fragment)	-1	0	0	0	0	0	-1	0	0	2.993991	13.680055	5.956964	19.667209	12.088225	5.424787	GO:0140352	export from cell	BP
-Gene_009088	s53302h+-exporting atpase (ec ) (clone haa13)-golden alga (heterosigma akashiwo)	-1	0	0	0	0	0	-1	0	0	16.93687	26.42258	23.57604	26.76157	20.26131	19.35105	GO:0140352	export from cell	BP

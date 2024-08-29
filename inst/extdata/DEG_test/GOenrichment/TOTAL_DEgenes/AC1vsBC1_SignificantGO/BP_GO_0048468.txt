@@ -1,5 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000229	rac-like gtp-binding 5	1	0	0	0	0	0	1	0	0	107.091	86.05219	87.77782	83.51696	97.3845	98.56836	GO:0048468	cell development	BP
-Gene_003352	vacuolar sorting-associated 11 homolog	0	0	0	0	0	0	-1	0	0	88.31277	98.33935	101.72982	105.26355	108.47124	106.89499	GO:0048468	cell development	BP
-Gene_004897	e3 ubiquitin-ligase	-1	0	0	0	0	0	-1	0	0	4.539194	17.174443	5.250438	19.04664	9.98069	9.121801	GO:0048468	cell development	BP
-Gene_006935	rna recognition motif domain containing	0	0	0	0	0	0	-1	-1	-1	104.90033	93.50181	106.19672	133.41798	144.84795	137.99076	GO:0048468	cell development	BP

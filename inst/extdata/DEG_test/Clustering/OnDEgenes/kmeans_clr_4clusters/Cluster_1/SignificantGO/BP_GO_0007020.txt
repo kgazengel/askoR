@@ -1,8 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001993	1	gamma-tubulin complex component 3 homolog	0	0	0	0	0	0	0	-1	0	72.58579	63.7229	66.08877	77.88922	85.00995	80.1322	GO:0007020	microtubule nucleation	BP
-Gene_004141	1	tubulin gamma chain [micromonas commoda]	0	0	0	0	0	0	0	-1	0	27.31392	25.02262	27.60816	30.04299	32.39174	29.81343	GO:0007020	microtubule nucleation	BP
-Gene_004142	1	tubulin gamma chain [micromonas commoda]	0	0	0	0	0	0	0	-1	0	125.2968	109.5898	114.8001	124.8044	134.1426	134.5477	GO:0007020	microtubule nucleation	BP
-Gene_004872	1	gamma-tubulin complex component 6	0	0	0	0	0	0	0	-1	0	113.5682	101.8724	106.3719	110.9515	119.2514	119.9157	GO:0007020	microtubule nucleation	BP
-Gene_009284	1	gamma-tubulin complex component 2 isoform x1	0	0	0	0	0	0	0	-1	0	270.794	237.4265	260.8396	278.1018	298.6015	305.4098	GO:0007020	microtubule nucleation	BP
-Gene_009285	1	hypothetical protein pbra 006360	0	0	0	0	0	0	0	-1	0	139.2328	123.3848	129.5861	135.1777	147.694	148.807	GO:0007020	microtubule nucleation	BP
-Gene_009567	1	gamma-tubulin complex component 4-like	0	0	0	0	0	0	0	-1	0	195.6378	172.96	181.3717	183.9318	201.6651	198.7958	GO:0007020	microtubule nucleation	BP

@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000261	2	hemin receptor	-1	0	0	0	0	0	-1	0	0	16.81957	98.09047	26.87602	151.86235	95.62557	41.51024	GO:0036094	small molecule binding	MF
-Gene_000753	2	gamma-glutamylcyclotransferase	-1	-1	0	1	0	0	-1	1	0	9.564021	33.640794	25.732694	42.956371	16.133663	15.735207	GO:0036094	small molecule binding	MF
-Gene_001008	2	glutamate decarboxylase	-1	0	0	0	0	0	-1	0	0	16.62348	97.86657	31.40894	140.09158	93.56884	45.85879	GO:0036094	small molecule binding	MF

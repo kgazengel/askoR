@@ -1,6 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000513	3	rnase p subunit	0	1	0	0	0	0	0	-1	-1	213.9222	181.4996	166.3244	217.5099	248.8639	231.1842	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	BP
-Gene_000607	3	trna-splicing endonuclease subunit sen15-like	0	0	0	0	0	0	0	0	0	33.4954	31.88313	30.69747	31.04443	34.04298	28.18975	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	BP
-Gene_000625	3	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	BP
-Gene_000672	3	rna polymerase ii-associated 3	0	0	0	0	0	0	0	-1	-1	43.46364	37.36991	36.53584	51.19642	55.44022	54.94107	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	BP
-Gene_000712	3	ribonuclease z	0	0	0	0	0	0	0	0	0	68.93061	62.22019	65.86718	66.4346	64.4444	64.56616	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	BP

@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000351	2	peroxisomal membrane 11	0	0	0	0	0	0	0	1	0	159.1265	155.2524	173.8713	136.2319	123.8113	135.218	GO:0005777	peroxisome	CC
-Gene_001961	2	peroxisomal biogenesis factor 11	0	0	0	0	0	0	1	1	1	54.2896	57.47296	67.42313	40.67793	36.2314	34.57419	GO:0005777	peroxisome	CC
-Gene_003641	2	acyl-oxidase	-1	-1	0	1	0	0	0	1	1	104.88742	140.12155	161.3582	102.19366	72.30706	75.42663	GO:0005777	peroxisome	CC
-Gene_004049	2	[micromonas commoda]	0	-1	0	0	0	0	0	0	0	69.19155	79.60844	95.605	85.64917	73.68217	84.48808	GO:0005777	peroxisome	CC
-Gene_004065	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	2.400102	3.738787	4.107525	3.03501	2.004307	3.47428	GO:0005777	peroxisome	CC
-Gene_004066	2	peroxisomal leader peptide-processing protease isoform x1	0	0	0	0	0	0	0	1	0	4.655153	6.411008	7.053404	5.445913	3.400304	4.386043	GO:0005777	peroxisome	CC
-Gene_005685	2	sh3 domain-containing	-1	-1	0	0	0	0	0	0	0	58.53664	76.96892	76.89029	71.0693	64.84287	67.69329	GO:0005777	peroxisome	CC
-Gene_006928	2	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0005777	peroxisome	CC

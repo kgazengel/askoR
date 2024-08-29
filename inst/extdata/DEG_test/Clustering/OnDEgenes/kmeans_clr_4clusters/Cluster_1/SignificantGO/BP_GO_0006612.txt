@@ -1,7 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000275	1	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:0006612	protein targeting to membrane	BP
-Gene_000637	1	chorismate mutase	0	0	0	0	0	0	0	-1	0	67.52125	56.90338	63.4766	68.15071	71.99279	70.5514	GO:0006612	protein targeting to membrane	BP
-Gene_004058	1	signal recognition particle 9 kda	0	0	0	0	0	0	0	-1	0	110.35802	91.46044	92.98714	108.50061	124.30003	98.62876	GO:0006612	protein targeting to membrane	BP
-Gene_004895	1	signal recognition particle 54 kda 1	0	0	0	0	0	0	0	-1	-1	242.4037	216.5547	207.5464	241.1804	269.0896	276.1896	GO:0006612	protein targeting to membrane	BP
-Gene_005297	1	translocation sec63	0	0	0	0	0	0	0	-1	-1	220.4588	189.0085	194.6396	229.9744	260.3164	262.0551	GO:0006612	protein targeting to membrane	BP
-Gene_005298	1	translocation sec63	0	0	0	0	0	0	0	-1	-1	109.69815	97.18271	96.42359	110.34129	124.23574	134.42066	GO:0006612	protein targeting to membrane	BP

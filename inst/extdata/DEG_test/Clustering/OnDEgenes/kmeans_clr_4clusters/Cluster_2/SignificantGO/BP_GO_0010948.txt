@@ -1,7 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001258	2	meckelin isoform 4	-1	-1	0	1	0	0	0	1	1	21.15768	33.8024	41.73127	29.01059	20.34183	22.36528	GO:0010948	negative regulation of cell cycle process	BP
-Gene_001259	2	hypothetical protein pbra 002779	0	-1	0	0	0	0	0	0	1	6.837118	10.566164	13.868058	9.476921	7.518016	6.136709	GO:0010948	negative regulation of cell cycle process	BP
-Gene_005858	2	aldehyde dehydrogenase family 7 member a1	0	-1	0	0	0	0	0	0	0	170.6719	188.6398	209.9891	186.9436	174.9207	179.3615	GO:0010948	negative regulation of cell cycle process	BP
-Gene_007929	2	serine threonine-kinase ttk mps1	0	0	0	0	0	0	0	1	1	20.39623	24.0645	24.13135	22.09552	19.07412	17.47965	GO:0010948	negative regulation of cell cycle process	BP
-Gene_008002	2	hypothetical protein pbra 006837	0	0	0	0	0	0	0	1	0	48.08236	57.30351	57.77549	50.29859	46.54997	49.47674	GO:0010948	negative regulation of cell cycle process	BP
-Gene_010594	2	cell division control 6 homolog	0	0	0	0	0	0	1	0	0	19.65076	19.2245	20.9626	13.43266	15.21108	16.89262	GO:0010948	negative regulation of cell cycle process	BP

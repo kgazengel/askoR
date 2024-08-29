@@ -1,6 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_002043	60s ribosomal l5	1	1	0	0	0	0	1	0	-1	1785.479	1376.7	1334.966	1420.759	1581.297	1713.371	GO:0000027	ribosomal large subunit assembly	BP
-Gene_002374	ribosome production factor 2 homolog	1	1	0	0	0	0	0	-1	0	278.3937	218.7487	207.3117	247.6753	261.4164	250.5145	GO:0000027	ribosomal large subunit assembly	BP
-Gene_002519	mrna turnover 4 homolog	1	1	0	0	0	0	1	-1	0	191.0472	147.6175	141.0942	147.6701	177.5743	158.318	GO:0000027	ribosomal large subunit assembly	BP
-Gene_008747	ribosome production factor 1-like	1	1	0	0	0	0	0	0	0	124.62191	98.47364	97.76047	102.83798	108.34318	111.57663	GO:0000027	ribosomal large subunit assembly	BP
-Gene_009937	swi4 peter pan suppressor	1	1	0	0	0	0	1	0	-1	188.9846	144.8916	129.5943	153.5118	159.863	168.5639	GO:0000027	ribosomal large subunit assembly	BP

@@ -1,7 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_002416	atp-dependent rna helicase has1	1	1	0	0	0	0	0	-1	-1	194.4527	153.556	149.1646	183.9015	190.2593	184.8883	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_002557	gar1 naf1 rna binding region-domain-containing	1	1	0	0	0	0	0	-1	-1	150.1766	115.5598	107.496	135.5585	156.4773	164.359	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_003473	u3 small nucleolar rna-associated mpp10	1	1	0	0	0	0	0	0	0	217.4579	183.895	166.1887	190.5029	183.5003	191.204	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_004813	h aca ribonucleo complex subunit 2	1	1	0	0	0	0	0	-1	0	142.1277	111.4458	102.3377	129.1556	144.399	120.7213	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_006611	nucleolar nop5	1	1	0	0	0	0	0	0	-1	561.1773	435.927	402.8691	479.895	493.7584	522.3284	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_009305	nucleolar 56-like	1	1	0	0	0	0	0	-1	-1	820.6971	637.0385	589.7376	703.1206	783.5099	754.4785	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC

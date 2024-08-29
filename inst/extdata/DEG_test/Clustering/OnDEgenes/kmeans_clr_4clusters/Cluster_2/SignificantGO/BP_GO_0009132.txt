@@ -1,8 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000531	2	ribonucleoside-diphosphate reductase small chain	0	0	0	0	0	0	1	1	1	217.172	195.7217	234.0744	143.7752	134.5333	162.8436	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_004998	2	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_005296	2	glucose-6-phosphate 1-epimerase	0	0	0	0	0	0	1	0	0	271.3299	253.1326	266.4147	218.7972	222.1547	229.1588	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_007018	2	thymidylate kinase	-1	-1	0	0	0	0	-1	0	0	89.3749	107.35327	115.08818	107.74335	93.93068	96.71154	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_010892	2	glucokinase	-1	-1	0	0	0	0	-1	1	0	0.283069	1.3058132	1.4737545	0.952842	0.3076424	0.489188	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_011709	2	nucleoside diphosphate kinase family protein (macronuclear)	0	0	0	1	0	0	0	1	0	0.17661981	0.50880435	0.6323669	0.61784701	0.09294988	0.12073561	GO:0009132	nucleoside diphosphate metabolic process	BP
-Gene_011892	2	glyceraldehyde-3-phosphate dehydrogenase; putative	0	0	0	0	0	0	1	0	0	1419.156	1273.287	1343.708	1097.219	1084.701	1299.35	GO:0009132	nucleoside diphosphate metabolic process	BP

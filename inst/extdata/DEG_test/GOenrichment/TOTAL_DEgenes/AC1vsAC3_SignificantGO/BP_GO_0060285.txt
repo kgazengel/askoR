@@ -1,7 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000608	flagellar inner arm dynein light chain p28	-1	-1	0	1	0	0	0	1	1	75.87843	101.51305	111.01551	79.14651	59.46456	54.43732	GO:0060285	cilium-dependent cell motility	BP
-Gene_001909	gas8 chlre ame: full=growth arrest-specific 8 homolog ame: full= pf2	-1	-1	0	0	0	0	0	1	1	2.209904	4.117874	4.294552	1.808602	1.706105	1.746508	GO:0060285	cilium-dependent cell motility	BP
-Gene_002841	pre-rna processing pih1	-1	-1	0	1	0	0	0	1	1	2.772296	8.506851	8.835619	5.795046	1.785891	2.833129	GO:0060285	cilium-dependent cell motility	BP
-Gene_003045	hypothetical protein pbra 003593	-1	-1	0	1	0	0	0	1	1	1.6089733	5.3620077	5.1599781	2.8586941	0.8877097	1.9276118	GO:0060285	cilium-dependent cell motility	BP
-Gene_003046	kintoun-like isoform x1	-1	-1	0	1	0	0	0	1	1	3.935871	9.696237	9.599588	6.823972	2.000407	3.087091	GO:0060285	cilium-dependent cell motility	BP
-Gene_009144	upf0468	1	1	0	0	0	0	0	0	0	80.10858	65.7401	64.28865	70.36441	72.88788	69.96228	GO:0060285	cilium-dependent cell motility	BP

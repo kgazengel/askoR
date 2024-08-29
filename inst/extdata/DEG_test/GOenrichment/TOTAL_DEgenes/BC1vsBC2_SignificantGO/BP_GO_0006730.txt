@@ -1,4 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_005929	carbonate dehydratase	-1	-1	0	1	0	0	0	1	1	0.7838893	2.374174	2.8305788	1.7614444	0.5803031	0.8638859	GO:0006730	one-carbon metabolic process	BP
-Gene_008141	s-adenosylmethionine synthetase	0	-1	0	1	0	0	0	1	1	340.0936	413.1303	497.6191	342.2597	248.693	292.4141	GO:0006730	one-carbon metabolic process	BP
-Gene_010645	serine hydroxymethyltransferase 2	-1	-1	0	1	0	0	0	1	1	416.4691	585.5894	689.0954	539.4561	379.7421	400.608	GO:0006730	one-carbon metabolic process	BP

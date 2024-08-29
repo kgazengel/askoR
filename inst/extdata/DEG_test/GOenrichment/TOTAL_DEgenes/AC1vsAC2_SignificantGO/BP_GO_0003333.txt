@@ -1,8 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000242	lysosomal amino acid transporter 1	1	0	0	0	0	0	0	0	0	84.61174	67.46295	69.10555	69.25115	80.82044	75.28298	GO:0003333	amino acid transmembrane transport	BP
-Gene_001567	amino olyamineorganocation (apc) family putati	-1	-1	0	0	0	0	0	1	1	61.43128	90.86657	106.44412	75.61162	52.88684	58.41745	GO:0003333	amino acid transmembrane transport	BP
-Gene_007542	vacuolar amino acid transporter 2	-1	-1	0	0	0	0	0	1	1	93.7673	188.6192	183.47603	142.83998	95.69046	72.88282	GO:0003333	amino acid transmembrane transport	BP
-Gene_009093	high-affinity methionine permease	-1	0	0	0	0	0	-1	0	0	2.481789	11.488135	5.800496	15.906881	6.884745	8.28081	GO:0003333	amino acid transmembrane transport	BP
-Gene_009996	amino acid transporter	-1	-1	0	1	0	0	0	1	1	2.631891	7.162811	8.160066	4.083396	1.422098	1.473809	GO:0003333	amino acid transmembrane transport	BP
-Gene_011096	amino acid transporter	-1	0	0	0	0	0	0	1	1	31.63718	44.79609	43.31549	34.77653	31.58394	27.33835	GO:0003333	amino acid transmembrane transport	BP
-Gene_011799	amino acid permease	-1	-1	0	0	0	0	-1	1	0	70.70581	96.00991	92.75732	93.09618	78.52625	86.15131	GO:0003333	amino acid transmembrane transport	BP

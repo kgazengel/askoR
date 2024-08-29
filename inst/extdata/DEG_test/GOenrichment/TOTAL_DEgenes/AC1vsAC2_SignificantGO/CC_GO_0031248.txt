@@ -1,5 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000568	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0031248	protein acetyltransferase complex	CC
-Gene_001856	n-alpha-acetyltransferase auxiliary subunit	1	1	0	0	0	0	1	-1	0	76.69973	57.72447	59.93541	61.78547	68.59022	70.62424	GO:0031248	protein acetyltransferase complex	CC
-Gene_004281	n-alpha-acetyltransferase daf-31	1	0	0	0	0	0	0	0	0	83.45496	67.05527	71.17334	68.40041	77.45106	67.93683	GO:0031248	protein acetyltransferase complex	CC
-Gene_008108	n-alpha-acetyltransferase 30-like	1	0	0	0	0	0	0	-1	-1	69.39671	55.49056	57.32123	70.79337	84.72631	77.15233	GO:0031248	protein acetyltransferase complex	CC

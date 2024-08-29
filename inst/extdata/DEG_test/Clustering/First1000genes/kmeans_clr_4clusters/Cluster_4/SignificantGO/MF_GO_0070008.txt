@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000642	4	serine carboxypeptidase-like	0	0	0	0	0	0	0	1	0	0.6052982	0.7554395	0.8511686	0.1937372	0.121654	0.3143301	GO:0070008	serine-type exopeptidase activity	MF
-Gene_000721	4	peptidase s10 family	0	0	0	0	0	0	0	0	0	22.37649	26.12408	28.96943	25.41538	24.19569	29.51786	GO:0070008	serine-type exopeptidase activity	MF

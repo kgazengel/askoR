@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000275	3	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:1901701	cellular response to oxygen-containing compound	BP
-Gene_000799	3	superoxide dismutase	1	0	0	0	0	0	1	0	0	381.1921	318.8143	314.4058	311.8961	344.0045	354.72	GO:1901701	cellular response to oxygen-containing compound	BP
-Gene_000890	3	leucine carboxyl methyltransferase	0	0	0	0	0	0	0	0	0	98.11534	88.59169	87.74359	89.11246	99.38738	90.41036	GO:1901701	cellular response to oxygen-containing compound	BP

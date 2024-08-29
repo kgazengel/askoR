@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000171	3	probable proteasome inhibitor	1	0	0	0	0	0	0	-1	-1	104.12839	84.96474	86.56683	101.1425	114.12504	123.22347	GO:1903050	regulation of proteolysis involved in protein catabolic process	BP
-Gene_000275	3	60s ribosomal l23	1	0	0	0	0	0	0	-1	0	678.2011	511.9101	518.9202	571.5758	649.8399	647.7461	GO:1903050	regulation of proteolysis involved in protein catabolic process	BP
-Gene_001026	3	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:1903050	regulation of proteolysis involved in protein catabolic process	BP

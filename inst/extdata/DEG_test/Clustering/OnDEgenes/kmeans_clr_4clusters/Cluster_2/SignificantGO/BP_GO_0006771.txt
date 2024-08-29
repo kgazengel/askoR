@@ -1,6 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001217	2	ser thr phosphatase family	-1	-1	0	0	0	0	-1	1	1	29.63952	52.66257	47.51265	46.18525	34.00563	25.73756	GO:0006771	riboflavin metabolic process	BP
-Gene_004676	2	prostatic acid phosphatase-like	0	0	0	0	0	0	0	0	1	5.188173	6.725496	8.028438	4.438075	4.691444	4.677478	GO:0006771	riboflavin metabolic process	BP
-Gene_006452	2	probable inactive purple acid phosphatase 27	0	0	0	0	0	0	0	1	0	0.9023692	1.5686184	1.3368482	0.6134606	0.3980377	0.1811034	GO:0006771	riboflavin metabolic process	BP
-Gene_010315	2	multiple inositol polyphosphate phosphatase 1 isoform x2	-1	-1	0	0	0	0	0	1	1	0.65474	1.7395193	2.0641516	1.0095832	0.3444411	0.5558013	GO:0006771	riboflavin metabolic process	BP
-Gene_010585	2	probable inactive purple acid phosphatase 27	0	-1	0	0	0	0	0	1	1	93.77054	114.48118	124.56913	93.32749	78.32685	89.76092	GO:0006771	riboflavin metabolic process	BP

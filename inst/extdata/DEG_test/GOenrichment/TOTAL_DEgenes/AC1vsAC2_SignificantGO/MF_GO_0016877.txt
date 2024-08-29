@@ -1,5 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_004042	nedd8-activating enzyme e1 regulatory subunit isoform x1	1	0	0	0	0	0	0	0	0	136.0787	113.8413	123.7249	127.4304	132.2761	133.2133	GO:0016877	ligase activity, forming carbon-sulfur bonds	MF
-Gene_004998	acetyl-synthetase	-1	-1	0	0	0	0	-1	0	1	95.17851	118.5513	137.11672	126.33308	101.30421	103.05851	GO:0016877	ligase activity, forming carbon-sulfur bonds	MF
-Gene_009948	fatty acyl-synthetase	-1	-1	0	0	0	0	0	1	1	5.372556	14.195803	13.563713	5.189174	2.418534	1.769403	GO:0016877	ligase activity, forming carbon-sulfur bonds	MF
-Gene_012114	succinate-coa ligase	1	1	0	0	0	0	0	-1	0	315.7917	264.2708	258.7411	265.9151	308.6829	301.7586	GO:0016877	ligase activity, forming carbon-sulfur bonds	MF

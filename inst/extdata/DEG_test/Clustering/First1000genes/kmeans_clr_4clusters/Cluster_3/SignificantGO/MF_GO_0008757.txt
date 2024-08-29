@@ -1,6 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000373	3	phosphatidylethanolamine n-methyltransferase	0	0	0	0	0	0	0	0	0	114.07227	94.97029	100.60321	97.59408	110.66075	118.27537	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	MF
-Gene_000728	3	methionine synthase	0	0	0	0	0	0	0	-1	0	134.3211	121.0091	125.7816	126.9706	143.2537	148.1513	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	MF
-Gene_000890	3	leucine carboxyl methyltransferase	0	0	0	0	0	0	0	0	0	98.11534	88.59169	87.74359	89.11246	99.38738	90.41036	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	MF
-Gene_000956	3	set domain-containing	0	0	0	0	0	0	0	-1	0	102.41932	84.88239	89.11022	96.28595	105.47848	98.04793	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	MF
-Gene_001044	3	set domain-containing	0	0	0	0	0	0	0	0	0	132.9293	138.4373	147.629	155.8968	148.2497	143.5654	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	MF
