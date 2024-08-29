@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000518	NOT DE	adenosine kinase	0	0	0	0	0	0	0	0	0	280.1361	243.3502	255.2725	243.4424	235.8299	255.8123	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_002895	NOT DE	glutamine-hydrolyzing gmp synthase	0	0	0	0	0	0	0	0	0	226.5461	224.7398	250.9441	243.2841	246.4077	255.9705	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_005218	NOT DE	dihydroorotate dehydrogenase (quinone) mitochondrial	0	0	0	0	0	0	0	0	0	123.9213	114.8119	122.6134	113.1652	108.0883	103.4353	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_007134	NOT DE	uridine 5-monophosphate synthase	0	0	0	0	0	0	0	0	0	191.3257	174.1265	173.1411	133.8852	140.2757	189.7823	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_008840	NOT DE	adenylosuccinate synthetase	0	0	0	0	0	0	0	0	0	149.4209	139.8797	153.2257	128.8695	132.7416	134.2188	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_009666	NOT DE	thymidine kinase	0	0	0	0	0	0	0	0	0	0.3529151	0.5477769	0.6694463	0.3942483	0.2089751	0.3080846	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_009978	NOT DE	inosine-5-monophosphate dehydrogenase	0	0	0	0	0	0	0	0	0	151.6769	133.1425	135.6563	144.4237	146.5993	158.8593	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
-Gene_012116	NOT DE	thymidine kinase a-like	0	0	0	0	0	0	0	0	0	18.62311	14.57044	15.53779	16.23042	17.75085	17.94801	GO:0009156	ribonucleoside monophosphate biosynthetic process	BP
