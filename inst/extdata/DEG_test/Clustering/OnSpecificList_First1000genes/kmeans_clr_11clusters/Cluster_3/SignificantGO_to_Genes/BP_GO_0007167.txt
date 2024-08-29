@@ -1,2 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000754	3	[micromonas commoda]	0	0	0	0	0	0	0	0	0	60.74975	62.87067	65.54181	48.75342	52.03697	57.07477	GO:0007167	enzyme-linked receptor protein signaling pathway	BP

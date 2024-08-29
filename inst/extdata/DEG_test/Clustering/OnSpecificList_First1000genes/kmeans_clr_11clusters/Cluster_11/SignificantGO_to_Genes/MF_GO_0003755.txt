@@ -1,2 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000470	11	peptidyl-prolyl cis-trans isomerase-like 6	0	0	0	0	0	0	0	0	0	7.701388	13.728385	10.315066	12.624518	11.120058	7.329504	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	MF

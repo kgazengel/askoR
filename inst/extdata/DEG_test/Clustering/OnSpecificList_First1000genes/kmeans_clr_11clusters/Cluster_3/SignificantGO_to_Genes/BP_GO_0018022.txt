@@ -1,2 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000827	3	n-lysine methyltransferase mettl21a	0	0	0	0	0	0	0	0	0	33.96562	36.673	35.79136	28.15064	27.13611	33.87058	GO:0018022	peptidyl-lysine methylation	BP

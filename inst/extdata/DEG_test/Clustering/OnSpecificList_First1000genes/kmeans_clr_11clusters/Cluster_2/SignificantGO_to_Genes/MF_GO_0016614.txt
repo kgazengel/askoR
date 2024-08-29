@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000361	2	glucose sorbosone dehydrogenase	-1	-1	0	1	0	0	-1	1	1	5.984226	18.342782	17.974367	12.495775	4.059656	8.047672	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	MF
-Gene_000643	2	fad-dependent oxidoreductase	-1	-1	0	1	0	0	0	1	1	13.600014	38.525443	36.587595	18.493	5.530028	11.430357	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	MF

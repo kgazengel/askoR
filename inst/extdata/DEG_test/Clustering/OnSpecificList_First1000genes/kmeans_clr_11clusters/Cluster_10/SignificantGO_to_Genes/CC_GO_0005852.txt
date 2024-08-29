@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000010	10	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	350.7983	285.5533	274.0677	328.6615	371.6419	377.3454	GO:0005852	eukaryotic translation initiation factor 3 complex	CC
-Gene_000011	10	eukaryotic translation initiation factor 3 subunit a	1	1	0	0	0	0	0	-1	-1	362.5449	293.3612	288.2606	343.517	400.4365	390.9594	GO:0005852	eukaryotic translation initiation factor 3 complex	CC
-Gene_000638	10	eukaryotic translation initiation factor 3 subunit e	1	1	0	0	0	0	0	-1	0	445.249	358.2429	362.5254	409.4069	458.0038	446.7353	GO:0005852	eukaryotic translation initiation factor 3 complex	CC

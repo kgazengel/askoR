@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000945	7	dynein heavy chain	0	0	0	0	0	0	0	0	0	254.5678	280.7696	282.9675	308.6985	353.9084	293.2112	GO:0030286	dynein complex	CC
-Gene_000946	7	dynein heavy chain axonemal-like	0	0	0	0	0	0	0	-1	0	86.07783	88.62974	101.51231	109.7435	118.39342	105.1422	GO:0030286	dynein complex	CC

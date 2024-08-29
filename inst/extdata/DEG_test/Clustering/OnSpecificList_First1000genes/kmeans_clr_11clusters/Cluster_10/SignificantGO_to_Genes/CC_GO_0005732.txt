@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000159	10	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_000544	10	small nuclear ribonucleo g	0	0	0	0	0	0	0	0	0	132.0612	110.5281	110.3523	115.5929	129.0372	107.4695	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC
-Gene_000898	10	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	CC

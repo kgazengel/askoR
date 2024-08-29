@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000983	10	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 2-like	1	0	0	0	0	0	0	0	0	359.6928	307.7466	331.9603	307.8812	325.3616	371.3357	GO:0140534	endoplasmic reticulum protein-containing complex	CC
-Gene_000984	10	dolichyl-diphosphooligosaccharide-glycosyltransferase subunit 2	0	0	0	0	0	0	0	0	0	8.759547	7.760834	9.232054	9.522414	10.918501	11.109781	GO:0140534	endoplasmic reticulum protein-containing complex	CC
-Gene_001025	10	hypothetical protein pbra 002570	1	0	0	0	0	0	0	-1	0	234.5779	183.8744	192.2979	200.491	230.0547	225.8656	GO:0140534	endoplasmic reticulum protein-containing complex	CC

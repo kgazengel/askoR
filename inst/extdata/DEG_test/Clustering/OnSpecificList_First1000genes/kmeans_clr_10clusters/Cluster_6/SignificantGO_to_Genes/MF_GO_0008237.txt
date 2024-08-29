@@ -1,2 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000020	6	leukotriene a-4 hydrolase-like	0	0	0	0	0	0	0	0	0	429.9051	389.0482	417.3908	407.7202	434.0308	403.7928	GO:0008237	metallopeptidase activity	MF

@@ -1,5 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000446	4	thioredoxin 1	0	0	0	0	0	0	0	1	1	156.3091	160.6914	178.6455	134.389	116.3549	125.1011	GO:0005576	extracellular region	CC
-Gene_000888	4	peptidase inhibitor 16-like	0	0	0	0	0	0	0	0	0	1.3050149	1.6561789	1.7601943	0.9833413	0.941542	0.9971126	GO:0005576	extracellular region	CC
-Gene_000942	4	hypothetical protein pbra 005228	-1	0	0	0	0	0	0	1	1	77.26593	93.63353	95.05693	73.33062	65.86038	64.22317	GO:0005576	extracellular region	CC
-Gene_001032	4	signal peptide peptidase-like 3	0	0	0	0	0	0	0	0	1	309.6943	370.8984	383.5065	318.3536	300.1655	281.6435	GO:0005576	extracellular region	CC

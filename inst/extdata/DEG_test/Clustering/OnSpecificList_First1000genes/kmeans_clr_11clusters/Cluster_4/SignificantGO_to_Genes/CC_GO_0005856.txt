@@ -1,8 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000071	4	actin binding	0	0	0	0	0	0	0	0	0	16.41243	20.79535	22.06437	16.07964	14.50758	14.85885	GO:0005856	cytoskeleton	CC
-Gene_000250	4	myosin xi-2	-1	-1	0	0	0	0	0	0	0	6.84785	10.783314	11.856458	10.038452	8.199706	7.521011	GO:0005856	cytoskeleton	CC
-Gene_000398	4	sf-assemblin	0	0	0	0	0	0	0	0	0	3.810729	5.937172	4.965215	3.468234	4.456396	2.966356	GO:0005856	cytoskeleton	CC
-Gene_000498	4	dynein heavy chain axonemal-like isoform x4	-1	-1	0	0	0	0	-1	1	1	145.1224	220.7308	225.7166	186.2228	156.5274	147.1354	GO:0005856	cytoskeleton	CC
-Gene_000608	4	flagellar inner arm dynein light chain p28	-1	-1	0	1	0	0	0	1	1	75.87843	101.51305	111.01551	79.14651	59.46456	54.43732	GO:0005856	cytoskeleton	CC
-Gene_000711	4	f-actin-capping subunit alpha-2-like	0	-1	0	0	0	0	0	1	1	101.86657	111.70066	132.10213	104.36524	86.72488	97.71284	GO:0005856	cytoskeleton	CC
-Gene_001110	4	drc1 chlre ame: full=dynein regulatory complex 1	0	0	0	0	0	0	0	0	0	2.464644	4.57127	4.717899	2.984914	3.250248	2.966356	GO:0005856	cytoskeleton	CC

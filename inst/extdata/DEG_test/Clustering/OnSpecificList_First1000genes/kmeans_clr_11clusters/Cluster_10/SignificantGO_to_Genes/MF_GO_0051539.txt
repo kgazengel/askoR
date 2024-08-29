@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000095	10	s-adenosyl-l-methionine-dependent trna 4-demethylwyosine synthase	0	0	0	0	0	0	0	-1	0	97.72597	92.02689	94.49104	98.33816	109.60407	107.72553	GO:0051539	4 iron, 4 sulfur cluster binding	MF
-Gene_000420	10	dna polymerase zeta catalytic subunit	0	0	0	0	0	0	0	-1	0	90.37928	86.57964	91.15193	99.42482	104.73235	101.69084	GO:0051539	4 iron, 4 sulfur cluster binding	MF
-Gene_000747	10	threonylcarbamoyladenosine trna methylthiotransferase	1	1	0	0	0	0	0	-1	-1	187.6153	156.3193	146.7353	176.6942	196.4749	191.3955	GO:0051539	4 iron, 4 sulfur cluster binding	MF

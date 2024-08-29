@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000685	1	hypothetical protein pbra 001745	0	0	0	0	0	0	0	0	0	12.478577	11.005926	7.927783	8.00813	8.930633	10.366631	GO:0004190	aspartic-type endopeptidase activity	MF
-Gene_000687	1	erythrocyte membrane-associated antigen	0	0	0	0	0	0	0	0	0	16.52924	13.93006	12.82903	11.40186	13.68954	14.93378	GO:0004190	aspartic-type endopeptidase activity	MF

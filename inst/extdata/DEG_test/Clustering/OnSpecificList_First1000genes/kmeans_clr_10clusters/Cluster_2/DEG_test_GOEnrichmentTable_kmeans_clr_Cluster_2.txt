@@ -1,6 +1,0 @@
-GO.ID	Term	Annotated	Significant	Expected	statisticTest	Ratio	GO_cat
-GO:0016021	integral component of membrane	2650	1	0.54	0.54	1.85185185185185	CC
-GO:0110165	cellular anatomical entity	4797	1	0.97	1.00	1.03092783505155	CC
-GO:0031224	intrinsic component of membrane	2651	1	0.54	1.00	1.85185185185185	CC
-GO:0005575	cellular_component	4927	1	1	1.00	1	CC
-GO:0016020	membrane	2972	1	0.6	1.00	1.66666666666667	CC

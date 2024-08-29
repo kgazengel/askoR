@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000625	10	18s rrna biogenesis rcl1	1	1	0	0	0	0	0	-1	-1	71.92977	54.45675	50.54158	64.4464	68.42502	75.19348	GO:0016886	ligase activity, forming phosphoric ester bonds	MF
-Gene_000758	10	dna ligase 1-like isoform x2	0	0	0	0	0	0	0	-1	0	338.8028	297.2515	317.5809	328.8895	366.9113	342.2706	GO:0016886	ligase activity, forming phosphoric ester bonds	MF

@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000943	10	sister chromatid cohesion	1	0	0	0	0	0	0	0	0	19.62049	14.71672	16.15018	18.55998	18.68356	19.47803	GO:0007064	mitotic sister chromatid cohesion	BP
-Gene_000944	10	sister chromatid cohesion dcc1	0	0	0	0	0	0	0	0	0	50.78686	40.52754	44.10507	42.23653	49.83077	52.1579	GO:0007064	mitotic sister chromatid cohesion	BP

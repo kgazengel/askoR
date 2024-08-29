@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000103	7	rna helicase	0	0	0	0	0	0	0	-1	-1	437.5212	363.6226	359.5996	497.3491	596	567.6648	GO:0008408	3'-5' exonuclease activity	MF
-Gene_000991	7	hypothetical protein pbra 005258	-1	0	0	0	0	0	-1	0	0	3.83032	7.05539	6.563248	8.119058	9.198616	10.318754	GO:0008408	3'-5' exonuclease activity	MF

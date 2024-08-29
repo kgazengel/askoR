@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000182	7	domain containing	0	0	0	0	0	0	0	-1	0	10.385666	11.290134	9.624842	14.166417	15.79014	13.870051	GO:0035023	regulation of Rho protein signal transduction	BP
-Gene_000874	7	and ph domain containing	0	0	0	0	0	0	-1	-1	0	36.14397	39.31412	37.11317	46.97093	48.53068	43.77508	GO:0035023	regulation of Rho protein signal transduction	BP

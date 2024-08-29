@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000381	1	ribosomal-alanine n-acetyltransferase	0	0	0	0	0	0	0	0	0	12.56802	10.79147	10.60272	12.45553	11.91526	12.72515	GO:0016407	acetyltransferase activity	MF
-Gene_000959	1	acetyl-c-acyltransferase	0	0	0	0	0	0	0	0	0	91.71927	85.04369	90.29093	79.38905	76.02375	90.23553	GO:0016407	acetyltransferase activity	MF

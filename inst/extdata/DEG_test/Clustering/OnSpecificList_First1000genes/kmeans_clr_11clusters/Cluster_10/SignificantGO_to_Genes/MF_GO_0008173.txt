@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000165	10	trna (cytidine(32) guanosine(34)-2-o)-methyltransferase	1	0	0	0	0	0	0	-1	0	77.07347	60.64992	60.36198	68.3841	78.64326	72.95987	GO:0008173	RNA methyltransferase activity	MF
-Gene_000193	10	probable methyltransferase tarbp1	0	0	0	0	0	0	0	0	0	135.0074	115.7273	121.7875	124.7921	129.1755	134.0002	GO:0008173	RNA methyltransferase activity	MF
-Gene_000443	10	trna (uracil-5-)-methyltransferase	1	1	0	0	0	0	0	-1	-1	208.4949	170.3726	161.3259	205.2603	231.407	208.1174	GO:0008173	RNA methyltransferase activity	MF

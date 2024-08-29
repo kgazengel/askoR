@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000972	10	26s proteasome non-atpase regulatory subunit 8	0	0	0	0	0	0	0	0	0	134.6529	114.5192	125.4073	129.9708	131.0011	149.2108	GO:0005838	proteasome regulatory particle	CC
-Gene_001026	10	26s proteasome subunit	0	0	0	0	0	0	0	0	0	400.6094	366.2238	387.4954	407.1185	425.3165	431.4015	GO:0005838	proteasome regulatory particle	CC

@@ -1,2 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000453	8	proly 4-hydroxylase	-1	-1	0	0	0	0	0	1	1	16.20158	45.22108	41.72444	30.19788	17.29311	12.63978	GO:0031418	L-ascorbic acid binding	MF

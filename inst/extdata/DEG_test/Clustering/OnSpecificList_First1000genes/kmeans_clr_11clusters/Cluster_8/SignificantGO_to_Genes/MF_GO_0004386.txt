@@ -1,3 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000753	8	gamma-glutamylcyclotransferase	-1	-1	0	1	0	0	-1	1	0	9.564021	33.640794	25.732694	42.956371	16.133663	15.735207	GO:0004386	helicase activity	MF
-Gene_000872	8	t-complex 11 1 isoform x5	-1	-1	0	0	0	0	0	1	1	15.4751	32.95412	30.48521	21.8625	15.59818	12.12354	GO:0004386	helicase activity	MF

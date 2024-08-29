@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000604	6	f1f0 atp synthase subunit f	0	0	0	0	0	0	0	0	1	114.43155	111.97349	123.59293	109.10203	113.25561	92.34005	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	CC
-Gene_001062	6	v-type h+-transporting atpase 16kda proteolipid subunit	0	0	0	0	0	0	0	0	0	278.4983	242.8068	266.7036	237.9677	254.6737	236.8131	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	CC
-Gene_001066	6	hypothetical protein pbra 002610	0	0	0	0	0	0	0	0	0	102.83621	110.55323	111.16841	104.40279	94.95848	100.57923	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	CC
