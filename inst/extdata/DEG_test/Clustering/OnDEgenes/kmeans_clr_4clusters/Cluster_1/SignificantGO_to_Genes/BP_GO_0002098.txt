@@ -1,9 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000106	1	iki3 family	1	1	0	0	0	0	0	-1	-1	189.5191	148.9992	141.467	185.2659	193.808	195.7795	GO:0002098	tRNA wobble uridine modification	BP
-Gene_000568	1	elongator complex 3	1	1	0	0	0	0	0	-1	-1	186.0379	154.996	149.3683	166.1772	199.2754	191.331	GO:0002098	tRNA wobble uridine modification	BP
-Gene_001582	1	cytoplasmic trna 2-thiolation 1	1	1	0	0	0	0	0	0	0	145.3401	110.5019	105.8541	120.4044	120.4524	120.255	GO:0002098	tRNA wobble uridine modification	BP
-Gene_002878	1	elongator complex 2 isoform x1	1	1	0	0	0	0	0	0	-1	75.88911	60.97788	56.07763	63.7001	67.39864	72.60391	GO:0002098	tRNA wobble uridine modification	BP
-Gene_004088	1	ubiquitin-related modifier 1 homolog 2	1	0	0	0	0	0	0	-1	0	49.612	39.55676	40.41274	45.4698	55.76582	44.6473	GO:0002098	tRNA wobble uridine modification	BP
-Gene_008875	1	adenylyltransferase and sulfurtransferase mocs3	0	0	0	0	0	0	0	-1	0	98.48184	82.42727	79.8187	93.27447	100.09496	99.35105	GO:0002098	tRNA wobble uridine modification	BP
-Gene_010532	1	chromatin associated kti12	1	1	0	0	0	0	0	-1	-1	72.26277	56.62481	58.18052	75.25818	83.55084	76.92334	GO:0002098	tRNA wobble uridine modification	BP
-Gene_011541	1	hypothetical protein pbra 004395	0	0	0	0	0	0	0	-1	-1	78.08338	64.78398	59.12707	85.59452	103.52332	94.61321	GO:0002098	tRNA wobble uridine modification	BP

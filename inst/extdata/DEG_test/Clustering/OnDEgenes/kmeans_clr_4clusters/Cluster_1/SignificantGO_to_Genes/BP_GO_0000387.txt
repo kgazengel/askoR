@@ -1,8 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000128	1	u4 u6 small nuclear ribonucleo prp31	0	0	0	0	0	0	0	-1	0	150.7125	128.0915	126.1232	139.7964	157.3	144.1295	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_000159	1	small nuclear ribo f	0	0	0	0	0	0	0	-1	0	144.3326	117.1159	123.0917	142.039	166.0238	135.1368	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_001399	1	aar2 homolog	0	0	0	0	0	0	0	-1	-1	42.73227	37.78658	36.64341	45.40581	53.35403	50.03045	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_003588	1	chloride conductance regulatory icln	0	0	0	0	0	0	0	-1	0	244.2792	203.3319	198.188	221.0448	246.1043	236.6319	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_006902	1	small nuclear ribonucleo sm d3	1	0	0	0	0	0	0	0	0	263.1283	205.3701	216.0598	223.0306	236.6284	245.8932	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_011827	1	small nuclear ribonucleoprotein sm d1	0	0	0	0	0	0	0	-1	-1	74.5853	64.32925	62.79492	88.73225	94.19972	81.16159	GO:0000387	spliceosomal snRNP assembly	BP
-Gene_012424	1	pre-mrna-processing-splicing factor 8-like	0	0	0	0	0	0	0	-1	-1	33.2376	28.30804	29.60017	39.58803	45.32551	41.14596	GO:0000387	spliceosomal snRNP assembly	BP

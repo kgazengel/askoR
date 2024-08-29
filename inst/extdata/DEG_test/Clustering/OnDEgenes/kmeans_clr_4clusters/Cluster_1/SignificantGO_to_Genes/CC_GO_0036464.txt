@@ -1,7 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000898	1	u6 snrna-associated sm lsm6	0	0	0	0	0	0	0	-1	0	77.02389	62.38541	67.04258	68.52286	78.68838	64.27729	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
-Gene_001813	1	pat1 homolog 1	0	0	0	0	0	0	-1	0	0	80.68556	87.5466	78.34047	102.63316	95.10988	94.0137	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
-Gene_005766	1	u6 snrna-associated sm lsm3	0	0	0	0	0	0	0	-1	0	64.79962	55.5326	55.3695	63.22452	72.27103	63.3926	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
-Gene_007034	1	cell differentiation rcd1	0	-1	0	0	0	0	-1	0	0	173.1311	194.1779	209.2651	221.4904	218.2069	206.5167	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
-Gene_007060	1	eukaryotic peptide chain release factor subunit 1	1	1	0	0	0	0	0	0	0	523.9767	418.3354	409.2972	450.1289	498.5146	504.8695	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
-Gene_008237	1	tudor domain-containing 1	1	0	0	0	0	0	0	-1	-1	124.71426	86.16258	91.67389	116.78944	126.05557	136.77298	GO:0036464	cytoplasmic ribonucleoprotein granule	CC
