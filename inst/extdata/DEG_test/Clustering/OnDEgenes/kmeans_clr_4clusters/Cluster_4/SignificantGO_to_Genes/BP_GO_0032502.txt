@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_004897	4	e3 ubiquitin-ligase	-1	0	0	0	0	0	-1	0	0	4.539194	17.174443	5.250438	19.04664	9.98069	9.121801	GO:0032502	developmental process	BP
-Gene_010813	4	abc transporter g family	-1	0	0	1	0	0	-1	1	0	2.220061	7.158159	5.214989	7.650351	2.63531	3.322317	GO:0032502	developmental process	BP
-Gene_010814	4	abc transporter	-1	0	0	1	0	0	-1	1	0	1.741553	6.038072	3.874467	6.223384	2.494126	3.715751	GO:0032502	developmental process	BP

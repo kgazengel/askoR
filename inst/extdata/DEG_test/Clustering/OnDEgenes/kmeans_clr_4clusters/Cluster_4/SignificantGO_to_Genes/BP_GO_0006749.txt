@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_004466	4	glutathione s-transferase family	0	0	0	0	0	0	-1	0	0	13.51332	22.02602	13.07106	26.11746	18.40748	15.47709	GO:0006749	glutathione metabolic process	BP
-Gene_004467	4	glutathione s-transferase family	-1	0	0	0	0	0	-1	0	0	1.225921	9.292083	1.588253	17.17578	13.198639	6.638388	GO:0006749	glutathione metabolic process	BP
-Gene_004468	4	glutathione s-transferase family	-1	0	0	0	0	0	-1	0	0	0.6955486	7.6533361	0.8768368	8.8472584	8.7759998	5.589241	GO:0006749	glutathione metabolic process	BP

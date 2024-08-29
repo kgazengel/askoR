@@ -1,4 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001179	4	potassium sodium efflux p-type atpase	-1	0	0	0	0	0	-1	0	0	44.35279	98.75812	80.49862	107.45384	71.00694	52.72225	GO:0019829	ATPase-coupled cation transmembrane transporter activity	MF
-Gene_006335	4	proton motive atpase	-1	0	0	0	0	0	-1	0	0	16.1918	72.33591	27.93173	98.11726	58.09025	35.14454	GO:0019829	ATPase-coupled cation transmembrane transporter activity	MF
-Gene_006336	4	s53301h+-exporting atpase (ec ) (clone haa1)-golden alga (heterosigma akashiwo) (fragment)	-1	0	0	0	0	0	-1	0	0	2.993991	13.680055	5.956964	19.667209	12.088225	5.424787	GO:0019829	ATPase-coupled cation transmembrane transporter activity	MF

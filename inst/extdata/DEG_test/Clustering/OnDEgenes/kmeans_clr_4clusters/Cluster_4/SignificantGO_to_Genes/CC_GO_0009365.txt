@@ -1,5 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_006554	4	hybrid sensor histidine kinase response regulator	0	0	0	0	0	0	-1	0	0	0.702337	1.8020023	0.9395845	3.1827883	3.210044	0.8576404	GO:0009365	protein histidine kinase complex	CC
-Gene_006558	4	multi-sensor hybrid histidine kinase [nitrosospira lacus]	-1	0	0	0	0	0	-1	0	0	2.622645	9.400259	3.966143	11.263769	7.249505	4.10294	GO:0009365	protein histidine kinase complex	CC
-Gene_009160	4	hybrid sensor histidine kinase response regulator	-1	-1	0	0	0	0	-1	1	0	1.024079	4.129718	3.467836	3.259122	1.718011	2.918479	GO:0009365	protein histidine kinase complex	CC
-Gene_011991	4	hpt sensor hybrid histidine kinase	-1	0	0	0	0	0	0	0	0	10.66156	25.99086	16.2003	22.05616	15.43348	11.90081	GO:0009365	protein histidine kinase complex	CC
