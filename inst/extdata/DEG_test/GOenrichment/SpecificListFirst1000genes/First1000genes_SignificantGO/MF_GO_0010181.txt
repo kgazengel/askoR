@@ -1,5 +1,0 @@
-Gene	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000094	flavidoxin family	0	0	0	0	0	0	0	0	0	56.66772	54.86094	53.02256	54.67622	57.81919	48.92094	GO:0010181	FMN binding	MF
-Gene_000095	s-adenosyl-l-methionine-dependent trna 4-demethylwyosine synthase	0	0	0	0	0	0	0	-1	0	97.72597	92.02689	94.49104	98.33816	109.60407	107.72553	GO:0010181	FMN binding	MF
-Gene_000322	nadph-dependent diflavin oxidoreductase 1-like	1	0	0	0	0	0	0	-1	0	67.45497	53.68434	56.22067	54.75354	66.26483	63.26144	GO:0010181	FMN binding	MF
-Gene_000819	cytochrome p450	-1	-1	0	1	0	0	-1	1	0	3.161814	10.438394	9.147313	6.872535	2.637038	4.941844	GO:0010181	FMN binding	MF
