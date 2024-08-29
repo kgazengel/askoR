@@ -1,8 +1,17 @@
 Package: askoR
-Title: askoR - Differential Expresion Analysis using edgeR
+Title: Differential Expression Analysis using edgeR
 Version: 1.0.0
 Date: 2024-08-29
-Author: Fabrice Legeai, Kévin Gazengel, Susete Alves Carvalho
+Authors@R: c(person(given = "Fabrice",
+                      family = "Legeai",
+                      role = "aut"),
+               person(given = "Kévin",
+                      family = "Gazengel",
+                      role = c("aut", "cre"),
+                      email = "kevin.gazengel@inrae.fr"),
+               person(given = c("Susete", "Alves"),
+                      family = "Carvalho",
+                      role = "aut"))
 Maintainer: Kévin Gazengel <kevin.gazengel@inrae.fr>
 Description: askoR is a pipeline for the analysis of gene expression data, using edgeR. 
 License: GPL-3
