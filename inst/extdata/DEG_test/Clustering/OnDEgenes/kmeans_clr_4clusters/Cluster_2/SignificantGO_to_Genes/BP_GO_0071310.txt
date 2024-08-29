@@ -1,6 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_000267	2	cmgc mapk kinase	0	-1	0	0	0	0	0	0	1	35.68453	45.49657	50.85537	43.19143	37.02378	34.9801	GO:0071310	cellular response to organic substance	BP
-Gene_001613	2	developmental regulator flba	0	0	0	0	0	0	0	1	1	3.844684	4.798609	5.316834	2.757101	2.293854	2.121206	GO:0071310	cellular response to organic substance	BP
-Gene_003939	2	regulator of g-signaling 20-like isoform x4	0	0	0	0	0	0	0	1	0	0.7477372	0.8942833	1.478645	0.5044082	0.1740821	0.6765369	GO:0071310	cellular response to organic substance	BP
-Gene_004204	2	ragulator complex lamtor3 homolog	0	0	0	0	0	0	0	1	1	39.88297	40.73225	47.09129	36.31155	30.94899	30.873	GO:0071310	cellular response to organic substance	BP
-Gene_006928	2	3-ketoacyl-thiolase peroxisomal	0	-1	0	0	0	0	0	1	1	172.1799	218.7796	259.4397	174.202	129.6086	153.6198	GO:0071310	cellular response to organic substance	BP

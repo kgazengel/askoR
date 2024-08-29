@@ -1,7 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001774	2	calcium-activated potassium channel	-1	-1	0	0	0	0	0	0	1	53.58733	66.16163	70.05734	64.19164	62.02092	52.54509	GO:0005267	potassium channel activity	MF
-Gene_002575	2	calmodulin-binding domain and two pore domain potassium channel domain and potassium calcium-sk family-containing	0	-1	0	0	0	0	-1	0	0	1.424916	2.887778	3.90707	3.325704	2.416588	3.118319	GO:0005267	potassium channel activity	MF
-Gene_004415	2	cyclic nucleotide-binding	0	0	0	1	0	0	0	1	0	1.673903	2.457514	2.299255	2.372096	1.125625	2.121206	GO:0005267	potassium channel activity	MF
-Gene_005373	2	ankyrin repeat and sterile alpha motif domain-containing 1b-like	0	-1	0	0	0	0	0	0	0	4.317303	5.855986	7.060339	5.517904	4.313101	4.621269	GO:0005267	potassium channel activity	MF
-Gene_006086	2	shaker-related potassium channel tsha2-like	0	0	0	0	0	0	0	1	0	4.410947	5.413258	5.610209	3.42108	2.951212	2.826883	GO:0005267	potassium channel activity	MF
-Gene_008008	2	crp fnr family transcriptional regulator	0	0	0	0	0	0	0	1	1	0.7317639	1.1309077	0.878467	0.6137577	0.2071579	0.187349	GO:0005267	potassium channel activity	MF

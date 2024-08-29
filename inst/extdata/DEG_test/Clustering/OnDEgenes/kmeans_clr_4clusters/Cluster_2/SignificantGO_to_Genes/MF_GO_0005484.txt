@@ -1,6 +1,0 @@
-Gene	Gene_cluster	Gene_description	AC1vsAC2	AC1vsAC3	AC2vsAC3	BC1vsBC2	BC1vsBC3	BC2vsBC3	AC1vsBC1	AC2vsBC2	AC3vsBC3	AC1	AC2	AC3	BC1	BC2	BC3	GO_ID	GO_term	GO_cat
-Gene_001822	2	vesicle transport sec20	0	0	0	0	0	0	0	1	1	32.50508	38.10825	39.87777	35.49831	31.47989	25.54397	GO:0005484	SNAP receptor activity	MF
-Gene_004722	2	vamp (vesicle associated membrane ) homolog	-1	-1	0	0	0	0	0	1	0	0.5260417	1.8641712	1.9374404	1.01478	0.4000321	0.6161691	GO:0005484	SNAP receptor activity	MF
-Gene_005270	2	synaptosomal-associated 29 isoform x1	0	0	0	0	0	0	1	1	1	49.91848	54.11764	53.64313	36.34785	34.89665	27.77133	GO:0005484	SNAP receptor activity	MF
-Gene_005919	2	syntaxin-16-like isoform x1	0	0	0	0	0	0	0	1	0	66.7341	74.41891	78.16732	66.86132	59.78812	60.92376	GO:0005484	SNAP receptor activity	MF
-Gene_008256	2	synaptosomal-associated 29	0	-1	0	0	0	0	0	0	0	0.1089073	0.2646379	0.6242161	0.1620014	0.2651261	0.187349	GO:0005484	SNAP receptor activity	MF
