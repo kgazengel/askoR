@@ -317,6 +317,7 @@ GOenrichment<-function(resDEG, data_list, parameters, list=NULL, title=NULL){
           facet_grid(TabSigCompl$GO_cat~., scales="free", space = "free",labeller = as_labeller(comp_names2))+
           scale_size_continuous(name="Number of genes") + scale_x_continuous(expand = expansion(add = minP)) +
           scale_y_discrete(labels = function(x) stringr::str_wrap(x, width = 70)) + theme_linedraw() +
+          scale_x_reverse()+
           theme(
             panel.background = element_rect(fill = "grey90", colour = "grey90", size = 0.5, linetype = "solid"),
             panel.grid.major = element_line(size = 0.5, linetype = 'solid', colour = "white"),

@@ -240,7 +240,6 @@ data<-loadData(parameters)
 ```{r exec1, echo=FALSE, message=FALSE, warning=FALSE}
 rm(list=ls())
 library(askoR)
-#source("C:/DATA_KEVIN/INRA/AskoR/ScriptR/AskoR.R")
 
 
 parameters<-Asko_start()
@@ -392,6 +391,15 @@ resDEG<-DEanalysis(asko_norm, data, asko_data, parameters)
 ```
 For each contrast, you will find the number of over- or under-expressed genes. Genotype B does not show any major effects of the treatment, unlike genotype A. We also observe a certain number of differentially expressed genes between the genotypes.<br/>
 <br/>
+
+This is summarized in a barplot :<br/>
+<br/>
+
+```{r dEgraph, fig.cap="DE numbers barplots", echo=FALSE, out.width='80%', fig.align='center', out.extra='style="display:inline-block;margin:0;padding:0;"'}
+knitr::include_graphics("../inst/extdata/DEG_test/DEanalysis/DEimages/DEGsnumber_InContrasts.png")
+```
+
+
 A file named **"Summary_DEresults.txt"** is located in the **DEG_test/DEanalysis/DEtables** folder, which contains for each gene whether it is over-expressed (**1**) or under-expressed (**-1**) or neutral (**0**) for a given contrast. If you had provided an annotation file, these will be found in the last columns.<br/>
 <br/>
 First lines of the :
@@ -403,7 +411,7 @@ Gene_000003 | -1 | 0 | **...** | 0 | 0 | histone-lysine n-m...
 Gene_000004 | 1 | 1 | **...** | -1 | 0 | hypothetical prote...
 **...** |
 
-You'll find in **"DEG_test/DEanalysis/DEimages"** directory, les Volcano, MD plots and heatmap for each contrast.<br/><br/>
+You'll find in **"DEG_test/DEanalysis/DEimages"** directory, les Volcano, MD plots, Pvalue (raw and adjusted) graphs and heatmap for each contrast.<br/><br/>
 
 ```{r dge, fig.cap="DEanalysis plots", echo=FALSE, out.width='43%', out.extra='style="display:inline-block;margin:0;padding:0;"'}
 knitr::include_graphics("../inst/extdata/DEG_test/DEanalysis/DEimages/AC3vsBC3_MeanDifference_of_ExpressionData.png")
@@ -412,6 +420,10 @@ knitr::include_graphics("../inst/extdata/DEG_test/DEanalysis/DEimages/AC3vsBC3_V
 
 ```{r dge2, fig.cap="DEanalysis plots", echo=FALSE, out.width='50%', fig.align='center', out.extra='style="display:inline-block;margin:0;padding:0;"'}
 knitr::include_graphics("../inst/extdata/DEG_test/DEanalysis/DEimages/AC3vsBC3_topDGE_heatmap.png")
+```
+
+```{r dge3, fig.cap="Pvalue graphs", echo=FALSE, out.width='80%', fig.align='center', out.extra='style="display:inline-block;margin:0;padding:0;"'}
+knitr::include_graphics("../inst/extdata/DEG_test/DEanalysis/DEimages/AC3vsBC3_Pval_Plot.png")
 ```
 
 # Basic comparisons
@@ -564,7 +576,7 @@ GOenrichment(resDEG, data, parameters)
 A **"DEG_test/GOenrichment/"** directory will be created with all GO images and tables of statistics.
 Example of graph:<br/><br/>
 
-By changing **parameters$GO** to "up" or "down", you can exevute GO-term enrichment on UP-regulated genes or DOWN-regulated genes separately.
+By changing **parameters$GO** to "up" or "down", you can execute GO-term enrichment on UP-regulated genes or DOWN-regulated genes separately.
 
 ```{r GOgraph, fig.cap="GO Enrichment graphs", echo=FALSE, out.width='43%',  out.extra='style="display:inline-block;margin:0;padding:0;"'}
 knitr::include_graphics("../inst/extdata/DEG_test/GOenrichment/TOTAL_DEgenes/AC1vsBC1_Pvalue_BUBBLESgraph.png")
@@ -767,7 +779,7 @@ knitr::include_graphics("../inst/extdata/DEG_test/Clustering/OnDEgenes/kmeans_cl
 
 ## How to perform a GO-enrichment analysis on a specific gene list ?
 
-If you want, you can also perform GO-enrichment on a specific list of genes (list of interest from another study, list of genes hightly expressed, ...). In this case, you can use the GOenrichment function with two supplementary parameters: the list of the names of the genes you want to analyze and the name you want to set for this list. This function produces the same outputs than the GOenrichment function used on contrasts in 'GO Enrichment Analysis' part.The directory used for the outputs is **"DEG_test/GOenrichment/OnSpecificList_NameOfTheList/"**. Here is an example on the 1000 first genes of the list:
+If you want, you can also perform GO-enrichment on a specific list of genes (list of interest from another study, list of genes hightly expressed, ...). In this case, you can use the GOenrichment function with two supplementary parameters: the list of the names of the genes you want to analyze and the name you want to set for this list. This function produces the same outputs than the GOenrichment function used on contrasts in 'GO Enrichment Analysis' part.The directory used for the outputs is **"DEG_test/GOenrichment/NameOfTheList/"**. Here is an example on the 1000 first genes of the list:
 
 ```{r GO2, eval=FALSE}
 list=rownames(resDEG[1:1000,])
@@ -829,6 +841,4 @@ GeneInfo_OnList(list, resDEG, data, parameters, "First25genes_WithClust", cluste
 knitr::include_graphics("../inst/extdata/DEG_test/GeneListExplore/First25genes_WithClust/First25genes_WithClust_Subset_heatmap.png")
 ```
 
-##############################################
-# ATTENTION : enlever le source au chargement du package !!!!!!#
-##############################################
+

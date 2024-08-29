@@ -576,6 +576,26 @@ ClustAndGO <- function(asko_norm, resDEG, parameters, data, list=NULL, title=NUL
               legend.text = element_text(size=9),
               strip.text.y = element_text(size=12, face="bold"))
           ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_Ratio_BUBBLESgraph_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered, ".png"),width=10, height=10)
+
+          # Pvalue Graph
+          ggplot2::ggplot(TabSigCompl, aes(x=as.numeric(TabSigCompl$statisticTest), y=TabSigCompl$Term, size=TabSigCompl$Significant, color=TabSigCompl$GO_cat)) +
+            geom_point(alpha=1) + labs(title = paste0("GO Enrichment for Cluster ",clustered, "\n (",length(which(geneList==1)), " annotated genes among the ",length(which(GeneToClusters[,2]==clustered))," in the cluster)"),x="Pvalue",y="GOterm")+
+            scale_color_manual(values=coul,labels=comp_names,name="GO categories")+
+            facet_grid(TabSigCompl$GO_cat~., scales="free", space = "free",labeller = as_labeller(comp_names2))+
+            scale_size_continuous(name="Number of genes") + scale_x_continuous(expand = expansion(add = minP)) +
+            scale_y_discrete(labels = function(x) stringr::str_wrap(x, width = 70)) + theme_linedraw() +
+            scale_x_reverse()+
+            theme(
+              panel.background = element_rect(fill = "grey90", colour = "grey90", size = 0.5, linetype = "solid"),
+              panel.grid.major = element_line(size = 0.5, linetype = 'solid', colour = "white"),
+              panel.grid.minor = element_line(size = 0.25, linetype = 'solid', colour = "white"),
+              axis.text.y = element_text(face="bold", size=rel(0.75)),
+              axis.text.x = element_text(face="bold", size=rel(0.75), angle=45, hjust=1),
+              axis.title = element_text(face="bold", size=rel(0.75)),
+              legend.title = element_text(size=rel(0.75), face="bold"),
+              plot.title = element_text(face="bold", size=rel(1), hjust=1),
+              legend.text = element_text(size=rel(0.5)))
+          ggplot2::ggsave(filename=paste0(img_CLUST_dir,parameters$analysis_name,"_Pvalue_BUBBLESgraph_",parameters$coseq_model,"_",parameters$coseq_transformation,"_Cluster_",clustered, ".png"),width=10, height=10)
         }
       }else{
         cat("\n\nToo few results to display the graph.\n\n")
