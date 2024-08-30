@@ -1,7 +1,7 @@
 Package: askoR
 Title: Differential Expression Analysis using 'edgeR'
 Version: 1.0.0
-Date: 2024-08-29
+Date: 2024-08-30
 Authors@R: c(person(given = "Fabrice",
                       family = "Legeai",
                       role = "aut",
