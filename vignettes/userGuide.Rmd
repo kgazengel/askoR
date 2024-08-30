@@ -237,7 +237,7 @@ It's time to load your data:
 ```{r run_askor4, eval=FALSE}
 data<-loadData(parameters)
 ```
-```{r exec1, echo=FALSE, message=FALSE, warning=FALSE}
+```{r exec1, eval=FALSE, message=FALSE, warning=FALSE}
 rm(list=ls())
 library(askoR)
 
@@ -257,7 +257,7 @@ data<-loadData(parameters)
 You can see that **DataExplore** folder has been created in DEG_test:
 
 Then the samples and conditions that have been loaded are displayed. These have been loaded into a structure called **"data"**. Some commands to display your data:
-```{r run_askor4b}
+```{r run_askor4b, eval=FALSE}
 # Displays all samples recorded
 data$samples  
 
@@ -278,20 +278,20 @@ dim(data$dge$counts)[2]
 ```
 
 The next step is to generate the files describing your experiences for Askomics. Even if you don't plan to use Askomics, this command is **mandatory** because it generates a data structure **"asko_data"** that will be used in the further analysis.
-```{r run_askor5}
+```{r run_askor5 , eval=FALSE}
 asko_data<-asko3c(data, parameters)
 ```
 
 # Filtering data
 For the filters the CPM method is used, you can set the cutoff values you want to:
-```{r run_askor6a}
+```{r run_askor6a, eval=FALSE}
 # CPM's threshold 
 parameters$threshold_cpm = 0.5  
 # minimum of sample which are upper to cpm threshold 
 parameters$replicate_cpm = 3 # we have 3 replicates
 ```
 
-```{r run_askor6b}
+```{r run_askor6b, eval=FALSE}
 # run filtering 
 asko_filt<-GEfilt(data, parameters)
 
@@ -302,7 +302,7 @@ The filtered data is saved in a structure called here: **asko_filt**. In the fol
 
 You notice that the legend of the density graphs is very low compared to the graph. You can correct this with the options ```parameters$densinset``` which modifies the position of the legend, it is also possible to define the number of columns with ```parameters$legendcol```. Finally, restart "GEfilt" function.
 
-```{r param1}
+```{r param1, eval=FALSE}
 # Set position the legend in bottom density graphe
 parameters$densinset = 0.20
 # Set numbers of column for legends
@@ -315,7 +315,7 @@ asko_filt<-GEfilt(data, parameters)
 # Normalize data
 Once the filters have been made, we can proceed to the normalization of the data. At this step, you can generate file with normalize factor values for each sample ```parameters$norm_factor=TRUE``` and/or generate with normalize counts ```parameters$norm_counts=TRUE```.
 
-```{r run_askor7}
+```{r run_askor7, eval=FALSE}
 # run normalization
 asko_norm<-GEnorm(asko_filt, asko_data, data, parameters)
 ```
@@ -325,7 +325,7 @@ Normalized data is saved in a structure called here : **asko_norm**. In the fold
 
 # Correlation
 From the filtered and normalized data, we can re-correlate the correlation between our samples.
-```{r run_askor8}
+```{r run_askor8, eval=FALSE}
 GEcorr(asko_norm,parameters)
 ```
 Several graphics will be saved in the **"DEG_test/DataExplore/"** folder, including MDS and PCA plots. Axis1 vs axis2 differentiate our A and B samples.<br/><br/>
@@ -341,7 +341,7 @@ The differential expression analysis can be started. We will play with the follo
  - p-value adjust method (holm/hochberg/hommel/bonferroni/BH/BY/fdr/none)
  - GLM method (lrt/qlf)
 
-```{r run_askor9a}
+```{r run_askor9a, eval=FALSE}
 # FDR threshold
 parameters$threshold_FDR = 0.05
 # logFC threshold
@@ -354,14 +354,14 @@ parameters$p_adj_method = "BH"
 parameters$glm = "lrt"
 ```
 You can decide to get the Volcano or Mean-Difference Plots for each contrast:
-```{r run_askor9b}
+```{r run_askor9b, eval=FALSE}
 # Mean-Difference Plot of Expression Data (aka MA plot)
 parameters$plotMD = TRUE
 # Volcano plot for a specified coefficient/contrast of a linear model
 parameters$plotVO = TRUE
 ```
 Once our parameters are defined, we can start the analysis.
-```{r run_askor9c}
+```{r run_askor9c, eval=FALSE}
 # run differential expression analysis
 resDEG<-DEanalysis(asko_norm, data, asko_data, parameters)
 ```
@@ -399,7 +399,7 @@ To display the Venn diagrams, you need to specify the type of comparison wanted 
  - "both" : Create VennDiagrams for gene expressed UP and DOWN (in the same graph)
 
 Next, you must provide a list of the comparisons to display: ```parameters$compaVD```. For exemple :
-```{r exemple1}
+```{r exemple1, eval=FALSE}
 # this create 1 venn diagram
 parameters$compaVD=c("Ctrast1-Ctrast2-Ctrast3") 
 # this create 3 venn diagrams
@@ -408,7 +408,7 @@ parameters$compaVD=c("Ctrast1-Ctrast2-Ctrast3",
                      "Ctrast7-Ctrast8-Ctrast9")
 ```
 Be careful, with the VD="both" you will only have to provide two contrasts. Example:
-```{r exemple2}
+```{r exemple2, eval=FALSE}
 # this create 1 venn diagram
 parameters$compaVD=c("Ctrast1-Ctrast2") 
 # this create 3 venn diagrams
@@ -455,7 +455,7 @@ You can display all contrast, you just need to specify the type of comparison wa
  - "mixed" : Create chart for gene expressed UP and DOWN (in the same graph)
  - NULL    : Don't make graphs
 You can display multiples graphs based on list of contrast ```parameters$upset_list```, you need to precise the type of comparison ```parameters$upset_type```. Example:
-```{r exemple3}
+```{r exemple3, eval=FALSE}
 # Precise type of comparison: all, down, up, mixed.
 parameters$upset_type = "all"
 

@@ -4,5 +4,6 @@
 ^.*\.Rproj$
 ^cran-comments\.md$
 ^CRAN-SUBMISSION$
-inst/extdata/WikiImgs
-.png$
+^\.git$
+^WikiImgs$
+^DEG_test$
