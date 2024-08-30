@@ -2,9 +2,9 @@
 ^\.Rproj\.user$
 ^ScriptR$
 
-
+^WikiImgs$
 ^.*\.Rproj$
 
 ^cran-comments\.md$
-^DEG_test
+
 ^CRAN-SUBMISSION$

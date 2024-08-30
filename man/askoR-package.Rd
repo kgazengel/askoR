@@ -4,8 +4,18 @@
 \name{askoR-package}
 \alias{askoR}
 \alias{askoR-package}
-\title{askoR: askoR - Differential Expresion Analysis using edgeR}
+\title{askoR: Differential Expression Analysis using 'edgeR'}
 \description{
-askoR is a pipeline for the analysis of gene expression data, using edgeR.
+Pipeline for the analysis of gene expression data, using 'edgeR' for differential analysis, 'topGO' for GOenrichment, and 'coseq' for gene clustering.
+}
+\author{
+\strong{Maintainer}: Kévin Gazengel \email{kevin.gazengel@inrae.fr}
+
+Authors:
+\itemize{
+  \item Fabrice Legeai \email{fabrice.legeai@inrae.fr}
+  \item Susete Alves Carvalho \email{susete.alves-carvalho@inrae.fr}
+}
+
 }
 \keyword{internal}
