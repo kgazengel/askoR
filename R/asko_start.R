@@ -88,8 +88,6 @@ Asko_start <- function(){
                           help="logCPm in the summary table [default= %default]", metavar="logical"),
     optparse::make_option("--fdr", type="logical", default=TRUE, dest="FDR",
                           help="FDR in the summary table [default= %default]", metavar="logical"),
-    optparse::make_option("--lr", type="logical", default=FALSE, dest="LR",
-                          help="LR in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--sign"), type="logical", default=TRUE, dest="Sign",
                           help="Significance (1/0/-1) in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--expr"), type="logical", default=TRUE, dest="Expression",
@@ -98,7 +96,7 @@ Asko_start <- function(){
                           help="Mean counts in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--dclust"), type="character", default="euclidean", dest="distcluts",
                           help="The distance measure to be used : euclidean, maximum, manhattan, canberra, binary or minkowski [default= %default]", metavar="character"),
-    optparse::make_option(c("--hclust"), type="character", default="complete", dest="hclust",
+    optparse::make_option(c("--hclust"), type="character", default="ward.D", dest="hclust",
                           help="The agglomeration method to be used : ward.D, ward.D2, single, complete, average, mcquitty, median or centroid [default= %default]", metavar="character"),
     optparse::make_option(c("--hm"), type="logical", default=TRUE, dest="heatmap",
                           help="generation of the expression heatmap [default= %default]", metavar="logical"),
@@ -120,11 +118,11 @@ Asko_start <- function(){
                           help="the significant threshold used to filter p-values [default=%default]", metavar="double"),
     optparse::make_option(c("--GO_min_num_genes"), type="integer", default="10", dest="GO_min_num_genes",
                           help="the minimum number of genes for each GO terms [default=%default]", metavar="integer"),
-    optparse::make_option(c("--GO_min_sig_genes"), type="integer", default="0", dest="GO_min_sig_genes",
+    optparse::make_option(c("--GO_min_sig_genes"), type="integer", default="1", dest="GO_min_sig_genes",
                           help="the minimum number of significant gene(s) behind the enriched GO-term [default=%default]", metavar="integer"),
     optparse::make_option(c("--GO_max_top_terms"), type="integer", default="10", dest="GO_max_top_terms",
                           help="the maximum number of GO terms plot [default=%default]", metavar="integer"),
-    optparse::make_option(c("--GO_algo"), type="character", default="weight01", dest="GO_algo",
+    optparse::make_option(c("--GOalgo"), type="character", default="weight01", dest="GO_algo",
                           help="algorithms which are accessible via the runTest function: shown by the whichAlgorithms() function, [default=%default]", metavar="character"),
     optparse::make_option(c("--GO_stats"), type="character", default="fisher", dest="GO_stats",
                           help = "statistical tests which are accessible via the runTest function: shown by the whichTests() function, [default=%default]", metavar = "character"),
@@ -188,4 +186,3 @@ Asko_start <- function(){
 
   return(parameters)
 }
-
