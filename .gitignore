@@ -1,3 +1,7 @@
 .Rproj.user
-CRAN-SUBMISSION
-cran-comments.md
+./CRAN-SUBMISSION
+./DESCRIPTION
+./NAMESPACE
+./cran-comments.md
+.Rhistory
+
