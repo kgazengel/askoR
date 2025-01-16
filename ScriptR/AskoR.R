@@ -1604,7 +1604,7 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
     glm_test<-glmTreat(fit, contrast=contrast, lfc=parameters$threshold_logFC)
     }
 
-    sum[,colnames(contrast)]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, lfc=parameters$threshold_logFC, p.value=parameters$threshold_FDR)
+    sum[,colnames(contrast)]<-decideTests(glm_test, adjust.method = parameters$p_adj_method, lfc=parameters$threshold_logFC, p.value=parameters$threshold_FDR)
     AskoStats(glm_test, fit, colnames(contrast), asko_list, normGEdisp, data_list, parameters)
 
     # display grahes (volcano or/and MD)
@@ -1627,7 +1627,7 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
       if(parameters$threshold_logFC!=0){
       glm_test<-glmTreat(fit, contrast=data_list$contrast[,contrast], lfc=parameters$threshold_logFC)
       }
-      sum[,contrast]<-decideTestsDGE(glm_test, adjust.method = parameters$p_adj_method, p.value=parameters$threshold_FDR)
+      sum[,contrast]<-decideTests(glm_test, adjust.method = parameters$p_adj_method, p.value=parameters$threshold_FDR)
       AskoStats(glm_test, fit, contrast, asko_list, normGEdisp, data_list, parameters)
 
       # display grahes (volcano or/and MD)
