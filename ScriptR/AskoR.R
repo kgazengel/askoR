@@ -1422,8 +1422,8 @@ AskoStats <- function (glm_test, fit, contrast, ASKOlist, dge, data_list, parame
   }
 
   # adding table "stat.table" to the ASKOlist and DETable
-  ASKOlist$stat.table<-ASKO_stat[,c("Test_id",colp,"contrast","gene",cola,colb,"PValue",colg,colc,cold,cole,colf)]
-  DETable$stat.table<-ASKO_stat[,c("gene","contrast2",colp,colg,colc,"PValue",cola,colb,colf,cold,cole)]
+  ASKOlist$stat.table<-ASKO_stat[,c("Test_id",colp,"contrast","gene",cola,colb,"PValue",colg,colc,cold,colf)]
+  DETable$stat.table<-ASKO_stat[,c("gene","contrast2",colp,colg,colc,"PValue",cola,colb,colf,cold)]
 
   grDevices::png(paste0(image_dir, contrast, "_Pval_Plot.png"),width=1000,height=500)
   graphics::par(mfrow = c(1,2))
