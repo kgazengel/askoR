@@ -88,8 +88,6 @@ Asko_start <- function(){
                           help="logCPm in the summary table [default= %default]", metavar="logical"),
     optparse::make_option("--fdr", type="logical", default=TRUE, dest="FDR",
                           help="FDR in the summary table [default= %default]", metavar="logical"),
-    optparse::make_option("--lr", type="logical", default=FALSE, dest="LR",
-                          help="LR in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--sign"), type="logical", default=TRUE, dest="Sign",
                           help="Significance (1/0/-1) in the summary table [default= %default]", metavar="logical"),
     optparse::make_option(c("--expr"), type="logical", default=TRUE, dest="Expression",
@@ -1411,7 +1409,6 @@ AskoStats <- function (glm_test, fit, contrast, ASKOlist, dge, data_list, parame
   if(parameters$FC==TRUE){colb="FC";ASKO_stat$FC <- 2^abs(ASKO_stat$logFC)}else{colb=NULL}
   if(parameters$Sign==TRUE){colc="Significance"}
   if(parameters$logCPM==TRUE){cold="logCPM"}else{cold=NULL}
-  if(parameters$LR==TRUE){cole="LR"}else{cole=NULL}
   if(parameters$FDR==TRUE){colf="FDR"}else{colf=NULL}
   if(parameters$projectName!="DEprj" && stringr::str_replace_all(parameters$projectName, " ", "")!=""){
     colp="Project"
@@ -1535,9 +1532,6 @@ DEanalysis <- function(norm_GE, data_list, asko_list, parameters){
   nsamples <- ncol(data_list$dge$counts)
   sizeImg=15*nsamples
   if(sizeImg < 480){ sizeImg=480 }
-
-  # prevent error
-  if(parameters$glm=="qlf"){ parameters$LR = FALSE }
 
   # Checks Contrasts
   if(is.null(parameters$select_sample) & is.null(parameters$rm_sample)){
