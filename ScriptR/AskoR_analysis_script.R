@@ -63,7 +63,6 @@ parameters$logFC = TRUE                               # logFC in the summary tab
 parameters$FC = TRUE                                  # FC in the summary table (default TRUE)
 parameters$logCPM = FALSE                             # logCPm in the summary table (default FALSE)
 parameters$FDR = TRUE                                 # FDR in the summary table (default TRUE)
-parameters$LR = FALSE                                  # LR in the summary table (default FALSE)
 parameters$Sign = TRUE                                # Significance (1/0/-1) in the summary table (default TRUE)
 parameters$Expression = TRUE                          # Significance expression in the summary table (default TRUE)
 parameters$mean_counts = TRUE                         # Mean counts in the summary table (default TRUE)
@@ -201,7 +200,7 @@ GOenrichment(resDEG, data, parameters, list, "TitleOfTheList")
 ##### Co-Expression Analysis #####
 # Parameters for gene clustering
 #----------------------------------------------------------------------
-parameters$coseq_data = "ExpressionProfiles"     # Perform clustering on transformed profiles based on normalized cpm counts (choose "LogScaledData" if you prefer to clusterize log2cpm counts and don't forget to set coseq_transformation to "none" in this case)
+parameters$coseq_data = "ExpressionProfiles"     # Perform clustering on transformed profiles based on normalized cpm counts (choose "LogScaledData" if you prefer to clusterize log2cpm counts and don't forget to set coseq_transformation to "none" in this case; default="ExpressionProfiles")
 parameters$coseq_model = "kmeans"                # (default kmeans)
 parameters$coseq_transformation = "clr"          # (default clr)
 parameters$coseq_ClustersNb = 2:25               # (default : auto (select the best number automatically between 2 to 25))
